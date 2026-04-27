@@ -41,8 +41,8 @@
           'Browser blockieren in diesem Modus den Daten-Fetch.\n\n' +
           'Lösung: ein lokaler HTTP-Server, z. B.:\n' +
           '  cd app\n' +
-          '  python -m http.server 8000\n' +
-          'Dann http://localhost:8000/ öffnen.\n\n' +
+          '  python -m http.server 8033\n' +
+          'Dann http://localhost:8033/ öffnen.\n\n' +
           'Alternative: VS Code Live Server Extension.'
         : 'Datei data/folgen.json konnte nicht geladen werden.';
       throw new Error(tip + '\n\nFehler: ' + err.message);

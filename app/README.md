@@ -14,6 +14,7 @@ cd app
 ```
 
 Das Script sucht selbst nach `python` oder `py`, prüft ob der Port frei ist und öffnet den Browser nach dem Start. Optionen: `-Port 8080`, `-NoBrowser`.
+Standardmäßig startet es auf Port `8033` und öffnet `http://localhost:8033/` bevorzugt in Edge, mit Fallback auf Chrome.
 
 > **Hinweis zur Execution Policy:** Falls PowerShell den Aufruf blockiert
 > („Skripte ist auf diesem System deaktiviert"), einmalig:
@@ -27,16 +28,16 @@ Das Script sucht selbst nach `python` oder `py`, prüft ob der Port frei ist und
 
 ```powershell
 cd app
-python -m http.server 8000
+python -m http.server 8033
 ```
 
-Im Browser: <http://localhost:8000/>
+Im Browser: <http://localhost:8033/>
 
 ### Variante C — Node.js (`npx`)
 
 ```powershell
 cd app
-npx --yes http-server -p 8000
+npx --yes http-server -p 8033
 ```
 
 ### Variante D — VS Code Live Server

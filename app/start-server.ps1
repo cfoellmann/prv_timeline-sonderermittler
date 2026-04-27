@@ -5,19 +5,20 @@
 .DESCRIPTION
     Wechselt ins Skript-Verzeichnis, sucht eine Python-Installation
     (zuerst `python`, dann `py`), startet `http.server` auf dem
-    gewünschten Port und öffnet die App im Standard-Browser.
+    gewünschten Port und öffnet die App bevorzugt in Microsoft Edge,
+    mit Fallback auf Google Chrome.
 
     Mit Strg+C beenden.
 
 .PARAMETER Port
-    TCP-Port für den Server. Default: 8000.
+    TCP-Port für den Server. Default: 8033.
 
 .PARAMETER NoBrowser
     Browser nicht automatisch öffnen.
 
 .EXAMPLE
     .\start-server.ps1
-    Startet auf Port 8000 und öffnet http://localhost:8000/.
+    Startet auf Port 8033 und öffnet http://localhost:8033/.
 
 .EXAMPLE
     .\start-server.ps1 -Port 8080 -NoBrowser
@@ -31,7 +32,7 @@
 
 [CmdletBinding()]
 param(
-    [int]$Port = 8000,
+    [int]$Port = 8033,
     [switch]$NoBrowser
 )
 
@@ -110,6 +111,26 @@ if (-not $NoBrowser) {
     $job = Start-Job -ScriptBlock {
         param($u)
         Start-Sleep -Milliseconds 800
+        $candidates = @(
+            'msedge.exe',
+            'chrome.exe',
+            "$env:ProgramFiles\Microsoft\Edge\Application\msedge.exe",
+            "${env:ProgramFiles(x86)}\Microsoft\Edge\Application\msedge.exe",
+            "$env:LocalAppData\Microsoft\Edge\Application\msedge.exe",
+            "$env:ProgramFiles\Google\Chrome\Application\chrome.exe",
+            "${env:ProgramFiles(x86)}\Google\Chrome\Application\chrome.exe",
+            "$env:LocalAppData\Google\Chrome\Application\chrome.exe"
+        ) | Where-Object { $_ }
+
+        foreach ($candidate in $candidates) {
+            $cmd = Get-Command $candidate -ErrorAction SilentlyContinue
+            $browser = if ($cmd) { $cmd.Source } elseif (Test-Path -LiteralPath $candidate) { $candidate } else { $null }
+            if ($browser) {
+                Start-Process -FilePath $browser -ArgumentList $u
+                return
+            }
+        }
+
         Start-Process $u
     } -ArgumentList $url
     # Wir kümmern uns nicht weiter um den Job; er endet von selbst.

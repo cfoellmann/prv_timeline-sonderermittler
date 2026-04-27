@@ -41,7 +41,7 @@ prv_timeline-sonderermittler/
 1. Repo öffnen, `vault/Sonderermittler der Krone/Willkommen.md` oder `index.md` ist der Einstieg.
 2. Neue Quellen kommen nach `vault/Sonderermittler der Krone/raw/`.
 3. Den Workflow-Anweisungen in `vault/Sonderermittler der Krone/CLAUDE.md` folgen.
-4. Die Timeline-App starten: `cd app && .\start-server.ps1` (öffnet Browser automatisch). Details und Alternativen in [`app/README.md`](app/README.md).
+4. Die Timeline-App starten: `cd app && .\start-server.ps1` (nutzt standardmäßig Port `8033` und öffnet den Browser automatisch). Details und Alternativen in [`app/README.md`](app/README.md).
 
 ## Git-Setup
 
