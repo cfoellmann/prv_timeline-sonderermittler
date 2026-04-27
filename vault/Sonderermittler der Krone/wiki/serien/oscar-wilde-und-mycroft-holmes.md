@@ -43,61 +43,61 @@ Quelle: [offizielle Serien-Übersicht](../../raw/maritim/2026-04-27_owmh_serien-
 | # | Titel | Datum | Zirkel | Notizen |
 |---|---|---|---|---|
 | 01 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-01-zeitenwechsel\|Zeitenwechsel]] | 11.03.2016 | indirekt | Erstauftritt Wilde/Wheeler/Payton; Wilde wird Sonderermittler |
-| 02 | Finsteres Hochland | 11.03.2016 |   | Erstauftritt Abel Hawthorn |
-| 03 | Das Geheimnis des Alchemisten | 2016 |   |   |
-| 04 | Tod der Königin | 14.07.2016 | direkt | Erstauftritt Dr. Alfons Grell; Zirkel-Plot etabliert |
-| 05 | Kalter Fels | 09.09.2016 | direkt | Charles-Darwin-Hintergrund, 1875-Abspaltung |
-| 06 | Hexenwald | 18.11.2016 | direkt | Adrian/Proband 3, Schwarzwald-Forschung |
-| 07 | Ritual des Grauens | 2016/17 |   |   |
-| 08 | Der Röntgen-Zwischenfall | 2017 |   |   |
-| 09 | Das Erbe des Doktors | 26.05.2017 | direkt | Grell überlebt Schweiz; Jekyll-Elixier |
-| 10 | Eine Nacht am Brocken | 21.07.2017 | direkt | Erstauftritt Theodora Sachs |
-| 11 | Die Namenlose aus der Seine | 2017 |   |   |
-| 12 | Der Geheimbund der Masken | 2017 |   |   |
-| 13 | Die Auktion der Diebe | 2017/18 |   |   |
-| 14 | Labyrinth der Angst | 29.03.2018 | direkt | Erstauftritt Archer (Charles Darwin) |
-| 15 | Goldrausch | 2018 |   |   |
-| 16 | Der Austausch | 27.07.2018 | direkt | Erstauftritt Irene Adler; erste Zusammenarbeit Wilde × Adler |
-| 17 | Der Maharadscha der Nacht | 28.09.2018 | direkt | Erstauftritt Maharadscha als Zirkel-Mitglied |
-| 18 | Feindberührung | 30.11.2018 | direkt | Erstauftritt Paul Hiller; **Dr. Payton enttarnt und getötet** |
-| 19 | Blutdurst | 31.01.2019 | direkt | Erstauftritt Bram Stoker; Demeter-Strang |
-| 20 | Blutzoll | 29.03.2019 | direkt | Hintergrund Vampirblut-Forschung |
-| 21 | Boleskine House | 31.05.2019 | direkt | Erstauftritt Aleister Crowley als Zirkel-Mitglied |
-| 22 | Die vierte Macht | 2019 |   |   |
-| 23 | Das Medusa-Syndrom | 30.09.2019 | direkt | Spitzbergen, Dr. Cappelli |
-| 24 | Der Knochenhändler | 2019 |   |   |
-| 25 | Altes Blut | 31.01.2020 | direkt | Theodora × Dracula in Ägypten |
-| 26 | Dunkle Fluten | 2020 |   |   |
-| 27 | Dreißig Silberlinge | 2020 |   |   |
-| 28 | Der längste Tag | 28.07.2020 | direkt | Hiller-Bande tötet, Hiller stirbt |
-| 29 | Brennender Zorn | 30.09.2020 | direkt | Rasputin-Attentat auf Königin Viktoria scheitert |
-| 30 | Die Stimme des Verräters | 2020 |   |   |
-| 31 | Die 13 Stufen | 2021 |   |   |
-| 32 | Im Reich des Feindes | 2021 |   |   |
-| 33 | Apocalypsis | 2021 |   |   |
-| 34 | Asche und Rauch | 2021 |   |   |
-| 35 | Zwielicht | 2021/22 |   |   |
-| 36 | Am Ende der Zeit | 2022 |   | **Phasen-Marker** Phase 4 → 5 |
-| 37 | Das Herz der See | 2022 |   |   |
-| 38 | Außer Kontrolle | 2022 |   |   |
-| 39 | Der Pfad der Toten | 2022 |   |   |
-| 40 | Lockruf des Untergangs | 2022 |   |   |
-| 41 | Auf Bewährung | 2023 |   |   |
-| 42 | Angst im East End | 31.03.2023 |   | „alter Feind im East End" |
-| 43 | Neue Wege | 26.05.2023 | direkt | Tod von Dr. Hoffman; Zirkel verschwört Vertrauten des Königshauses |
-| 44 | Dunkler Einfluss | 2023 |   |   |
-| 45 | Laune der Natur | 2023 |   |   |
-| 46 | Zelle des Lebens | 2024 |   |   |
-| 47 | Ursprung des Seins | 2024 |   |   |
-| 48 | Quelle des Leidens | 2024 |   |   |
-| 49 | Albtraum | 2024 |   |   |
-| 50 | Bittere Erkenntnis | 2024 |   |   |
-| 51 | Diadem der Macht | 2025 |   |   |
-| 52 | Kinder des Feuers | 2025 |   |   |
-| 53 | Gefährliche Versuchung | 2025 |   |   |
-| 54 | Störungen | 2025 |   |   |
-| 55 | Blumen des Verderbens | 2026 |   |   |
-| 56 | Tödliche Farben | 2026 |   | aktueller Stand |
+| 02 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-02-finsteres-hochland\|Finsteres Hochland]] | 11.03.2016 | indirekt | Erstauftritt Abel Hawthorn |
+| 03 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-03-das-geheimnis-des-alchemisten\|Das Geheimnis des Alchemisten]] | 2016 | unklar | Rom/Vatikan; tödliches Alchemisten-Tagebuch |
+| 04 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-04-tod-der-koenigin\|Tod der Königin]] | 14.07.2016 | direkt | Erstauftritt Dr. Alfons Grell; Zirkel-Plot etabliert |
+| 05 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-05-kalter-fels|Kalter Fels]] | 09.09.2016 | direkt | Charles-Darwin-Hintergrund, 1875-Abspaltung |
+| 06 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-06-hexenwald|Hexenwald]] | 18.11.2016 | direkt | Adrian/Proband 3, Schwarzwald-Forschung |
+| 07 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-07-ritual-des-grauens|Ritual des Grauens]] | 2016/17 |   |   |
+| 08 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-08-der-roentgen-zwischenfall|Der Röntgen-Zwischenfall]] | 2017 |   |   |
+| 09 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-09-das-erbe-des-doktors|Das Erbe des Doktors]] | 26.05.2017 | direkt | Grell überlebt Schweiz; Jekyll-Elixier |
+| 10 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-10-eine-nacht-am-brocken|Eine Nacht am Brocken]] | 21.07.2017 | direkt | Erstauftritt Theodora Sachs |
+| 11 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-11-die-namenlose-aus-der-seine|Die Namenlose aus der Seine]] | 2017 |   |   |
+| 12 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-12-der-geheimbund-der-masken|Der Geheimbund der Masken]] | 2017 |   |   |
+| 13 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-13-die-auktion-der-diebe|Die Auktion der Diebe]] | 2017/18 |   |   |
+| 14 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-14-labyrinth-der-angst|Labyrinth der Angst]] | 29.03.2018 | direkt | Erstauftritt Archer (Charles Darwin) |
+| 15 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-15-goldrausch|Goldrausch]] | 2018 |   |   |
+| 16 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-16-der-austausch|Der Austausch]] | 27.07.2018 | direkt | Erstauftritt Irene Adler; erste Zusammenarbeit Wilde × Adler |
+| 17 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-17-der-maharadscha-der-nacht|Der Maharadscha der Nacht]] | 28.09.2018 | direkt | Erstauftritt Maharadscha als Zirkel-Mitglied |
+| 18 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-18-feindberuehrung|Feindberührung]] | 30.11.2018 | direkt | Erstauftritt Paul Hiller; **Dr. Payton enttarnt und getötet** |
+| 19 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-19-blutdurst|Blutdurst]] | 31.01.2019 | direkt | Erstauftritt Bram Stoker; Demeter-Strang |
+| 20 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-20-blutzoll|Blutzoll]] | 29.03.2019 | direkt | Hintergrund Vampirblut-Forschung |
+| 21 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-21-boleskine-house|Boleskine House]] | 31.05.2019 | direkt | Erstauftritt Aleister Crowley als Zirkel-Mitglied |
+| 22 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-22-die-vierte-macht|Die vierte Macht]] | 2019 |   |   |
+| 23 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-23-das-medusa-syndrom|Das Medusa-Syndrom]] | 30.09.2019 | direkt | Spitzbergen, Dr. Cappelli |
+| 24 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-24-der-knochenhaendler|Der Knochenhändler]] | 2019 |   |   |
+| 25 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-25-altes-blut|Altes Blut]] | 31.01.2020 | direkt | Theodora × Dracula in Ägypten |
+| 26 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-26-dunkle-fluten|Dunkle Fluten]] | 2020 |   |   |
+| 27 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-27-dreissig-silberlinge|Dreißig Silberlinge]] | 2020 |   |   |
+| 28 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-28-der-laengste-tag|Der längste Tag]] | 28.07.2020 | direkt | Hiller-Bande tötet, Hiller stirbt |
+| 29 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-29-brennender-zorn|Brennender Zorn]] | 30.09.2020 | direkt | Rasputin-Attentat auf Königin Viktoria scheitert |
+| 30 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-30-die-stimme-des-verraeters|Die Stimme des Verräters]] | 2020 |   |   |
+| 31 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-31-die-13-stufen|Die 13 Stufen]] | 2021 |   |   |
+| 32 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-32-im-reich-des-feindes|Im Reich des Feindes]] | 2021 |   |   |
+| 33 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-33-apocalypsis|Apocalypsis]] | 2021 |   |   |
+| 34 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-34-asche-und-rauch|Asche und Rauch]] | 2021 |   |   |
+| 35 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-35-zwielicht|Zwielicht]] | 2021/22 |   |   |
+| 36 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-36-am-ende-der-zeit|Am Ende der Zeit]] | 2022 |   | **Phasen-Marker** Phase 4 → 5 |
+| 37 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-37-das-herz-der-see|Das Herz der See]] | 2022 |   |   |
+| 38 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-38-ausser-kontrolle|Außer Kontrolle]] | 2022 |   |   |
+| 39 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-39-der-pfad-der-toten|Der Pfad der Toten]] | 2022 |   |   |
+| 40 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-40-lockruf-des-untergangs|Lockruf des Untergangs]] | 2022 |   |   |
+| 41 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung|Auf Bewährung]] | 2023 |   |   |
+| 42 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-42-angst-im-east-end|Angst im East End]] | 31.03.2023 |   | „alter Feind im East End" |
+| 43 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-43-neue-wege|Neue Wege]] | 26.05.2023 | direkt | Tod von Dr. Hoffman; Zirkel verschwört Vertrauten des Königshauses |
+| 44 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-44-dunkler-einfluss|Dunkler Einfluss]] | 2023 |   |   |
+| 45 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-45-laune-der-natur|Laune der Natur]] | 2023 |   |   |
+| 46 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-46-zelle-des-lebens|Zelle des Lebens]] | 2024 |   |   |
+| 47 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-47-ursprung-des-seins|Ursprung des Seins]] | 2024 |   |   |
+| 48 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-48-quelle-des-leidens|Quelle des Leidens]] | 2024 |   |   |
+| 49 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-49-albtraum|Albtraum]] | 2024 |   |   |
+| 50 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis|Bittere Erkenntnis]] | 2024 |   |   |
+| 51 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-51-diadem-der-macht|Diadem der Macht]] | 2025 |   |   |
+| 52 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-52-kinder-des-feuers|Kinder des Feuers]] | 2025 |   |   |
+| 53 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-53-gefaehrliche-versuchung|Gefährliche Versuchung]] | 2025 |   |   |
+| 54 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-54-stoerungen|Störungen]] | 2025 |   |   |
+| 55 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-55-blumen-des-verderbens|Blumen des Verderbens]] | 2026 |   |   |
+| 56 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-56-toedliche-farben|Tödliche Farben]] | 2026 |   | aktueller Stand |
 
 > **Datums-Notation:** Datumsangaben mit Tag stammen aus der Löchel-Chronologie. Nur-Jahresangaben sind Schätzungen aus der Veröffentlichungs-Frequenz und werden präzisiert, sobald die Folgen ingestiert werden.
 
@@ -112,5 +112,7 @@ Quelle: [offizielle Serien-Übersicht](../../raw/maritim/2026-04-27_owmh_serien-
 
 - [raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md](../../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md)
 - [raw/maritim/2026-04-27_owmh_serien-und-folge-01.md](../../raw/maritim/2026-04-27_owmh_serien-und-folge-01.md) — komplette Folgenliste 1–56.
+- [raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md](../../raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md) — offizielle Detailseiten zu Folgen 2–4.
+- [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Arbeitsnotiz aus den offiziellen Detailseiten zu Folgen 5–56.
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Datum/Anker für ca. 30 Folgen.
 - Offizielle Serien-Seite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/>

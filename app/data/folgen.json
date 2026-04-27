@@ -268,7 +268,6 @@
       "zirkel": "direkt",
       "spoiler_level": "stub"
     },
-
     {
       "id": "oscar-wilde-und-mycroft-holmes-01-zeitenwechsel",
       "serie": "oscar-wilde-und-mycroft-holmes",
@@ -295,17 +294,21 @@
       "story_praezision": "jahr",
       "story_anmerkung": "Erstauftritt Abel Hawthorn",
       "zirkel": "indirekt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "logline": "Wilde untersucht eine Vermisstenserie im schottischen Hochland.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-02-finsteres-hochland.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-03-das-geheimnis-des-alchemisten",
       "serie": "oscar-wilde-und-mycroft-holmes",
       "nummer": 3,
       "titel": "Das Geheimnis des Alchemisten",
-      "erschienen": "2016-05-01",
+      "erschienen": null,
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "logline": "Ein Mord im Vatikan führt Wilde undercover nach Rom.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-03-das-geheimnis-des-alchemisten.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-04-tod-der-koenigin",
@@ -316,7 +319,9 @@
       "story_praezision": "unbekannt",
       "story_anmerkung": "Erstauftritt Dr. Alfons Grell; Zirkel-Plot etabliert",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "logline": "Der Zirkel greift das britische Königshaus offen an.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-04-tod-der-koenigin.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-05-kalter-fels",
@@ -327,7 +332,10 @@
       "story_praezision": "unbekannt",
       "story_anmerkung": "Charles-Darwin-Hintergrund (1875-Abspaltung)",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 76,
+      "logline": "Eine Expedition sucht im Nordatlantik eine namenlose Insel mit Hinweisen auf eine mörderische Verschwörung.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-05-kalter-fels.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-06-hexenwald",
@@ -340,7 +348,10 @@
       "story_praezision": "monat",
       "story_anmerkung": "Adrian/Proband 3, Schwarzwald-Forschung",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 74,
+      "logline": "Verschwundene Frauen und alte Legenden führen Oscar Wilde in den Schwarzwald.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-06-hexenwald.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-07-ritual-des-grauens",
@@ -350,7 +361,10 @@
       "erschienen": "2017-01-27",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 69,
+      "logline": "Eine Mordserie an Wissenschaftlern zwingt Oscar Wilde in einen Wettlauf gegen die Zeit.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-07-ritual-des-grauens.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-08-der-roentgen-zwischenfall",
@@ -360,7 +374,10 @@
       "erschienen": "2017-03-31",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 71,
+      "logline": "Die Entführung Röntgens droht Europa in eine politische Katastrophe zu stürzen.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-08-der-roentgen-zwischenfall.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-09-das-erbe-des-doktors",
@@ -371,7 +388,10 @@
       "story_praezision": "unbekannt",
       "story_anmerkung": "Grell überlebt Schweiz; nutzt Jekyll-Elixier",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 70,
+      "logline": "Ein rätselhafter Gewaltausbruch in Paris führt zu Dr. Jekylls gefährlichem Erbe.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-09-das-erbe-des-doktors.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-10-eine-nacht-am-brocken",
@@ -384,7 +404,10 @@
       "story_praezision": "monat",
       "story_anmerkung": "Erstauftritt Theodora Sachs",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 72,
+      "logline": "Ein Ausflug auf den Brocken setzt eine Gefahr für ganz Großbritannien in Gang.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-10-eine-nacht-am-brocken.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-11-die-namenlose-aus-der-seine",
@@ -394,7 +417,10 @@
       "erschienen": "2017-09-29",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 70,
+      "logline": "Eine geheimnisvolle Frau in Paris wird zum Ziel einer tödlichen Jagd.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-11-die-namenlose-aus-der-seine.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-12-der-geheimbund-der-masken",
@@ -404,7 +430,10 @@
       "erschienen": "2017-11-24",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 70,
+      "logline": "Ein geheimnisvolles Haus und maskierte Gegner führen zu einem verhängnisvollen Plan.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-12-der-geheimbund-der-masken.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-13-die-auktion-der-diebe",
@@ -414,7 +443,10 @@
       "erschienen": "2018-01-26",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 73,
+      "logline": "Oscar Wilde schleust sich in Marrakesch in die legendäre Auktion der Diebe ein.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-13-die-auktion-der-diebe.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-14-labyrinth-der-angst",
@@ -426,7 +458,10 @@
       "story_praezision": "jahr",
       "story_anmerkung": "Erstauftritt Archer (Charles Darwin)",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 70,
+      "logline": "Mycrofts Entführung führt Oscar Wilde in eine verborgene Forschungsstation unter der Stadt.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-14-labyrinth-der-angst.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-15-goldrausch",
@@ -437,7 +472,10 @@
       "story_jahr": 1896,
       "story_praezision": "jahr",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 58,
+      "logline": "Am Klondike jagen Wilde und Holmes einen Betrüger bis in die eisige Wildnis.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-15-goldrausch.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-16-der-austausch",
@@ -449,7 +487,10 @@
       "story_praezision": "jahr",
       "story_anmerkung": "Erstauftritt Irene Adler; erste Zusammenarbeit Wilde × Adler",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 64,
+      "logline": "Eine Mission in Prag wird zum Spiel aus Täuschung, Diplomatie und Mord.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-16-der-austausch.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-17-der-maharadscha-der-nacht",
@@ -461,7 +502,10 @@
       "story_praezision": "jahr",
       "story_anmerkung": "Erstauftritt Maharadscha als Zirkel-Mitglied",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 78,
+      "logline": "In Londons Unterwelt erhebt sich ein alter Feind mit neuer Macht.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-17-der-maharadscha-der-nacht.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-18-feindberuehrung",
@@ -473,7 +517,10 @@
       "story_praezision": "jahr",
       "story_anmerkung": "Erstauftritt Paul Hiller; Dr. Payton enttarnt und getötet",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 75,
+      "logline": "In Edinburgh gerät Mycroft Holmes unter Mordverdacht und körperlich an seine Grenzen.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-18-feindberuehrung.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-19-blutdurst",
@@ -485,7 +532,10 @@
       "story_praezision": "jahr",
       "story_anmerkung": "Erstauftritt Bram Stoker; Demeter-Strang",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 68,
+      "logline": "Nach einem Schiffsunglück in Whitby beginnt eine grausame Mordserie.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-19-blutdurst.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-20-blutzoll",
@@ -497,7 +547,10 @@
       "story_praezision": "jahr",
       "story_anmerkung": "Vampirblut-Forschung der Charles Darwin Gesellschaft",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 68,
+      "logline": "Kaum aus Whitby zurück, muss Oscar Wilde in London gegen einen neuen Schattengegner antreten.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-20-blutzoll.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-21-boleskine-house",
@@ -509,7 +562,10 @@
       "story_praezision": "jahr",
       "story_anmerkung": "Erstauftritt Aleister Crowley als Zirkel-Mitglied",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 64,
+      "logline": "In Schottland führt eine Spur zu einem Zirkel-Treffen im Boleskine House.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-21-boleskine-house.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-22-die-vierte-macht",
@@ -520,7 +576,10 @@
       "story_jahr": 1896,
       "story_praezision": "jahr",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 72,
+      "logline": "Ein Mordfall aus Wildes persönlichem Umfeld zieht ihn selbst ins Fadenkreuz.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-22-die-vierte-macht.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-23-das-medusa-syndrom",
@@ -532,7 +591,10 @@
       "story_praezision": "jahr",
       "story_anmerkung": "Spitzbergen, Dr. Cappelli, Charles-Darwin-Forschung",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 72,
+      "logline": "Eine verschwundene Polar-Expedition verwandelt ein Forschungsabenteuer in einen Überlebenskampf.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-23-das-medusa-syndrom.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-24-der-knochenhaendler",
@@ -543,7 +605,10 @@
       "story_jahr": 1896,
       "story_praezision": "jahr",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 69,
+      "logline": "Eine zerstückelte Tote führt Wilde zu einer mörderischen Leichenhandels-Intrige.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-24-der-knochenhaendler.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-25-altes-blut",
@@ -555,7 +620,10 @@
       "story_praezision": "jahr",
       "story_anmerkung": "Theodora Sachs trifft Dracula in Ägypten",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 73,
+      "logline": "Nach einem vereitelten Anschlag öffnet sich die nächste Front um ein gefährliches Geheimnis.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-25-altes-blut.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-26-dunkle-fluten",
@@ -565,7 +633,10 @@
       "erschienen": "2020-03-27",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 64,
+      "logline": "Rätselhafte Todesfälle an der Themse lösen neue Ripper-Angst aus.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-26-dunkle-fluten.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-27-dreissig-silberlinge",
@@ -575,7 +646,10 @@
       "erschienen": "2020-05-29",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 70,
+      "logline": "Eine tödliche Unglücksserie unter Eliten weist auf ein uraltes Komplott hin.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-27-dreissig-silberlinge.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-28-der-laengste-tag",
@@ -586,7 +660,10 @@
       "story_praezision": "unbekannt",
       "story_anmerkung": "Hiller-Bande greift Mycrofts Bekannte an; Hiller stirbt",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 67,
+      "logline": "Mycroft Holmes wird selbst zur Zielscheibe eines perfiden Anschlagsspiels.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-28-der-laengste-tag.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-29-brennender-zorn",
@@ -597,7 +674,10 @@
       "story_praezision": "unbekannt",
       "story_anmerkung": "Rasputin-Attentat auf Königin Viktoria scheitert",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 68,
+      "logline": "Ein rätselhafter Feuertod führt in eine fanatische russische Sekte.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-29-brennender-zorn.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-30-die-stimme-des-verraeters",
@@ -607,7 +687,10 @@
       "erschienen": "2020-11-27",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 72,
+      "logline": "Ein sterbender Feind enthüllt Geheimnisse und lenkt den Blick nach Island.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-30-die-stimme-des-verraeters.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-31-die-13-stufen",
@@ -617,7 +700,10 @@
       "erschienen": "2021-01-29",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 60,
+      "logline": "Auf Sizilien suchen Wilde und Wheeler nach einem Versteck des Zirkels.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-31-die-13-stufen.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-32-im-reich-des-feindes",
@@ -627,7 +713,10 @@
       "erschienen": "2021-03-26",
       "story_praezision": "unbekannt",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 62,
+      "logline": "Unter der Erde dringen Wilde und seine Begleiter bis ins Feindesreich vor.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-32-im-reich-des-feindes.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-33-apocalypsis",
@@ -637,7 +726,10 @@
       "erschienen": "2021-05-28",
       "story_praezision": "unbekannt",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 63,
+      "logline": "Die Sonderermittler erkennen zu spät, dass sie in eine Falle geraten sind.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-33-apocalypsis.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-34-asche-und-rauch",
@@ -647,7 +739,10 @@
       "erschienen": "2021-07-30",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 61,
+      "logline": "Im zerstörten London suchen Wilde und Irene nach Mycroft und nach Hoffnung.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-34-asche-und-rauch.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-35-zwielicht",
@@ -657,7 +752,10 @@
       "erschienen": "2021-09-24",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 62,
+      "logline": "Der Zirkel greift offen nach der Macht in England.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-35-zwielicht.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-36-am-ende-der-zeit",
@@ -668,7 +766,10 @@
       "story_praezision": "unbekannt",
       "story_anmerkung": "Phasen-Marker (Phase 4 → 5)",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 65,
+      "logline": "Nach einem Sieg gegen den Zirkel verschwindet Mycroft Holmes spurlos.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-36-am-ende-der-zeit.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-37-das-herz-der-see",
@@ -678,7 +779,10 @@
       "erschienen": "2022-01-28",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 64,
+      "logline": "Ein gestohlenes Tagebuch und mehrere Morde lösen eine globale Jagd aus.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-37-das-herz-der-see.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-38-ausser-kontrolle",
@@ -688,7 +792,10 @@
       "erschienen": "2022-03-25",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 62,
+      "logline": "Im Amazonasgebiet wird eine Expedition zur Jagd nach einem gefährlichen Artefakt.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-38-ausser-kontrolle.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-39-der-pfad-der-toten",
@@ -698,7 +805,10 @@
       "erschienen": "2022-05-27",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 65,
+      "logline": "Im Himalaya jagt Oscar Wilde ein weiteres Artefakt der Worte der Macht.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-39-der-pfad-der-toten.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-40-lockruf-des-untergangs",
@@ -708,7 +818,10 @@
       "erschienen": "2022-09-30",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 70,
+      "logline": "Eine grausame Mordserie im East End verlangt schnelles und leises Eingreifen.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-40-lockruf-des-untergangs.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung",
@@ -718,7 +831,10 @@
       "erschienen": "2023-01-27",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 58,
+      "logline": "Wilde ermittelt laut offizieller Seite erneut in derselben Mordserie im East End.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-42-angst-im-east-end",
@@ -729,7 +845,10 @@
       "story_praezision": "unbekannt",
       "story_anmerkung": "Mordserie East End; alter Feind kehrt zurück",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 57,
+      "logline": "Ein weiterer Mord führt Wilde zu einem alten Feind im East End.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-42-angst-im-east-end.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-43-neue-wege",
@@ -740,7 +859,10 @@
       "story_praezision": "unbekannt",
       "story_anmerkung": "Tod von Dr. Hoffman; Zirkel verschwört Vertrauten des Königshauses",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 60,
+      "logline": "Der Tod von Dr. Hoffman und eine Entführung weisen auf einen größeren Plan.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-43-neue-wege.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-44-dunkler-einfluss",
@@ -750,7 +872,10 @@
       "erschienen": "2023-07-28",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 58,
+      "logline": "Der Zirkel will über Lord Duncan das Königshaus unterwandern.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-44-dunkler-einfluss.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-45-laune-der-natur",
@@ -760,7 +885,10 @@
       "erschienen": "2023-09-29",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 59,
+      "logline": "Das Verschwinden eines Studenten führt in ein Milieu aus Schweigen und Gefahr.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-45-laune-der-natur.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-46-zelle-des-lebens",
@@ -770,7 +898,10 @@
       "erschienen": "2024-01-26",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 59,
+      "logline": "Leichendiebstahl und Vermisstenfall scheinen zusammenzugehören.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-46-zelle-des-lebens.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-47-ursprung-des-seins",
@@ -780,7 +911,10 @@
       "erschienen": "2024-03-29",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 58,
+      "logline": "Frankenstein rückt als Schlüsselfigur der Leichendiebstähle ins Blickfeld.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-47-ursprung-des-seins.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-48-quelle-des-leidens",
@@ -790,7 +924,10 @@
       "erschienen": "2024-05-31",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 57,
+      "logline": "Frankenstein plant ein neues menschenzüchterisches Experiment.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-48-quelle-des-leidens.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-49-albtraum",
@@ -800,7 +937,10 @@
       "erschienen": "2024-07-26",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 59,
+      "logline": "Grabschändungen auf Londons Friedhöfen bedrohen bald mehr als nur die Totenruhe.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-49-albtraum.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis",
@@ -810,7 +950,10 @@
       "erschienen": "2024-09-27",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 115,
+      "logline": "Nach Mycrofts Mord geraten die Ermittlungen nahe an das Königshaus.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-51-diadem-der-macht",
@@ -820,7 +963,10 @@
       "erschienen": "2025-01-31",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 58,
+      "logline": "Zwei parallele Fälle führen nach Edinburgh und in ein irisches Dorf.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-51-diadem-der-macht.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-52-kinder-des-feuers",
@@ -830,7 +976,10 @@
       "erschienen": "2025-03-28",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 57,
+      "logline": "Rasputins Sekte bringt die Ermittler in Irland und Edinburgh unter Druck.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-52-kinder-des-feuers.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-53-gefaehrliche-versuchung",
@@ -840,7 +989,10 @@
       "erschienen": "2025-05-30",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 60,
+      "logline": "Ein Bombenanschlag und eine Einbruchserie deuten auf einen abgestimmten Plan.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-53-gefaehrliche-versuchung.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-54-stoerungen",
@@ -850,7 +1002,10 @@
       "erschienen": "2025-09-26",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 58,
+      "logline": "Ausfälle in Londons Kommunikationsnetz gehen womöglich auf alte Feinde zurück.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-54-stoerungen.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-55-blumen-des-verderbens",
@@ -860,7 +1015,10 @@
       "erschienen": "2026-01-30",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 54,
+      "logline": "Geiselnahme im Museum und neuer Brandanschlag verschärfen die Krise.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-55-blumen-des-verderbens.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-56-toedliche-farben",
@@ -870,9 +1028,11 @@
       "erschienen": "2026-03-27",
       "story_praezision": "unbekannt",
       "zirkel": "unklar",
-      "spoiler_level": "stub"
+      "spoiler_level": "grob",
+      "spielzeit_min": 58,
+      "logline": "Moriarty markiert die Sonderermittler und nutzt ihren Standort gegen sie.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-56-toedliche-farben.md"
     },
-
     {
       "id": "poe-und-dupin-01-insel-der-toedlichen-raetsel",
       "serie": "poe-und-dupin",
@@ -906,7 +1066,6 @@
       "zirkel": "direkt",
       "spoiler_level": "stub"
     },
-
     {
       "id": "irene-adler-01-tod-im-oberhaus",
       "serie": "irene-adler",
@@ -951,7 +1110,6 @@
       "zirkel": "direkt",
       "spoiler_level": "stub"
     },
-
     {
       "id": "sherlock-holmes-und-co-26-27-der-schrei-der-banshee",
       "serie": "sherlock-holmes-und-co",
@@ -1007,7 +1165,6 @@
       "zirkel": "direkt",
       "spoiler_level": "stub"
     },
-
     {
       "id": "sherlock-holmes-01-dunkle-kraefte",
       "serie": "sherlock-holmes",
@@ -1038,7 +1195,6 @@
       "zirkel": "unklar",
       "spoiler_level": "stub"
     },
-
     {
       "id": "dracula-01",
       "serie": "dracula",
@@ -1050,7 +1206,6 @@
       "spoiler_level": "stub",
       "anmerkung": "Reihe abgeschlossen mit 16 Folgen — Folgentitel beim Ingest pflegen."
     },
-
     {
       "id": "frankenstein-01",
       "serie": "frankenstein",
@@ -1062,7 +1217,6 @@
       "spoiler_level": "stub",
       "anmerkung": "24 Folgen, Folgentitel beim Ingest pflegen."
     },
-
     {
       "id": "moriarty-01",
       "serie": "moriarty",
