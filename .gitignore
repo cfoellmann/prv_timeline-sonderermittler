@@ -1,0 +1,21 @@
+# Obsidian – lokaler Workspace-State, nicht versionieren
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/workspaces.json
+**/.obsidian/cache
+**/.trash/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+
+# Python / lokale Server-Helfer
+__pycache__/
+*.pyc
+
+# Temporäre Sandbox-Reste
+test_write.md

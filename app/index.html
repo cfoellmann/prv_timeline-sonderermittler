@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Timeline – Sonderermittler der Krone</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <h1>Sonderermittler der Krone</h1>
+    <p class="subtitle">Interaktive Timeline des Maritim-Hörspiel-Universums</p>
+  </div>
+  <div class="meta">
+    <span id="meta-count"></span>
+    <span id="meta-stand"></span>
+  </div>
+</header>
+
+<main class="layout">
+  <aside class="controls">
+    <section class="control-block">
+      <h2>Sortierung</h2>
+      <label class="radio">
+        <input type="radio" name="sort" value="story" checked />
+        <span>In-Universe-Zeit (Story)</span>
+      </label>
+      <label class="radio">
+        <input type="radio" name="sort" value="erschienen" />
+        <span>Erscheinungsreihenfolge (real)</span>
+      </label>
+    </section>
+
+    <section class="control-block">
+      <h2>Filter: Zirkel-Bezug</h2>
+      <label class="check"><input type="checkbox" data-filter="zirkel" value="direkt" checked /> <span>direkt</span></label>
+      <label class="check"><input type="checkbox" data-filter="zirkel" value="indirekt" checked /> <span>indirekt</span></label>
+      <label class="check"><input type="checkbox" data-filter="zirkel" value="unklar" checked /> <span>unklar</span></label>
+      <label class="check"><input type="checkbox" data-filter="zirkel" value="kein" checked /> <span>kein</span></label>
+    </section>
+
+    <section class="control-block">
+      <h2>Serien</h2>
+      <div class="serien-actions">
+        <button id="serien-all">alle</button>
+        <button id="serien-none">keine</button>
+      </div>
+      <div id="serien-list"></div>
+    </section>
+
+    <section class="control-block">
+      <h2>Anzeige</h2>
+      <label class="check"><input type="checkbox" id="show-unknown" checked /> <span>Folgen ohne Story-Datum anzeigen</span></label>
+      <label class="check"><input type="checkbox" id="show-stubs" checked /> <span>Stubs anzeigen</span></label>
+    </section>
+
+    <section class="legend">
+      <h2>Legende</h2>
+      <p><span class="dot direkt"></span> direkt im Zirkel-Plot</p>
+      <p><span class="dot indirekt"></span> indirekter Bezug</p>
+      <p><span class="dot unklar"></span> unklar / TBD</p>
+      <p><span class="dot kein"></span> kein Zirkel-Bezug</p>
+    </section>
+  </aside>
+
+  <section class="timeline" id="timeline">
+    <div class="status-message" id="status-message">Lade Daten…</div>
+  </section>
+
+  <aside class="detail" id="detail">
+    <div class="detail-empty">
+      <p>Eine Folge anklicken, um Details zu sehen.</p>
+    </div>
+  </aside>
+</main>
+
+<footer class="footer">
+  <p>
+    Quelle: <code>data/folgen.json</code> · Schema-Version <span id="schema-version">–</span> ·
+    <a href="../vault/Sonderermittler%20der%20Krone/index.md">zum Wiki-Index</a>
+  </p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

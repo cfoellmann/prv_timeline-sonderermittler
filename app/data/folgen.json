@@ -1,0 +1,1078 @@
+{
+  "schema_version": "1.0.0",
+  "stand": "2026-04-27",
+  "epoche_min_jahr": 1875,
+  "epoche_max_jahr": 1905,
+  "serien": [
+    {
+      "id": "phileas-fogg",
+      "titel": "Jules Verne – Die neuen Abenteuer des Phileas Fogg",
+      "kurz": "DNAPF",
+      "verlag": "Maritim",
+      "genre": "Abenteuer/Fantasy",
+      "farbe": "#5e8b7e",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/serien/phileas-fogg.md"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes",
+      "titel": "Oscar Wilde & Mycroft Holmes – Sonderermittler der Krone",
+      "kurz": "OWMH",
+      "verlag": "Maritim",
+      "genre": "Krimi",
+      "farbe": "#c9a961",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/serien/oscar-wilde-und-mycroft-holmes.md"
+    },
+    {
+      "id": "poe-und-dupin",
+      "titel": "Edgar Allan Poe & Auguste Dupin",
+      "kurz": "EAPAD",
+      "verlag": "Maritim",
+      "genre": "Krimi",
+      "farbe": "#7f5283",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/serien/poe-und-dupin.md"
+    },
+    {
+      "id": "irene-adler",
+      "titel": "Irene Adler – Sonderermittlerin der Krone",
+      "kurz": "IADK",
+      "verlag": "Maritim",
+      "genre": "Krimi",
+      "farbe": "#b94a48",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/serien/irene-adler.md"
+    },
+    {
+      "id": "moriarty",
+      "titel": "Moriarty – Zwischen Genie und Verbrechen",
+      "kurz": "MOR",
+      "verlag": "Maritim",
+      "genre": "Krimi",
+      "farbe": "#3d3d3d",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/serien/moriarty.md"
+    },
+    {
+      "id": "dracula",
+      "titel": "Dracula und der Zirkel der Sieben",
+      "kurz": "DRA",
+      "verlag": "Maritim",
+      "genre": "Horror",
+      "farbe": "#8b0000",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/serien/dracula.md"
+    },
+    {
+      "id": "frankenstein",
+      "titel": "Frankenstein und der Zirkel der Sieben",
+      "kurz": "FRA",
+      "verlag": "Maritim",
+      "genre": "Horror",
+      "farbe": "#4b6043",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/serien/frankenstein.md"
+    },
+    {
+      "id": "sherlock-holmes",
+      "titel": "Sherlock Holmes – Sonderermittler der Krone",
+      "kurz": "SH-S",
+      "verlag": "Maritim",
+      "genre": "Krimi",
+      "farbe": "#2e5c8a",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/serien/sherlock-holmes.md"
+    },
+    {
+      "id": "sherlock-holmes-und-co",
+      "titel": "Sherlock Holmes & Co. (Vorgänger-Reihe)",
+      "kurz": "SHC",
+      "verlag": "Winterzeit/Maritim",
+      "genre": "Krimi",
+      "farbe": "#5a7a99",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/konzepte/sherlock-holmes-und-co.md",
+      "anmerkung": "Vorgänger-Reihe, Quelle der Re-Releases."
+    },
+    {
+      "id": "oscar-wilde-und-irene-adler",
+      "titel": "Oscar Wilde & Irene Adler",
+      "kurz": "WIA",
+      "verlag": "Blitz",
+      "genre": "Krimi",
+      "farbe": "#d2691e",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/serien/oscar-wilde-und-irene-adler.md"
+    },
+    {
+      "id": "tesla",
+      "titel": "Tesla",
+      "kurz": "TES",
+      "verlag": "Blitz",
+      "genre": "Krimi",
+      "farbe": "#4a90b8",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/serien/tesla.md"
+    },
+    {
+      "id": "oscar-wilde-und-poe",
+      "titel": "Oscar Wilde & Edgar Allan Poe",
+      "kurz": "WPO",
+      "verlag": "Blitz",
+      "genre": "Krimi",
+      "farbe": "#9b6b9c",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/serien/oscar-wilde-und-poe.md"
+    },
+    {
+      "id": "wilde-mycroft-ungeloeste",
+      "titel": "Oscar Wilde – Die ungelösten Fälle des Mycroft Holmes",
+      "kurz": "WMU",
+      "verlag": "Blitz",
+      "genre": "Krimi",
+      "farbe": "#a89060",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/serien/wilde-mycroft-ungeloeste.md"
+    },
+    {
+      "id": "kapitaen-nemo",
+      "titel": "Die Abenteuer des Kapitän Nemo",
+      "kurz": "NEM",
+      "verlag": "Blitz",
+      "genre": "Abenteuer",
+      "farbe": "#1f6f8b",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/serien/kapitaen-nemo.md"
+    }
+  ],
+  "folgen": [
+    {
+      "id": "phileas-fogg-01-entfuehrung-auf-hoher-see",
+      "serie": "phileas-fogg",
+      "nummer": 1,
+      "titel": "Entführung auf hoher See",
+      "erschienen": "2015-11-06",
+      "story_jahr": null,
+      "story_monat": null,
+      "story_tag": null,
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Erstauftritt Kapitän Nemo",
+      "zirkel": "kein",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "phileas-fogg-02-der-schatz-von-atlantis",
+      "serie": "phileas-fogg",
+      "nummer": 2,
+      "titel": "Der Schatz von Atlantis",
+      "erschienen": "2015-12-11",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Erstauftritt Dr. Jekyll/Mr. Hyde",
+      "zirkel": "kein",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "phileas-fogg-03-krieg-in-den-wolken",
+      "serie": "phileas-fogg",
+      "nummer": 3,
+      "titel": "Krieg in den Wolken",
+      "erschienen": "2016-02-26",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Erstauftritt Robur; Jekyll/Hyde stirbt",
+      "zirkel": "indirekt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "phileas-fogg-04-der-elefant-aus-stahl",
+      "serie": "phileas-fogg",
+      "nummer": 4,
+      "titel": "Der Elefant aus Stahl",
+      "erschienen": "2016-04-22",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Erstauftritt Viktor Frankenstein; Robur stirbt",
+      "zirkel": "indirekt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "phileas-fogg-05-das-geheimnis-der-eissphinx",
+      "serie": "phileas-fogg",
+      "nummer": 5,
+      "titel": "Das Geheimnis der Eissphinx",
+      "erschienen": "2016-08-12",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Erstauftritt Edgar Allan Poe",
+      "zirkel": "kein",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "phileas-fogg-08-im-angesicht-der-bestien",
+      "serie": "phileas-fogg",
+      "nummer": 8,
+      "titel": "Im Angesicht der Bestien",
+      "erschienen": "2017-01-27",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Frankenstein stürzt im Kampf mit Fogg",
+      "zirkel": "indirekt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "phileas-fogg-10-der-herrscher-der-meere",
+      "serie": "phileas-fogg",
+      "nummer": 10,
+      "titel": "Der Herrscher der Meere",
+      "erschienen": "2017-06-16",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Erste Zusammenarbeit Fogg × Wilde (Doppelfolge)",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "phileas-fogg-11-die-jagd-nach-kapitaen-grant",
+      "serie": "phileas-fogg",
+      "nummer": 11,
+      "titel": "Die Jagd nach Kapitän Grant",
+      "erschienen": "2017-11-17",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Erste Zusammenarbeit Fogg × Wilde (Doppelfolge)",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "phileas-fogg-12-entscheidung-in-den-karpaten",
+      "serie": "phileas-fogg",
+      "nummer": 12,
+      "titel": "Entscheidung in den Karpaten",
+      "erschienen": "2017-11-17",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Erstauftritt Dracula",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "phileas-fogg-21-die-sieben-steine-des-anubis",
+      "serie": "phileas-fogg",
+      "nummer": 21,
+      "titel": "Die sieben Steine des Anubis",
+      "erschienen": "2019-10-18",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Frankenstein kehrt zurück (von Dracula gerettet)",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "phileas-fogg-24-die-geheimnisvolle-insel",
+      "serie": "phileas-fogg",
+      "nummer": 24,
+      "titel": "Die geheimnisvolle Insel",
+      "erschienen": "2020-05-08",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Zweikampf Frankenstein vs. Dracula",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "phileas-fogg-26-die-kueste-der-skelette",
+      "serie": "phileas-fogg",
+      "nummer": 26,
+      "titel": "Die Küste der Skelette",
+      "erschienen": "2020-11-20",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Robur kehrt in neuem Körper zurück",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-01-zeitenwechsel",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 1,
+      "titel": "Zeitenwechsel",
+      "erschienen": "2016-03-11",
+      "story_jahr": 1895,
+      "story_monat": 4,
+      "story_tag": null,
+      "story_praezision": "monat",
+      "story_anmerkung": "Frühjahr 1895; Wilde wird Sonderermittler",
+      "zirkel": "indirekt",
+      "spoiler_level": "grob",
+      "logline": "Wilde wird Sonderermittler der Krone.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-01-zeitenwechsel.md"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-02-finsteres-hochland",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 2,
+      "titel": "Finsteres Hochland",
+      "erschienen": "2016-03-11",
+      "story_jahr": 1895,
+      "story_praezision": "jahr",
+      "story_anmerkung": "Erstauftritt Abel Hawthorn",
+      "zirkel": "indirekt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-03-das-geheimnis-des-alchemisten",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 3,
+      "titel": "Das Geheimnis des Alchemisten",
+      "erschienen": "2016-05-01",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-04-tod-der-koenigin",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 4,
+      "titel": "Tod der Königin",
+      "erschienen": "2016-07-14",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Erstauftritt Dr. Alfons Grell; Zirkel-Plot etabliert",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-05-kalter-fels",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 5,
+      "titel": "Kalter Fels",
+      "erschienen": "2016-09-09",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Charles-Darwin-Hintergrund (1875-Abspaltung)",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-06-hexenwald",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 6,
+      "titel": "Hexenwald",
+      "erschienen": "2016-11-18",
+      "story_jahr": 1895,
+      "story_monat": 11,
+      "story_praezision": "monat",
+      "story_anmerkung": "Adrian/Proband 3, Schwarzwald-Forschung",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-07-ritual-des-grauens",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 7,
+      "titel": "Ritual des Grauens",
+      "erschienen": "2017-01-27",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-08-der-roentgen-zwischenfall",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 8,
+      "titel": "Der Röntgen-Zwischenfall",
+      "erschienen": "2017-03-31",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-09-das-erbe-des-doktors",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 9,
+      "titel": "Das Erbe des Doktors",
+      "erschienen": "2017-05-26",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Grell überlebt Schweiz; nutzt Jekyll-Elixier",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-10-eine-nacht-am-brocken",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 10,
+      "titel": "Eine Nacht am Brocken",
+      "erschienen": "2017-07-21",
+      "story_jahr": 1895,
+      "story_monat": 12,
+      "story_praezision": "monat",
+      "story_anmerkung": "Erstauftritt Theodora Sachs",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-11-die-namenlose-aus-der-seine",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 11,
+      "titel": "Die Namenlose aus der Seine",
+      "erschienen": "2017-09-29",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-12-der-geheimbund-der-masken",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 12,
+      "titel": "Der Geheimbund der Masken",
+      "erschienen": "2017-11-24",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-13-die-auktion-der-diebe",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 13,
+      "titel": "Die Auktion der Diebe",
+      "erschienen": "2018-01-26",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-14-labyrinth-der-angst",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 14,
+      "titel": "Labyrinth der Angst",
+      "erschienen": "2018-03-29",
+      "story_jahr": 1896,
+      "story_praezision": "jahr",
+      "story_anmerkung": "Erstauftritt Archer (Charles Darwin)",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-15-goldrausch",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 15,
+      "titel": "Goldrausch",
+      "erschienen": "2018-05-25",
+      "story_jahr": 1896,
+      "story_praezision": "jahr",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-16-der-austausch",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 16,
+      "titel": "Der Austausch",
+      "erschienen": "2018-07-27",
+      "story_jahr": 1896,
+      "story_praezision": "jahr",
+      "story_anmerkung": "Erstauftritt Irene Adler; erste Zusammenarbeit Wilde × Adler",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-17-der-maharadscha-der-nacht",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 17,
+      "titel": "Der Maharadscha der Nacht",
+      "erschienen": "2018-09-28",
+      "story_jahr": 1896,
+      "story_praezision": "jahr",
+      "story_anmerkung": "Erstauftritt Maharadscha als Zirkel-Mitglied",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-18-feindberuehrung",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 18,
+      "titel": "Feindberührung",
+      "erschienen": "2018-11-30",
+      "story_jahr": 1896,
+      "story_praezision": "jahr",
+      "story_anmerkung": "Erstauftritt Paul Hiller; Dr. Payton enttarnt und getötet",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-19-blutdurst",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 19,
+      "titel": "Blutdurst",
+      "erschienen": "2019-01-31",
+      "story_jahr": 1896,
+      "story_praezision": "jahr",
+      "story_anmerkung": "Erstauftritt Bram Stoker; Demeter-Strang",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-20-blutzoll",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 20,
+      "titel": "Blutzoll",
+      "erschienen": "2019-03-29",
+      "story_jahr": 1896,
+      "story_praezision": "jahr",
+      "story_anmerkung": "Vampirblut-Forschung der Charles Darwin Gesellschaft",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-21-boleskine-house",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 21,
+      "titel": "Boleskine House",
+      "erschienen": "2019-05-31",
+      "story_jahr": 1896,
+      "story_praezision": "jahr",
+      "story_anmerkung": "Erstauftritt Aleister Crowley als Zirkel-Mitglied",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-22-die-vierte-macht",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 22,
+      "titel": "Die vierte Macht",
+      "erschienen": "2019-07-26",
+      "story_jahr": 1896,
+      "story_praezision": "jahr",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-23-das-medusa-syndrom",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 23,
+      "titel": "Das Medusa-Syndrom",
+      "erschienen": "2019-09-30",
+      "story_jahr": 1896,
+      "story_praezision": "jahr",
+      "story_anmerkung": "Spitzbergen, Dr. Cappelli, Charles-Darwin-Forschung",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-24-der-knochenhaendler",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 24,
+      "titel": "Der Knochenhändler",
+      "erschienen": "2019-11-29",
+      "story_jahr": 1896,
+      "story_praezision": "jahr",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-25-altes-blut",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 25,
+      "titel": "Altes Blut",
+      "erschienen": "2020-01-31",
+      "story_jahr": 1896,
+      "story_praezision": "jahr",
+      "story_anmerkung": "Theodora Sachs trifft Dracula in Ägypten",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-26-dunkle-fluten",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 26,
+      "titel": "Dunkle Fluten",
+      "erschienen": "2020-03-27",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-27-dreissig-silberlinge",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 27,
+      "titel": "Dreißig Silberlinge",
+      "erschienen": "2020-05-29",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-28-der-laengste-tag",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 28,
+      "titel": "Der längste Tag",
+      "erschienen": "2020-07-28",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Hiller-Bande greift Mycrofts Bekannte an; Hiller stirbt",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-29-brennender-zorn",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 29,
+      "titel": "Brennender Zorn",
+      "erschienen": "2020-09-30",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Rasputin-Attentat auf Königin Viktoria scheitert",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-30-die-stimme-des-verraeters",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 30,
+      "titel": "Die Stimme des Verräters",
+      "erschienen": "2020-11-27",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-31-die-13-stufen",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 31,
+      "titel": "Die 13 Stufen",
+      "erschienen": "2021-01-29",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-32-im-reich-des-feindes",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 32,
+      "titel": "Im Reich des Feindes",
+      "erschienen": "2021-03-26",
+      "story_praezision": "unbekannt",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-33-apocalypsis",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 33,
+      "titel": "Apocalypsis",
+      "erschienen": "2021-05-28",
+      "story_praezision": "unbekannt",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-34-asche-und-rauch",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 34,
+      "titel": "Asche und Rauch",
+      "erschienen": "2021-07-30",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-35-zwielicht",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 35,
+      "titel": "Zwielicht",
+      "erschienen": "2021-09-24",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-36-am-ende-der-zeit",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 36,
+      "titel": "Am Ende der Zeit",
+      "erschienen": "2021-11-26",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Phasen-Marker (Phase 4 → 5)",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-37-das-herz-der-see",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 37,
+      "titel": "Das Herz der See",
+      "erschienen": "2022-01-28",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-38-ausser-kontrolle",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 38,
+      "titel": "Außer Kontrolle",
+      "erschienen": "2022-03-25",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-39-der-pfad-der-toten",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 39,
+      "titel": "Der Pfad der Toten",
+      "erschienen": "2022-05-27",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-40-lockruf-des-untergangs",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 40,
+      "titel": "Lockruf des Untergangs",
+      "erschienen": "2022-09-30",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 41,
+      "titel": "Auf Bewährung",
+      "erschienen": "2023-01-27",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-42-angst-im-east-end",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 42,
+      "titel": "Angst im East End",
+      "erschienen": "2023-03-31",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Mordserie East End; alter Feind kehrt zurück",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-43-neue-wege",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 43,
+      "titel": "Neue Wege",
+      "erschienen": "2023-05-26",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Tod von Dr. Hoffman; Zirkel verschwört Vertrauten des Königshauses",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-44-dunkler-einfluss",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 44,
+      "titel": "Dunkler Einfluss",
+      "erschienen": "2023-07-28",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-45-laune-der-natur",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 45,
+      "titel": "Laune der Natur",
+      "erschienen": "2023-09-29",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-46-zelle-des-lebens",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 46,
+      "titel": "Zelle des Lebens",
+      "erschienen": "2024-01-26",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-47-ursprung-des-seins",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 47,
+      "titel": "Ursprung des Seins",
+      "erschienen": "2024-03-29",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-48-quelle-des-leidens",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 48,
+      "titel": "Quelle des Leidens",
+      "erschienen": "2024-05-31",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-49-albtraum",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 49,
+      "titel": "Albtraum",
+      "erschienen": "2024-07-26",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 50,
+      "titel": "Bittere Erkenntnis",
+      "erschienen": "2024-09-27",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-51-diadem-der-macht",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 51,
+      "titel": "Diadem der Macht",
+      "erschienen": "2025-01-31",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-52-kinder-des-feuers",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 52,
+      "titel": "Kinder des Feuers",
+      "erschienen": "2025-03-28",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-53-gefaehrliche-versuchung",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 53,
+      "titel": "Gefährliche Versuchung",
+      "erschienen": "2025-05-30",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-54-stoerungen",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 54,
+      "titel": "Störungen",
+      "erschienen": "2025-09-26",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-55-blumen-des-verderbens",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 55,
+      "titel": "Blumen des Verderbens",
+      "erschienen": "2026-01-30",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "oscar-wilde-und-mycroft-holmes-56-toedliche-farben",
+      "serie": "oscar-wilde-und-mycroft-holmes",
+      "nummer": 56,
+      "titel": "Tödliche Farben",
+      "erschienen": "2026-03-27",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+
+    {
+      "id": "poe-und-dupin-01-insel-der-toedlichen-raetsel",
+      "serie": "poe-und-dupin",
+      "nummer": 1,
+      "titel": "Insel der tödlichen Rätsel",
+      "erschienen": "2018-08-17",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Erstauftritt Gaston Morell",
+      "zirkel": "indirekt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "poe-und-dupin-02-im-bann-der-angst",
+      "serie": "poe-und-dupin",
+      "nummer": 2,
+      "titel": "Im Bann der Angst",
+      "erschienen": "2018-09-21",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Dracula als Sapriel in Paris",
+      "zirkel": "indirekt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "poe-und-dupin-13-aufnahmepruefung",
+      "serie": "poe-und-dupin",
+      "nummer": 13,
+      "titel": "Aufnahmeprüfung",
+      "erschienen": null,
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Aufnahme Gaston Morell als 7. Zirkel-Mitglied — Zirkel komplett",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+
+    {
+      "id": "irene-adler-01-tod-im-oberhaus",
+      "serie": "irene-adler",
+      "nummer": 1,
+      "titel": "Tod im Oberhaus",
+      "erschienen": "2019-06-28",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Erstauftritte Killroy, Sir John Conroy",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "irene-adler-04-sankt-petersburg-express",
+      "serie": "irene-adler",
+      "nummer": 4,
+      "titel": "Sankt Petersburg Express",
+      "erschienen": "2020-02-15",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Erstauftritt Rasputin",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "irene-adler-06-licht-und-schatten",
+      "serie": "irene-adler",
+      "nummer": 6,
+      "titel": "Licht und Schatten",
+      "erschienen": "2020-10-31",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Erste Zusammenarbeit Adler × Passepartout, Adler × Poe/Dupin",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "irene-adler-15-in-den-krallen-des-boesen",
+      "serie": "irene-adler",
+      "nummer": 15,
+      "titel": "In den Krallen des Bösen",
+      "erschienen": "2023-02-24",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Dracula vs. Moriarty als konkurrierende Antagonisten",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+
+    {
+      "id": "sherlock-holmes-und-co-26-27-der-schrei-der-banshee",
+      "serie": "sherlock-holmes-und-co",
+      "nummer": 26,
+      "titel": "Der Schrei der Banshee (26/27)",
+      "erschienen": "2016-09-02",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Erste Zusammenarbeit Sherlock Holmes × Oscar Wilde",
+      "zirkel": "indirekt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "sherlock-holmes-und-co-45-hinter-den-kulissen",
+      "serie": "sherlock-holmes-und-co",
+      "nummer": 45,
+      "titel": "Hinter den Kulissen",
+      "erschienen": "2019-06-07",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Erstauftritt Mister Wu; Grundstein für IADK",
+      "zirkel": "indirekt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "sherlock-holmes-und-co-48-das-ende-des-inspektors",
+      "serie": "sherlock-holmes-und-co",
+      "nummer": 48,
+      "titel": "Das Ende des Inspektors",
+      "erschienen": "2019-10-11",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Erstauftritt Geoffrey Stafford; Lestrade vom Zirkel ermordet",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "sherlock-holmes-und-co-53-die-rueckkehr-der-angst",
+      "serie": "sherlock-holmes-und-co",
+      "nummer": 53,
+      "titel": "Die Rückkehr der Angst",
+      "erschienen": "2020-07-03",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Dracula als Sapriel in London",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "sherlock-holmes-und-co-55-perlen-des-todes",
+      "serie": "sherlock-holmes-und-co",
+      "nummer": 55,
+      "titel": "Perlen des Todes",
+      "erschienen": null,
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Grundstein für Moriarty-Serie",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+
+    {
+      "id": "sherlock-holmes-01-dunkle-kraefte",
+      "serie": "sherlock-holmes",
+      "nummer": 1,
+      "titel": "Dunkle Kräfte",
+      "erschienen": "2022-11-25",
+      "story_praezision": "unbekannt",
+      "zirkel": "direkt",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "sherlock-holmes-03-verraeterische-lilien",
+      "serie": "sherlock-holmes",
+      "nummer": 3,
+      "titel": "Verräterische Lilien",
+      "erschienen": "2023-03-17",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+    {
+      "id": "sherlock-holmes-20-verhaengnisvolles-meisterwerk",
+      "serie": "sherlock-holmes",
+      "nummer": 20,
+      "titel": "Verhängnisvolles Meisterwerk",
+      "erschienen": null,
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub"
+    },
+
+    {
+      "id": "dracula-01",
+      "serie": "dracula",
+      "nummer": 1,
+      "titel": "Folge 1 (TBD beim Ingest)",
+      "erschienen": "2020-10-02",
+      "story_praezision": "unbekannt",
+      "zirkel": "direkt",
+      "spoiler_level": "stub",
+      "anmerkung": "Reihe abgeschlossen mit 16 Folgen — Folgentitel beim Ingest pflegen."
+    },
+
+    {
+      "id": "frankenstein-01",
+      "serie": "frankenstein",
+      "nummer": 1,
+      "titel": "Folge 1 (TBD beim Ingest)",
+      "erschienen": "2020-10-09",
+      "story_praezision": "unbekannt",
+      "zirkel": "direkt",
+      "spoiler_level": "stub",
+      "anmerkung": "24 Folgen, Folgentitel beim Ingest pflegen."
+    },
+
+    {
+      "id": "moriarty-01",
+      "serie": "moriarty",
+      "nummer": 1,
+      "titel": "Folge 1 (TBD beim Ingest)",
+      "erschienen": "2020-10-02",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "stub",
+      "anmerkung": "25 Folgen, Folgentitel beim Ingest pflegen."
+    }
+  ]
+}
