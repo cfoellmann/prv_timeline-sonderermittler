@@ -144,3 +144,26 @@ Chronologisches Aktivitätsprotokoll. Append-only.
 - Serien-Seite `wiki/serien/sherlock-holmes.md` aus dem Stub geholt und auf die kosmosrelevanten Handlungsboegen fokussiert: Mycroft-/Moriarty-Auftakt, Killjoy-/Wilde-/Adler-Anschluss, Robur-/Frankenstein-Block sowie Tesla-Oeffnung ueber Bastien Lavache.
 - Figuren-Stub `wiki/figuren/john-watson.md` angelegt; `index.md` und `wiki/universum.md` beim Holmes-Stand sowie bei der Datumslogik nachgezogen.
 - Wichtig: Die offizielle Holmes-Serienseite listet am `2026-04-28` bereits `Folge 21`, diese ist aber erst fuer `19.06.2026` angekuendigt; effektiv sind derzeit 20 Folgen veroeffentlicht.
+
+## [2026-04-28] ingest | Sherlock Holmes Folgen 1 bis 6
+- Sechs Folgen-Seiten unter `wiki/folgen/` angelegt: `SH 1` bis `SH 6`, inklusive Holmes-/Moriarty-Auftakt, `Verräterische Lilien`, `Unter falschem Verdacht` sowie dem ersten offenen Killjoy-/Wilde-/Adler-Block.
+- Exakte Ersterscheinungen fuer `SH 2`, `SH 5` und `SH 6` ueber HolyShop gegengeprueft; `SH 4` bleibt mangels Primaerbeleg vorerst nur auf Jahresstand `2023`.
+- `wiki/serien/sherlock-holmes.md` bei der Folgenliste auf die neuen Seiten verlinkt und `index.md` um eine eigene Sherlock-Folgen-Sektion erweitert.
+- `app/data/folgen.json` fuer `SH 1` bis `SH 6` mit `wiki`, `logline`, `spielzeit_min`, `spoiler_level` und bereinigter ID von Folge 1 synchronisiert.
+
+## [2026-04-28] ingest | Sherlock Holmes Folgen 7 bis 12
+- Sechs weitere Folgen-Seiten unter `wiki/folgen/` angelegt: `SH 7` bis `SH 12`, vom Krankheits-/Carter-Roth-Block bis zum Paganini-/Venedig-Bogen.
+- Exakte Ersterscheinungen fuer `SH 8` bis `SH 12` ueber HolyShop-Produktseiten verifiziert; `SH 7` vorerst ueber die HolyShop-Releaseliste `historic` datiert.
+- `wiki/serien/sherlock-holmes.md` und `index.md` fuer die nun ingestierten Folgen `1` bis `12` nachgezogen.
+- `app/data/folgen.json` fuer `SH 7` bis `SH 12` mit `wiki`, `logline`, `spielzeit_min`, `spoiler_level` und Zirkel-Einschaetzung synchronisiert.
+
+## [2026-04-28] ingest | Sherlock Holmes Folgen 13 bis 20
+- Acht weitere Folgen-Seiten unter `wiki/folgen/` angelegt: `SH 13` bis `SH 20`, vom Hafen-/Robur-/Frankenstein-Block bis zum Molderton-/Adrik-Bogen.
+- Exakte Ersterscheinungen fuer `SH 13` bis `SH 19` ueber HolyShop-Produktseiten verifiziert; `SH 20` mit `24.04.2026` ueber die aktuelle HolyShop-Serienliste nachgezogen.
+- `wiki/serien/sherlock-holmes.md` und `index.md` auf den nun ingestierten Holmes-Bestand `1` bis `20` erweitert.
+- `app/data/folgen.json` fuer `SH 13` bis `SH 20` inkl. `wiki`, `logline`, `spielzeit_min`, `spoiler_level` und bereinigtem `SH 20`-Stub synchronisiert.
+
+## [2026-04-28] ingest | Sherlock Holmes Folge 21
+- Folgen-Seite `SH 21 Eine Studie in Blutrot` unter `wiki/folgen/` angelegt, obwohl die Folge am Arbeitstag noch nicht veroeffentlicht ist.
+- Wichtig fuer die Datumslogik: `Erscheinungsdatum 19.06.2026`, Stand `28.04.2026` aber ausdruecklich nur angekuendigt.
+- `index.md` und `app/data/folgen.json` um den angekuendigten Tesla-/Bastien-Lavache-Anschluss erweitert.

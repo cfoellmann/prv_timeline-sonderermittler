@@ -46,6 +46,30 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 
 ## Folgen
 
+### Sherlock Holmes
+
+- [[wiki/folgen/sherlock-holmes-01-dunkle-kraefte-teil-1|SH 1 — Dunkle Kräfte, Teil 1]] (25.11.2022) — Nach einem Schlag des Zirkels geraten Holmes, Mycroft und van Dusen in eine seltsame Vergiftungsserie.
+- [[wiki/folgen/sherlock-holmes-02-dunkle-kraefte-teil-2|SH 2 — Dunkle Kräfte, Teil 2]] (16.12.2022) — Holmes und van Dusen verfolgen die Mordserie weiter und stoßen dabei auch auf Moriarty.
+- [[wiki/folgen/sherlock-holmes-03-verraeterische-lilien|SH 3 — Verräterische Lilien]] (17.03.2023) — Ein Konflikt um Forschungsergebnisse wird für Holmes zu einem Fall aus Misstrauen und verdeckten Interessen.
+- [[wiki/folgen/sherlock-holmes-04-unter-falschem-verdacht|SH 4 — Unter falschem Verdacht]] (2023) — Ein Erpresser benutzt Moriartys Namen und zwingt Holmes in eine heikle Jagd.
+- [[wiki/folgen/sherlock-holmes-05-toedliche-rituale|SH 5 — Tödliche Rituale]] (20.10.2023) — Unheimliche Vorfälle in Grail's Hollow deuten für Holmes direkt auf den Zirkel.
+- [[wiki/folgen/sherlock-holmes-06-das-geheimnis-des-earls|SH 6 — Das Geheimnis des Earls]] (09.02.2024) — Über Oscar Wilde führt eine Spur Holmes in einen weiteren Killjoy-Fall.
+- [[wiki/folgen/sherlock-holmes-07-gefaehrliche-expeditionen|SH 7 — Gefährliche Expeditionen]] (17.05.2024) — Eine rätselhafte Krankheit verknüpft Holmes erstmals offen mit Crowley und Theodora Sachs.
+- [[wiki/folgen/sherlock-holmes-08-die-sieben-leben-des-carter-roth|SH 8 — Die sieben Leben des Carter Roth]] (21.06.2024) — Ein Objekt von Interesse für den Zirkel macht den Fall zum Crossover-Knoten.
+- [[wiki/folgen/sherlock-holmes-09-das-vermaechtnis-des-geigers|SH 9 — Das Vermächtnis des Geigers]] (19.07.2024) — Der Mord an einem Geigenbauer eröffnet den Paganini-Strang.
+- [[wiki/folgen/sherlock-holmes-10-teufelsmelodie|SH 10 — Teufelsmelodie]] (06.09.2024) — Holmes gerät offen in den Wettlauf mit Crowley, Theodora Sachs und Rasputin.
+- [[wiki/folgen/sherlock-holmes-11-gesang-der-toten|SH 11 — Gesang der Toten]] (11.10.2024) — Die Jagd nach Paganinis Geige führt Holmes und Watson nach Genua.
+- [[wiki/folgen/sherlock-holmes-12-takt-des-schicksals|SH 12 — Takt des Schicksals]] (01.11.2024) — In Venedig spitzt sich der Kampf um das Objekt zum Finale zu.
+- [[wiki/folgen/sherlock-holmes-13-faustrecht|SH 13 — Faustrecht]] (31.01.2025) — Gewalt im Hafen zieht Holmes in einen Robur-/Frankenstein-Block hinein.
+- [[wiki/folgen/sherlock-holmes-14-wut-und-verzweiflung|SH 14 — Wut und Verzweiflung]] (28.03.2025) — Holmes und Watson sitzen in Roburs Gewalt, während Frankenstein weiterplant.
+- [[wiki/folgen/sherlock-holmes-15-herz-aus-stein|SH 15 — Herz aus Stein]] (30.05.2025) — Ein rätselhafter Stein bedroht den Bestand des Königreichs.
+- [[wiki/folgen/sherlock-holmes-16-polarlichter|SH 16 — Polarlichter]] (08.08.2025) — Der Lebensstein ist bereits in Zirkel-Hände gefallen.
+- [[wiki/folgen/sherlock-holmes-17-der-vermisste-von-molder-hall|SH 17 — Der Vermisste von Molder Hall]] (26.09.2025) — Ein verschwundener Industrieller eröffnet den Molderton-Bogen.
+- [[wiki/folgen/sherlock-holmes-18-gefaehrliche-geheimnisse|SH 18 — Gefährliche Geheimnisse]] (28.11.2025) — In Molderton suchen Crowley, Rasputin und Theodora nach einem Herrschaftsmittel.
+- [[wiki/folgen/sherlock-holmes-19-doppelter-verlust|SH 19 — Doppelter Verlust]] (06.02.2026) — Holmes und Watson jagen Gordon Adriks geheimes Buch.
+- [[wiki/folgen/sherlock-holmes-20-verhaengnisvolles-meisterwerk|SH 20 — Verhängnisvolles Meisterwerk]] (24.04.2026) — Nach einem Rückschlag startet Holmes die Adrik-Recherche neu.
+- [[wiki/folgen/sherlock-holmes-21-eine-studie-in-blutrot|SH 21 — Eine Studie in Blutrot]] (19.06.2026, angekündigt) — Ein Ritualmord verbindet Holmes über Bastien Lavache direkt mit dem Tesla-Strang.
+
 ### Oscar Wilde – Die ungelösten Fälle des Mycroft Holmes
 
 - [[wiki/folgen/wilde-mycroft-ungeloeste-01-der-riese-von-griffin|WMU 1 — Der Riese von Griffin]] (23.01.2026) — Wilde und Abel Hawthorn untersuchen in den Highlands die Rückkehr einer tödlichen Bestie.
