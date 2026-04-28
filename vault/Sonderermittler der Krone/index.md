@@ -26,7 +26,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/serien/oscar-wilde-und-mycroft-holmes|Oscar Wilde & Mycroft Holmes – Sonderermittler der Krone]] — seit 2016, Krimi, 56 Folgen, **Hauptserie** (Stub).
 - [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]] — seit 2018, Krimi, 34 Folgen + 12 Re-Release-Folgen integriert (Stub).
 - [[wiki/serien/irene-adler|Irene Adler – Sonderermittlerin der Krone]] — seit 2019, Krimi, 33 Folgen (Stub).
-- [[wiki/serien/moriarty|Moriarty – Zwischen Genie und Verbrechen]] — seit 2020, Krimi, 25 Folgen (Stub).
+- [[wiki/serien/moriarty|Moriarty – Zwischen Genie und Verbrechen]] — seit 2020, Krimi, 25 Folgen auf der offiziellen Serienseite; Folge 25 ist fuer Juni 2026 angekuendigt.
 - [[wiki/serien/dracula|Dracula und der Zirkel der Sieben]] — 2020–2024, Horror, 16 Folgen, abgeschlossen (Stub).
 - [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] — seit 2020, Horror, 24 Folgen (Stub).
 - [[wiki/serien/sherlock-holmes|Sherlock Holmes – Sonderermittler der Krone]] — seit 2022, Krimi, 21 Folgen + 10 Re-Release-Folgen integriert (Stub).
@@ -50,6 +50,34 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 
 - [[wiki/folgen/wilde-mycroft-ungeloeste-01-der-riese-von-griffin|WMU 1 — Der Riese von Griffin]] (23.01.2026) — Wilde und Abel Hawthorn untersuchen in den Highlands die Rückkehr einer tödlichen Bestie.
 - [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume|WMU 2 — Die Todesblume]] (10.04.2026) — Wilde prüft einen alten Todesfall aus Mycrofts Akten neu; Irene Adler ist als Figur gelistet.
+
+### Moriarty
+
+- [[wiki/folgen/moriarty-00-perlen-des-todes|MOR 00 — Perlen des Todes]] (13.08.2021) — In einem Gasthaus in Plymouth taucht eines Abends ein raetselhafter Fremder auf, der ein wertvolles Buch und einen Beutel Perlen mit sich fuehrt.
+- [[wiki/folgen/moriarty-01-das-raetsel-der-marie-celeste|MOR 01 — Das Rätsel der Marie Celeste]] (25.09.2020) — Zwei Tote werden auf einem Friedhof in Suedengland beigesetzt. Unter der Trauergemeinde befinden sich sowohl Sherlock Holmes und Doktor Watson als auch der geheimnisvolle Fremde, der sich James Moriarty nennt.
+- [[wiki/folgen/moriarty-02-die-wiege-des-verbrechens|MOR 02 — Die Wiege des Verbrechens]] (27.11.2020) — Das Verbrechen hat einen neuen Namen: James Moriarty. Er ist ein Mann, den niemand genau einzuordnen weiss.
+- [[wiki/folgen/moriarty-03-die-beale-papiere|MOR 03 — Die Beale-Papiere]] (26.02.2021) — Ein geheimnisvoller Fremder hinterlaesst einen Koffer in einem kleinen Landhotel und bittet den Betreiber, zehn Jahre lang darauf aufzupassen.
+- [[wiki/folgen/moriarty-04-teuflische-jagd|MOR 04 — Teuflische Jagd]] (11.06.2021) — Ein entsetzliches Verbrechen geschieht in der Cunningham Row. Fuer den ruecksichtslosen Mord an einer alleinstehenden Frau kommt nur ein Mann als Taeter in Frage: James Moriarty!
+- [[wiki/folgen/moriarty-05-gefaehrliches-erbe|MOR 05 — Gefährliches Erbe]] (25.03.2022) — James Moriarty macht auf der Ueberfahrt von New York nach England die Bekanntschaft mit einem Mann namens Lambert, der nach Salisbury reist, um ein geheimnisvolles Erbe anzutreten.
+- [[wiki/folgen/moriarty-06-boeses-erwachen|MOR 06 — Böses Erwachen]] (27.05.2022) — James Moriarty und Theodora Sachs forschen in Calais nach zwei Fluechtigen. Bald darauf finden sie sich in einem Zug mit Kurs auf Gent wieder.
+- [[wiki/folgen/moriarty-07-dunkle-geheimnisse|MOR 07 — Dunkle Geheimnisse]] (05.08.2022) — Moriartys Spur fuehrt nach Gent. Zusammen mit Oscar Wilde betritt er ein altes Lagerhaus, in dem sie sich Hinweise auf die verschollenen Maschinen und Aufzeichnungen des Erfinders von Kempelen erhoffen.
+- [[wiki/folgen/moriarty-08-im-schatten-des-giganten|MOR 08 — Im Schatten des Giganten]] (03.02.2023) — In belgischen Gent kommt es zu einem dramatischen Kampf auf Leben und Tod. Die Maschinenmenschen des Erfinders von Kempelen sind erwacht.
+- [[wiki/folgen/moriarty-09-boese-neue-welt|MOR 09 — Böse neue Welt]] (16.06.2023) — An einem einsamen See im US-Bundesstaat New Jersey kommt es gleich zu mehreren denkwuerdigen Begegnungen. Schuesse fallen.
+- [[wiki/folgen/moriarty-10-familienbande|MOR 10 — Familienbande]] (01.09.2023) — James Moriarty ist in den Vereinigten Staaten von Amerika im Hause der Familie Lockwood untergekommen und beginnt von dort aus, seine verbrecherischen Faeden zu spinnen.
+- [[wiki/folgen/moriarty-11-im-kreuzfeuer|MOR 11 — Im Kreuzfeuer]] (10.11.2023) — James Moriarty ist zwischen die Fronten einer erbitterten Familienfehde geraten. Er kann nicht verhindern, dass das Anwesen der Lockwoods in New Jersey bis auf die Grundmauern niederbrennt.
+- [[wiki/folgen/moriarty-12-wiedergeburt|MOR 12 — Wiedergeburt]] (16.02.2024) — Nach den schicksalhaften Ereignissen im Sanatorium des ermordeten Doktor Lorraine geraet Moriarty mehr und mehr zwischen die Fronten zweier verfeindeter Familien, die zur Unterwelt New Yorks gehoeren.
+- [[wiki/folgen/moriarty-13-ein-seltsamer-freund|MOR 13 — Ein seltsamer Freund]] (14.06.2024) — In Genf trifft James Moriarty auf den Erfinder Nikola Tesla. Die Begegnung ist nicht zufaellig, was Tesla jedoch zunaechst nicht ahnt.
+- [[wiki/folgen/moriarty-14-das-schiff-der-verdammten|MOR 14 — Das Schiff der Verdammten]] (26.07.2024) — Moriarty reist zusammen mit dem Erfinder Nikola Tesla nach Genua, wo sie hoffen, auf Spuren der entfuehrten Anne Morgan zu stossen.
+- [[wiki/folgen/moriarty-15-bilder-fuer-die-ewigkeit|MOR 15 — Bilder für die Ewigkeit]] (20.09.2024) — Auf dem Schiff der Verdammten im Hafen von Genua kommt es zu gefaehrlichen Auseinandersetzungen. Moriarty muss alles auf eine Karte setzen, um die entfuehrte Anne Morgan zu befreien.
+- [[wiki/folgen/moriarty-16-wo-alles-endet|MOR 16 — Wo alles endet]] (25.10.2024) — Moriarty ist von dem Wunsch beseelt, sein Leben zu aendern und einem alten Rivalen den Kampf anzusagen. Doch ist dieser Plan mit grossen Gefahren verbunden, denn bei seinem Gegner handelt es sich um niemand Geringeren als den Grafen Dracula.
+- [[wiki/folgen/moriarty-17-dem-tod-entrissen|MOR 17 — Dem Tod entrissen]] (31.01.2025) — Die Gefaengnisglocke von Pentonville kuendigt den Tod von Doktor Jason Lightman an. Nebel kriecht ueber den Gefaengnishof.
+- [[wiki/folgen/moriarty-18-fluesterndes-eis|MOR 18 — Flüsterndes Eis]] (11.04.2025) — Moriarty ist mit dem Wissenschaftler Jason Lightman einen gefaehrlichen Pakt eingegangen: Er bewahrt den Doktor vor dessen drohender Hinrichtung und erhaelt im Gegenzug dessen Forschungsergebnisse auf dem Feld der Kryokonservierung.
+- [[wiki/folgen/moriarty-19-auf-blutiger-spur|MOR 19 — Auf blutiger Spur]] (27.06.2025) — Nur mit knapper Not entkommt James Moriarty einem sinkenden Schiff, nur um gleich darauf in die Faenge von Scotland Yard zu geraten.
+- [[wiki/folgen/moriarty-20-doppelter-verrat|MOR 20 — Doppelter Verrat]] (29.08.2025) — Moriarty ist auf der Suche nach Elaine Lightman, der Tochter eines bekannten Forschers, deren Spur er verloren hat. Doch auch Robur ist hinter dieser Person her, wenn auch aus ganz anderen Gruenden.
+- [[wiki/folgen/moriarty-21-unter-strom|MOR 21 — Unter Strom]] (03.10.2025) — Die Suche nach Elaine Lightman, von der James Moriarty glaubt, sie trage das Geheimnis des ewigen Lebens in sich, entwickelt sich zu einem Fiasko.
+- [[wiki/folgen/moriarty-22-gruenes-feuer|MOR 22 — Grünes Feuer]] (05.12.2025) — In der Naehe von Epping Forest kommt es zu seltsamen Lichtphaenomenen. Ein Augenzeuge berichtet von Polarlichtern.
+- [[wiki/folgen/moriarty-23-jagdinstinkt|MOR 23 — Jagdinstinkt]] (06.02.2026) — Um die zerstoererische Erfindung Dr. Paynes - eine Waffe, die Elektrizitaet in toedliche Strahlen umwandeln kann - ist ein erbitterter Kampf entbrannt.
+- [[wiki/folgen/moriarty-24-ausgeliefert|MOR 24 — Ausgeliefert]] (10.04.2026) — Endlich ist es James Moriarty gelungen, den Strahlenapparat des Professor Payne in seinen Besitz zu bringen. In seinem Haus in London wagt er ein gefaehrliches Experiment.
 
 ### Tesla
 
@@ -128,10 +156,12 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/figuren/benjamin-payton|Dr. Benjamin Payton]] — Verbündeter, später Verräter (Erstauftritt OWMH 1, Tod OWMH 18). ⚠️ Strukturelle Spoiler.
 - [[wiki/figuren/henry-wheeler|Henry Wheeler]] — Nebenfigur, Umfeld Wilde (Erstauftritt OWMH 1).
 - [[wiki/figuren/irene-adler|Irene Adler]] — Sonderermittlerin der Krone mit eigener Hauptreihe und wiederkehrender Crossover-Rolle.
+- [[wiki/figuren/james-moriarty|James Moriarty]] — kriminelles Genie zwischen Eigeninteresse und offener Intrige gegen den Zirkel.
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — Auftraggeber der Krone, strategischer Kopf gegen den Zirkel.
 - [[wiki/figuren/nikola-tesla|Nikola Tesla]] — genialer Erfinder und Titelheld der Blitz-Reihe Tesla.
 - [[wiki/figuren/oscar-wilde|Oscar Wilde]] — Titelheld, Sonderermittler ab OWMH 1.
 - [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] — Bruder Mycrofts, ab 2022 selbst Sonderermittler und in OWMH 41 direkter Partner Wildes.
+- [[wiki/figuren/theodora-sachs|Theodora Sachs]] — Draculas fruehere Assistentin und wiederkehrende Operative im Zirkel-Umfeld.
 - [[wiki/figuren/violet-ishiguro|Violet Ishiguro]] — Verbündete Wildes; für OWMH 40 als Begleiterin nach Rom belegt.
 
 ## Quellen-Übersicht
@@ -145,3 +175,4 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — OWMH offizielle Detailseiten 5–56, als paraphrasierte Arbeitsnotiz erschlossen.
 - [raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md](raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md) — offizielle Folgen-Seiten 1–2 der Blitz-Reihe, als paraphrasierte Arbeitsnotiz erschlossen.
 - [raw/maritim/2026-04-28_tesla_folgen-01-08.md](raw/maritim/2026-04-28_tesla_folgen-01-08.md) — offizielle Serien- und Folgen-Seiten 1–8 der Blitz-Reihe Tesla, als paraphrasierte Arbeitsnotiz erschlossen.
+- [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md) — offizielle Folgen-Seiten 0–24 der Maritim-Reihe Moriarty sowie HolyShop-Datumsbelege, als paraphrasierte Arbeitsnotiz erschlossen.
