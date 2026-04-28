@@ -7,7 +7,7 @@ erschienen: 2022-05-27
 verlag: Maritim
 autor: ""
 spielzeit_min: 65
-zirkel: false
+zirkel: true
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -42,7 +42,7 @@ Die Sonderermittler bekommen endlich eine Spur, mit der sie dem Zirkel zuvorkomm
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — der offizielle Seitentext liefert keinen eindeutigen Zirkel-Bezug. Arbeitsnotiz: Zirkel explizit genannt; Worte der Macht und Artefakt direkt erwähnt
+- **Direkt** — die offizielle Beschreibung nennt ausdrücklich den [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]]; zusätzlich sind die Worte der Macht und das gesuchte Artefakt Teil des übergeordneten Handlungsbogens.
 
 ## Crossover & Querverweise
 

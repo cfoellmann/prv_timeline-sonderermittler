@@ -91,7 +91,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-36-am-ende-der-zeit|OWMH 36 — Am Ende der Zeit]] (26.11.2021) — Nach einem Sieg gegen den Zirkel verschwindet Mycroft Holmes spurlos.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-37-das-herz-der-see|OWMH 37 — Das Herz der See]] (28.01.2022) — Ein gestohlenes Tagebuch und mehrere Morde lösen eine globale Jagd aus.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-38-ausser-kontrolle|OWMH 38 — Außer Kontrolle]] (25.03.2022) — Im Amazonasgebiet wird eine Expedition zur Jagd nach einem gefährlichen Artefakt.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-39-der-pfad-der-toten|OWMH 39 — Der Pfad der Toten]] (27.05.2022) — Im Himalaya jagt Oscar Wilde ein weiteres Artefakt der Worte der Macht.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-39-der-pfad-der-toten|OWMH 39 — Der Pfad der Toten]] (27.05.2022) — Im Himalaya jagt Oscar Wilde für die Sonderermittler ein Artefakt, bevor der Zirkel es erreicht.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-40-lockruf-des-untergangs|OWMH 40 — Lockruf des Untergangs]] (30.09.2022) — Eine Mordserie in Rom führt Wilde und Violet Ishiguro in einen Artefakt-Plot um den Zirkel.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung|OWMH 41 — Auf Bewährung]] (27.01.2023) — Wilde und Sherlock verfolgen im East End eine Mordserie, die direkt in Folge 42 weiterläuft.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-42-angst-im-east-end|OWMH 42 — Angst im East End]] (31.03.2023) — Ein weiterer Mord führt Wilde zu einem alten Feind im East End.
