@@ -65,6 +65,31 @@ function Resolve-PythonCommand {
     return $null
 }
 
+function Resolve-BrowserPath {
+    $candidates = @(
+        'msedge.exe',
+        "$env:ProgramFiles\Microsoft\Edge\Application\msedge.exe",
+        "${env:ProgramFiles(x86)}\Microsoft\Edge\Application\msedge.exe",
+        "$env:LocalAppData\Microsoft\Edge\Application\msedge.exe",
+        'chrome.exe',
+        "$env:ProgramFiles\Google\Chrome\Application\chrome.exe",
+        "${env:ProgramFiles(x86)}\Google\Chrome\Application\chrome.exe",
+        "$env:LocalAppData\Google\Chrome\Application\chrome.exe"
+    ) | Where-Object { $_ }
+
+    foreach ($candidate in $candidates) {
+        $cmd = Get-Command $candidate -ErrorAction SilentlyContinue
+        if ($cmd) {
+            return $cmd.Source
+        }
+        if (Test-Path -LiteralPath $candidate) {
+            return $candidate
+        }
+    }
+
+    return $null
+}
+
 $python = Resolve-PythonCommand
 if (-not $python) {
     Write-Host ""
@@ -108,33 +133,27 @@ Write-Host ""
 # Browser nach kurzer Verzögerung öffnen — damit der Server bereit ist,
 # bevor die Seite geladen wird.
 if (-not $NoBrowser) {
-    $job = Start-Job -ScriptBlock {
-        param($u)
-        Start-Sleep -Milliseconds 800
-        $candidates = @(
-            'msedge.exe',
-            'chrome.exe',
-            "$env:ProgramFiles\Microsoft\Edge\Application\msedge.exe",
-            "${env:ProgramFiles(x86)}\Microsoft\Edge\Application\msedge.exe",
-            "$env:LocalAppData\Microsoft\Edge\Application\msedge.exe",
-            "$env:ProgramFiles\Google\Chrome\Application\chrome.exe",
-            "${env:ProgramFiles(x86)}\Google\Chrome\Application\chrome.exe",
-            "$env:LocalAppData\Google\Chrome\Application\chrome.exe"
-        ) | Where-Object { $_ }
+    $browserPath = Resolve-BrowserPath
+    $helperScript = if ($browserPath) {
+        @"
+Start-Sleep -Milliseconds 800
+Start-Process -FilePath '$($browserPath.Replace("'", "''"))' -ArgumentList '--new-window', '$($url.Replace("'", "''"))'
+"@
+    } else {
+        @"
+Start-Sleep -Milliseconds 800
+Start-Process '$($url.Replace("'", "''"))'
+"@
+    }
 
-        foreach ($candidate in $candidates) {
-            $cmd = Get-Command $candidate -ErrorAction SilentlyContinue
-            $browser = if ($cmd) { $cmd.Source } elseif (Test-Path -LiteralPath $candidate) { $candidate } else { $null }
-            if ($browser) {
-                Start-Process -FilePath $browser -ArgumentList $u
-                return
-            }
-        }
-
-        Start-Process $u
-    } -ArgumentList $url
-    # Wir kümmern uns nicht weiter um den Job; er endet von selbst.
-    $null = $job
+    Start-Process -FilePath 'powershell.exe' `
+        -ArgumentList @(
+            '-NoProfile',
+            '-ExecutionPolicy', 'Bypass',
+            '-WindowStyle', 'Hidden',
+            '-Command', $helperScript
+        ) `
+        -WindowStyle Hidden | Out-Null
 }
 
 # Server starten — blockiert, bis Strg+C
