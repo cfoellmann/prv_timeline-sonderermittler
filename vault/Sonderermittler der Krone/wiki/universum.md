@@ -41,14 +41,14 @@ Sortiert nach Erstveröffentlichung. Eine Markdown-Tabelle pro Serie wird in den
 | 2020 | Moriarty – Zwischen Genie und Verbrechen | Maritim | Krimi | 25 |   | [[wiki/serien/moriarty]] |
 | 2020 | Dracula und der Zirkel der Sieben | Maritim | Horror | 16 |   | [[wiki/serien/dracula]] |
 | 2020 | Frankenstein und der Zirkel der Sieben | Maritim | Horror | 24 |   | [[wiki/serien/frankenstein]] |
-| 2022 | Sherlock Holmes – Sonderermittler der Krone | Maritim | Krimi | 21 | + 10 (2024–25) | [[wiki/serien/sherlock-holmes]] |
+| 2022 | Sherlock Holmes – Sonderermittler der Krone | Maritim | Krimi | 20 veroeffentlicht + 1 angekuendigt | + 10 (2024–25) | [[wiki/serien/sherlock-holmes]] |
 | 2024 | Oscar Wilde & Irene Adler – Sonderermittler der Krone | Blitz | Krimi | 4 |   | [[wiki/serien/oscar-wilde-und-irene-adler]] |
 | 2024 | Tesla | Blitz | Krimi | 8 |   | [[wiki/serien/tesla]] |
 | 2025 | Oscar Wilde & Edgar Allan Poe | Blitz | Krimi | 4 |   | [[wiki/serien/oscar-wilde-und-poe]] |
 | 2026 | Oscar Wilde – Die ungelösten Fälle des Mycroft Holmes | Blitz | Krimi | 2 |   | [[wiki/serien/wilde-mycroft-ungeloeste]] |
 | 2026 | Die Abenteuer des Kapitän Nemo | Blitz | Abenteuer | 2 |   | [[wiki/serien/kapitaen-nemo]] |
 
-*Folgenzahlen Stand 2026-04-27, Quelle: [Fan-Übersicht](../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md). Werden bei jedem Ingest in den Serien-Seiten aktualisiert.
+*Folgenzahlen zuletzt nachgezogen fuer Sherlock Holmes am 2026-04-28. Dort gilt: 20 Folgen sind veroeffentlicht, Folge 21 ist fuer 2026-06-19 angekuendigt. Basis: [Fan-Übersicht](../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md) plus spaetere Serien-Ingests.
 
 ## Phasen
 

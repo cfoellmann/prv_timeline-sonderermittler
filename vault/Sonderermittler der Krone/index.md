@@ -29,7 +29,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/serien/moriarty|Moriarty – Zwischen Genie und Verbrechen]] — seit 2020, Krimi, 25 Folgen auf der offiziellen Serienseite; Folge 25 ist fuer Juni 2026 angekuendigt.
 - [[wiki/serien/dracula|Dracula und der Zirkel der Sieben]] — 2020–2024, Horror, 16 Folgen, abgeschlossen (Stub).
 - [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] — seit 2020, Horror, 24 Folgen (Stub).
-- [[wiki/serien/sherlock-holmes|Sherlock Holmes – Sonderermittler der Krone]] — seit 2022, Krimi, 21 Folgen + 10 Re-Release-Folgen integriert (Stub).
+- [[wiki/serien/sherlock-holmes|Sherlock Holmes – Sonderermittler der Krone]] — seit 25.11.2022, Krimi; offiziell 21 Folgen gelistet, davon Folge 21 erst fuer 19.06.2026 angekuendigt, plus 10 integrierte Re-Release-Folgen.
 
 ### Blitz Verlag — Spin-offs ab Ende 2024
 
@@ -157,6 +157,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/figuren/henry-wheeler|Henry Wheeler]] — Nebenfigur, Umfeld Wilde (Erstauftritt OWMH 1).
 - [[wiki/figuren/irene-adler|Irene Adler]] — Sonderermittlerin der Krone mit eigener Hauptreihe und wiederkehrender Crossover-Rolle.
 - [[wiki/figuren/james-moriarty|James Moriarty]] — kriminelles Genie zwischen Eigeninteresse und offener Intrige gegen den Zirkel.
+- [[wiki/figuren/john-watson|John Watson]] — Holmes' staendiger Begleiter und wiederkehrende Figurenpraesenz an mehreren Kosmos-Scharnieren.
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — Auftraggeber der Krone, strategischer Kopf gegen den Zirkel.
 - [[wiki/figuren/nikola-tesla|Nikola Tesla]] — genialer Erfinder und Titelheld der Blitz-Reihe Tesla.
 - [[wiki/figuren/oscar-wilde|Oscar Wilde]] — Titelheld, Sonderermittler ab OWMH 1.
@@ -176,3 +177,4 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md](raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md) — offizielle Folgen-Seiten 1–2 der Blitz-Reihe, als paraphrasierte Arbeitsnotiz erschlossen.
 - [raw/maritim/2026-04-28_tesla_folgen-01-08.md](raw/maritim/2026-04-28_tesla_folgen-01-08.md) — offizielle Serien- und Folgen-Seiten 1–8 der Blitz-Reihe Tesla, als paraphrasierte Arbeitsnotiz erschlossen.
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md) — offizielle Folgen-Seiten 0–24 der Maritim-Reihe Moriarty sowie HolyShop-Datumsbelege, als paraphrasierte Arbeitsnotiz erschlossen.
+- [raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md](raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md) — offizielle Serien- und Folgen-Seiten 1–21 der Holmes-Hauptlinie sowie der Re-Release-Ueberblick, als paraphrasierte Arbeitsnotiz erschlossen.
