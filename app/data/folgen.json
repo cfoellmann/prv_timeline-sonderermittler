@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "stand": "2026-04-27",
+  "stand": "2026-04-28",
   "epoche_min_jahr": 1875,
   "epoche_max_jahr": 1905,
   "serien": [
@@ -817,10 +817,10 @@
       "titel": "Lockruf des Untergangs",
       "erschienen": "2022-09-30",
       "story_praezision": "unbekannt",
-      "zirkel": "unklar",
+      "zirkel": "direkt",
       "spoiler_level": "grob",
       "spielzeit_min": 70,
-      "logline": "Eine grausame Mordserie im East End verlangt schnelles und leises Eingreifen.",
+      "logline": "Eine Mordserie in Rom führt Wilde und Violet Ishiguro in einen Artefakt-Plot um den Zirkel.",
       "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-40-lockruf-des-untergangs.md"
     },
     {
@@ -833,7 +833,7 @@
       "zirkel": "unklar",
       "spoiler_level": "grob",
       "spielzeit_min": 58,
-      "logline": "Wilde ermittelt laut offizieller Seite erneut in derselben Mordserie im East End.",
+      "logline": "Wilde und Sherlock verfolgen im East End eine Mordserie, die in Folge 42 weiterlaeuft.",
       "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung.md"
     },
     {
@@ -1032,6 +1032,32 @@
       "spielzeit_min": 58,
       "logline": "Moriarty markiert die Sonderermittler und nutzt ihren Standort gegen sie.",
       "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-56-toedliche-farben.md"
+    },
+    {
+      "id": "wilde-mycroft-ungeloeste-01-der-riese-von-griffin",
+      "serie": "wilde-mycroft-ungeloeste",
+      "nummer": 1,
+      "titel": "Der Riese von Griffin",
+      "erschienen": "2026-01-23",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "grob",
+      "spielzeit_min": 54,
+      "logline": "Wilde und Abel Hawthorn untersuchen in den Highlands die Rueckkehr einer riesenhaften Bestie.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/wilde-mycroft-ungeloeste-01-der-riese-von-griffin.md"
+    },
+    {
+      "id": "wilde-mycroft-ungeloeste-02-die-todesblume",
+      "serie": "wilde-mycroft-ungeloeste",
+      "nummer": 2,
+      "titel": "Die Todesblume",
+      "erschienen": "2026-04-10",
+      "story_praezision": "unbekannt",
+      "zirkel": "unklar",
+      "spoiler_level": "grob",
+      "spielzeit_min": 54,
+      "logline": "Wilde nimmt einen alten Todesfall aus Mycrofts Akten neu auf; Irene Adler ist als Figur gelistet.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume.md"
     },
     {
       "id": "poe-und-dupin-01-insel-der-toedlichen-raetsel",

@@ -81,8 +81,8 @@ Quelle: [offizielle Serien-Übersicht](../../raw/maritim/2026-04-27_owmh_serien-
 | 37 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-37-das-herz-der-see|Das Herz der See]] | 2022 |   |   |
 | 38 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-38-ausser-kontrolle|Außer Kontrolle]] | 2022 |   |   |
 | 39 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-39-der-pfad-der-toten|Der Pfad der Toten]] | 2022 |   |   |
-| 40 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-40-lockruf-des-untergangs|Lockruf des Untergangs]] | 2022 |   |   |
-| 41 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung|Auf Bewährung]] | 2023 |   |   |
+| 40 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-40-lockruf-des-untergangs|Lockruf des Untergangs]] | 30.09.2022 | direkt | Rom-Fall um Artefakte, Crowley und die Worte der Macht |
+| 41 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung|Auf Bewährung]] | 27.01.2023 | unklar | East-End-Mordserie; Sherlock unterstützt Wilde; Auftakt zu Folge 42 |
 | 42 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-42-angst-im-east-end|Angst im East End]] | 31.03.2023 |   | „alter Feind im East End" |
 | 43 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-43-neue-wege|Neue Wege]] | 26.05.2023 | direkt | Tod von Dr. Hoffman; Zirkel verschwört Vertrauten des Königshauses |
 | 44 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-44-dunkler-einfluss|Dunkler Einfluss]] | 2023 |   |   |

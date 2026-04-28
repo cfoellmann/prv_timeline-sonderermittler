@@ -36,7 +36,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/serien/oscar-wilde-und-irene-adler|Oscar Wilde & Irene Adler – Sonderermittler der Krone]] — Ende 2024, Krimi, 4 Folgen (Mini, Stub).
 - [[wiki/serien/tesla|Tesla]] — seit Ende 2024, Krimi, 8 Folgen (Stub).
 - [[wiki/serien/oscar-wilde-und-poe|Oscar Wilde & Edgar Allan Poe]] — Ende 2025/Anfang 2026, Krimi, 4 Folgen (Mini, Stub).
-- [[wiki/serien/wilde-mycroft-ungeloeste|Oscar Wilde – Die ungelösten Fälle des Mycroft Holmes]] — Anfang 2026, Krimi, 2 Folgen (Stub).
+- [[wiki/serien/wilde-mycroft-ungeloeste|Oscar Wilde – Die ungelösten Fälle des Mycroft Holmes]] — seit Januar 2026, Krimi, 2 Folgen, zwei Folgen ingestiert.
 - [[wiki/serien/kapitaen-nemo|Die Abenteuer des Kapitän Nemo]] — seit Februar 2026, Abenteuer, 2 Folgen (Stub).
 
 ### Weiterleitungen (Re-Releases — jetzt Sub-Sektionen ihrer Hauptserie)
@@ -45,6 +45,11 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/serien/archive-sherlock-holmes|Aus den Archiven von Sherlock Holmes]] → siehe [[wiki/serien/sherlock-holmes]].
 
 ## Folgen
+
+### Oscar Wilde – Die ungelösten Fälle des Mycroft Holmes
+
+- [[wiki/folgen/wilde-mycroft-ungeloeste-01-der-riese-von-griffin|WMU 1 — Der Riese von Griffin]] (23.01.2026) — Wilde und Abel Hawthorn untersuchen in den Highlands die Rückkehr einer tödlichen Bestie.
+- [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume|WMU 2 — Die Todesblume]] (10.04.2026) — Wilde prüft einen alten Todesfall aus Mycrofts Akten neu; Irene Adler ist als Figur gelistet.
 
 ### Oscar Wilde & Mycroft Holmes
 
@@ -87,8 +92,8 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-37-das-herz-der-see|OWMH 37 — Das Herz der See]] (28.01.2022) — Ein gestohlenes Tagebuch und mehrere Morde lösen eine globale Jagd aus.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-38-ausser-kontrolle|OWMH 38 — Außer Kontrolle]] (25.03.2022) — Im Amazonasgebiet wird eine Expedition zur Jagd nach einem gefährlichen Artefakt.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-39-der-pfad-der-toten|OWMH 39 — Der Pfad der Toten]] (27.05.2022) — Im Himalaya jagt Oscar Wilde ein weiteres Artefakt der Worte der Macht.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-40-lockruf-des-untergangs|OWMH 40 — Lockruf des Untergangs]] (30.09.2022) — Eine grausame Mordserie im East End verlangt schnelles und leises Eingreifen.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung|OWMH 41 — Auf Bewährung]] (27.01.2023) — Wilde ermittelt laut offizieller Seite erneut in derselben Mordserie im East End.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-40-lockruf-des-untergangs|OWMH 40 — Lockruf des Untergangs]] (30.09.2022) — Eine Mordserie in Rom führt Wilde und Violet Ishiguro in einen Artefakt-Plot um den Zirkel.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung|OWMH 41 — Auf Bewährung]] (27.01.2023) — Wilde und Sherlock verfolgen im East End eine Mordserie, die direkt in Folge 42 weiterläuft.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-42-angst-im-east-end|OWMH 42 — Angst im East End]] (31.03.2023) — Ein weiterer Mord führt Wilde zu einem alten Feind im East End.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-43-neue-wege|OWMH 43 — Neue Wege]] (26.05.2023) — Der Tod von Dr. Hoffman und eine Entführung weisen auf einen größeren Plan.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-44-dunkler-einfluss|OWMH 44 — Dunkler Einfluss]] (28.07.2023) — Der Zirkel will über Lord Duncan das Königshaus unterwandern.
@@ -111,8 +116,11 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/figuren/alfons-grell|Dr. Alfons Grell]] — Wissenschaftler im Zirkel-Umfeld; Erstauftritt in OWMH 4.
 - [[wiki/figuren/benjamin-payton|Dr. Benjamin Payton]] — Verbündeter, später Verräter (Erstauftritt OWMH 1, Tod OWMH 18). ⚠️ Strukturelle Spoiler.
 - [[wiki/figuren/henry-wheeler|Henry Wheeler]] — Nebenfigur, Umfeld Wilde (Erstauftritt OWMH 1).
+- [[wiki/figuren/irene-adler|Irene Adler]] — Sonderermittlerin der Krone mit eigener Hauptreihe und wiederkehrender Crossover-Rolle.
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — Auftraggeber der Krone, strategischer Kopf gegen den Zirkel.
 - [[wiki/figuren/oscar-wilde|Oscar Wilde]] — Titelheld, Sonderermittler ab OWMH 1.
+- [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] — Bruder Mycrofts, ab 2022 selbst Sonderermittler und in OWMH 41 direkter Partner Wildes.
+- [[wiki/figuren/violet-ishiguro|Violet Ishiguro]] — Verbündete Wildes; für OWMH 40 als Begleiterin nach Rom belegt.
 
 ## Quellen-Übersicht
 
@@ -123,3 +131,4 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [raw/maritim/2026-04-27_owmh_serien-und-folge-01.md](raw/maritim/2026-04-27_owmh_serien-und-folge-01.md) — OWMH komplette Folgenliste 1–56 + Klappentext Folge 1.
 - [raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md](raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md) — OWMH offizielle Detailseiten für Folgen 2–4.
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — OWMH offizielle Detailseiten 5–56, als paraphrasierte Arbeitsnotiz erschlossen.
+- [raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md](raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md) — offizielle Folgen-Seiten 1–2 der Blitz-Reihe, als paraphrasierte Arbeitsnotiz erschlossen.

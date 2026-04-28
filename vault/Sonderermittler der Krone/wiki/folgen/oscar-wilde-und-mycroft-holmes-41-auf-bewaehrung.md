@@ -5,7 +5,7 @@ nummer: 41
 titel: Auf Bewährung
 erschienen: 2023-01-27
 verlag: Maritim
-autor: ""
+autor: Silke Walter
 spielzeit_min: 58
 zirkel: false
 crossover_mit: []
@@ -14,35 +14,40 @@ status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge41-auf-bewaehrung/
+  - https://bastei-luebbe.de/Audio/Krimis-Thriller/Oscar-Wilde-Mycroft-Holmes-Folge-41/9783785784624
+  - https://www.buchtips.net/rez11306-folge-41-auf-bewaehrung.htm
 tags:
   - sonderermittler
 ---
 
 # Oscar Wilde & Mycroft Holmes – 41: Auf Bewährung
 
-> Wilde ermittelt laut offizieller Seite erneut in derselben Mordserie im East End.
+> Oscar Wilde übernimmt mit Sherlock Holmes einen heiklen East-End-Fall, der als Auftakt einer Fortsetzungsgeschichte wirkt.
 
 ## Eckdaten
 
 - **Erscheinungsdatum:** 27.01.2023.
-- **Angabe auf der offiziellen Seite:** 2022.
+- **Angabe auf der offiziellen Fan-Seite:** 2022.
 - **Spielzeit:** 58 Minuten.
 - **Verlag:** Maritim.
+- **Autorin:** Silke Walter.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge41-auf-bewaehrung/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-41.jpg>)*
+- **Prüfnotiz:** Offizielle Fan-Seite und Bastei-Luebbe-Klappentext stimmen hier überein; sekundäre Rezensionen ergänzen, dass Sherlock Holmes Oscar in den Fall zieht und die Folge wie ein Auftakt zu Folge 42 funktioniert.
 
 ## Hauptfiguren
 
 - [[wiki/figuren/oscar-wilde|Oscar Wilde]] — Titelheld und operative Hauptfigur des Falls.
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — strategischer Auftraggeber der Krone im Hintergrund.
+- [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] — übernimmt laut Sekundärquelle eine aktive Rolle im Fall.
 
 ## Handlung (grob)
 
-Der auf der offiziellen Seite sichtbare Text beschreibt noch einmal die Mordserie mit entstellten Leichen und Wildes verdeckte Ermittlungen im East End. Inhaltlich wirkt das wie eine Wiederholung des Klappentexts von Folge 40 statt eines eigenständigen Textes.
+Im Londoner East End werden in mehreren Nächten entstellte Leichen gefunden, was Unruhen in der Bevölkerung auszulösen droht. Oscar Wilde soll die Mordserie diskret aufklären und verfolgt bald eine erste erfolgversprechende Spur. Sekundärquellen deuten darauf hin, dass Sherlock Holmes ihn dabei unterstützt und dass der Fall am Ende noch nicht abgeschlossen ist.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — der offizielle Seitentext liefert keinen eindeutigen Zirkel-Bezug. Arbeitsnotiz: Kein expliziter Zirkel-Hinweis im sichtbaren offiziellen Text
+- **Derzeit offen** — im verifizierten Klappentext kein ausdrücklicher Zirkel-Hinweis; Folge 42 setzt den Handlungsstrang aber direkt fort.
 
 ## Crossover & Querverweise
 
@@ -53,3 +58,5 @@ Der auf der offiziellen Seite sichtbare Text beschreibt noch einmal die Mordseri
 
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge41-auf-bewaehrung/>
+- Bastei Luebbe / Lübbe Audio: <https://bastei-luebbe.de/Audio/Krimis-Thriller/Oscar-Wilde-Mycroft-Holmes-Folge-41/9783785784624>
+- Buchtips-Rezension: <https://www.buchtips.net/rez11306-folge-41-auf-bewaehrung.htm>
