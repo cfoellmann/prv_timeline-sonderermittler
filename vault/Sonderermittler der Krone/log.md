@@ -207,3 +207,25 @@ Chronologisches Aktivitätsprotokoll. Append-only.
 - Restliche 18 Folgen-Seiten `DNAPF 33` bis `DNAPF 50` angelegt; die Reihe liegt damit lokal erstmals vollstaendig bis Folge 50 vor.
 - `wiki/serien/phileas-fogg.md`, `index.md` und `app/data/folgen.json` fuer den Abschlussblock synchronisiert; DNAPF ist als Voll-Crawl jetzt abgeschlossen.
 - Sichtbare Besonderheit: `DNAPF 50` fuehrt als einzige Folge im spaeten Block ein exaktes Erscheinungsdatum (`2026-02-27`) und mit `139 min` deutlich erhoehte Spielzeit.
+
+## [2026-04-29] wiki | Wilde-und-Adler-Serienseite nachgeschaerft
+- `wiki/serien/oscar-wilde-und-irene-adler.md` aus dem Stub geholt und als Blitz-Mini-Serie mit Kosmos-Funktion, Vorlaufpunkten und offenen Datenluecken dokumentiert.
+- Zentraler Repo-Befund: Die Reihe wirkt lokal nicht als Neubeginn, sondern als eigene Verdichtung einer seit `OWMH 16` aufgebauten Wilde/Adler-Achse.
+- `index.md` fuer die Serie auf den neuen Stand gebracht; ein eigener Folgen-Crawl fuer `wilde-und-adler/` steht weiterhin aus.
+
+## [2026-04-29] ingest | Wilde & Adler Folgen 1 bis 4
+- Offizielle Serien- und Folgen-Seiten der Blitz-Mini-Serie `Oscar Wilde & Irene Adler – Sonderermittler der Krone` als neue paraphrasierte Arbeitsquelle abgelegt: `raw/maritim/2026-04-29_wilde-und-adler_folgen-01-bis-04.md`.
+- Vier Folgen-Seiten `WIA 1` bis `WIA 4` unter `wiki/folgen/` angelegt; Serien-Seite `wiki/serien/oscar-wilde-und-irene-adler.md` auf konkreten Folgenstand und direkten Zirkel-Bezug angehoben.
+- `index.md` und `app/data/folgen.json` fuer die Mini-Serie synchronisiert.
+- Auffaelligkeit dokumentiert: Die offizielle Folgen-Seite von `WIA 3` wiederholt derzeit offenbar den Klappentext von `WIA 2`; die grobe Handlungsbeschreibung bleibt dort deshalb bewusst vorsichtig.
+
+## [2026-04-29] wiki | Kapitaen-Nemo-Serienseite nachgeschaerft
+- `wiki/serien/kapitaen-nemo.md` von Stub auf Entwurfsstand gehoben und als kleine Blitz-Spin-off-Reihe mit lokaler Kosmos-Einordnung ausgebaut.
+- Nemo-Anker aus `DNAPF 1`, `18`, `20` sowie `41` bis `43` gebuendelt, damit die Reihe trotz fehlender Einzel-Ingests schon sauber an die Verne-Achse anschliesst.
+- `index.md` fuer die Serien-Kurzbeschreibung nachgezogen; `zirkel` bleibt bewusst auf `unklar`, bis eigenstaendige Nemo-Folgen lokal vorliegen.
+
+## [2026-04-29] ingest | Kapitaen Nemo Folgen 1 bis 2
+- Neue Arbeitsquelle `raw/maritim/2026-04-29_kapitaen-nemo_folgen-01-02.md` angelegt; offizielle Nemo-Serien- und Folgen-Seiten 1 bis 2 spoilerarm paraphrasiert.
+- Folgen-Seiten `NEM 1` und `NEM 2` unter `wiki/folgen/` angelegt; `wiki/serien/kapitaen-nemo.md` von bloesser Reihen-Einordnung auf echten Folgenstand hochgezogen.
+- `index.md`, `wiki/figuren/kapitaen-nemo.md` und `app/data/folgen.json` fuer den nun lokal ingestierten Nemo-Zweiteiler synchronisiert.
+- Auffaelligkeit dokumentiert: Die offizielle Serienseite zeigte beim Abruf noch nur Folge `01`, obwohl Figuren-Seiten und direkte Folgen-URL bereits auch Folge `02` belegen.

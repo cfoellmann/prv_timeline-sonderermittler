@@ -33,11 +33,11 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 
 ### Blitz Verlag — Spin-offs ab Ende 2024
 
-- [[wiki/serien/oscar-wilde-und-irene-adler|Oscar Wilde & Irene Adler – Sonderermittler der Krone]] — Ende 2024, Krimi, 4 Folgen (Mini, Stub).
+- [[wiki/serien/oscar-wilde-und-irene-adler|Oscar Wilde & Irene Adler – Sonderermittler der Krone]] — seit Ende 2024, 4-teilige Blitz-Mini-Serie; verdichtet die bereits laufende Wilde/Adler-Achse des Kosmos.
 - [[wiki/serien/tesla|Tesla]] — seit Ende 2024, Krimi, 8 Folgen, mit direktem Moriarty-/Zirkel-Anschluss.
 - [[wiki/serien/oscar-wilde-und-poe|Oscar Wilde & Edgar Allan Poe]] — Ende 2025/Anfang 2026, Krimi, 4 Folgen (Mini, Stub).
 - [[wiki/serien/wilde-mycroft-ungeloeste|Oscar Wilde – Die ungelösten Fälle des Mycroft Holmes]] — seit Januar 2026, Krimi, 2 Folgen, zwei Folgen ingestiert.
-- [[wiki/serien/kapitaen-nemo|Die Abenteuer des Kapitän Nemo]] — seit Februar 2026, Abenteuer, 2 Folgen (Stub).
+- [[wiki/serien/kapitaen-nemo|Die Abenteuer des Kapitän Nemo]] — seit 13.02.2026, Abenteuer, 2 Folgen; Nemo erzaehlt Phileas Fogg in einem Insel-Zweiteiler eine fruehere Geschichte.
 
 ### Weiterleitungen (Re-Releases — jetzt Sub-Sektionen ihrer Hauptserie)
 
@@ -127,6 +127,18 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 
 - [[wiki/folgen/wilde-mycroft-ungeloeste-01-der-riese-von-griffin|WMU 1 — Der Riese von Griffin]] (23.01.2026) — Wilde und Abel Hawthorn untersuchen in den Highlands die Rückkehr einer tödlichen Bestie.
 - [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume|WMU 2 — Die Todesblume]] (10.04.2026) — Wilde prüft einen alten Todesfall aus Mycrofts Akten neu; Irene Adler ist als Figur gelistet.
+
+### Die Abenteuer des Kapitän Nemo
+
+- [[wiki/folgen/kapitaen-nemo-01-die-gestrandeten-des-luftmeeres|NEM 1 — Die Gestrandeten des Luftmeeres]] (13.02.2026) — Nemo berichtet Phileas Fogg von einer Ballonflucht, die auf einer geheimnisvollen Insel strandet.
+- [[wiki/folgen/kapitaen-nemo-02-das-geheimnis-der-insel|NEM 2 — Das Geheimnis der Insel]] (17.04.2026) — Entfuehrung, Piratenangriff und unerwartete Hilfe treiben den Insel-Block weiter.
+
+### Oscar Wilde & Irene Adler
+
+- [[wiki/folgen/oscar-wilde-und-irene-adler-01-das-schottische-stueck|WIA 1 — Das schottische Stück]] (25.10.2024) — Ein Mord auf einem Shakespeare-Festival in Edinburgh zieht Wilde und Adler in ihre Blitz-Mini-Serie.
+- [[wiki/folgen/oscar-wilde-und-irene-adler-02-die-tragoedie-der-irrungen|WIA 2 — Die Tragödie der Irrungen]] (01.11.2024) — Ein geheimes Macbeth-Manuskript führt nach Cawdor Castle; der Zirkel sucht mit.
+- [[wiki/folgen/oscar-wilde-und-irene-adler-03-ein-sommernachtsalbtraum|WIA 3 — Ein Sommernachtsalbtraum]] (08.11.2024) — Die offizielle Seite dupliziert derzeit offenbar Folge 2; sicher belegt ist die Fortsetzung des Manuskript-Plots und Killjoy als neue Figurenpraesenz.
+- [[wiki/folgen/oscar-wilde-und-irene-adler-04-was-ihr-nicht-wollt|WIA 4 — Was ihr nicht wollt]] (15.11.2024) — Crowleys Sprengstoff-Plan richtet sich direkt gegen Parlament und Buckingham Palace.
 
 ### Moriarty
 
@@ -257,7 +269,9 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [raw/maritim/2026-04-27_owmh_serien-und-folge-01.md](raw/maritim/2026-04-27_owmh_serien-und-folge-01.md) — OWMH komplette Folgenliste 1–56 + Klappentext Folge 1.
 - [raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md](raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md) — OWMH offizielle Detailseiten für Folgen 2–4.
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — OWMH offizielle Detailseiten 5–56, als paraphrasierte Arbeitsnotiz erschlossen.
+- [raw/maritim/2026-04-29_wilde-und-adler_folgen-01-bis-04.md](raw/maritim/2026-04-29_wilde-und-adler_folgen-01-bis-04.md) — offizielle Serien- und Folgen-Seiten 1–4 der Blitz-Mini-Serie, als paraphrasierte Arbeitsnotiz erschlossen.
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md](raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md) — DNAPF offizielle Folgenseiten 6, 7, 9, 13–21, als paraphrasierte Arbeitsnotiz erschlossen.
+- [raw/maritim/2026-04-29_kapitaen-nemo_folgen-01-02.md](raw/maritim/2026-04-29_kapitaen-nemo_folgen-01-02.md) — offizielle Nemo-Serien- und Folgen-Seiten 1–2, als paraphrasierte Arbeitsnotiz erschlossen.
 - [raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md](raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md) — offizielle Folgen-Seiten 1–2 der Blitz-Reihe, als paraphrasierte Arbeitsnotiz erschlossen.
 - [raw/maritim/2026-04-28_tesla_folgen-01-08.md](raw/maritim/2026-04-28_tesla_folgen-01-08.md) — offizielle Serien- und Folgen-Seiten 1–8 der Blitz-Reihe Tesla, als paraphrasierte Arbeitsnotiz erschlossen.
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md) — offizielle Folgen-Seiten 0–24 der Maritim-Reihe Moriarty sowie HolyShop-Datumsbelege, als paraphrasierte Arbeitsnotiz erschlossen.
