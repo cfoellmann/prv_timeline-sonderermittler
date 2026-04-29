@@ -229,3 +229,9 @@ Chronologisches Aktivitätsprotokoll. Append-only.
 - Folgen-Seiten `NEM 1` und `NEM 2` unter `wiki/folgen/` angelegt; `wiki/serien/kapitaen-nemo.md` von bloesser Reihen-Einordnung auf echten Folgenstand hochgezogen.
 - `index.md`, `wiki/figuren/kapitaen-nemo.md` und `app/data/folgen.json` fuer den nun lokal ingestierten Nemo-Zweiteiler synchronisiert.
 - Auffaelligkeit dokumentiert: Die offizielle Serienseite zeigte beim Abruf noch nur Folge `01`, obwohl Figuren-Seiten und direkte Folgen-URL bereits auch Folge `02` belegen.
+
+## [2026-04-29] wiki | Irene-Adler-Serienseite nachgeschaerft
+- `wiki/serien/irene-adler.md` von Stub auf Entwurfsstand gehoben und als eigenstaendige Sonderermittler-Linie mit SHC-Grundstein, OWMH-Vorlauf und spaeteren Holmes-/Tesla-/Blitz-Anschluessen eingeordnet.
+- Bewusst keine erfundene Voll-Folgenliste ergänzt: Die Seite dokumentiert derzeit nur lokal belastbare IADK-Anker (`SHC 45`, `OWMH 16`, `IADK 4`, `IADK 15`) und markiert den Voll-Crawl weiter als offen.
+- `index.md` fuer die neue Kurzbeschreibung der Serie synchronisiert.
+- Partielle Folgenliste nachgezogen: vier lokal bereits in `app/data/folgen.json` belegte IADK-Folgen (`1`, `4`, `6`, `15`) jetzt direkt auf der Serienseite sichtbar gemacht.

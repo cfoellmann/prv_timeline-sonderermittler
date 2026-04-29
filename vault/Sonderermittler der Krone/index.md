@@ -25,7 +25,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/serien/phileas-fogg|Jules Verne – Die neuen Abenteuer des Phileas Fogg]] — seit 06.11.2015, Abenteuer/Fantasy, 50 Folgen; fruehe Kosmos-Drehscheibe fuer Nemo, Robur, Frankenstein, Dracula und das erste Wilde-Crossover.
 - [[wiki/serien/oscar-wilde-und-mycroft-holmes|Oscar Wilde & Mycroft Holmes – Sonderermittler der Krone]] — seit 2016, Krimi, 56 Folgen, **Hauptserie** (Stub).
 - [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]] — seit 2018, Krimi, 34 Folgen + 12 Re-Release-Folgen integriert (Stub).
-- [[wiki/serien/irene-adler|Irene Adler – Sonderermittlerin der Krone]] — seit 2019, Krimi, 33 Folgen (Stub).
+- [[wiki/serien/irene-adler|Irene Adler – Sonderermittlerin der Krone]] — seit 28.06.2019, Krimi, 33 Folgen; eigenstaendige Adler-Linie zwischen SHC-Grundstein, Rasputin-Anker und spaeteren Holmes-/Wilde-Crossovern.
 - [[wiki/serien/moriarty|Moriarty – Zwischen Genie und Verbrechen]] — seit 2020, Krimi, 25 Folgen auf der offiziellen Serienseite; Folge 25 ist fuer Juni 2026 angekuendigt.
 - [[wiki/serien/dracula|Dracula und der Zirkel der Sieben]] — 2020–2024, Horror, 16 Folgen, abgeschlossen (Stub).
 - [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] — seit 2020, Horror, 24 Folgen (Stub).
