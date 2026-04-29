@@ -11,6 +11,8 @@ quellen:
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md
+  - raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md
+  - raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md
 tags:
   - frueher-zirkel-auftritt
   - maritim
@@ -27,7 +29,7 @@ tags:
 - **Erstveroeffentlichung:** 06.11.2015 mit [[wiki/folgen/phileas-fogg-01-entfuehrung-auf-hoher-see|DNAPF 1 "Entfuehrung auf hoher See"]].
 - **Folgenstand:** 50 Folgen laut Serienuebersicht vom 27.04.2026.
 - **Bezug zum Zirkel:** zunaechst randstaendig bis indirekt, spaeter deutlich kosmosrelevant ueber Robur, Frankenstein, Dracula und die Zusammenarbeit mit Oscar Wilde.
-- **Repo-Stand des Folgen-Crawls:** 23 Folgen-Seiten liegen jetzt im Repo vor; der Mittelblock 6, 7, 9, 13 bis 21 wurde am 29.04.2026 ueber offizielle Folgenseiten nachgezogen.
+- **Repo-Stand des Folgen-Crawls:** Alle 50 Folgen liegen jetzt im Repo vor; am 29.04.2026 wurde der Bestand in drei Bloecken bis `DNAPF 50` auf offizielle Folgenseiten hochgezogen.
 
 ## Kosmos-Rolle
 
@@ -70,10 +72,35 @@ tags:
 | 19 | [[wiki/folgen/phileas-fogg-19-duell-im-wilden-westen|Duell im Wilden Westen]] | 2019 | kein |   | Wilder-Westen-Fortsetzung der Weltreise-Wahrheit |
 | 20 | [[wiki/folgen/phileas-fogg-20-wettlauf-mit-der-zeit|Wettlauf mit der Zeit]] | 2019 | kein | [[wiki/serien/kapitaen-nemo|Die Abenteuer des Kapitaen Nemo]] | offizieller Teaser nur als Finale des Weltreise-Blocks |
 | 21 | [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis|Die sieben Seelen des Anubis]] | 18.10.2019 | direkt | [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]], [[wiki/serien/dracula|Dracula und der Zirkel der Sieben]] | offizieller Seitentitel `Seelen`; Chronologienotiz nennt `Steine` |
+| 22 | [[wiki/folgen/phileas-fogg-22-die-gasse-der-fluesternden-schatten|Die Gasse der fluesternden Schatten]] | 2020 | direkt | [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] | Paris-Fall; Fogg vermutet Frankenstein hinter dem Spukhaus |
+| 23 | [[wiki/folgen/phileas-fogg-23-verschwoerung-auf-dem-atlantik|Verschwoerung auf dem Atlantik]] | 2020 | kein |   | Schiffbruch- und `Ghost`-Block um Wolf Larsen |
 | 24 | [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel|Die geheimnisvolle Insel]] | 08.05.2020 | direkt | [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]], [[wiki/serien/dracula|Dracula und der Zirkel der Sieben]] | Zweikampf Frankenstein gegen Dracula |
+| 25 | [[wiki/folgen/phileas-fogg-25-diamantenjaeger|Diamantenjaeger]] | 2020 | kein |   | Aoudas Verschwinden fuehrt an die Kueste der Skelette |
 | 26 | [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette|Die Kueste der Skelette]] | 20.11.2020 | direkt | [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] | Robur kehrt in neuem Koerper zurueck |
-
-> Der Voll-Crawl der Reihe steht weiterhin aus. Noch offen sind vor allem DNAPF 22, 23, 25 sowie 27 bis 50.
+| 27 | [[wiki/folgen/phileas-fogg-27-der-fluch-der-harpyie|Der Fluch der Harpyie]] | 2021 | direkt | [[wiki/serien/dracula|Dracula und der Zirkel der Sieben]] | Dracula, Diamanten und Harpyien-Artefakt |
+| 28 | [[wiki/folgen/phileas-fogg-28-herrscher-der-luefte|Herrscher der Luefte]] | 2021 | kein |   | Forschungsgondel ueber der `Medusa` wird zur Falle |
+| 29 | [[wiki/folgen/phileas-fogg-29-die-verschwoerung|Die Verschwoerung]] | 2021 | kein |   | Fogg wird im Reform Club zum Verdaechtigen einer Intrige |
+| 30 | [[wiki/folgen/phileas-fogg-30-der-schatz-der-verdammten|Der Schatz der Verdammten]] | 2022 | kein |   | Chateau-d'If-Flucht und Inseljagd mit Edmond Dantes |
+| 31 | [[wiki/folgen/phileas-fogg-31-gefaehrliche-wiederkehr|Gefaehrliche Wiederkehr]] | 2022 | kein |   | Aoudas Vergangenheit und Foggs Rueckreise verknuepfen sich |
+| 32 | [[wiki/folgen/phileas-fogg-32-abrechnung|Abrechnung]] | 2022 | indirekt | [[wiki/serien/oscar-wilde-und-mycroft-holmes|Oscar Wilde & Mycroft Holmes]] | Mycroft Holmes verknuepft den Abschluss des Verschwoerungs-Blocks |
+| 33 | [[wiki/folgen/phileas-fogg-33-von-der-erde-zum-mond|Von der Erde zum Mond]] | 2022 | kein |   | Mondprojekt in Florida geraet unter Sabotageverdacht |
+| 34 | [[wiki/folgen/phileas-fogg-34-irrfahrt-ins-ungewisse|Irrfahrt ins Ungewisse]] | 2022 | direkt | [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]], [[wiki/serien/dracula|Dracula und der Zirkel der Sieben]] | Fogg sitzt mit Frankenstein in der Raumkapsel; Dracula kreuzt den Key-Largo-Strang |
+| 35 | [[wiki/folgen/phileas-fogg-35-roburs-rache|Roburs Rache]] | 2023 | direkt | [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] | Rueckkehr der Mondkapsel und Roburs Vernichtungsplan |
+| 36 | [[wiki/folgen/phileas-fogg-36-der-letzte-tag-auf-erden|Der letzte Tag auf Erden]] | 2023 | direkt | [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] | Fogg jagt Robur mit Hilfe Frankensteins bis nach Indonesien |
+| 37 | [[wiki/folgen/phileas-fogg-37-die-stunde-null|Die Stunde Null]] | 2023 | direkt | [[wiki/serien/oscar-wilde-und-mycroft-holmes|Oscar Wilde & Mycroft Holmes]], [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] | Mycroft-Hauptquartier und Afrika-Revolution greifen ineinander |
+| 38 | [[wiki/folgen/phileas-fogg-38-von-feinden-umgeben|Von Feinden umgeben]] | 2023 | direkt | [[wiki/serien/oscar-wilde-und-mycroft-holmes|Oscar Wilde & Mycroft Holmes]], [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] | Moerderinnenjagd, Hauptquartier-Sabotage und Affenmenschen auf der Flucht |
+| 39 | [[wiki/folgen/phileas-fogg-39-die-afrika-verschwoerung|Die Afrika-Verschwoerung]] | 2024 | direkt | [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]], [[wiki/serien/dracula|Dracula und der Zirkel der Sieben]] | Frankenstein, Dracula und Harriet Malone verdichten den Afrika-Plot |
+| 40 | [[wiki/folgen/phileas-fogg-40-im-land-der-tausend-gefahren|Im Land der tausend Gefahren]] | 2024 | kein |   | Saint-Noire-Flucht und Hinterhalt um Harriet Malone |
+| 41 | [[wiki/folgen/phileas-fogg-41-aufbruch|Aufbruch]] | 2024 | direkt | [[wiki/serien/oscar-wilde-und-mycroft-holmes|Oscar Wilde & Mycroft Holmes]], [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]], [[wiki/serien/kapitaen-nemo|Die Abenteuer des Kapitaen Nemo]] | Mycrofts Auftrag, Nemos Verfolgung und Frankensteins Sturm-Eskalation |
+| 42 | [[wiki/folgen/phileas-fogg-42-gefaehrliche-suche|Gefaehrliche Suche]] | 2024 | direkt | [[wiki/serien/oscar-wilde-und-mycroft-holmes|Oscar Wilde & Mycroft Holmes]], [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]], [[wiki/serien/kapitaen-nemo|Die Abenteuer des Kapitaen Nemo]] | Oscar Wilde arbeitet hier direkt mit Fogg fuer Mycroft |
+| 43 | [[wiki/folgen/phileas-fogg-43-afrika-in-gefahr|Afrika in Gefahr]] | 2024 | direkt | [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]], [[wiki/serien/kapitaen-nemo|Die Abenteuer des Kapitaen Nemo]] | Tarzan, Frankenstein und eine Londoner Falle verbinden sich |
+| 44 | [[wiki/folgen/phileas-fogg-44-giganten|Giganten]] | 2025 | direkt | [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] | Frankensteins Serum entfesselt in London eine Bestie |
+| 45 | [[wiki/folgen/phileas-fogg-45-das-erbe-der-isais|Das Erbe der Isais]] | 2025 | kein |   | Museumseinbruch, schwarzer Spiegel und Start des Isais-Blocks |
+| 46 | [[wiki/folgen/phileas-fogg-46-der-verdammte-von-nepal|Der Verdammte von Nepal]] | 2025 | kein |   | Speerspitze der Isais und toedliche Herrenhausfalle |
+| 47 | [[wiki/folgen/phileas-fogg-47-der-schwarze-spiegel|Der schwarze Spiegel]] | 2025 | direkt | [[wiki/serien/oscar-wilde-und-mycroft-holmes|Oscar Wilde & Mycroft Holmes]], [[wiki/serien/irene-adler|Irene Adler – Sonderermittlerin der Krone]], [[wiki/serien/sherlock-holmes|Sherlock Holmes – Sonderermittler der Krone]] | Holmes zieht Irene Adler und Oscar Wilde in den Isais-Komplex |
+| 48 | [[wiki/folgen/phileas-fogg-48-im-auge-des-kristalls|Im Auge des Kristalls]] | 2025 | kein |   | Untersberg-, Burg- und Kristall-Block mit Amber Quinn |
+| 49 | [[wiki/folgen/phileas-fogg-49-dunkle-vorzeichen|Dunkle Vorzeichen]] | 2026 | kein |   | Zug nach Venedig und Schluesselbegegnung um die schwarze Isais |
+| 50 | [[wiki/folgen/phileas-fogg-50-goetterdaemmerung|Goetterdaemmerung]] | 27.02.2026 | kein |   | ueberlanges Indien-Finale um den Kristall der Isais |
 
 ## Verwandte Serien
 
@@ -87,4 +114,6 @@ tags:
 - [raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md](../../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md)
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Daten und Ankerereignisse fuer die bisher erschlossenen Folgen.
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md) — offizielle Folgenseiten 6, 7, 9, 13 bis 21, paraphrasiert.
+- [raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md) — offizielle Folgenseiten 22 bis 32, paraphrasiert.
+- [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md) — offizielle Folgenseiten 33 bis 50, paraphrasiert.
 - Offizielle Serien-Seite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/>

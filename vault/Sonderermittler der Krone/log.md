@@ -195,3 +195,15 @@ Chronologisches Aktivitätsprotokoll. Append-only.
 - Neue Folgen-Seiten `DNAPF 6`, `7`, `9`, `13` bis `20` angelegt; `DNAPF 21` von Stub auf groben Spoiler-Stand gehoben.
 - Serienseite `wiki/serien/phileas-fogg.md`, `index.md` und `app/data/folgen.json` fuer den erweiterten Crawl synchronisiert.
 - Auffaelligkeiten dokumentiert: Die offizielle Seite von `DNAPF 17` dupliziert offenbar den Klappentext von `DNAPF 16`; `DNAPF 21` heisst auf der offiziellen Folgenseite `Die sieben Seelen des Anubis`, waehrend die bisherige Loechel-Chronologie `Die sieben Steine des Anubis` notiert.
+
+## [2026-04-29] ingest | Phileas Fogg Folgen 22 bis 32
+- Neue Arbeitsquelle `raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md` angelegt; offizielle DNAPF-Folgenseiten 22 bis 32 spoilerarm paraphrasiert.
+- Neun neue Folgen-Seiten `DNAPF 22`, `23`, `25`, `27` bis `32` angelegt; die bisherigen Stubs `DNAPF 24` und `DNAPF 26` auf offiziellen Stand mit grober Handlung gehoben.
+- `wiki/serien/phileas-fogg.md` und `index.md` fuer den neuen Block aktualisiert; offener Restbestand jetzt `DNAPF 33` bis `50`.
+- `app/data/folgen.json` fuer den Block 22 bis 32 inkl. `spielzeit_min`, `wiki`, `logline` und angepasstem `spoiler_level` bei 24 und 26 synchronisiert.
+
+## [2026-04-29] ingest | Phileas Fogg Folgen 33 bis 50
+- Neue Arbeitsquelle `raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md` angelegt; offizielle DNAPF-Folgenseiten 33 bis 50 spoilerarm paraphrasiert.
+- Restliche 18 Folgen-Seiten `DNAPF 33` bis `DNAPF 50` angelegt; die Reihe liegt damit lokal erstmals vollstaendig bis Folge 50 vor.
+- `wiki/serien/phileas-fogg.md`, `index.md` und `app/data/folgen.json` fuer den Abschlussblock synchronisiert; DNAPF ist als Voll-Crawl jetzt abgeschlossen.
+- Sichtbare Besonderheit: `DNAPF 50` fuehrt als einzige Folge im spaeten Block ein exaktes Erscheinungsdatum (`2026-02-27`) und mit `139 min` deutlich erhoehte Spielzeit.

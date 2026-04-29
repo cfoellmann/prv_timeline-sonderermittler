@@ -69,8 +69,35 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/phileas-fogg-19-duell-im-wilden-westen|DNAPF 19 — Duell im Wilden Westen]] (2019) — In der Neuen Welt warten Duell, Ueberfall und ein verdeckter Gegner.
 - [[wiki/folgen/phileas-fogg-20-wettlauf-mit-der-zeit|DNAPF 20 — Wettlauf mit der Zeit]] (2019) — Die offizielle Seite markiert vor allem das grosse Finale der wahren Weltreise.
 - [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis|DNAPF 21 — Die sieben Seelen des Anubis]] (18.10.2019) — Frankenstein kehrt zurueck; die offizielle Folgenseite fuehrt den Titel als `Seelen`, nicht `Steine`.
-- [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel|DNAPF 24 — Die geheimnisvolle Insel]] (08.05.2020) — Die Fogg-Reihe fuehrt Frankenstein und Dracula in einen direkten Konflikt.
-- [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette|DNAPF 26 — Die Kueste der Skelette]] (20.11.2020) — Robur kehrt laut Chronologie in einem neuen Koerper zurueck.
+- [[wiki/folgen/phileas-fogg-22-die-gasse-der-fluesternden-schatten|DNAPF 22 — Die Gasse der fluesternden Schatten]] (2020) — Ein Mord an der Seine fuehrt Fogg und seine Gefaehrten in ein unheimliches Haus mit Frankenstein-Spur.
+- [[wiki/folgen/phileas-fogg-23-verschwoerung-auf-dem-atlantik|DNAPF 23 — Verschwoerung auf dem Atlantik]] (2020) — Eine Intrige wirft Fogg waehrend eines Sturms ueber Bord und auf die `Ghost`.
+- [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel|DNAPF 24 — Die geheimnisvolle Insel]] (08.05.2020) — Eine unbekannte Insel, Aoudas Spur und ein Tunnelsystem fuehren in einen dunklen Machtkonflikt.
+- [[wiki/folgen/phileas-fogg-25-diamantenjaeger|DNAPF 25 — Diamantenjaeger]] (2020) — Aoudas Verschwinden fuehrt Fogg und Passepartout ueber die hohe See an die Kueste der Skelette.
+- [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette|DNAPF 26 — Die Kueste der Skelette]] (20.11.2020) — Aoudas Flucht an Afrikas Skelettkueste kreuzt eine Diamantenmine und Roburs Rueckkehr.
+- [[wiki/folgen/phileas-fogg-27-der-fluch-der-harpyie|DNAPF 27 — Der Fluch der Harpyie]] (2021) — Dracula, geraubte Diamanten und die Harpyie treiben Fogg nach New York.
+- [[wiki/folgen/phileas-fogg-28-herrscher-der-luefte|DNAPF 28 — Herrscher der Luefte]] (2021) — Eine Forschungsgondel macht die `Medusa` zur Falle auf Foggs Heimreise.
+- [[wiki/folgen/phileas-fogg-29-die-verschwoerung|DNAPF 29 — Die Verschwoerung]] (2021) — Ein Mord im Reform Club macht Fogg zum Verdaechtigen einer grossen Intrige.
+- [[wiki/folgen/phileas-fogg-30-der-schatz-der-verdammten|DNAPF 30 — Der Schatz der Verdammten]] (2022) — Nach der Flucht von Chateau d'If beginnt eine Inseljagd mit Edmond Dantes.
+- [[wiki/folgen/phileas-fogg-31-gefaehrliche-wiederkehr|DNAPF 31 — Gefaehrliche Wiederkehr]] (2022) — Auf See und in London spitzen sich Attentat, Entfuehrung und Aoudas Vergangenheit zu.
+- [[wiki/folgen/phileas-fogg-32-abrechnung|DNAPF 32 — Abrechnung]] (2022) — Mycroft Holmes verbindet Foggs Rueckkehr mit dem Finale des Verschwoerungs-Blocks.
+- [[wiki/folgen/phileas-fogg-33-von-der-erde-zum-mond|DNAPF 33 — Von der Erde zum Mond]] (2022) — Ein Mondflugprojekt in Florida wird fuer Fogg zum Sabotagefall.
+- [[wiki/folgen/phileas-fogg-34-irrfahrt-ins-ungewisse|DNAPF 34 — Irrfahrt ins Ungewisse]] (2022) — Fogg strandet mit Frankenstein in der Raumkapsel, waehrend Dracula den Parallelstrang kreuzt.
+- [[wiki/folgen/phileas-fogg-35-roburs-rache|DNAPF 35 — Roburs Rache]] (2023) — Die Rueckkehr der Mondkapsel laeuft direkt auf Roburs Vergeltungsplan hinaus.
+- [[wiki/folgen/phileas-fogg-36-der-letzte-tag-auf-erden|DNAPF 36 — Der letzte Tag auf Erden]] (2023) — Fogg und Frankenstein verfolgen Robur bis in den indonesischen Dschungel.
+- [[wiki/folgen/phileas-fogg-37-die-stunde-null|DNAPF 37 — Die Stunde Null]] (2023) — Mycroft, Frankenstein und eine drohende Revolution machen Westafrika zum neuen Krisenherd.
+- [[wiki/folgen/phileas-fogg-38-von-feinden-umgeben|DNAPF 38 — Von Feinden umgeben]] (2023) — Eine Moerderinnenjagd und Sabotage am Hauptquartier verdichten den Afrika-Komplex.
+- [[wiki/folgen/phileas-fogg-39-die-afrika-verschwoerung|DNAPF 39 — Die Afrika-Verschwoerung]] (2024) — Frankenstein, Dracula und Harriet Malone verbinden sich zum offenen Afrika-Plot.
+- [[wiki/folgen/phileas-fogg-40-im-land-der-tausend-gefahren|DNAPF 40 — Im Land der tausend Gefahren]] (2024) — Saint Noire und Harriet Malone fuehren Fogg in den naechsten Hinterhalt.
+- [[wiki/folgen/phileas-fogg-41-aufbruch|DNAPF 41 — Aufbruch]] (2024) — Mycrofts Auftrag, Nemo und Frankenstein eskalieren gleichzeitig.
+- [[wiki/folgen/phileas-fogg-42-gefaehrliche-suche|DNAPF 42 — Gefaehrliche Suche]] (2024) — Fogg, Aouda und Oscar Wilde uebernehmen einen gefaehrlichen Auftrag fuer Mycroft Holmes.
+- [[wiki/folgen/phileas-fogg-43-afrika-in-gefahr|DNAPF 43 — Afrika in Gefahr]] (2024) — Tarzan, Nemo und Frankenstein treiben den Afrika-Block in seine toedliche Phase.
+- [[wiki/folgen/phileas-fogg-44-giganten|DNAPF 44 — Giganten]] (2025) — Frankensteins Serum entfesselt in London eine neue Bestie.
+- [[wiki/folgen/phileas-fogg-45-das-erbe-der-isais|DNAPF 45 — Das Erbe der Isais]] (2025) — Ein Museumsraub eroeffnet den schwarzen-Isais-Block.
+- [[wiki/folgen/phileas-fogg-46-der-verdammte-von-nepal|DNAPF 46 — Der Verdammte von Nepal]] (2025) — Eine Isais-Spur fuehrt in eine toedliche Herrenhausfalle.
+- [[wiki/folgen/phileas-fogg-47-der-schwarze-spiegel|DNAPF 47 — Der schwarze Spiegel]] (2025) — Fogg in Frankreich und Holmes mit Irene/Oscar verknuepfen den Isais-Block mit den Krimi-Serien.
+- [[wiki/folgen/phileas-fogg-48-im-auge-des-kristalls|DNAPF 48 — Im Auge des Kristalls]] (2025) — Der Untersberg- und Kristall-Plot kippt in Brand und Entfuehrung.
+- [[wiki/folgen/phileas-fogg-49-dunkle-vorzeichen|DNAPF 49 — Dunkle Vorzeichen]] (2026) — Auf dem Weg nach Venedig verschwimmen fuer Fogg die Grenzen zwischen Freund und Feind.
+- [[wiki/folgen/phileas-fogg-50-goetterdaemmerung|DNAPF 50 — Goetterdaemmerung]] (27.02.2026) — Die Kristalljagd endet in Indien in einem ueberlangen Finale.
 
 ### Sherlock Holmes
 
