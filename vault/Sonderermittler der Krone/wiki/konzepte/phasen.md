@@ -49,10 +49,11 @@ Drei Hauptserien tragen den Kosmos:
 | 17.08.2018 | [[wiki/serien/poe-und-dupin]] (Erstfolge laut Löchel-Chronologie) |
 
 - **Schlüsselereignisse:**
-  - DNAPF 3/4 (2016): Einführung Robur und seiner Organisation — entpuppt sich später als Zirkel.
+  - [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken|DNAPF 3]] / [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl|4]] (2016): [[wiki/figuren/robur|Robur]] und [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] werden früh eingeführt; daraus wächst später ein zentraler Zirkel-Strang.
   - OWMH 1 (11.03.2016): Eintritt in den Sonderermittler-Plot, Wilde wird Sonderermittler.
   - OWMH 4 (14.07.2016): Erstauftritt Dr. Alfons Grell, Zirkel etabliert.
   - OWMH 5 (09.09.2016): Hintergrund [[wiki/konzepte/charles-darwin-gesellschaft|Charles Darwin Gesellschaft]] und 1875-Abspaltung enthüllt.
+  - [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|DNAPF 12]] (17.11.2017): [[wiki/figuren/dracula|Dracula]] tritt im aktuellen Repo-Stand erstmals auf.
 
 ## Phase 4 — 2018/19 – 2021: Erweiterung („bis zum Ende der Zeit")
 

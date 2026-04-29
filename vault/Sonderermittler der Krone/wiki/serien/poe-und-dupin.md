@@ -3,7 +3,7 @@ type: serie
 titel: Edgar Allan Poe & Auguste Dupin
 verlag: Maritim
 genre: Krimi
-start: 2018
+start: 2018-08-17
 status: stub
 zirkel: true
 folgen_count: 34
@@ -11,6 +11,7 @@ re_release_count: 12
 quellen:
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
   - raw/reviews/2026-04-27_re-releases_recherche-notiz.md
+  - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
 tags: []
 ---
 
@@ -22,9 +23,10 @@ tags: []
 
 - **Verlag:** Maritim
 - **Genre:** Krimi
-- **Erstveröffentlichung:** 2018
+- **Erstveroeffentlichung:** 17.08.2018.
 - **Folgenstand (Hauptlinie):** 34 (2026-04-27)
 - **Bezug zum Zirkel:** sekundär. **Erst ab Folge 13 „Aufnahmeprüfung"** spielt der [[wiki/konzepte/zirkel-der-sieben|Zirkel]] eine wichtige Rolle — dort wird [[wiki/figuren/gaston-morell|Gaston Morell]] als 7. Mitglied aufgenommen. Davor: vereinzelte Zirkel-Erscheinungen (Dracula als „Sapriel" ab Folge 2).
+- **Kosmos-Vorlauf:** [[wiki/figuren/edgar-allan-poe|Edgar Allan Poe]] ist im aktuellen Repo-Stand bereits in [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx|DNAPF 5 „Das Geheimnis der Eissphinx“]] verankert.
 
 ## Hauptfiguren
 
@@ -69,11 +71,13 @@ tags: []
 
 ## Verwandte Serien
 
+- [[wiki/serien/phileas-fogg|Jules Verne – Die neuen Abenteuer des Phileas Fogg]] — dort ist Poe aktuell zuerst im Repo nachgewiesen.
 - [[wiki/serien/oscar-wilde-und-poe]] — Blitz-Mini-Crossover 2025/26.
 
 ## Quellen
 
 - [raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md](../../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md)
 - [raw/reviews/2026-04-27_re-releases_recherche-notiz.md](../../raw/reviews/2026-04-27_re-releases_recherche-notiz.md)
+- [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — exaktes Startdatum und DNAPF-5-Anker fuer Poe.
 - Offizielle Serien-Seite (Hauptlinie): <https://www.sonderermittler-der-krone.de/serien/poe-und-dupin/>
 - Offizielle Serien-Seite (Re-Release): <https://www.sonderermittler-der-krone.de/serien/archive-von-poe-und-dupin/>

@@ -70,10 +70,15 @@ Folgen-Seiten dokumentieren standardmäßig die **Spoiler-Stufe „grob"**: Eckd
 
 > Eigene Seiten folgen pro Figur. Diese Liste wird mit jedem Folgen-Ingest gepflegt.
 
-- **Helden:** Oscar Wilde, Mycroft Holmes, Sherlock Holmes, Irene Adler, Auguste Dupin, Edgar Allan Poe, Phileas Fogg, Nikola Tesla, Kapitän Nemo.
-- **Gegner / [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]]:** Dracula (Anführer), Viktor Frankenstein, Robur, der Maharadscha, Rasputin, Aleister Crowley, Gaston Morell. Komplett ab EAPAD 13 „Aufnahmeprüfung".
+- **Helden:** [[wiki/figuren/oscar-wilde|Oscar Wilde]], [[wiki/figuren/mycroft-holmes|Mycroft Holmes]], [[wiki/figuren/sherlock-holmes|Sherlock Holmes]], [[wiki/figuren/irene-adler|Irene Adler]], Auguste Dupin, [[wiki/figuren/edgar-allan-poe|Edgar Allan Poe]], [[wiki/figuren/phileas-fogg|Phileas Fogg]], [[wiki/figuren/nikola-tesla|Nikola Tesla]], [[wiki/figuren/kapitaen-nemo|Kapitaen Nemo]].
+- **Gegner / [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]]:** [[wiki/figuren/dracula|Dracula]] (Anfuehrer), [[wiki/figuren/victor-frankenstein|Victor Frankenstein]], [[wiki/figuren/robur|Robur]], der Maharadscha, Rasputin, Aleister Crowley, Gaston Morell. Komplett ab EAPAD 13 „Aufnahmeprüfung".
 - **Verbündete des Zirkels (nicht Mitglied):** Dr. Alfons Grell, Theodora Sachs, Paul Hiller.
 - **Wurzel-Organisation:** [[wiki/konzepte/charles-darwin-gesellschaft|Charles Darwin Gesellschaft]] — die Vorgänger-Organisation des Zirkels, weiter aktiv.
+
+## DNAPF als Fruehachse
+
+- [[wiki/serien/phileas-fogg|Jules Verne – Die neuen Abenteuer des Phileas Fogg]] ist aktuell die aelteste sauber im Repo angebundene Maritim-Hauptreihe.
+- Besonders wichtig fuer die Kosmos-Navigation sind derzeit die belegten Anker [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken|DNAPF 3]] (Robur), [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl|DNAPF 4]] (Victor Frankenstein), [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx|DNAPF 5]] (Edgar Allan Poe), [[wiki/folgen/phileas-fogg-10-der-herrscher-der-meere|DNAPF 10]] / [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant|11]] (erstes Fogg/Wilde-Crossover) und [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|DNAPF 12]] (Dracula).
 
 ## Offene Fragen
 

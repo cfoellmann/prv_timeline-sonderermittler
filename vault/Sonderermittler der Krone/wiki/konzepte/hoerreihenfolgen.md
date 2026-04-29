@@ -80,6 +80,8 @@ Empfohlen aus Foren-Tradition: **Oscar Wilde & Mycroft Holmes komplett zuerst** 
 **Vorteil:** Zirkel-Plot bleibt zusammenhängend, danach ergänzen die Spin-offs.
 **Nachteil:** Frühe Crossover (z. B. SHC 26/27 oder DNAPF 10/11) wirken im Nachgang weniger überraschend.
 
+> **DNAPF-Anker im aktuellen Repo-Stand:** Besonders relevant fuer diese Variante sind [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken|DNAPF 3]] (Robur), [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl|4]] (Victor Frankenstein), [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx|5]] (Edgar Allan Poe), [[wiki/folgen/phileas-fogg-10-der-herrscher-der-meere|10]] / [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant|11]] (Fogg x Wilde) und [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|12]] (Dracula).
+
 ---
 
 ## Variante 4 — 4er-Zyklen / Phasen

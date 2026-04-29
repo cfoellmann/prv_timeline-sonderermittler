@@ -179,3 +179,13 @@ Chronologisches Aktivitätsprotokoll. Append-only.
 - Alias-Seite `wiki/figuren/viktor-frankenstein.md` ergaenzt, damit beide im Repo vorhandenen Frankenstein-Schreibweisen weiter aufloesen.
 - `wiki/serien/phileas-fogg.md` bei den Hauptfiguren auf die neuen Figuren-Seiten verlinkt.
 - `index.md` im Figurenbereich um die neuen Kosmos-Anker aus der Phileas-/Zirkel-Achse erweitert.
+
+## [2026-04-29] wiki | Phileas-Achse in Uebersichtsseiten verankert
+- `wiki/universum.md` um verlinkte Figurenlisten und einen eigenen DNAPF-Fruehachse-Abschnitt erweitert.
+- `wiki/konzepte/phasen.md` bei Phase 3 um konkrete DNAPF-Ankerfolgen fuer Robur, Frankenstein und Dracula geschaerft.
+- `wiki/konzepte/hoerreihenfolgen.md` in Variante 3 um die aktuell wichtigsten DNAPF-Ankerfolgen ergaenzt.
+
+## [2026-04-29] wiki | DNAPF-Nachbarserien nachgeschaerft
+- `wiki/serien/dracula.md` und `wiki/serien/frankenstein.md` um exakte Startdaten sowie ihre fruehen DNAPF-Vorlaufpunkte erweitert.
+- `wiki/serien/kapitaen-nemo.md` und `wiki/serien/poe-und-dupin.md` um die bereits lokal belegten DNAPF-Erstauftritte ihrer Hauptfiguren ergaenzt.
+- Ziel war kein Voll-Ingest dieser Reihen, sondern eine sauberere Kosmos-Navigation rund um die Phileas-Fogg-Achse.
