@@ -167,3 +167,15 @@ Chronologisches Aktivitätsprotokoll. Append-only.
 - Folgen-Seite `SH 21 Eine Studie in Blutrot` unter `wiki/folgen/` angelegt, obwohl die Folge am Arbeitstag noch nicht veroeffentlicht ist.
 - Wichtig fuer die Datumslogik: `Erscheinungsdatum 19.06.2026`, Stand `28.04.2026` aber ausdruecklich nur angekuendigt.
 - `index.md` und `app/data/folgen.json` um den angekuendigten Tesla-/Bastien-Lavache-Anschluss erweitert.
+
+## [2026-04-28] wiki | Phileas Fogg Serienaufbereitung und Crawl-Start
+- `wiki/serien/phileas-fogg.md` aus dem Blanko-Stub geholt: Kosmos-Rolle, Ankerfolgen, Crossover zu Wilde und die Fruehfunktion fuer Robur/Frankenstein/Dracula dokumentiert.
+- Figuren-Stub `wiki/figuren/phileas-fogg.md` angelegt und elf bereits im Repo belegte DNAPF-Ankerfolgen als erste Wiki-Seiten unter `wiki/folgen/` gestartet.
+- `index.md` um eine eigene DNAPF-Folgen-Sektion erweitert; Figuren- und Serieneintraege fuer Phileas nachgezogen.
+- `app/data/folgen.json` fuer die vorhandenen DNAPF-Ankerfolgen mit `wiki`-Pfaden und Kurzloglines synchronisiert.
+
+## [2026-04-28] wiki | Phileas-Anschluesse und Figurenanker nachgezogen
+- Fehlende, bereits vielfach verlinkte Figuren-Seiten `dracula`, `robur`, `victor-frankenstein`, `kapitaen-nemo` und `edgar-allan-poe` angelegt.
+- Alias-Seite `wiki/figuren/viktor-frankenstein.md` ergaenzt, damit beide im Repo vorhandenen Frankenstein-Schreibweisen weiter aufloesen.
+- `wiki/serien/phileas-fogg.md` bei den Hauptfiguren auf die neuen Figuren-Seiten verlinkt.
+- `index.md` im Figurenbereich um die neuen Kosmos-Anker aus der Phileas-/Zirkel-Achse erweitert.

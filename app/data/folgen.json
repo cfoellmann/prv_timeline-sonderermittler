@@ -145,7 +145,9 @@
       "story_praezision": "unbekannt",
       "story_anmerkung": "Erstauftritt Kapitän Nemo",
       "zirkel": "kein",
-      "spoiler_level": "stub"
+      "spoiler_level": "stub",
+      "logline": "Reihenauftakt der Fogg-Serie; laut Chronologie tritt Kapitän Nemo hier erstmals im Kosmos auf.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/phileas-fogg-01-entfuehrung-auf-hoher-see.md"
     },
     {
       "id": "phileas-fogg-02-der-schatz-von-atlantis",
@@ -156,7 +158,9 @@
       "story_praezision": "unbekannt",
       "story_anmerkung": "Erstauftritt Dr. Jekyll/Mr. Hyde",
       "zirkel": "kein",
-      "spoiler_level": "stub"
+      "spoiler_level": "stub",
+      "logline": "Früher Kosmos-Anker der Reihe: Dr. Jekyll und Mr. Hyde treten laut Chronologie erstmals auf.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/phileas-fogg-02-der-schatz-von-atlantis.md"
     },
     {
       "id": "phileas-fogg-03-krieg-in-den-wolken",
@@ -167,7 +171,9 @@
       "story_praezision": "unbekannt",
       "story_anmerkung": "Erstauftritt Robur; Jekyll/Hyde stirbt",
       "zirkel": "indirekt",
-      "spoiler_level": "stub"
+      "spoiler_level": "stub",
+      "logline": "Robur wird eingeführt, während der Jekyll/Hyde-Strang laut Chronologie hier endet.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/phileas-fogg-03-krieg-in-den-wolken.md"
     },
     {
       "id": "phileas-fogg-04-der-elefant-aus-stahl",
@@ -178,7 +184,9 @@
       "story_praezision": "unbekannt",
       "story_anmerkung": "Erstauftritt Viktor Frankenstein; Robur stirbt",
       "zirkel": "indirekt",
-      "spoiler_level": "stub"
+      "spoiler_level": "stub",
+      "logline": "Victor Frankenstein tritt erstmals auf, während Roburs erster Block laut Chronologie endet.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl.md"
     },
     {
       "id": "phileas-fogg-05-das-geheimnis-der-eissphinx",
@@ -189,7 +197,9 @@
       "story_praezision": "unbekannt",
       "story_anmerkung": "Erstauftritt Edgar Allan Poe",
       "zirkel": "kein",
-      "spoiler_level": "stub"
+      "spoiler_level": "stub",
+      "logline": "Mit Edgar Allan Poe öffnet die Fogg-Reihe laut Chronologie eine weitere Kosmos-Achse.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx.md"
     },
     {
       "id": "phileas-fogg-08-im-angesicht-der-bestien",
@@ -200,7 +210,9 @@
       "story_praezision": "unbekannt",
       "story_anmerkung": "Frankenstein stürzt im Kampf mit Fogg",
       "zirkel": "indirekt",
-      "spoiler_level": "stub"
+      "spoiler_level": "stub",
+      "logline": "Frankensteins Konflikt mit Fogg eskaliert hier laut Chronologie in einen Absturz.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien.md"
     },
     {
       "id": "phileas-fogg-10-der-herrscher-der-meere",
@@ -211,7 +223,9 @@
       "story_praezision": "unbekannt",
       "story_anmerkung": "Erste Zusammenarbeit Fogg × Wilde (Doppelfolge)",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "stub",
+      "logline": "Erster belegter Crossover-Block von Phileas Fogg und Oscar Wilde.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/phileas-fogg-10-der-herrscher-der-meere.md"
     },
     {
       "id": "phileas-fogg-11-die-jagd-nach-kapitaen-grant",
@@ -222,7 +236,9 @@
       "story_praezision": "unbekannt",
       "story_anmerkung": "Erste Zusammenarbeit Fogg × Wilde (Doppelfolge)",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "stub",
+      "logline": "Die erste dokumentierte Zusammenarbeit von Fogg und Wilde wird in dieser Folge fortgesetzt.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant.md"
     },
     {
       "id": "phileas-fogg-12-entscheidung-in-den-karpaten",
@@ -233,7 +249,9 @@
       "story_praezision": "unbekannt",
       "story_anmerkung": "Erstauftritt Dracula",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "stub",
+      "logline": "Schlüsselfolge der Frühphase: Dracula tritt laut Chronologie erstmals im Kosmos auf.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten.md"
     },
     {
       "id": "phileas-fogg-21-die-sieben-steine-des-anubis",
@@ -244,7 +262,9 @@
       "story_praezision": "unbekannt",
       "story_anmerkung": "Frankenstein kehrt zurück (von Dracula gerettet)",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "stub",
+      "logline": "Frankenstein kehrt laut Chronologie zurück, nachdem Dracula ihn gerettet hat.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/phileas-fogg-21-die-sieben-steine-des-anubis.md"
     },
     {
       "id": "phileas-fogg-24-die-geheimnisvolle-insel",
@@ -255,7 +275,9 @@
       "story_praezision": "unbekannt",
       "story_anmerkung": "Zweikampf Frankenstein vs. Dracula",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "stub",
+      "logline": "Die Fogg-Reihe führt Frankenstein und Dracula hier laut Chronologie in einen direkten Konflikt.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel.md"
     },
     {
       "id": "phileas-fogg-26-die-kueste-der-skelette",
@@ -266,7 +288,9 @@
       "story_praezision": "unbekannt",
       "story_anmerkung": "Robur kehrt in neuem Körper zurück",
       "zirkel": "direkt",
-      "spoiler_level": "stub"
+      "spoiler_level": "stub",
+      "logline": "Robur kehrt laut Chronologie in einem neuen Körper in den Kosmos zurück.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/phileas-fogg-26-die-kueste-der-skelette.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-01-zeitenwechsel",

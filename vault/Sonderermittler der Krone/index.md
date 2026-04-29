@@ -22,7 +22,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 
 ### Maritim — Hauptlinie
 
-- [[wiki/serien/phileas-fogg|Jules Verne – Die neuen Abenteuer des Phileas Fogg]] — seit 2015, Abenteuer/Fantasy, 50 Folgen (Stub).
+- [[wiki/serien/phileas-fogg|Jules Verne – Die neuen Abenteuer des Phileas Fogg]] — seit 06.11.2015, Abenteuer/Fantasy, 50 Folgen; fruehe Kosmos-Drehscheibe fuer Nemo, Robur, Frankenstein, Dracula und das erste Wilde-Crossover.
 - [[wiki/serien/oscar-wilde-und-mycroft-holmes|Oscar Wilde & Mycroft Holmes – Sonderermittler der Krone]] — seit 2016, Krimi, 56 Folgen, **Hauptserie** (Stub).
 - [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]] — seit 2018, Krimi, 34 Folgen + 12 Re-Release-Folgen integriert (Stub).
 - [[wiki/serien/irene-adler|Irene Adler – Sonderermittlerin der Krone]] — seit 2019, Krimi, 33 Folgen (Stub).
@@ -45,6 +45,21 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/serien/archive-sherlock-holmes|Aus den Archiven von Sherlock Holmes]] → siehe [[wiki/serien/sherlock-holmes]].
 
 ## Folgen
+
+### Phileas Fogg
+
+- [[wiki/folgen/phileas-fogg-01-entfuehrung-auf-hoher-see|DNAPF 1 — Entfuehrung auf hoher See]] (06.11.2015) — Reihenauftakt; laut Chronologie tritt Kapitaen Nemo erstmals im Kosmos auf.
+- [[wiki/folgen/phileas-fogg-02-der-schatz-von-atlantis|DNAPF 2 — Der Schatz von Atlantis]] (11.12.2015) — Frueher Kosmos-Anker fuer den Erstauftritt von Dr. Jekyll und Mr. Hyde.
+- [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken|DNAPF 3 — Krieg in den Wolken]] (26.02.2016) — Robur tritt erstmals auf; Jekyll/Hyde stirbt laut Chronologie.
+- [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl|DNAPF 4 — Der Elefant aus Stahl]] (22.04.2016) — Victor Frankenstein wird eingefuehrt, waehrend Roburs erster Block endet.
+- [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx|DNAPF 5 — Das Geheimnis der Eissphinx]] (12.08.2016) — Edgar Allan Poe wird erstmals im Kosmos verzeichnet.
+- [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien|DNAPF 8 — Im Angesicht der Bestien]] (27.01.2017) — Frankensteins Konflikt mit Fogg spitzt sich laut Chronologie zu.
+- [[wiki/folgen/phileas-fogg-10-der-herrscher-der-meere|DNAPF 10 — Der Herrscher der Meere]] (16.06.2017) — Erste belegte Zusammenarbeit von Phileas Fogg und Oscar Wilde.
+- [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant|DNAPF 11 — Die Jagd nach Kapitaen Grant]] (17.11.2017) — Zweiter Teil des ersten dokumentierten Fogg/Wilde-Blocks.
+- [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|DNAPF 12 — Entscheidung in den Karpaten]] (17.11.2017) — Dracula tritt hier laut Chronologie erstmals im Kosmos auf.
+- [[wiki/folgen/phileas-fogg-21-die-sieben-steine-des-anubis|DNAPF 21 — Die sieben Steine des Anubis]] (18.10.2019) — Frankenstein kehrt zurueck; Dracula ist laut Ankernotiz beteiligt.
+- [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel|DNAPF 24 — Die geheimnisvolle Insel]] (08.05.2020) — Die Fogg-Reihe fuehrt Frankenstein und Dracula in einen direkten Konflikt.
+- [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette|DNAPF 26 — Die Kueste der Skelette]] (20.11.2020) — Robur kehrt laut Chronologie in einem neuen Koerper zurueck.
 
 ### Sherlock Holmes
 
@@ -178,15 +193,21 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] — Nebenfigur der frühen OWMH-Phase; Erstauftritt in OWMH 2.
 - [[wiki/figuren/alfons-grell|Dr. Alfons Grell]] — Wissenschaftler im Zirkel-Umfeld; Erstauftritt in OWMH 4.
 - [[wiki/figuren/benjamin-payton|Dr. Benjamin Payton]] — Verbündeter, später Verräter (Erstauftritt OWMH 1, Tod OWMH 18). ⚠️ Strukturelle Spoiler.
+- [[wiki/figuren/dracula|Dracula]] — Anführer des Zirkels; im aktuellen Repo-Stand zuerst über DNAPF 12 verankert.
+- [[wiki/figuren/edgar-allan-poe|Edgar Allan Poe]] — frühe Kosmosfigur aus DNAPF 5, später Hauptfigur von Poe & Dupin und Wilde & Poe.
 - [[wiki/figuren/henry-wheeler|Henry Wheeler]] — Nebenfigur, Umfeld Wilde (Erstauftritt OWMH 1).
 - [[wiki/figuren/irene-adler|Irene Adler]] — Sonderermittlerin der Krone mit eigener Hauptreihe und wiederkehrender Crossover-Rolle.
 - [[wiki/figuren/james-moriarty|James Moriarty]] — kriminelles Genie zwischen Eigeninteresse und offener Intrige gegen den Zirkel.
 - [[wiki/figuren/john-watson|John Watson]] — Holmes' staendiger Begleiter und wiederkehrende Figurenpraesenz an mehreren Kosmos-Scharnieren.
+- [[wiki/figuren/kapitaen-nemo|Kapitaen Nemo]] — fruehe Abenteuerfigur des Kosmos; Erstauftritt laut Chronologie in DNAPF 1.
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — Auftraggeber der Krone, strategischer Kopf gegen den Zirkel.
 - [[wiki/figuren/nikola-tesla|Nikola Tesla]] — genialer Erfinder und Titelheld der Blitz-Reihe Tesla.
 - [[wiki/figuren/oscar-wilde|Oscar Wilde]] — Titelheld, Sonderermittler ab OWMH 1.
+- [[wiki/figuren/phileas-fogg|Phileas Fogg]] — Titelheld der aeltesten Maritim-Reihe und fruehe Scharnierfigur des Kosmos.
+- [[wiki/figuren/robur|Robur]] — frueh eingefuehrter Erfinder und laut Konzeptseiten Zirkel-Mitglied.
 - [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] — Bruder Mycrofts, ab 2022 selbst Sonderermittler und in OWMH 41 direkter Partner Wildes.
 - [[wiki/figuren/theodora-sachs|Theodora Sachs]] — Draculas fruehere Assistentin und wiederkehrende Operative im Zirkel-Umfeld.
+- [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] — Zirkel-Wissenschaftler mit frueher DNAPF-Verankerung und eigener Spin-off-Reihe.
 - [[wiki/figuren/violet-ishiguro|Violet Ishiguro]] — Verbündete Wildes; für OWMH 40 als Begleiterin nach Rom belegt.
 
 ## Quellen-Übersicht
