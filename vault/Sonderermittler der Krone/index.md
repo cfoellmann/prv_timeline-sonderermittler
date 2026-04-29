@@ -53,11 +53,22 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken|DNAPF 3 — Krieg in den Wolken]] (26.02.2016) — Robur tritt erstmals auf; Jekyll/Hyde stirbt laut Chronologie.
 - [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl|DNAPF 4 — Der Elefant aus Stahl]] (22.04.2016) — Victor Frankenstein wird eingefuehrt, waehrend Roburs erster Block endet.
 - [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx|DNAPF 5 — Das Geheimnis der Eissphinx]] (12.08.2016) — Edgar Allan Poe wird erstmals im Kosmos verzeichnet.
+- [[wiki/folgen/phileas-fogg-06-der-leuchtturm-am-ende-der-welt|DNAPF 6 — Der Leuchtturm am Ende der Welt]] (2016) — Insel-, Leuchtturm- und Piratenfall; exaktes Erscheinungsdatum noch offen.
+- [[wiki/folgen/phileas-fogg-07-die-stadt-unter-der-erde|DNAPF 7 — Die Stadt unter der Erde]] (2016) — Fogg verfolgt in Schottland Sabotageakte bis in vergessene Stollen.
 - [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien|DNAPF 8 — Im Angesicht der Bestien]] (27.01.2017) — Frankensteins Konflikt mit Fogg spitzt sich laut Chronologie zu.
+- [[wiki/folgen/phileas-fogg-09-im-reich-des-zaren|DNAPF 9 — Im Reich des Zaren]] (2017) — Ein Aufstand in Sibirien verstrickt Fogg in eine geheime Operation.
 - [[wiki/folgen/phileas-fogg-10-der-herrscher-der-meere|DNAPF 10 — Der Herrscher der Meere]] (16.06.2017) — Erste belegte Zusammenarbeit von Phileas Fogg und Oscar Wilde.
 - [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant|DNAPF 11 — Die Jagd nach Kapitaen Grant]] (17.11.2017) — Zweiter Teil des ersten dokumentierten Fogg/Wilde-Blocks.
 - [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|DNAPF 12 — Entscheidung in den Karpaten]] (17.11.2017) — Dracula tritt hier laut Chronologie erstmals im Kosmos auf.
-- [[wiki/folgen/phileas-fogg-21-die-sieben-steine-des-anubis|DNAPF 21 — Die sieben Steine des Anubis]] (18.10.2019) — Frankenstein kehrt zurueck; Dracula ist laut Ankernotiz beteiligt.
+- [[wiki/folgen/phileas-fogg-13-der-untergang-der-welt|DNAPF 13 — Der Untergang der Welt]] (2018) — Ein Meteor bedroht die Erde, waehrend Fogg Professor Xirdal aufsucht.
+- [[wiki/folgen/phileas-fogg-14-der-goldvulkan|DNAPF 14 — Der Goldvulkan]] (2018) — Ein Claim im Klondike fuehrt in einen Goldrausch- und Sabotagefall.
+- [[wiki/folgen/phileas-fogg-15-die-schwimmende-stadt|DNAPF 15 — Die schwimmende Stadt]] (2018) — Eine kuenstliche Insel fuer Milliardaere wird zum Katastrophenschauplatz.
+- [[wiki/folgen/phileas-fogg-16-gefahr-fuer-die-propellerinsel|DNAPF 16 — Gefahr fuer die Propellerinsel]] (2018) — Nach Sturm und Sabotage taucht Dracula mitten im Ueberlebenskampf auf.
+- [[wiki/folgen/phileas-fogg-17-wie-alles-begann|DNAPF 17 — Wie alles begann]] (2018) — Die offizielle Folgenseite wirkt derzeit fehlerhaft und dupliziert offenbar Folge 16.
+- [[wiki/folgen/phileas-fogg-18-hetzjagd-durch-asien|DNAPF 18 — Hetzjagd durch Asien]] (2019) — Nemo hoert einen weiteren verborgenen Abschnitt von Foggs Weltreise.
+- [[wiki/folgen/phileas-fogg-19-duell-im-wilden-westen|DNAPF 19 — Duell im Wilden Westen]] (2019) — In der Neuen Welt warten Duell, Ueberfall und ein verdeckter Gegner.
+- [[wiki/folgen/phileas-fogg-20-wettlauf-mit-der-zeit|DNAPF 20 — Wettlauf mit der Zeit]] (2019) — Die offizielle Seite markiert vor allem das grosse Finale der wahren Weltreise.
+- [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis|DNAPF 21 — Die sieben Seelen des Anubis]] (18.10.2019) — Frankenstein kehrt zurueck; die offizielle Folgenseite fuehrt den Titel als `Seelen`, nicht `Steine`.
 - [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel|DNAPF 24 — Die geheimnisvolle Insel]] (08.05.2020) — Die Fogg-Reihe fuehrt Frankenstein und Dracula in einen direkten Konflikt.
 - [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette|DNAPF 26 — Die Kueste der Skelette]] (20.11.2020) — Robur kehrt laut Chronologie in einem neuen Koerper zurueck.
 
@@ -219,6 +230,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [raw/maritim/2026-04-27_owmh_serien-und-folge-01.md](raw/maritim/2026-04-27_owmh_serien-und-folge-01.md) — OWMH komplette Folgenliste 1–56 + Klappentext Folge 1.
 - [raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md](raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md) — OWMH offizielle Detailseiten für Folgen 2–4.
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — OWMH offizielle Detailseiten 5–56, als paraphrasierte Arbeitsnotiz erschlossen.
+- [raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md](raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md) — DNAPF offizielle Folgenseiten 6, 7, 9, 13–21, als paraphrasierte Arbeitsnotiz erschlossen.
 - [raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md](raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md) — offizielle Folgen-Seiten 1–2 der Blitz-Reihe, als paraphrasierte Arbeitsnotiz erschlossen.
 - [raw/maritim/2026-04-28_tesla_folgen-01-08.md](raw/maritim/2026-04-28_tesla_folgen-01-08.md) — offizielle Serien- und Folgen-Seiten 1–8 der Blitz-Reihe Tesla, als paraphrasierte Arbeitsnotiz erschlossen.
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md) — offizielle Folgen-Seiten 0–24 der Maritim-Reihe Moriarty sowie HolyShop-Datumsbelege, als paraphrasierte Arbeitsnotiz erschlossen.

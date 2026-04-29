@@ -31,7 +31,7 @@ tags:
 |---|---|---|
 | [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl|DNAPF 4 - Der Elefant aus Stahl]] | Erstauftritt | frueher Kosmos-Anker |
 | [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien|DNAPF 8 - Im Angesicht der Bestien]] | frueher Konflikt mit Fogg | stuerzt laut Chronologie |
-| [[wiki/folgen/phileas-fogg-21-die-sieben-steine-des-anubis|DNAPF 21 - Die sieben Steine des Anubis]] | Rueckkehr | Dracula rettete ihn zuvor |
+| [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis|DNAPF 21 - Die sieben Seelen des Anubis]] | Rueckkehr | offizielle Folgenseite nennt `Seelen`; Dracula rettete ihn zuvor |
 | [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel|DNAPF 24 - Die geheimnisvolle Insel]] | Konflikt mit Dracula | direkter Zweikampf |
 | [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] | Titel- und Zentralfigur | eigene Spin-off-Reihe |
 | [[wiki/serien/moriarty|Moriarty]], [[wiki/serien/sherlock-holmes|Sherlock Holmes]], [[wiki/serien/tesla|Tesla]] | spaetere Querverbindungen | mehrfach im aktuellen Repo-Stand belegt |

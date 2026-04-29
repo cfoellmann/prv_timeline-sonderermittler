@@ -189,3 +189,9 @@ Chronologisches Aktivitätsprotokoll. Append-only.
 - `wiki/serien/dracula.md` und `wiki/serien/frankenstein.md` um exakte Startdaten sowie ihre fruehen DNAPF-Vorlaufpunkte erweitert.
 - `wiki/serien/kapitaen-nemo.md` und `wiki/serien/poe-und-dupin.md` um die bereits lokal belegten DNAPF-Erstauftritte ihrer Hauptfiguren ergaenzt.
 - Ziel war kein Voll-Ingest dieser Reihen, sondern eine sauberere Kosmos-Navigation rund um die Phileas-Fogg-Achse.
+
+## [2026-04-29] ingest | Phileas Fogg Folgen 6, 7, 9, 13 bis 21
+- Offizielle DNAPF-Folgenseiten `6`, `7`, `9` und `13` bis `21` als neue paraphrasierte Arbeitsquelle abgelegt: `raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md`.
+- Neue Folgen-Seiten `DNAPF 6`, `7`, `9`, `13` bis `20` angelegt; `DNAPF 21` von Stub auf groben Spoiler-Stand gehoben.
+- Serienseite `wiki/serien/phileas-fogg.md`, `index.md` und `app/data/folgen.json` fuer den erweiterten Crawl synchronisiert.
+- Auffaelligkeiten dokumentiert: Die offizielle Seite von `DNAPF 17` dupliziert offenbar den Klappentext von `DNAPF 16`; `DNAPF 21` heisst auf der offiziellen Folgenseite `Die sieben Seelen des Anubis`, waehrend die bisherige Loechel-Chronologie `Die sieben Steine des Anubis` notiert.

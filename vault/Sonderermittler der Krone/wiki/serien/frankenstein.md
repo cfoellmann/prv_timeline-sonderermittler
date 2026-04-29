@@ -36,7 +36,7 @@ tags:
 ## Kosmos-Anbindung
 
 - **Fruehauftritt:** Die Phileas-Fogg-Reihe fuehrt Frankenstein bereits 2016 ein und setzt ihn dort mehrfach ein, noch lange vor der Eigenreihe.
-- **Wichtige DNAPF-Anker:** [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl|DNAPF 4]] (Erstauftritt), [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien|DNAPF 8]] (Konflikt mit Fogg), [[wiki/folgen/phileas-fogg-21-die-sieben-steine-des-anubis|DNAPF 21]] (Rueckkehr), [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel|DNAPF 24]] (Konflikt mit Dracula).
+- **Wichtige DNAPF-Anker:** [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl|DNAPF 4]] (Erstauftritt), [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien|DNAPF 8]] (Konflikt mit Fogg), [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis|DNAPF 21]] (Rueckkehr), [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel|DNAPF 24]] (Konflikt mit Dracula).
 - **Spaetere Anschluesse:** Frankenstein ist im aktuellen Repo-Stand ausserdem klar mit [[wiki/serien/moriarty|Moriarty]], [[wiki/serien/sherlock-holmes|Sherlock Holmes]] und [[wiki/serien/tesla|Tesla]] verschraenkt.
 
 ## Folgenliste
