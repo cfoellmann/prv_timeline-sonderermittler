@@ -25,7 +25,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/serien/phileas-fogg|Jules Verne – Die neuen Abenteuer des Phileas Fogg]] — seit 06.11.2015, Abenteuer/Fantasy, 50 Folgen; fruehe Kosmos-Drehscheibe fuer Nemo, Robur, Frankenstein, Dracula und das erste Wilde-Crossover.
 - [[wiki/serien/oscar-wilde-und-mycroft-holmes|Oscar Wilde & Mycroft Holmes – Sonderermittler der Krone]] — seit 2016, Krimi, 56 Folgen, **Hauptserie** (Stub).
 - [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]] — seit 2018, Krimi, 34 Folgen + 12 Re-Release-Folgen integriert (Stub).
-- [[wiki/serien/irene-adler|Irene Adler – Sonderermittlerin der Krone]] — seit 28.06.2019, Krimi, 33 Folgen; eigenstaendige Adler-Linie zwischen SHC-Grundstein, Rasputin-Anker und spaeteren Holmes-/Wilde-Crossovern.
+- [[wiki/serien/irene-adler|Irene Adler – Sonderermittlerin der Krone]] — seit 14.06.2019, Krimi, 33 Folgen (`0` bis `32`) jetzt als Detail-Ingest lokal erschlossen; eigenstaendige Adler-Linie zwischen SHC-Grundstein, Rasputin-Anker und spaeteren Holmes-/Wilde-Crossovern.
 - [[wiki/serien/moriarty|Moriarty – Zwischen Genie und Verbrechen]] — seit 2020, Krimi, 25 Folgen auf der offiziellen Serienseite; Folge 25 ist fuer Juni 2026 angekuendigt.
 - [[wiki/serien/dracula|Dracula und der Zirkel der Sieben]] — 2020–2024, Horror, 16 Folgen, abgeschlossen (Stub).
 - [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] — seit 2020, Horror, 24 Folgen (Stub).
@@ -98,6 +98,42 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/phileas-fogg-48-im-auge-des-kristalls|DNAPF 48 — Im Auge des Kristalls]] (2025) — Der Untersberg- und Kristall-Plot kippt in Brand und Entfuehrung.
 - [[wiki/folgen/phileas-fogg-49-dunkle-vorzeichen|DNAPF 49 — Dunkle Vorzeichen]] (2026) — Auf dem Weg nach Venedig verschwimmen fuer Fogg die Grenzen zwischen Freund und Feind.
 - [[wiki/folgen/phileas-fogg-50-goetterdaemmerung|DNAPF 50 — Goetterdaemmerung]] (27.02.2026) — Die Kristalljagd endet in Indien in einem ueberlangen Finale.
+
+### Irene Adler
+
+- [[wiki/folgen/irene-adler-00-hinter-den-kulissen|IADK 0 — Hinter den Kulissen]] (2019-11-22) — Ein Mord auf der Buehne macht Irene Adler zur Verdaechtigen und eroefnet ihre eigene Ermittlerlinie.
+- [[wiki/folgen/irene-adler-01-tod-im-oberhaus|IADK 1 — Tod im Oberhaus]] (2019-06-14) — Ein Mord im Umfeld der Bank of England zwingt Irene Adler in eine gefaehrliche Undercover-Mission.
+- [[wiki/folgen/irene-adler-02-gefahr-im-prater|IADK 2 — Gefahr im Prater]] (2019-08-16) — Ein toter Kontaktmann in Wien fuehrt Irene Adler in einen Fall aus Geheimorganisation, Verfolgung und Schaustellerkulisse.
+- [[wiki/folgen/irene-adler-03-blutige-kanaele|IADK 3 — Blutige Kanäle]] (2019-11-15) — Ein Verschwinden in Venedig fuehrt Irene Adler in einen Schatz- und Kultplot zwischen Masken, Lagune und Gewalt.
+- [[wiki/folgen/irene-adler-04-sankt-petersburg-express|IADK 4 — Sankt Petersburg Express]] (2020-02-14) — Ein verschwundener Goldtransport macht eine Zugreise durch Russland zum Misstrauens- und Ueberlebensfall.
+- [[wiki/folgen/irene-adler-05-schlag-auf-schlag|IADK 5 — Schlag auf Schlag]] (2020-08-28) — Sabotage am Theater fuehrt Irene Adler mitten in den Stromkrieg und zu einer gefaehrlich aufgeladenen Gegenspielerin.
+- [[wiki/folgen/irene-adler-06-licht-und-schatten|IADK 6 — Licht und Schatten]] (2020-10-30) — Ein verschwundener Erfinder und ein neuer Projektionsapparat machen die Pariser Weltausstellung zum offenen Crossover-Knoten.
+- [[wiki/folgen/irene-adler-07-toedliche-riffe|IADK 7 — Tödliche Riffe]] (2020-11-27) — Verschwundene Schiffe vor den Orkneys fuehren Irene Adler in einen maritimen Bedrohungsblock mit offenem Kosmosanschluss.
+- [[wiki/folgen/irene-adler-08-sog-des-verderbens|IADK 8 — Sog des Verderbens]] (2021-02-12) — Auf den Orkneys kippt der maritime Bedrohungsfall in einen offenen Zirkel-Einsatz mit Oscar Wilde und Phileas Fogg.
+- [[wiki/folgen/irene-adler-09-tunguska|IADK 9 — Tunguska]] (2021-04-23) — Eine Expedition in Sibirien fuehrt Irene Adler direkt an den Rand einer kosmischen Katastrophe.
+- [[wiki/folgen/irene-adler-10-falsches-spiel|IADK 10 — Falsches Spiel]] (2021-07-23) — Ein gestohlener Hochzeitsschmuck in Ottawa entpuppt sich als Teil eines groesseren Plans gegen die Krone.
+- [[wiki/folgen/irene-adler-11-samen-des-boesen|IADK 11 — Samen des Bösen]] (2021-12-10) — Im Amazonas sucht Irene Adler einen verschwundenen Botaniker, eine wertvolle Kautschukfracht und einen Weg durch einen feindlichen Regenwald.
+- [[wiki/folgen/irene-adler-12-freund-oder-feind|IADK 12 — Freund oder Feind]] (2022-04-01) — Nach dem Mord an einer Freundin bricht Irene mit Mycroft Holmes und geraet in einen sizilianischen Machtkampf, in dem fast niemand eindeutig auf ihrer Seite steht.
+- [[wiki/folgen/irene-adler-13-feuer-und-eis|IADK 13 — Feuer und Eis]] (2022-05-06) — Ein verkohlter Toter, ein gejagter Detektiv und mehrere Verfolger treiben Irene Adler in einen Fall aus Brand, Geheimwissen und offenem Gegenspiel.
+- [[wiki/folgen/irene-adler-14-groenlands-grauen|IADK 14 — Grönlands Grauen]] (2022-07-29) — In einer Forschungsstation unter dem gruenlaendischen Eis untersucht Irene Adler raetselhafte Todesfaelle und einen geheimnisvollen Fund.
+- [[wiki/folgen/irene-adler-15-in-den-krallen-des-boesen|IADK 15 — In den Krallen des Bösen]] (2023-02-24) — Der in Groenland geborgene Diamant macht Irene Adler zum Spielball zwischen Dracula und Moriarty.
+- [[wiki/folgen/irene-adler-16-den-tod-vor-augen|IADK 16 — Den Tod vor Augen]] (2023-05-12) — Die Jagd auf den Groenland-Diamanten wird zum Mehrfrontenkonflikt, in dem niemand mehr klar einzuordnen ist.
+- [[wiki/folgen/irene-adler-17-menschen-der-erde|IADK 17 — Menschen der Erde]] (2023-06-23) — Einbrueche, Tote und ein geistig gebrochener Professor fuehren Irene Adler nach Temuco.
+- [[wiki/folgen/irene-adler-18-tausend-gesichter|IADK 18 — Tausend Gesichter]] (2023-09-08) — Irene erwacht als Gefangene in einem Mapuche-Dorf, waehrend Mister Wu verzweifelt versucht, ihre Spur wiederzufinden.
+- [[wiki/folgen/irene-adler-19-vier-elemente|IADK 19 — Vier Elemente]] (2024-01-19) — Zurueck in London jagt Irene Adler die Stammesfiguren und das Geheimnis hinter ihnen, waehrend ein unbekannter Gegner ihre Ermittlungen systematisch sabotiert.
+- [[wiki/folgen/irene-adler-20-meister-der-alchemie|IADK 20 — Meister der Alchemie]] (2024-03-22) — Das Geheimnis der Stammesfiguren ist endlich entschluesselt, doch Crowley besitzt bereits den groessten Teil der noetigen Artefakte.
+- [[wiki/folgen/irene-adler-21-goldene-zeiten|IADK 21 — Goldene Zeiten]] (2024-06-21) — Ein Goldpreissturz und ein aggressiver Investor deuten fuer Irene Adler auf einen geplanten Angriff des Zirkels auf die Weltwirtschaft.
+- [[wiki/folgen/irene-adler-22-eine-frage-der-identitaet|IADK 22 — Eine Frage der Identität]] (2024-07-26) — Ein erneuter Goldvulkan-Ausbruch und Rasputins Intrige gegen die Krone machen aus dem Ueberlebenskampf zugleich einen Finanz- und Staatsplot.
+- [[wiki/folgen/irene-adler-23-taeuschungen|IADK 23 — Täuschungen]] (2024-09-20) — Adler sitzt auf einem Schiff in der Falle, waehrend Rasputin in London den Umsturz gegen Krone und Parlament vorbereitet.
+- [[wiki/folgen/irene-adler-24-hinter-der-fassade|IADK 24 — Hinter der Fassade]] (2024-10-18) — Falsche Goldbarren in der Bank of England machen aus dem Fall eine heikle Abwehrschlacht gegen Panik, Aufstand und einen Zirkel-Skandal.
+- [[wiki/folgen/irene-adler-25-engel-und-suender|IADK 25 — Engel und Sünder]] (2025-01-24) — Ein Theaterengagement in Los Angeles kippt in eine Serie toedlicher Unfaelle, bei der Sherlock Holmes an Adlers Seite ermittelt.
+- [[wiki/folgen/irene-adler-26-schatten-des-ruhmes|IADK 26 — Schatten des Ruhmes]] (2025-03-21) — Der Theaterfall in Los Angeles weitet sich zu einem Doppelplot aus Verdacht, Einbruch und einer Suche nach alchemistischen Geheimnissen aus.
+- [[wiki/folgen/irene-adler-27-im-feuer-des-zorns|IADK 27 — Im Feuer des Zorns]] (2025-05-23) — Waehrend Adler und Holmes weiter nach dem Saboteur suchen, endet die naechste Probe in einer toedlichen Katastrophe.
+- [[wiki/folgen/irene-adler-28-schall-und-rausch|IADK 28 — Schall und Rausch]] (2025-08-29) — In einer ausgeraeumten Hoehle entdecken Adler und Holmes, dass der Zirkel ihnen zuvorgekommen ist und eine Katastrophe bereits in Gang sein koennte.
+- [[wiki/folgen/irene-adler-29-der-mann-aus-dartmoor|IADK 29 — Der Mann aus Dartmoor]] (2025-10-17) — Nach dem Los-Angeles-Block wird Wus Verschwinden zum Auftakt eines neuen Falls, der Irene Adler direkt mit Oscar Wilde zusammenfuehrt.
+- [[wiki/folgen/irene-adler-30-verdacht-und-zweifel|IADK 30 — Verdacht und Zweifel]] (2025-12-12) — Ein Toter bei Ausgrabungen fuehrt zu einem bronzezeitlichen Anhaenger, den der Zirkel laut offiziellem Klappentext unbedingt haben will.
+- [[wiki/folgen/irene-adler-31-in-den-tiefen-des-moores|IADK 31 — In den Tiefen des Moores]] (2026-02-13) — Der Ausgrabungsfall fuehrt Adler und Wu tiefer in einen Gegenschlag hinein, der nun auch Tesla offen in die Figurenliste der Reihe zieht.
+- [[wiki/folgen/irene-adler-32-falsche-helden|IADK 32 — Falsche Helden]] (2026-04-24) — Im Moor festgesetzt, muessen Adler und Wu auf Rettung hoffen, waehrend der Zirkel ihnen laut Klappentext einen schweren Verlust zufuegen koennte.
 
 ### Sherlock Holmes
 
@@ -270,6 +306,10 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md](raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md) — OWMH offizielle Detailseiten für Folgen 2–4.
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — OWMH offizielle Detailseiten 5–56, als paraphrasierte Arbeitsnotiz erschlossen.
 - [raw/maritim/2026-04-29_wilde-und-adler_folgen-01-bis-04.md](raw/maritim/2026-04-29_wilde-und-adler_folgen-01-bis-04.md) — offizielle Serien- und Folgen-Seiten 1–4 der Blitz-Mini-Serie, als paraphrasierte Arbeitsnotiz erschlossen.
+- [raw/maritim/2026-04-29_irene-adler_folgen-00-bis-32.md](raw/maritim/2026-04-29_irene-adler_folgen-00-bis-32.md) — offizielle Serienseite von Irene Adler mit vollstaendiger Titel-Folgenliste `0` bis `32`.
+- [raw/maritim/2026-04-30_irene-adler_folgen-00-bis-10.md](raw/maritim/2026-04-30_irene-adler_folgen-00-bis-10.md) — offizielle Folgen-Seiten `0` bis `10`, als paraphrasierte Arbeitsnotiz mit Datumsabgleich erschlossen.
+- [raw/maritim/2026-04-30_irene-adler_folgen-11-bis-21.md](raw/maritim/2026-04-30_irene-adler_folgen-11-bis-21.md) — offizielle Folgen-Seiten `11` bis `21`, als paraphrasierte Arbeitsnotiz mit HolyShop- und Distributionsbelegen erschlossen.
+- [raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md](raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md) — offizielle Folgen-Seiten `22` bis `32`, als paraphrasierte Arbeitsnotiz mit exakten Spaetdaten erschlossen.
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md](raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md) — DNAPF offizielle Folgenseiten 6, 7, 9, 13–21, als paraphrasierte Arbeitsnotiz erschlossen.
 - [raw/maritim/2026-04-29_kapitaen-nemo_folgen-01-02.md](raw/maritim/2026-04-29_kapitaen-nemo_folgen-01-02.md) — offizielle Nemo-Serien- und Folgen-Seiten 1–2, als paraphrasierte Arbeitsnotiz erschlossen.
 - [raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md](raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md) — offizielle Folgen-Seiten 1–2 der Blitz-Reihe, als paraphrasierte Arbeitsnotiz erschlossen.

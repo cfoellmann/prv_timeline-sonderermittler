@@ -235,3 +235,15 @@ Chronologisches Aktivitätsprotokoll. Append-only.
 - Bewusst keine erfundene Voll-Folgenliste ergänzt: Die Seite dokumentiert derzeit nur lokal belastbare IADK-Anker (`SHC 45`, `OWMH 16`, `IADK 4`, `IADK 15`) und markiert den Voll-Crawl weiter als offen.
 - `index.md` fuer die neue Kurzbeschreibung der Serie synchronisiert.
 - Partielle Folgenliste nachgezogen: vier lokal bereits in `app/data/folgen.json` belegte IADK-Folgen (`1`, `4`, `6`, `15`) jetzt direkt auf der Serienseite sichtbar gemacht.
+
+## [2026-04-29] ingest | Irene Adler Folgenliste 0 bis 32
+- Neue Arbeitsquelle `raw/maritim/2026-04-29_irene-adler_folgen-00-bis-32.md` angelegt; offizielle Serienseite von `Irene Adler – Sonderermittlerin der Krone` als Titel-Crawl erschlossen.
+- `wiki/serien/irene-adler.md` von der partiellen Folgenliste auf den vollstaendigen Titelstand `0` bis `32` gehoben; die bisher lokal genauer belegten Folgen bleiben separat markiert.
+- `index.md` bei Serienbeschreibung und Quellenuebersicht synchronisiert.
+- Wichtig: Das ist bewusst **noch kein** Detail-Ingest der einzelnen Folgen-Seiten; `app/data/folgen.json` bleibt fuer IADK vorerst nur partiell gepflegt.
+
+## [2026-04-30] ingest | Irene Adler Folgen 0 bis 32
+- Neue Arbeitsquellen `raw/maritim/2026-04-30_irene-adler_folgen-00-bis-10.md`, `...11-bis-21.md` und `...22-bis-32.md` angelegt; die offiziellen IADK-Folgen-Seiten jetzt blockweise spoilerarm paraphrasiert.
+- Folgen-Seiten `IADK 0` bis `IADK 32` unter `wiki/folgen/` angelegt; die Reihe liegt lokal damit erstmals komplett auf Detailstand mit Erscheinungsdaten, Spielzeiten und groben Inhaltsangaben vor.
+- `wiki/serien/irene-adler.md`, `index.md` und `app/data/folgen.json` fuer den Voll-Ingest synchronisiert.
+- Auffaelligkeiten dokumentiert: `IADK 0` erschien als Prolog spaeter als `IADK 1`; fuer `IADK 1`, `4` und `6` weichen die exakten Store-Daten leicht von der bisherigen Repo-Chronologie ab; `IADK 19` stuetzt sich beim exakten Datum derzeit auf Distributionsquellen statt einen direkt greifbaren HolyShop-Detailbeleg.
