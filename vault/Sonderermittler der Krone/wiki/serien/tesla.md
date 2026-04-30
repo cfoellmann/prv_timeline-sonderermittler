@@ -4,7 +4,7 @@ titel: Tesla
 verlag: Blitz Verlag
 genre: Krimi
 start: 2024
-status: entwurf
+status: recherchiert
 zirkel: true
 folgen_count: 8
 quellen:

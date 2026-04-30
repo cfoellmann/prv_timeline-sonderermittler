@@ -4,7 +4,7 @@ titel: Jules Verne – Die neuen Abenteuer des Phileas Fogg
 verlag: Maritim
 genre: Abenteuer / Fantasy
 start: 2015-11-06
-status: entwurf
+status: recherchiert
 zirkel: true
 folgen_count: 50
 quellen:

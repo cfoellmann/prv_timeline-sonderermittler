@@ -4,8 +4,8 @@ titel: Oscar Wilde – Die ungelösten Fälle des Mycroft Holmes
 verlag: Blitz Verlag
 genre: Krimi
 start: 2026
-status: entwurf
-zirkel: unklar
+status: recherchiert
+zirkel: false
 folgen_count: 2
 mini_serie: true
 quellen:
@@ -25,8 +25,8 @@ tags:
 - **Verlag:** Blitz Verlag
 - **Genre:** Krimi
 - **Erstveröffentlichung:** 23.01.2026
-- **Folgenstand:** 2 (2026-04-28)
-- **Bezug zum Zirkel:** unklar — Klärung beim Ingest.
+- **Folgenstand:** 2 (Stand: 2026-04-28)
+- **Bezug zum Zirkel:** kein direkter Bezug erkennbar — beide Episoden enthalten keine Zirkel-Hinweise in den offiziellen Beschreibungen.
 
 ## Hauptfiguren
 

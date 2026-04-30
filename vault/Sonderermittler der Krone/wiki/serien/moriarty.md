@@ -4,7 +4,7 @@ titel: Moriarty – Zwischen Genie und Verbrechen
 verlag: Maritim
 genre: Krimi
 start: 2020-09-25
-status: entwurf
+status: recherchiert
 zirkel: true
 folgen_count: 25
 quellen:

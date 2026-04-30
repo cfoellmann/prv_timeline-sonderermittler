@@ -4,7 +4,7 @@ titel: Sherlock Holmes – Sonderermittler der Krone
 verlag: Maritim
 genre: Krimi
 start: 2022-11-25
-status: entwurf
+status: recherchiert
 zirkel: true
 folgen_count: 21
 re_release_count: 10

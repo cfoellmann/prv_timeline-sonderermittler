@@ -247,3 +247,31 @@ Chronologisches Aktivitätsprotokoll. Append-only.
 - Folgen-Seiten `IADK 0` bis `IADK 32` unter `wiki/folgen/` angelegt; die Reihe liegt lokal damit erstmals komplett auf Detailstand mit Erscheinungsdaten, Spielzeiten und groben Inhaltsangaben vor.
 - `wiki/serien/irene-adler.md`, `index.md` und `app/data/folgen.json` fuer den Voll-Ingest synchronisiert.
 - Auffaelligkeiten dokumentiert: `IADK 0` erschien als Prolog spaeter als `IADK 1`; fuer `IADK 1`, `4` und `6` weichen die exakten Store-Daten leicht von der bisherigen Repo-Chronologie ab; `IADK 19` stuetzt sich beim exakten Datum derzeit auf Distributionsquellen statt einen direkt greifbaren HolyShop-Detailbeleg.
+
+## [2026-04-30] wiki | Dracula-Serienseite von Stub auf Entwurf gehoben
+- `wiki/serien/dracula.md` inhaltlich ausgebaut: Phasen-Einordnung, Serienfunktion als Antagonisten-Spin-off und lokale Kosmos-Anker aus DNAPF, IADK und Moriarty gebuendelt.
+- Bewusst keine erfundene Voll-Folgenliste ergaenzt: Die Seite markiert transparent, dass fuer Dracula noch eine eigene `raw`-Arbeitsquelle mit Serien-/Folgen-Crawl fehlt.
+- `index.md` fuer die neue Kurzbeschreibung synchronisiert; `app/data/folgen.json` bleibt unveraendert, weil dort aktuell nur ein technischer Platzhalter `dracula-01` existiert und noch kein echter Folgen-Ingest vorliegt.
+
+## [2026-04-30] lint | Systematischer Wiki-Gesundheitscheck
+- Umfassender Lint-Pass ueber Serien-, Figuren-, Konzept- und Folgen-Seiten durchgefuehrt nach AGENTS.md-Kriterien.
+- Bericht als `wiki/queries/lint-2026-04-30.md` angelegt mit Befunden zu fehlenden Figuren-Seiten (15), unvollstaendigen Serien (4), Status-Markern (100+), Inkonsistenzen (3) und Orphans (0).
+- Wichtigste Luecken: 4 von 7 Zirkel-Mitgliedern ohne Figuren-Seite (Rasputin, Aleister Crowley, der Maharadscha, Gaston Morell); Hauptbegleiter Aouda, Passepartout, Auguste Dupin fehlen; Poe & Dupin nur 2 von 34 Folgen dokumentiert.
+- Positive Befunde: Struktur und Konsistenz solide, Index/Log gepflegt, Naming-Konventionen eingehalten, keine Orphan-Pages, Re-Release-Handling sauber.
+
+## [2026-04-30] wiki | Lint-Probleme behoben — 7 neue Figuren-Seiten
+- Kritische Luecken aus Lint-Report geschlossen: Vier fehlende Zirkel-Mitglieder angelegt ([[wiki/figuren/rasputin|Rasputin]], [[wiki/figuren/aleister-crowley|Aleister Crowley]], [[wiki/figuren/der-maharadscha|Der Maharadscha]], [[wiki/figuren/gaston-morell|Gaston Morell]]).
+- Drei wichtige Hauptbegleiter-Seiten ergaenzt: [[wiki/figuren/aouda|Aouda]], [[wiki/figuren/passepartout|Passepartout]], [[wiki/figuren/auguste-dupin|Auguste Dupin]].
+- Alle sieben neuen Seiten mit Status `entwurf`, vollstaendiger Charakterisierung, Auftritts-Listen, Beziehungen und Quellen versehen.
+- Schreibweise-Inkonsistenz "Gaston Morel" war bereits korrekt als "Gaston Morell" (Doppel-l) in poe-und-dupin.md vorhanden.
+- [[wiki/figuren/oscar-wilde|Oscar Wilde]] von `stub` auf `entwurf` gehoben mit substantiell erweitertem Inhalt (Charakterisierung, Handlungsboegen, vollstaendige Beziehungen, Bedeutung im Kosmos).
+- `index.md` Figuren-Sektion um sieben neue Eintraege erweitert und alphabetisch sortiert.
+- Zirkel-Mitglieder-Abdeckung im Wiki jetzt: 7 von 7 (100% statt vorher 43%).
+
+## [2026-04-30] meta | Systematische Serien-Vollstaendigkeitspruefung
+- Alle 15 Serien-Seiten parallel mit 10 Agenten auf Vollstaendigkeit und Konsistenz geprueft.
+- Status-Updates fuer 7 Serien durchgefuehrt: OWMH, Irene Adler, Phileas Fogg, Moriarty, Sherlock Holmes, Tesla und Wilde Mycroft Ungeloeste von `entwurf` auf `recherchiert` angehoben.
+- Dracula-Serie von `entwurf` auf `recherchiert` angehoben (Kosmos-Rolle vollstaendig dokumentiert, nur Einzelepisoden fehlen noch).
+- Wilde & Poe-Serie mit Platzhalter-Episodenliste und Frontmatter-Praezisierung aktualisiert (Status bleibt `stub` bis Raw-Daten vorliegen).
+- Poe & Dupin-Serien mit Platzhalter-Listen fuer fehlende Episoden erweitert (2 von 34 Hauptfolgen + 0 von 12 Re-Release-Folgen dokumentiert).
+- Befund: 201 Episoden-Seiten vorhanden; 9 Serien mit vollstaendigen Episoden (OWMH 56, Irene 33, Phileas 50, Moriarty 25, Sherlock 21, Tesla 8, Nemo 2, Wilde & Adler 4, Wilde Mycroft Ungeloeste 2); 6 Serien ohne Episoden-Seiten (Wilde & Poe 0/4, Poe & Dupin 0/34, Archive Poe 0/12, Dracula 0/16, Frankenstein 0/24; Archive Sherlock als Re-Release-Sub-Sektion bereits dokumentiert).

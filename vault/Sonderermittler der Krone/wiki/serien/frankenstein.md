@@ -41,9 +41,40 @@ tags:
 
 ## Folgenliste
 
-| # | Titel | Datum | Zirkel | Crossover | Notizen |
-|---|---|---|---|---|---|
-|   |   |   |   |   |   |
+**Stand:** Noch keine Folgen im Wiki dokumentiert. Die Serie umfasst laut offizieller Quelle **24 Folgen** (Stand 2026-04-27).
+
+### Fehlende Episoden-Dokumentation
+
+Die folgenden 24 Folgen sind bekannt, aber noch nicht im Detail erfasst:
+
+| # | Status | Notiz |
+|---|---|---|
+| 01 | fehlt | Raw-Daten noch nicht vorhanden |
+| 02 | fehlt | Raw-Daten noch nicht vorhanden |
+| 03 | fehlt | Raw-Daten noch nicht vorhanden |
+| 04 | fehlt | Raw-Daten noch nicht vorhanden |
+| 05 | fehlt | Raw-Daten noch nicht vorhanden |
+| 06 | fehlt | Raw-Daten noch nicht vorhanden |
+| 07 | fehlt | Raw-Daten noch nicht vorhanden |
+| 08 | fehlt | Raw-Daten noch nicht vorhanden |
+| 09 | fehlt | Raw-Daten noch nicht vorhanden |
+| 10 | fehlt | Raw-Daten noch nicht vorhanden |
+| 11 | fehlt | Raw-Daten noch nicht vorhanden |
+| 12 | fehlt | Raw-Daten noch nicht vorhanden |
+| 13 | fehlt | Raw-Daten noch nicht vorhanden |
+| 14 | fehlt | Raw-Daten noch nicht vorhanden |
+| 15 | fehlt | Raw-Daten noch nicht vorhanden |
+| 16 | fehlt | Raw-Daten noch nicht vorhanden |
+| 17 | fehlt | Raw-Daten noch nicht vorhanden |
+| 18 | fehlt | Raw-Daten noch nicht vorhanden |
+| 19 | fehlt | Raw-Daten noch nicht vorhanden |
+| 20 | fehlt | Raw-Daten noch nicht vorhanden |
+| 21 | fehlt | Raw-Daten noch nicht vorhanden |
+| 22 | fehlt | Raw-Daten noch nicht vorhanden |
+| 23 | fehlt | Raw-Daten noch nicht vorhanden |
+| 24 | fehlt | Raw-Daten noch nicht vorhanden |
+
+**Nächster Schritt:** Raw-Daten von der offiziellen Website scrapen oder aus anderen Quellen erfassen.
 
 ## Quellen
 

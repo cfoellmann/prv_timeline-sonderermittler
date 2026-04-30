@@ -4,7 +4,7 @@ titel: Irene Adler – Sonderermittlerin der Krone
 verlag: Maritim
 genre: Krimi
 start: 2019-06-14
-status: entwurf
+status: recherchiert
 zirkel: true
 folgen_count: 33
 quellen:

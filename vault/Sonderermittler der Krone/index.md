@@ -27,7 +27,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]] — seit 2018, Krimi, 34 Folgen + 12 Re-Release-Folgen integriert (Stub).
 - [[wiki/serien/irene-adler|Irene Adler – Sonderermittlerin der Krone]] — seit 14.06.2019, Krimi, 33 Folgen (`0` bis `32`) jetzt als Detail-Ingest lokal erschlossen; eigenstaendige Adler-Linie zwischen SHC-Grundstein, Rasputin-Anker und spaeteren Holmes-/Wilde-Crossovern.
 - [[wiki/serien/moriarty|Moriarty – Zwischen Genie und Verbrechen]] — seit 2020, Krimi, 25 Folgen auf der offiziellen Serienseite; Folge 25 ist fuer Juni 2026 angekuendigt.
-- [[wiki/serien/dracula|Dracula und der Zirkel der Sieben]] — 2020–2024, Horror, 16 Folgen, abgeschlossen (Stub).
+- [[wiki/serien/dracula|Dracula und der Zirkel der Sieben]] — 2020–2024, Horror, 16 Folgen, abgeschlossen; Antagonisten-Spin-off um den Anfuehrer des Zirkels, lokal bisher vor allem ueber Kosmos-Anker erschlossen.
 - [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] — seit 2020, Horror, 24 Folgen (Stub).
 - [[wiki/serien/sherlock-holmes|Sherlock Holmes – Sonderermittler der Krone]] — seit 25.11.2022, Krimi; offiziell 21 Folgen gelistet, davon Folge 21 erst fuer 19.06.2026 angekuendigt, plus 10 integrierte Re-Release-Folgen.
 
@@ -277,10 +277,15 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 ## Figuren
 
 - [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] — Nebenfigur der frühen OWMH-Phase; Erstauftritt in OWMH 2.
+- [[wiki/figuren/aleister-crowley|Aleister Crowley]] — Zirkel-Mitglied #6, Okkultist; Erstauftritt in OWMH 21.
 - [[wiki/figuren/alfons-grell|Dr. Alfons Grell]] — Wissenschaftler im Zirkel-Umfeld; Erstauftritt in OWMH 4.
+- [[wiki/figuren/aouda|Aouda (Aouda Fogg)]] — Phileas Foggs Ehefrau und staendige Begleiterin in 20+ Episoden.
+- [[wiki/figuren/auguste-dupin|Auguste Dupin]] — Co-Titelfigur von Edgar Allan Poe & Auguste Dupin, brillanter Detektiv.
 - [[wiki/figuren/benjamin-payton|Dr. Benjamin Payton]] — Verbündeter, später Verräter (Erstauftritt OWMH 1, Tod OWMH 18). ⚠️ Strukturelle Spoiler.
+- [[wiki/figuren/der-maharadscha|Der Maharadscha]] — Zirkel-Mitglied #4; Erstauftritt in OWMH 17.
 - [[wiki/figuren/dracula|Dracula]] — Anführer des Zirkels; im aktuellen Repo-Stand zuerst über DNAPF 12 verankert.
 - [[wiki/figuren/edgar-allan-poe|Edgar Allan Poe]] — frühe Kosmosfigur aus DNAPF 5, später Hauptfigur von Poe & Dupin und Wilde & Poe.
+- [[wiki/figuren/gaston-morell|Gaston Morell]] — Zirkel-Mitglied #7, vervollstaendigt den Zirkel in EAPAD 13.
 - [[wiki/figuren/henry-wheeler|Henry Wheeler]] — Nebenfigur, Umfeld Wilde (Erstauftritt OWMH 1).
 - [[wiki/figuren/irene-adler|Irene Adler]] — Sonderermittlerin der Krone mit eigener Hauptreihe und wiederkehrender Crossover-Rolle.
 - [[wiki/figuren/james-moriarty|James Moriarty]] — kriminelles Genie zwischen Eigeninteresse und offener Intrige gegen den Zirkel.
@@ -289,7 +294,9 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — Auftraggeber der Krone, strategischer Kopf gegen den Zirkel.
 - [[wiki/figuren/nikola-tesla|Nikola Tesla]] — genialer Erfinder und Titelheld der Blitz-Reihe Tesla.
 - [[wiki/figuren/oscar-wilde|Oscar Wilde]] — Titelheld, Sonderermittler ab OWMH 1.
+- [[wiki/figuren/passepartout|Passepartout]] — Phileas Foggs treuer Diener in 20+ Episoden, auch Crossover in IADK 6.
 - [[wiki/figuren/phileas-fogg|Phileas Fogg]] — Titelheld der aeltesten Maritim-Reihe und fruehe Scharnierfigur des Kosmos.
+- [[wiki/figuren/rasputin|Rasputin]] — Zirkel-Mitglied #5; Erstauftritt in IADK 4.
 - [[wiki/figuren/robur|Robur]] — frueh eingefuehrter Erfinder und laut Konzeptseiten Zirkel-Mitglied.
 - [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] — Bruder Mycrofts, ab 2022 selbst Sonderermittler und in OWMH 41 direkter Partner Wildes.
 - [[wiki/figuren/theodora-sachs|Theodora Sachs]] — Draculas fruehere Assistentin und wiederkehrende Operative im Zirkel-Umfeld.
