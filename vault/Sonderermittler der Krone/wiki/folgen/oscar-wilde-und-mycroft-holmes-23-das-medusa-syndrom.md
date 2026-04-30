@@ -25,6 +25,7 @@ tags:
 
 ## Eckdaten
 
+- **Fandom-Abgleich (2026-04-30):** Folge 23 hat auf Fandom eine verlinkte Einzelseite.
 - **Erscheinungsdatum:** 30.09.2019.
 - **Erscheinungsjahr (offizielle Seite):** 2019.
 - **Spielzeit:** 72 Minuten.
@@ -55,3 +56,8 @@ Ein sensationeller Fund nahe dem Polarkreis könnte die Geschichte der Menschhei
 
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge23-das-medusa-syndrom/>
+- [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+
+
+
+

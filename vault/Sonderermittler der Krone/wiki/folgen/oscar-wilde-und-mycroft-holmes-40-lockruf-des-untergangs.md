@@ -28,6 +28,7 @@ tags:
 
 - **Erscheinungsdatum:** 30.09.2022.
 - **Angabe auf der offiziellen Seite:** 2022.
+- **Fandom-Abgleich (2026-04-30):** Folge 40 hat auf Fandom eine verlinkte Einzelseite.
 - **Spielzeit:** 70 Minuten.
 - **Verlag:** Maritim.
 - **Autor:** Marc Freund.
@@ -60,3 +61,6 @@ Eine rätselhafte Mordserie an jungen Männern führt Oscar Wilde und Violet Ish
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge40-lockruf-des-untergangs/> — enthält sehr wahrscheinlich versehentlich den Text von Folge 41.
 - Bastei Luebbe / Lübbe Audio: <https://bastei-luebbe.de/Audio/Krimis-Thriller/Oscar-Wilde-Mycroft-Holmes-Folge-40/9783785784259>
 - ISBN.de: <https://www.isbn.de/hoerbuch/9783785784259/oscar-wilde-mycroft-holmes-folge-40>
+- [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+
+

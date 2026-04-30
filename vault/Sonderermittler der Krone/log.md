@@ -48,6 +48,14 @@ Chronologisches Aktivitätsprotokoll. Append-only.
 - `index.md` und `wiki/universum.md` an die neue Struktur angepasst (13 Serien + 2 integrierte Re-Releases statt 15 Top-Level-Serien).
 - Spoiler-Konvention in Universum-Übersicht und Schema explizit dokumentiert.
 
+## [2026-04-30] ingest | Archive Poe & Dupin Re-Release-Folgen 1–12
+- Quelle: <https://www.sonderermittler-der-krone.de/serien/archive-von-poe-und-dupin/> gecrawlt.
+- Alle 12 Re-Release-Folgen der Serie „Aus den Archiven von Edgar Allan Poe & Auguste Dupin" dokumentiert.
+- Raw-Datei `raw/maritim/2026-04-30_archive-poe-dupin_folgen-01-bis-12.md` erstellt mit Titeln, Spielzeiten (60–76 min), Klappentexten.
+- `wiki/serien/poe-und-dupin.md` Re-Release-Sub-Sektion komplett aktualisiert — Tabelle jetzt mit allen Titeln, Spielzeiten und Kurznotizen gefüllt.
+- Erscheinungsjahr alle 2020, Erzähler: Douglas Welbat.
+- Mapping zu Original-SHC-Folgen-Nummern weiterhin ausstehend (benötigt Sherlock Holmes & Co-Katalog-Recherche).
+
 ## [2026-04-27] ingest | Zauberspiegel-Online „Let's Talk About"
 - Quelle: <https://www.zauberspiegel-online.de/index.php/phantastisches/gehrtes-mainmenu-151/41513-let-s-talk-about-das-maritim-hoerspiel-universum> als raw abgelegt.
 - Bestätigte Zirkel-Mitgliederliste mit korrigierter Schreibweise „Gaston Morell" (Doppel-l).
@@ -115,6 +123,18 @@ Chronologisches Aktivitätsprotokoll. Append-only.
 - Ergebnis: `OWMH 40` trägt auf der offiziellen Fan-Seite sehr wahrscheinlich versehentlich den Klappentext von `OWMH 41`; Verlagsquellen verorten Folge 40 stattdessen in Rom mit Violet Ishiguro, Crowley und den Worten der Macht.
 - `wiki/folgen/` für `OWMH 40` und `OWMH 41`, die OWMH-Serienseite sowie `index.md` entsprechend präzisiert.
 - `app/data/folgen.json` für `OWMH 40` und `OWMH 41` bei Logline und Zirkel-Status nachgezogen.
+
+## [2026-04-30] query | OWMH-Fandom Folgenseiten 1–44 abgeglichen
+- Serienseite und verlinkte Fandom-Einzelseiten `OWMH 1–44` automatisiert ausgelesen; Ergebnis als Raw-Datei abgelegt: `raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md`.
+- Befund: Fandom listet 54 Folgen, hat aber nur 44 Einzelseiten verlinkt; Folgen 45–54 stehen dort nur als reine Listeneinträge ohne Artikelseite.
+- Befund: Fandom markiert Folgen 42–44 weiterhin als „angekündigt" (veralteter Stand), obwohl die offiziellen Maritim-Daten bereits veröffentlichte Folgen zeigen.
+- `wiki/folgen/` für OWMH 42–44 mit Fandom-Abgleich ergänzt; OWMH 44 Zirkel-Einstufung auf `direkt` korrigiert und in `app/data/folgen.json` synchronisiert.
+
+## [2026-04-30] wiki | OWMH Folgen 1–56 Fandom-Konsistenzsweep
+- Alle OWMH-Folgenseiten (`1–56`) auf einen einheitlichen Fandom-Abgleich-Status gebracht und mit der neuen Raw-Quelle verknüpft.
+- Folgen 1–44: Hinweis auf vorhandene Fandom-Einzelseite ergänzt.
+- Folgen 45–54: Hinweis ergänzt, dass die Titel auf Fandom nur gelistet, aber nicht als eigene Seiten verlinkt sind.
+- Folgen 55–56: Hinweis ergänzt, dass diese auf der Fandom-OWMH-Serienseite (Stand 2026-04-30) nicht gelistet sind.
 
 ## [2026-04-28] ingest | Wilde/Mycroft ungelöste Fälle 1 bis 2
 - Offizielle Folgen-Seiten der Blitz-Reihe `Oscar Wilde – Die ungelösten Fälle des Mycroft Holmes` als neue paraphrasierte Arbeitsquelle abgelegt: `raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md`.
@@ -227,6 +247,13 @@ Chronologisches Aktivitätsprotokoll. Append-only.
 ## [2026-04-29] ingest | Kapitaen Nemo Folgen 1 bis 2
 - Neue Arbeitsquelle `raw/maritim/2026-04-29_kapitaen-nemo_folgen-01-02.md` angelegt; offizielle Nemo-Serien- und Folgen-Seiten 1 bis 2 spoilerarm paraphrasiert.
 - Folgen-Seiten `NEM 1` und `NEM 2` unter `wiki/folgen/` angelegt; `wiki/serien/kapitaen-nemo.md` von bloesser Reihen-Einordnung auf echten Folgenstand hochgezogen.
+
+## [2026-04-30] ingest | Oscar Wilde & Edgar Allan Poe Folgen 1 bis 4
+- Offizielle Serien- und Folgen-Seiten der Blitz-Mini-Serie `Oscar Wilde & Edgar Allan Poe` von <https://www.sonderermittler-der-krone.de/serien/wilde-und-poe/> gecrawlt und als neue paraphrasierte Arbeitsquelle abgelegt: `raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md`.
+- Vier Folgen-Seiten `WPO 1` bis `WPO 4` unter `wiki/folgen/` angelegt; Serien-Seite `wiki/serien/oscar-wilde-und-poe.md` von Stub auf recherchiert angehoben mit konkreter Folgenliste und direktem Zirkel-Bezug (ab Folge 3).
+- `index.md` und `app/data/folgen.json` fuer die Mini-Serie synchronisiert.
+- Zentraler Handlungsbogen: Wilde und Poe suchen gemeinsam die uralten Statuen der »Ewig Liebenden«; ab Folge 3 tritt der Zirkel (Rasputin, Mata Hari, Theodora Sachs) als direkter Antagonist auf.
+- Die Serie umfasst 4 zusammenhaengende Folgen (2025–2026), Schauplätze: Schottland, Amerika, England.
 - `index.md`, `wiki/figuren/kapitaen-nemo.md` und `app/data/folgen.json` fuer den nun lokal ingestierten Nemo-Zweiteiler synchronisiert.
 - Auffaelligkeit dokumentiert: Die offizielle Serienseite zeigte beim Abruf noch nur Folge `01`, obwohl Figuren-Seiten und direkte Folgen-URL bereits auch Folge `02` belegen.
 
@@ -235,6 +262,13 @@ Chronologisches Aktivitätsprotokoll. Append-only.
 - Bewusst keine erfundene Voll-Folgenliste ergänzt: Die Seite dokumentiert derzeit nur lokal belastbare IADK-Anker (`SHC 45`, `OWMH 16`, `IADK 4`, `IADK 15`) und markiert den Voll-Crawl weiter als offen.
 - `index.md` fuer die neue Kurzbeschreibung der Serie synchronisiert.
 - Partielle Folgenliste nachgezogen: vier lokal bereits in `app/data/folgen.json` belegte IADK-Folgen (`1`, `4`, `6`, `15`) jetzt direkt auf der Serienseite sichtbar gemacht.
+
+## [2026-04-30] lint | Lint-Korrekturen umgesetzt
+- Zweiter Lint-Report als `wiki/queries/lint-2026-04-30-2.md` angelegt.
+- Fehlende Figuren-Seiten angelegt: `wiki/figuren/mata-hari.md` (Entwurf, 18 aktive Links aufgeloest) und `wiki/figuren/paul-hiller.md` (Stub, 1 Link aufgeloest).
+- `app/data/folgen.json`: ID von `poe-und-dupin-13-aufnahmepruefung` auf `poe-und-dupin-13-die-aufnahmepruefung` korrigiert, Titel auf „Die Aufnahmeprüfung" und `wiki`-Feld ergaenzt.
+- Status-Updates: `wiki/serien/poe-und-dupin.md` und `wiki/konzepte/zirkel-der-sieben.md` von `stub` auf `entwurf` angehoben.
+- `index.md` um Mata Hari und Paul Hiller in der Figuren-Sektion erweitert.
 
 ## [2026-04-29] ingest | Irene Adler Folgenliste 0 bis 32
 - Neue Arbeitsquelle `raw/maritim/2026-04-29_irene-adler_folgen-00-bis-32.md` angelegt; offizielle Serienseite von `Irene Adler – Sonderermittlerin der Krone` als Titel-Crawl erschlossen.
@@ -275,3 +309,14 @@ Chronologisches Aktivitätsprotokoll. Append-only.
 - Wilde & Poe-Serie mit Platzhalter-Episodenliste und Frontmatter-Praezisierung aktualisiert (Status bleibt `stub` bis Raw-Daten vorliegen).
 - Poe & Dupin-Serien mit Platzhalter-Listen fuer fehlende Episoden erweitert (2 von 34 Hauptfolgen + 0 von 12 Re-Release-Folgen dokumentiert).
 - Befund: 201 Episoden-Seiten vorhanden; 9 Serien mit vollstaendigen Episoden (OWMH 56, Irene 33, Phileas 50, Moriarty 25, Sherlock 21, Tesla 8, Nemo 2, Wilde & Adler 4, Wilde Mycroft Ungeloeste 2); 6 Serien ohne Episoden-Seiten (Wilde & Poe 0/4, Poe & Dupin 0/34, Archive Poe 0/12, Dracula 0/16, Frankenstein 0/24; Archive Sherlock als Re-Release-Sub-Sektion bereits dokumentiert).
+
+## [2026-04-30] ingest | Grosse Crawl-Kampagne: 5 Serien vollstaendig erschlossen
+- Paralleler Crawl von 5 unvollstaendigen Serien mit 5 Agenten durchgefuehrt, um alle fehlenden Episoden-Seiten zu erstellen.
+- **Oscar Wilde & Poe:** 4 Folgen gecrawlt, Raw-Datei `raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md` erstellt, 4 Wiki-Seiten angelegt, Status von `stub` auf `recherchiert`.
+- **Poe & Dupin:** 32 fehlende Folgen (3–34) gecrawlt, Raw-Datei `raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md` erstellt, 32 Wiki-Seiten angelegt, Serie jetzt vollstaendig.
+- **Archive Poe & Dupin:** 12 Re-Release-Folgen gecrawlt, Raw-Datei `raw/maritim/2026-04-30_archive-poe-dupin_folgen-01-bis-12.md` erstellt, Re-Release-Sub-Sektion in Hauptserien-Seite vollstaendig dokumentiert (keine separaten Wiki-Seiten).
+- **Dracula:** 16 Folgen gecrawlt, Raw-Datei `raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md` erstellt, 16 Wiki-Seiten angelegt, Status auf `final`.
+- **Frankenstein:** 24 Folgen gecrawlt, Raw-Datei `raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md` erstellt, 24 Wiki-Seiten angelegt, Status auf `recherchiert`.
+- `app/data/folgen.json` fuer alle neuen Serien aktualisiert: 72 neue Episoden-Eintraege (32 Poe & Dupin, 16 Dracula, 24 Frankenstein), Oscar Wilde & Poe bereits vorhanden.
+- `index.md` mit allen neuen Folgen-Abschnitten, aktualisierten Serien-Beschreibungen und 6 neuen Raw-Quellen synchronisiert.
+- **Gesamt-Ergebnis:** Repo jetzt mit 273 Episoden-Seiten (zuvor 201), alle 15 Serien vollstaendig dokumentiert; nur Poe & Dupin Re-Releases ohne Original-SHC-Mapping.

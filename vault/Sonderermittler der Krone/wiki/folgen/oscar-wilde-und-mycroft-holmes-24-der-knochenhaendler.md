@@ -24,6 +24,7 @@ tags:
 
 ## Eckdaten
 
+- **Fandom-Abgleich (2026-04-30):** Folge 24 hat auf Fandom eine verlinkte Einzelseite.
 - **Erscheinungsdatum:** 29.11.2019.
 - **Erscheinungsjahr (offizielle Seite):** 2019.
 - **Spielzeit:** 69 Minuten.
@@ -53,3 +54,8 @@ Als an der Londoner Universität der Kopf einer jungen Frau untersucht werden so
 
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge24-der-knochenhaendler/>
+- [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+
+
+
+

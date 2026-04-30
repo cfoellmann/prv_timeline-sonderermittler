@@ -24,6 +24,7 @@ tags:
 
 ## Eckdaten
 
+- **Fandom-Abgleich (2026-04-30):** Folge 37 hat auf Fandom eine verlinkte Einzelseite.
 - **Erscheinungsdatum:** 28.01.2022.
 - **Erscheinungsjahr (offizielle Seite):** 2022.
 - **Spielzeit:** 64 Minuten.
@@ -53,3 +54,8 @@ Nach dem Massaker an Mönchen und dem Tod eines Kryptologen nehmen Mycroft Holme
 
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge37-das-herz-der-see/>
+- [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+
+
+
+

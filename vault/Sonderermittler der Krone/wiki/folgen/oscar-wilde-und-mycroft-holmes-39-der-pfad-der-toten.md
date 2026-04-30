@@ -26,6 +26,7 @@ tags:
 
 - **Erscheinungsdatum:** 27.05.2022.
 - **Angabe auf der offiziellen Seite:** 2022.
+- **Fandom-Abgleich (2026-04-30):** Folge 39 hat auf Fandom eine verlinkte Einzelseite.
 - **Spielzeit:** 65 Minuten.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge39-der-pfad-der-toten/>
@@ -53,3 +54,6 @@ Die Sonderermittler bekommen endlich eine Spur, mit der sie dem Zirkel zuvorkomm
 
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge39-der-pfad-der-toten/>
+- [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+
+

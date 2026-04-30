@@ -24,6 +24,7 @@ tags:
 
 ## Eckdaten
 
+- **Fandom-Abgleich (2026-04-30):** Folge 38 hat auf Fandom eine verlinkte Einzelseite.
 - **Erscheinungsdatum:** 25.03.2022.
 - **Erscheinungsjahr (offizielle Seite):** 2022.
 - **Spielzeit:** 62 Minuten.
@@ -53,3 +54,8 @@ Nahe einer Goldgräbersiedlung eskalieren rätselhafte Vorfälle unter Mensch un
 
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge38-au%C3%9Fer-kontrolle/>
+- [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+
+
+
+

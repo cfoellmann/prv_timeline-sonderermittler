@@ -24,6 +24,7 @@ tags:
 
 ## Eckdaten
 
+- **Fandom-Abgleich (2026-04-30):** Folge 31 hat auf Fandom eine verlinkte Einzelseite.
 - **Erscheinungsdatum:** 29.01.2021.
 - **Erscheinungsjahr (offizielle Seite):** 2021.
 - **Spielzeit:** 60 Minuten.
@@ -53,3 +54,8 @@ Mycroft schickt Wilde und Henry Wheeler an den Fuß des Ätna, wo sie einen Zuga
 
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge31-die-13-stufen/>
+- [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+
+
+
+

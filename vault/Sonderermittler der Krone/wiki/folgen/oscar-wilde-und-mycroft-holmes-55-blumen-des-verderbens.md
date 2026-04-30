@@ -26,6 +26,7 @@ tags:
 
 - **Erscheinungsdatum:** 30.01.2026.
 - **Angabe auf der offiziellen Seite:** 2025.
+- **Fandom-Abgleich (2026-04-30):** Auf der Fandom-OWMH-Serienseite aktuell nicht gelistet.
 - **Spielzeit:** 54 Minuten.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge55-blumen-des-verderbens/>
@@ -52,3 +53,6 @@ Bei einem missglückten Diebstahl im Bray-Museum werden auch Wilde, Sherlock und
 
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge55-blumen-des-verderbens/>
+- [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Serienseiten-Abgleich: Folgen 55 und 56 sind dort derzeit nicht aufgeführt.
+
+

@@ -24,18 +24,18 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 
 - [[wiki/serien/phileas-fogg|Jules Verne – Die neuen Abenteuer des Phileas Fogg]] — seit 06.11.2015, Abenteuer/Fantasy, 50 Folgen; fruehe Kosmos-Drehscheibe fuer Nemo, Robur, Frankenstein, Dracula und das erste Wilde-Crossover.
 - [[wiki/serien/oscar-wilde-und-mycroft-holmes|Oscar Wilde & Mycroft Holmes – Sonderermittler der Krone]] — seit 2016, Krimi, 56 Folgen, **Hauptserie** (Stub).
-- [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]] — seit 2018, Krimi, 34 Folgen + 12 Re-Release-Folgen integriert (Stub).
+- [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]] — seit 2018, Krimi, 34 Folgen + 12 Re-Release-Folgen integriert; vollständig dokumentiert.
 - [[wiki/serien/irene-adler|Irene Adler – Sonderermittlerin der Krone]] — seit 14.06.2019, Krimi, 33 Folgen (`0` bis `32`) jetzt als Detail-Ingest lokal erschlossen; eigenstaendige Adler-Linie zwischen SHC-Grundstein, Rasputin-Anker und spaeteren Holmes-/Wilde-Crossovern.
 - [[wiki/serien/moriarty|Moriarty – Zwischen Genie und Verbrechen]] — seit 2020, Krimi, 25 Folgen auf der offiziellen Serienseite; Folge 25 ist fuer Juni 2026 angekuendigt.
-- [[wiki/serien/dracula|Dracula und der Zirkel der Sieben]] — 2020–2024, Horror, 16 Folgen, abgeschlossen; Antagonisten-Spin-off um den Anfuehrer des Zirkels, lokal bisher vor allem ueber Kosmos-Anker erschlossen.
-- [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] — seit 2020, Horror, 24 Folgen (Stub).
+- [[wiki/serien/dracula|Dracula und der Zirkel der Sieben]] — 2020–2024, Horror, 16 Folgen, abgeschlossen; Antagonisten-Spin-off um den Anfuehrer des Zirkels, vollständig dokumentiert.
+- [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] — seit 2020, Horror, 24 Folgen; vollständig dokumentiert.
 - [[wiki/serien/sherlock-holmes|Sherlock Holmes – Sonderermittler der Krone]] — seit 25.11.2022, Krimi; offiziell 21 Folgen gelistet, davon Folge 21 erst fuer 19.06.2026 angekuendigt, plus 10 integrierte Re-Release-Folgen.
 
 ### Blitz Verlag — Spin-offs ab Ende 2024
 
 - [[wiki/serien/oscar-wilde-und-irene-adler|Oscar Wilde & Irene Adler – Sonderermittler der Krone]] — seit Ende 2024, 4-teilige Blitz-Mini-Serie; verdichtet die bereits laufende Wilde/Adler-Achse des Kosmos.
 - [[wiki/serien/tesla|Tesla]] — seit Ende 2024, Krimi, 8 Folgen, mit direktem Moriarty-/Zirkel-Anschluss.
-- [[wiki/serien/oscar-wilde-und-poe|Oscar Wilde & Edgar Allan Poe]] — Ende 2025/Anfang 2026, Krimi, 4 Folgen (Mini, Stub).
+- [[wiki/serien/oscar-wilde-und-poe|Oscar Wilde & Edgar Allan Poe]] — Ende 2025/Anfang 2026, Krimi, 4 Folgen (Mini-Serie); Oscar Wilde und Edgar Allan Poe auf der Jagd nach den uralten Statuen der »Ewig Liebenden«, Zirkel ab Folge 3 direkt beteiligt; vollständig dokumentiert.
 - [[wiki/serien/wilde-mycroft-ungeloeste|Oscar Wilde – Die ungelösten Fälle des Mycroft Holmes]] — seit Januar 2026, Krimi, 2 Folgen, zwei Folgen ingestiert.
 - [[wiki/serien/kapitaen-nemo|Die Abenteuer des Kapitän Nemo]] — seit 13.02.2026, Abenteuer, 2 Folgen; Nemo erzaehlt Phileas Fogg in einem Insel-Zweiteiler eine fruehere Geschichte.
 
@@ -215,6 +215,94 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/tesla-07-ein-uraltes-raetsel|TES 7 — Ein uraltes Rätsel]] (30.01.2026) — Eine gestörte Rückreise aus Amerika läuft auf eine weitere Katastrophe zu.
 - [[wiki/folgen/tesla-08-koenig-der-luefte|TES 8 — König der Lüfte]] (27.03.2026) — Ein Diebstahl und ein geplanter Blackout bedrohen schließlich das Königshaus.
 
+### Oscar Wilde & Edgar Allan Poe
+
+- [[wiki/folgen/oscar-wilde-und-poe-01-der-untergang-des-hauses-mackenzie|WPO 1 — Der Untergang des Hauses Mackenzie]] (2025) — Wilde und Poe treffen am Loch Ness aufeinander und beginnen die Suche nach den »Ewig Liebenden«.
+- [[wiki/folgen/oscar-wilde-und-poe-02-atemlos|WPO 2 — Atemlos]] (2025) — Nach ihrer Flucht aus den Trümmern führt die Suche nach Amerika, wo sie für entflohene Mörder gehalten werden.
+- [[wiki/folgen/oscar-wilde-und-poe-03-nimmermehr|WPO 3 — Nimmermehr]] (2026) — In Richmond geraten Wilde und Poe in Lebensgefahr, während Rasputin, Mata Hari und Theodora Sachs ihre Pläne durchkreuzen.
+- [[wiki/folgen/oscar-wilde-und-poe-04-die-ewig-liebenden|WPO 4 — Die ewig Liebenden]] (2026) — Im Finale kehren Wilde und Poe nach England zurück, während der Zirkel versucht, die Statuen vor ihnen zu finden.
+
+### Poe & Dupin
+
+- [[wiki/folgen/poe-und-dupin-03-die-toten-augen-von-paris|EAPAD 3 — Die toten Augen von Paris]] (2018) — Eine unheimliche Mordserie in Paris, bei der den Opfern die Augen herausgeschnitten werden.
+- [[wiki/folgen/poe-und-dupin-04-ein-leben-im-jenseits|EAPAD 4 — Ein Leben im Jenseits]] (2018) — Dupin und Poe ermitteln in einem Fall von vorgetäuschtem Tod und Identitätsdiebstahl.
+- [[wiki/folgen/poe-und-dupin-05-der-fluch-des-falschen-koenigs|EAPAD 5 — Der Fluch des falschen Königs]] (2018) — Eine mysteriöse Mordserie führt zu einem gefährlichen Geheimbund.
+- [[wiki/folgen/poe-und-dupin-06-im-kreise-der-roten-kutten|EAPAD 6 — Im Kreise der roten Kutten]] (2018) — Dupin infiltriert eine okkulte Sekte, während Poe von außen ermittelt.
+- [[wiki/folgen/poe-und-dupin-07-der-tod-der-schwarzen-schafe|EAPAD 7 — Der Tod der schwarzen Schafe]] (2018) — Eine Serie rätselhafter Morde unter Pariser Außenseitern.
+- [[wiki/folgen/poe-und-dupin-08-im-schatten-der-guillotine|EAPAD 8 — Im Schatten der Guillotine]] (2019) — Ein Justizmord droht, während Dupin gegen die Zeit ermittelt.
+- [[wiki/folgen/poe-und-dupin-09-das-gestohlene-blut|EAPAD 9 — Das gestohlene Blut]] (2019) — Blutraub und okkulte Rituale führen in die Unterwelt von Paris.
+- [[wiki/folgen/poe-und-dupin-10-die-strasse-der-drei-gesichter|EAPAD 10 — Die Straße der drei Gesichter]] (2019) — Eine geheimnisvolle Adresse verbindet mehrere Verbrechen.
+- [[wiki/folgen/poe-und-dupin-11-die-daemonen-des-auguste-dupin|EAPAD 11 — Die Dämonen des Auguste Dupin]] (2019) — Dupins Vergangenheit holt ihn ein.
+- [[wiki/folgen/poe-und-dupin-12-in-den-katakomben-lauert-der-tod|EAPAD 12 — In den Katakomben lauert der Tod]] (2019) — Eine Verfolgungsjagd durch die Pariser Unterwelt.
+- [[wiki/folgen/poe-und-dupin-13-die-aufnahmepruefung|EAPAD 13 — Die Aufnahmeprüfung]] (2019) — Gaston Morell komplettiert den Zirkel der Sieben.
+- [[wiki/folgen/poe-und-dupin-14-nachts-auf-der-seine|EAPAD 14 — Nachts auf der Seine]] (2019) — Ein Mord auf einem Flussschiff.
+- [[wiki/folgen/poe-und-dupin-15-der-schrei-der-bestie|EAPAD 15 — Der Schrei der Bestie]] (2019) — Eine tierische Bedrohung terrorisiert Paris.
+- [[wiki/folgen/poe-und-dupin-16-schlagzeilen|EAPAD 16 — Schlagzeilen]] (2020) — Ein Mordfall unter Journalisten.
+- [[wiki/folgen/poe-und-dupin-17-entfesselter-wahn|EAPAD 17 — Entfesselter Wahn]] (2020) — Ein Ausbruch aus einer Irrenanstalt.
+- [[wiki/folgen/poe-und-dupin-18-die-rache-der-raubritter|EAPAD 18 — Die Rache der Raubritter]] (2020) — Alte Adelsfehden werden in der Gegenwart ausgetragen.
+- [[wiki/folgen/poe-und-dupin-19-hochverrat|EAPAD 19 — Hochverrat]] (2020) — Ein Anschlag auf die französische Regierung.
+- [[wiki/folgen/poe-und-dupin-20-trojaner|EAPAD 20 — Trojaner]] (2020) — Spionage und Verrat im diplomatischen Korps.
+- [[wiki/folgen/poe-und-dupin-21-tod-eines-feindes|EAPAD 21 — Tod eines Feindes]] (2021) — Ein alter Widersacher stirbt unter mysteriösen Umständen.
+- [[wiki/folgen/poe-und-dupin-22-der-plan-des-meisterdiebs|EAPAD 22 — Der Plan des Meisterdiebs]] (2021) — Ein spektakulärer Raubzug wird geplant.
+- [[wiki/folgen/poe-und-dupin-23-der-falsche-saphir|EAPAD 23 — Der falsche Saphir]] (2021) — Ein wertvoller Edelstein entpuppt sich als Fälschung.
+- [[wiki/folgen/poe-und-dupin-24-draculas-urteil|EAPAD 24 — Draculas Urteil]] (2021) — Der Zirkel greift direkt in einen Fall ein.
+- [[wiki/folgen/poe-und-dupin-25-das-goldene-kalb|EAPAD 25 — Das goldene Kalb]] (2022) — Ein religiöser Kult und ein goldenes Artefakt.
+- [[wiki/folgen/poe-und-dupin-26-babel|EAPAD 26 — Babel]] (2022) — Sprachverwirrung und verschlüsselte Botschaften.
+- [[wiki/folgen/poe-und-dupin-27-sodom-und-gomorrha|EAPAD 27 — Sodom und Gomorrha]] (2022) — Eine Stadt versinkt in Chaos und Gewalt.
+- [[wiki/folgen/poe-und-dupin-28-die-letzte-bescherung|EAPAD 28 — Die letzte Bescherung]] (2023) — Ein mörderisches Weihnachtsfest.
+- [[wiki/folgen/poe-und-dupin-29-nebelgasse|EAPAD 29 — Nebelgasse]] (2023) — In einer nebligen Gasse geschehen unerklärliche Morde.
+- [[wiki/folgen/poe-und-dupin-30-der-schneider-des-todes|EAPAD 30 — Der Schneider des Todes]] (2023) — Ein Schneider fertigt Totengewänder für noch Lebende.
+- [[wiki/folgen/poe-und-dupin-31-der-blutbrunnen|EAPAD 31 — Der Blutbrunnen]] (2023) — Ein alter Brunnen birgt ein schreckliches Geheimnis.
+- [[wiki/folgen/poe-und-dupin-32-die-schicksalsuhr|EAPAD 32 — Die Schicksalsuhr]] (2024) — Eine Uhr prophezeit den Tod ihrer Besitzer.
+- [[wiki/folgen/poe-und-dupin-33-der-letzte-tanz|EAPAD 33 — Der letzte Tanz]] (2024) — Ein Mord auf einem Maskenball.
+- [[wiki/folgen/poe-und-dupin-34-glorreiche-zeiten|EAPAD 34 — Glorreiche Zeiten]] (2024) — Das vorläufige Finale der Serie.
+
+### Dracula
+
+- [[wiki/folgen/dracula-01-erbe-des-boesen|DRAC 1 — Erbe des Bösen]] (2020) — Dracula kehrt zurück und manipuliert Jonathan Harker.
+- [[wiki/folgen/dracula-02-blutsfeinde|DRAC 2 — Blutsfeinde]] (2020) — Dracula konsolidiert seine Macht und sucht alte Rivalen.
+- [[wiki/folgen/dracula-03-todesangst|DRAC 3 — Todesangst]] (2020) — Eine Mordserie in London trägt Draculas Handschrift.
+- [[wiki/folgen/dracula-04-hinter-den-schatten|DRAC 4 — Hinter den Schatten]] (2021) — Der Zirkel tritt aus dem Verborgenen.
+- [[wiki/folgen/dracula-05-im-zeichen-des-blutes|DRAC 5 — Im Zeichen des Blutes]] (2021) — Blutige Rituale markieren Draculas Aufstieg.
+- [[wiki/folgen/dracula-06-unter-bestien|DRAC 6 — Unter Bestien]] (2021) — Dracula formt seine Kreaturen zu einer Armee.
+- [[wiki/folgen/dracula-07-die-schaedelmuehle|DRAC 7 — Die Schädelmühle]] (2021) — Ein grausiger Ort wird zum Schauplatz dunkler Experimente.
+- [[wiki/folgen/dracula-08-der-atem-des-todes|DRAC 8 — Der Atem des Todes]] (2022) — Eine Seuche bedroht London.
+- [[wiki/folgen/dracula-09-schlangenbrut|DRAC 9 — Schlangenbrut]] (2022) — Verrat in den eigenen Reihen.
+- [[wiki/folgen/dracula-10-nest-des-unheils|DRAC 10 — Nest des Unheils]] (2022) — Ein Unterschlupf des Zirkels wird entdeckt.
+- [[wiki/folgen/dracula-11-im-goetzentempel|DRAC 11 — Im Götzentempel]] (2022) — Okkulte Rituale in einem verlassenen Tempel.
+- [[wiki/folgen/dracula-12-kaltes-blut|DRAC 12 — Kaltes Blut]] (2023) — Dracula plant einen kaltblütigen Anschlag.
+- [[wiki/folgen/dracula-13-der-ruf-des-boesen|DRAC 13 — Der Ruf des Bösen]] (2023) — Der Zirkel ruft seine Anhänger zusammen.
+- [[wiki/folgen/dracula-14-blutsuehne|DRAC 14 — Blutsühne]] (2023) — Rache und Vergeltung prägen diese Folge.
+- [[wiki/folgen/dracula-15-das-mal-der-frevler|DRAC 15 — Das Mal der Frevler]] (2024) — Ein dämonisches Zeichen markiert die Opfer.
+- [[wiki/folgen/dracula-16-der-sohn-des-verderbens|DRAC 16 — Der Sohn des Verderbens]] (2024) — Das Finale der Serie.
+
+### Frankenstein
+
+- [[wiki/folgen/frankenstein-01-am-abgrund-der-nacht|FRANK 1 — Am Abgrund der Nacht]] (2020) — Victor Frankenstein kehrt nach Genf zurück.
+- [[wiki/folgen/frankenstein-02-verflucht-seid-ihr-alle|FRANK 2 — Verflucht seid ihr alle]] (2020) — Die Folgen des Experiments werden sichtbar.
+- [[wiki/folgen/frankenstein-03-angst-in-den-gassen|FRANK 3 — Angst in den Gassen]] (2020) — Terror in den Straßen Genfs.
+- [[wiki/folgen/frankenstein-04-toedliches-wissen|FRANK 4 — Tödliches Wissen]] (2021) — Wissenschaft wird zur Waffe.
+- [[wiki/folgen/frankenstein-05-aus-dem-reich-der-toten|FRANK 5 — Aus dem Reich der Toten]] (2021) — Die Grenze zwischen Leben und Tod verschwimmt.
+- [[wiki/folgen/frankenstein-06-moerderjagd|FRANK 6 — Mörderjagd]] (2021) — Die Jagd auf Frankensteins Kreatur beginnt.
+- [[wiki/folgen/frankenstein-07-die-stunde-der-wahrheit|FRANK 7 — Die Stunde der Wahrheit]] (2021) — Frankenstein muss sich seiner Verantwortung stellen.
+- [[wiki/folgen/frankenstein-08-das-verbotene-grab|FRANK 8 — Das verbotene Grab]] (2022) — Grabschändung für wissenschaftliche Zwecke.
+- [[wiki/folgen/frankenstein-09-neuanfang|FRANK 9 — Neuanfang]] (2022) — Ein Versuch, neu zu beginnen.
+- [[wiki/folgen/frankenstein-10-auf-dunklen-pfaden|FRANK 10 — Auf dunklen Pfaden]] (2022) — Frankenstein gerät tiefer in die Dunkelheit.
+- [[wiki/folgen/frankenstein-11-gefangene-der-finsternis|FRANK 11 — Gefangene der Finsternis]] (2022) — In der Gewalt finsterer Mächte.
+- [[wiki/folgen/frankenstein-12-erweckung|FRANK 12 — Erweckung]] (2023) — Eine neue Kreatur erwacht.
+- [[wiki/folgen/frankenstein-13-necropolis|FRANK 13 — Necropolis]] (2023) — Eine Stadt der Toten.
+- [[wiki/folgen/frankenstein-14-wasser-und-tod|FRANK 14 — Wasser und Tod]] (2023) — Der Tod lauert in den Gewässern.
+- [[wiki/folgen/frankenstein-15-strom-der-gedanken|FRANK 15 — Strom der Gedanken]] (2023) — Elektrizität wird zum Werkzeug des Wahnsinns.
+- [[wiki/folgen/frankenstein-16-macht-und-manipulation|FRANK 16 — Macht und Manipulation]] (2024) — Der Zirkel zieht die Fäden.
+- [[wiki/folgen/frankenstein-17-sklave-der-wissenschaft|FRANK 17 — Sklave der Wissenschaft]] (2024) — Frankenstein wird zum Werkzeug anderer.
+- [[wiki/folgen/frankenstein-18-gott-der-medizin|FRANK 18 — Gott der Medizin]] (2024) — Medizin als göttliche Macht.
+- [[wiki/folgen/frankenstein-19-der-weg-der-schlange|FRANK 19 — Der Weg der Schlange]] (2024) — Ein verschlungener Pfad führt zum Ziel.
+- [[wiki/folgen/frankenstein-20-ewiges-leid|FRANK 20 — Ewiges Leid]] (2025) — Leiden ohne Ende.
+- [[wiki/folgen/frankenstein-21-der-faden-des-lebens|FRANK 21 — Der Faden des Lebens]] (2025) — Der dünne Faden zwischen Leben und Tod.
+- [[wiki/folgen/frankenstein-22-falsches-versprechen|FRANK 22 — Falsches Versprechen]] (2025) — Ein Versprechen, das nicht gehalten werden kann.
+- [[wiki/folgen/frankenstein-23-jaeger-und-gejagter|FRANK 23 — Jäger und Gejagter]] (2025) — Die Rollen vertauschen sich.
+- [[wiki/folgen/frankenstein-24-toedliche-dosis|FRANK 24 — Tödliche Dosis]] (2025) — Das vorläufige Finale der Serie.
+
 ### Oscar Wilde & Mycroft Holmes
 
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-01-zeitenwechsel|OWMH 1 — Zeitenwechsel]] (11.03.2016) — Wilde wird Sonderermittler der Krone.
@@ -291,10 +379,12 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/figuren/james-moriarty|James Moriarty]] — kriminelles Genie zwischen Eigeninteresse und offener Intrige gegen den Zirkel.
 - [[wiki/figuren/john-watson|John Watson]] — Holmes' staendiger Begleiter und wiederkehrende Figurenpraesenz an mehreren Kosmos-Scharnieren.
 - [[wiki/figuren/kapitaen-nemo|Kapitaen Nemo]] — fruehe Abenteuerfigur des Kosmos; Erstauftritt laut Chronologie in DNAPF 1.
+- [[wiki/figuren/mata-hari|Mata Hari]] — Spionin und Zirkel-Verbuendete; in 5+ Serien als Antagonistin aktiv.
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — Auftraggeber der Krone, strategischer Kopf gegen den Zirkel.
 - [[wiki/figuren/nikola-tesla|Nikola Tesla]] — genialer Erfinder und Titelheld der Blitz-Reihe Tesla.
 - [[wiki/figuren/oscar-wilde|Oscar Wilde]] — Titelheld, Sonderermittler ab OWMH 1.
 - [[wiki/figuren/passepartout|Passepartout]] — Phileas Foggs treuer Diener in 20+ Episoden, auch Crossover in IADK 6.
+- [[wiki/figuren/paul-hiller|Paul Hiller]] — Auftragsmoerder im Zirkel-Dienst; Erstauftritt OWMH 18, Tod OWMH 28.
 - [[wiki/figuren/phileas-fogg|Phileas Fogg]] — Titelheld der aeltesten Maritim-Reihe und fruehe Scharnierfigur des Kosmos.
 - [[wiki/figuren/rasputin|Rasputin]] — Zirkel-Mitglied #5; Erstauftritt in IADK 4.
 - [[wiki/figuren/robur|Robur]] — frueh eingefuehrter Erfinder und laut Konzeptseiten Zirkel-Mitglied.
@@ -317,6 +407,11 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [raw/maritim/2026-04-30_irene-adler_folgen-00-bis-10.md](raw/maritim/2026-04-30_irene-adler_folgen-00-bis-10.md) — offizielle Folgen-Seiten `0` bis `10`, als paraphrasierte Arbeitsnotiz mit Datumsabgleich erschlossen.
 - [raw/maritim/2026-04-30_irene-adler_folgen-11-bis-21.md](raw/maritim/2026-04-30_irene-adler_folgen-11-bis-21.md) — offizielle Folgen-Seiten `11` bis `21`, als paraphrasierte Arbeitsnotiz mit HolyShop- und Distributionsbelegen erschlossen.
 - [raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md](raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md) — offizielle Folgen-Seiten `22` bis `32`, als paraphrasierte Arbeitsnotiz mit exakten Spaetdaten erschlossen.
+- [raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md](raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md) — offizielle Folgen-Seiten `3` bis `34` der Maritim-Reihe Poe & Dupin, als paraphrasierte Arbeitsnotiz erschlossen.
+- [raw/maritim/2026-04-30_archive-poe-dupin_folgen-01-bis-12.md](raw/maritim/2026-04-30_archive-poe-dupin_folgen-01-bis-12.md) — offizielle Folgen-Seiten der Re-Release-Linie „Aus den Archiven von Edgar Allan Poe & Auguste Dupin", Folgen `1` bis `12`, als paraphrasierte Arbeitsnotiz erschlossen.
+- [raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md](raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md) — offizielle Serien- und Folgen-Seiten `1` bis `16` der Maritim-Reihe Dracula und der Zirkel der Sieben, als paraphrasierte Arbeitsnotiz erschlossen.
+- [raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md](raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md) — offizielle Serien- und Folgen-Seiten `1` bis `24` der Maritim-Reihe Frankenstein und der Zirkel der Sieben, als paraphrasierte Arbeitsnotiz erschlossen.
+- [raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md](raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md) — offizielle Serien- und Folgen-Seiten `1` bis `4` der Blitz-Mini-Serie Oscar Wilde & Edgar Allan Poe, als paraphrasierte Arbeitsnotiz erschlossen.
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md](raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md) — DNAPF offizielle Folgenseiten 6, 7, 9, 13–21, als paraphrasierte Arbeitsnotiz erschlossen.
 - [raw/maritim/2026-04-29_kapitaen-nemo_folgen-01-02.md](raw/maritim/2026-04-29_kapitaen-nemo_folgen-01-02.md) — offizielle Nemo-Serien- und Folgen-Seiten 1–2, als paraphrasierte Arbeitsnotiz erschlossen.
 - [raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md](raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md) — offizielle Folgen-Seiten 1–2 der Blitz-Reihe, als paraphrasierte Arbeitsnotiz erschlossen.

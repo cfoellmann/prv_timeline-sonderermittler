@@ -26,6 +26,7 @@ tags:
 
 ## Eckdaten
 
+- **Fandom-Abgleich (2026-04-30):** Folge 41 hat auf Fandom eine verlinkte Einzelseite.
 - **Erscheinungsdatum:** 27.01.2023.
 - **Angabe auf der offiziellen Fan-Seite:** 2022.
 - **Spielzeit:** 58 Minuten.
@@ -60,3 +61,8 @@ Im Londoner East End werden in mehreren Nächten entstellte Leichen gefunden, wa
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge41-auf-bewaehrung/>
 - Bastei Luebbe / Lübbe Audio: <https://bastei-luebbe.de/Audio/Krimis-Thriller/Oscar-Wilde-Mycroft-Holmes-Folge-41/9783785784624>
 - Buchtips-Rezension: <https://www.buchtips.net/rez11306-folge-41-auf-bewaehrung.htm>
+- [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+
+
+
+

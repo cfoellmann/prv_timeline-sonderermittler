@@ -25,6 +25,7 @@ tags:
 
 ## Eckdaten
 
+- **Fandom-Abgleich (2026-04-30):** Folge 5 hat auf Fandom eine verlinkte Einzelseite.
 - **Erscheinungsdatum:** 09.09.2016.
 - **Erscheinungsjahr (offizielle Seite):** 2016.
 - **Spielzeit:** 76 Minuten.
@@ -56,3 +57,8 @@ Das Geständnis eines Gefangenen bringt Mycroft Holmes auf die Spur einer geheim
 
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge05-kalter-fels/>
+- [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+
+
+
+

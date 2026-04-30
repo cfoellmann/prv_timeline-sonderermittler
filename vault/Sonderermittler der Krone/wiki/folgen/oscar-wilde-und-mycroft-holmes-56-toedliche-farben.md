@@ -26,6 +26,7 @@ tags:
 
 - **Erscheinungsdatum:** 27.03.2026.
 - **Angabe auf der offiziellen Seite:** 20.03.2026.
+- **Fandom-Abgleich (2026-04-30):** Auf der Fandom-OWMH-Serienseite aktuell nicht gelistet.
 - **Spielzeit:** 58 Minuten.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge56-toedliche-farben/>
@@ -51,3 +52,6 @@ Irene Adler, Oscar Wilde und Sherlock Holmes ahnen nicht, dass Moriarty sie mit 
 
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge56-toedliche-farben/>
+- [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Serienseiten-Abgleich: Folgen 55 und 56 sind dort derzeit nicht aufgeführt.
+
+

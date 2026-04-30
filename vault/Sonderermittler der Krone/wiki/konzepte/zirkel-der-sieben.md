@@ -1,7 +1,7 @@
 ---
 type: konzept
 titel: Zirkel der Sieben
-status: stub
+status: entwurf
 zirkel: true
 quellen:
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md

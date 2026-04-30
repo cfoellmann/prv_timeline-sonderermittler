@@ -13,6 +13,7 @@ spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
+  - raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge42-angst-im-east-end/
 tags:
   - sonderermittler
@@ -26,6 +27,7 @@ tags:
 
 - **Erscheinungsdatum:** 31.03.2023.
 - **Angabe auf der offiziellen Seite:** 2023.
+- **Fandom-Abgleich (2026-04-30):** Fandom-Einzelseite markiert Folge 42 weiterhin als „angekündigt" (veraltet).
 - **Spielzeit:** 57 Minuten.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge42-angst-im-east-end/>
@@ -53,4 +55,5 @@ Nachdem die Mordserie nicht aufgeklärt werden konnte, geschieht eine neue Tat m
 ## Quellen
 
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
+- [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Abgleich: Folge 42 auf Fandom noch als „angekündigt" markiert.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge42-angst-im-east-end/>

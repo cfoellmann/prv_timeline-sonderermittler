@@ -13,6 +13,7 @@ spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
+  - raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge43-neue-wege/
 tags:
   - sonderermittler
@@ -27,6 +28,7 @@ tags:
 
 - **Erscheinungsdatum:** 26.05.2023.
 - **Angabe auf der offiziellen Seite:** 2023.
+- **Fandom-Abgleich (2026-04-30):** Fandom-Einzelseite markiert Folge 43 weiterhin als „angekündigt" (veraltet), nennt den Zirkel aber explizit.
 - **Spielzeit:** 60 Minuten.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge43-neue-wege/>
@@ -54,4 +56,5 @@ Wilde untersucht, ob Dr. Hoffman verunglückt ist oder ermordet wurde, und stö�
 ## Quellen
 
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
+- [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Abgleich mit explizitem Zirkel-Hinweis im Verlags-Teaser.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge43-neue-wege/>

@@ -25,6 +25,7 @@ tags:
 
 ## Eckdaten
 
+- **Fandom-Abgleich (2026-04-30):** Folge 6 hat auf Fandom eine verlinkte Einzelseite.
 - **Erscheinungsdatum:** 18.11.2016.
 - **Erscheinungsjahr (offizielle Seite):** 2016.
 - **Spielzeit:** 74 Minuten.
@@ -56,3 +57,8 @@ Als im Schwarzwald mehrere junge Frauen verschwinden, greifen Angst und Aberglau
 
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge06-hexenwald/>
+- [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+
+
+
+

@@ -27,6 +27,7 @@ tags:
 
 ## Eckdaten
 
+- **Fandom-Abgleich (2026-04-30):** Folge 1 hat auf Fandom eine verlinkte Einzelseite.
 - **Setting / Zeit:** Frühjahr 1895, viktorianisches England.
 - **Schauplatz:** vorrangig London (zu verifizieren beim Hören).
 - **Erscheinungsdatum:** 11. März 2016.
@@ -72,3 +73,8 @@ tags:
 - [raw/maritim/2026-04-27_owmh_serien-und-folge-01.md](../../raw/maritim/2026-04-27_owmh_serien-und-folge-01.md) — offizieller Klappentext + Eckdaten.
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Sprecher-Erstauftritte, In-Universe-Jahr.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge01-zeitenwechsel/>
+- [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+
+
+
+

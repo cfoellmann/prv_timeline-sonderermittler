@@ -26,6 +26,7 @@ tags:
 
 ## Eckdaten
 
+- **Fandom-Abgleich (2026-04-30):** Folge 4 hat auf Fandom eine verlinkte Einzelseite.
 - **Setting / Zeit:** 1890er Jahre, genauer In-Universe-Zeitpunkt im Repo noch offen.
 - **Schauplatz:** Großbritannien, Machtzentrum rund um Krone und Königshaus.
 - **Erscheinungsdatum:** 14. Juli 2016.
@@ -70,3 +71,8 @@ tags:
 - [raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md](../../raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md) — offizieller Klappentext + Eckdaten.
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Erscheinungsdatum, Erstauftritt Dr. Alfons Grell.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge04-tod-der-koenigin/>
+- [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+
+
+
+

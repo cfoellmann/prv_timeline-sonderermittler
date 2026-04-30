@@ -24,6 +24,7 @@ tags:
 
 ## Eckdaten
 
+- **Fandom-Abgleich (2026-04-30):** Folge 27 hat auf Fandom eine verlinkte Einzelseite.
 - **Erscheinungsdatum:** 29.05.2020.
 - **Erscheinungsjahr (offizielle Seite):** 2020.
 - **Spielzeit:** 70 Minuten.
@@ -53,3 +54,8 @@ Mehrere Mitglieder der politischen und finanziellen Elite sterben unter merkwür
 
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge27-dreissig-silberlinge/>
+- [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+
+
+
+
