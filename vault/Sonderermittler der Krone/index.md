@@ -224,6 +224,8 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 
 ### Poe & Dupin
 
+- [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel|EAPAD 1 — Insel der tödlichen Rätsel]] (2018-08-17) — Erstauftritt von Gaston Morell; Zirkel-Bezug indirekt.
+- [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst|EAPAD 2 — Im Bann der Angst]] (2018-09-21) — Dracula tritt erstmals als „Sapriel" auf; Zirkel-Bezug indirekt.
 - [[wiki/folgen/poe-und-dupin-03-die-toten-augen-von-paris|EAPAD 3 — Die toten Augen von Paris]] (2018) — Eine unheimliche Mordserie in Paris, bei der den Opfern die Augen herausgeschnitten werden.
 - [[wiki/folgen/poe-und-dupin-04-ein-leben-im-jenseits|EAPAD 4 — Ein Leben im Jenseits]] (2018) — Dupin und Poe ermitteln in einem Fall von vorgetäuschtem Tod und Identitätsdiebstahl.
 - [[wiki/folgen/poe-und-dupin-05-der-fluch-des-falschen-koenigs|EAPAD 5 — Der Fluch des falschen Königs]] (2018) — Eine mysteriöse Mordserie führt zu einem gefährlichen Geheimbund.
@@ -379,12 +381,10 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/figuren/james-moriarty|James Moriarty]] — kriminelles Genie zwischen Eigeninteresse und offener Intrige gegen den Zirkel.
 - [[wiki/figuren/john-watson|John Watson]] — Holmes' staendiger Begleiter und wiederkehrende Figurenpraesenz an mehreren Kosmos-Scharnieren.
 - [[wiki/figuren/kapitaen-nemo|Kapitaen Nemo]] — fruehe Abenteuerfigur des Kosmos; Erstauftritt laut Chronologie in DNAPF 1.
-- [[wiki/figuren/mata-hari|Mata Hari]] — Spionin und Zirkel-Verbuendete; in 5+ Serien als Antagonistin aktiv.
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — Auftraggeber der Krone, strategischer Kopf gegen den Zirkel.
 - [[wiki/figuren/nikola-tesla|Nikola Tesla]] — genialer Erfinder und Titelheld der Blitz-Reihe Tesla.
 - [[wiki/figuren/oscar-wilde|Oscar Wilde]] — Titelheld, Sonderermittler ab OWMH 1.
 - [[wiki/figuren/passepartout|Passepartout]] — Phileas Foggs treuer Diener in 20+ Episoden, auch Crossover in IADK 6.
-- [[wiki/figuren/paul-hiller|Paul Hiller]] — Auftragsmoerder im Zirkel-Dienst; Erstauftritt OWMH 18, Tod OWMH 28.
 - [[wiki/figuren/phileas-fogg|Phileas Fogg]] — Titelheld der aeltesten Maritim-Reihe und fruehe Scharnierfigur des Kosmos.
 - [[wiki/figuren/rasputin|Rasputin]] — Zirkel-Mitglied #5; Erstauftritt in IADK 4.
 - [[wiki/figuren/robur|Robur]] — frueh eingefuehrter Erfinder und laut Konzeptseiten Zirkel-Mitglied.
