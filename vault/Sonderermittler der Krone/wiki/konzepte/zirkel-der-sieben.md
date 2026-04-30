@@ -35,7 +35,7 @@ Laut Löchel-Kommentar (Februar 2023) ist der Zirkel mit der Aufnahme von [[wiki
 | # | Name | Rolle | Eigene Serie | Erstauftritt | Wiki |
 |---|---|---|---|---|---|
 | 1 | Dracula | Anführer | [[wiki/serien/dracula]] | DNAPF 12 (17.11.2017) | [[wiki/figuren/dracula]] |
-| 2 | Viktor Frankenstein | Wissenschaftler | [[wiki/serien/frankenstein]] | DNAPF 4 (22.04.2016) | [[wiki/figuren/viktor-frankenstein]] |
+| 2 | Viktor Frankenstein | Wissenschaftler | [[wiki/serien/frankenstein]] | DNAPF 4 (22.04.2016) | [[wiki/figuren/victor-frankenstein]] |
 | 3 | Robur | „Herr der Lüfte" / Erfinder | – (Auftritt in [[wiki/serien/phileas-fogg]]) | DNAPF 3 (26.02.2016) | [[wiki/figuren/robur]] |
 | 4 | Der Maharadscha | – | – | OWMH 17 „Der Maharadscha der Nacht" (28.09.2018) | [[wiki/figuren/der-maharadscha]] |
 | 5 | Rasputin | – | – | IADK 4 „Sankt Petersburg Express" (15.02.2020) | [[wiki/figuren/rasputin]] |

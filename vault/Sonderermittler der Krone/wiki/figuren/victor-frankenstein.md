@@ -21,7 +21,6 @@ tags:
 
 ## Eckdaten
 
-- **Alias im Repo:** `Viktor Frankenstein` kommt ebenfalls vor; beide Schreibweisen werden aktuell verwendet.
 - **Erstauftritt im aktuellen Repo-Stand:** [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl|DNAPF 4 - Der Elefant aus Stahl]] am 22.04.2016.
 - **Zentrale Reihe:** [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]].
 

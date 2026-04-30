@@ -37,7 +37,7 @@ tags:
 ## Hauptfiguren
 
 - [[wiki/figuren/dracula|Dracula]] — verfolgt einen Plan, der den Zirkel zu zerbrechen droht
-- [[wiki/figuren/viktor-frankenstein|Victor Frankenstein]] — hilft Dracula bei der Schöpfung eines besonderen Wesens
+- [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] — hilft Dracula bei der Schöpfung eines besonderen Wesens
 - Van Helsing und Mina Harker — reisen Richtung Balkan, um Dracula aufzuhalten
 - Bram Stoker und Jonathan Harker — machen in Turin Jagd auf Dracula
 

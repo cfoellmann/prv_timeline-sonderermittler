@@ -38,7 +38,7 @@ tags:
 
 - [[wiki/figuren/dracula|Dracula]] — setzt einen gefährlichen Plan in Turin um
 - [[wiki/figuren/aleister-crowley|Aleister Crowley]] — unterstützt Dracula
-- [[wiki/figuren/viktor-frankenstein|Victor Frankenstein]] — soll etwas Unglaubliches erschaffen
+- [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] — soll etwas Unglaubliches erschaffen
 - Bastien Lavache — undurchsichtiger Sonderermittler
 
 ## Handlung (grob)
