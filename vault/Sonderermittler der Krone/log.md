@@ -320,3 +320,10 @@ Chronologisches Aktivitätsprotokoll. Append-only.
 - `app/data/folgen.json` fuer alle neuen Serien aktualisiert: 72 neue Episoden-Eintraege (32 Poe & Dupin, 16 Dracula, 24 Frankenstein), Oscar Wilde & Poe bereits vorhanden.
 - `index.md` mit allen neuen Folgen-Abschnitten, aktualisierten Serien-Beschreibungen und 6 neuen Raw-Quellen synchronisiert.
 - **Gesamt-Ergebnis:** Repo jetzt mit 273 Episoden-Seiten (zuvor 201), alle 15 Serien vollstaendig dokumentiert; nur Poe & Dupin Re-Releases ohne Original-SHC-Mapping.
+
+## [2026-04-30] wiki | Timeline-Recherche und story_jahr-Enrichment
+- Vier parallele Recherche-Stränge ausgewertet: Zauberspiegel-Chronologie, Raw-Episodenbeschreibungen, Maritim-Verlagsseite, Crossover-Constraints.
+- `folgen.json`: 14 Episoden mit neuem `story_jahr` versehen (OWMH 4, 5, 7–9, 11–13, 26–29; Irene Adler 5–6). Gesamtstand jetzt: 30 von 284 Episoden mit konkretem In-Universe-Jahr.
+- `folgen.json`: 6 Schlüssel-Episoden mit serienübergreifenden Ordering-Constraints annotiert (PF 4/5/12, OWMH 16/18/50).
+- `wiki/konzepte/hoerreihenfolgen.md` Variante 5 (In-Universe-chronologisch) von Stub zu ausgearbeiteter Tabelle mit 30 Zeitankern und Constraint-Liste erweitert.
+- Befund: Maritim hat keine offizielle Chronologie publiziert; Irene-Adler-Serie spielt als Prequel vor dem OWMH-Strang (~1889–1890).

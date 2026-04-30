@@ -97,11 +97,44 @@ Foren-Beobachtung (Hoergruselspiele/Hörspieltalk): Die Serien sind in **abgesch
 
 ---
 
-## Variante 5 — In-Universe-chronologisch (Stub)
+## Variante 5 — In-Universe-chronologisch
 
-Anhand der In-Universe-Jahresangaben (1895, 1896, …) aus den Folgen sortieren. Die Löchel-Chronologie liefert dafür einige Anker (z. B. OWMH 1–2 = 1895, OWMH 6 = November 1895, OWMH 14 ff. = 1896).
+Anhand der In-Universe-Jahresangaben aus den Folgen sortiert. Bisher sind **30 von 284 Folgen** mit konkretem `story_jahr` erfasst; die Lücken (vor allem Phileas-Fogg-Hauptstrang, Poe & Dupin, Dracula, Frankenstein, Moriarty) bleiben offen.
 
-> **Status:** Stub. Zur Vervollständigung müssen die In-Universe-Daten beim Ingest jeder Folge erfasst werden. Sobald das geschehen ist, kann diese Variante automatisch generiert werden (Dataview-Query oder manuell).
+### Bekannte In-Universe-Zeitanker
+
+| Jahr | Monat | Folge(n) | Anmerkung |
+|---:|---:|---|---|
+| 1875 | — | (Rückblende in OWMH 5) | Abspaltung / Gründung des Zirkels |
+| ~1889 | — | IADK 6 | Pariser Weltausstellung; Louis Le Prince (geschätzt) |
+| ~1890 | — | IADK 5 | Stromkrieg Edison/Westinghouse (geschätzt) |
+| 1895 | 4 | OWMH 1 | Wilde wird Sonderermittler (Frühjahr) |
+| 1895 | — | OWMH 2, 4, 5 | Erstauftritte Hawthorn, Grell, Charles-Darwin-Hintergrund |
+| 1895 | 11 | OWMH 6 | Schwarzwald-Proband-3-Fall |
+| 1895 | — | OWMH 7, 8, 9 | Zwischen Nov und Dez 1895 |
+| 1895 | 12 | OWMH 10 | Erstauftritt Theodora Sachs, Brocken |
+| 1896 | — | OWMH 11–13 | Übergang Dez 1895 → 1896 |
+| 1896 | — | OWMH 14–29 | Hauptteil des Zirkel-Plots (Labyrinth bis Brennender Zorn) |
+
+### Serienübergreifende Anker-Constraints
+
+Folgende Erstauftritte erzeugen Reihenfolge-Bedingungen:
+
+- **DNAPF 4** → vor Frankenstein-Serie (Viktor Frankenstein tritt dort auf)
+- **DNAPF 5** → vor Poe-und-Dupin-Serie (Edgar Allan Poe tritt dort auf)
+- **DNAPF 12** → vor Dracula-Serie (Dracula tritt dort auf)
+- **OWMH 16** → vor Irene-Adler-Hauptserie (Irene Adler tritt dort auf; erste Zusammenarbeit Wilde × Adler)
+- **OWMH 18** → Payton-Tod als Wendepunkt
+- **OWMH 50** → Mycroft ermordet = Strukturbruch für alle Folgeserien
+
+### Offene Lücken
+
+- Phileas-Fogg-Serie: kein In-Universe-Jahr bekannt (weder aus Quellen noch aus Löchel-Chronologie)
+- Poe & Dupin: kein In-Universe-Jahr, nur relative Anker
+- Dracula, Frankenstein, Moriarty, Tesla, Kapitän Nemo: noch keine Zeitdaten
+- OWMH 30–56: Fortlauf nach 1896 (wahrscheinlich 1896–1897), aber keine Quellenbestätigung
+
+> **Nächster Schritt:** Beim Ingest weiterer Folgen-Details systematisch `story_jahr` erfassen. Sobald >50 % der Folgen datiert sind, kann eine automatische Sortierung generiert werden.
 
 ---
 
