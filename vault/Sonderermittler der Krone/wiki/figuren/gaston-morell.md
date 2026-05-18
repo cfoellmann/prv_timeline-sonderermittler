@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Gaston Morell
 fraktion: antagonistisch

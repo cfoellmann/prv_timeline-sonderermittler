@@ -1,4 +1,4 @@
----
+﻿---
 type: serie
 titel: Frankenstein und der Zirkel der Sieben
 verlag: Maritim

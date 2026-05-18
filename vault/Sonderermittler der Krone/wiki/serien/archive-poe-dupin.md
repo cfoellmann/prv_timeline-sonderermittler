@@ -1,4 +1,4 @@
----
+﻿---
 type: weiterleitung
 ziel: wiki/serien/poe-und-dupin
 status: weiterleitung

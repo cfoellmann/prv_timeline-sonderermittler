@@ -1,4 +1,4 @@
----
+﻿---
 type: konzept
 titel: Hör-Reihenfolgen
 status: entwurf
@@ -39,7 +39,7 @@ Jede Serie für sich, in Erscheinungsreihenfolge der Folgen innerhalb der Serie.
 
 ---
 
-## Variante 2 — Erscheinungsreihenfolge gemischt (Löchel-Chronologie)
+## Variante 2 — Erscheinungsreihenfolge gemischt Löchel-Chronologie
 
 Die ausgearbeitetste dokumentierte Reihenfolge stammt von **Ingo Löchel** auf Zauberspiegel-Online (Chronologie Teil 1, 2026-04-27 ingestiert). Alle Folgen aller Serien werden in der Reihenfolge ihrer Veröffentlichung gehört.
 

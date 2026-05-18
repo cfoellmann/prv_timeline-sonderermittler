@@ -1,4 +1,4 @@
----
+﻿---
 type: serie
 titel: Oscar Wilde & Edgar Allan Poe
 verlag: Blitz Verlag

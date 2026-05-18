@@ -1,4 +1,4 @@
----
+﻿---
 type: folge
 serie: poe-und-dupin
 nummer: 24

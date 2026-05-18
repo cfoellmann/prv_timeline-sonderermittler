@@ -1,4 +1,4 @@
----
+﻿---
 type: weiterleitung
 ziel: wiki/serien/sherlock-holmes
 status: weiterleitung

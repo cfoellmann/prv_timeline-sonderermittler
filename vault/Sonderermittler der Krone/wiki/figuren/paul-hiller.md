@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Paul Hiller
 fraktion: antagonistisch

@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Irene Adler
 sprecher: ""
@@ -27,8 +27,8 @@ tags:
 
 | Folge | Rolle | Erstauftritt? |
 |---|---|---|
-| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-16-der-austausch|OWMH 16 — Der Austausch]] (27.07.2018) | Laut Serienkontext erste Zusammenarbeit mit Oscar Wilde | ✓ im OWMH-Kontext |
-| [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume|WMU 2 — Die Todesblume]] (10.04.2026) | Auf offizieller Folgen-Seite als Figur gelistet |   |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-16-der-austausch\|OWMH 16 — Der Austausch]] (27.07.2018) | Laut Serienkontext erste Zusammenarbeit mit Oscar Wilde | ✓ im OWMH-Kontext |
+| [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume\|WMU 2 — Die Todesblume]] (10.04.2026) | Auf offizieller Folgen-Seite als Figur gelistet |   |
 
 ## Beziehungen
 

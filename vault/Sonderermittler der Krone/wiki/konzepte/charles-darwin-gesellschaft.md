@@ -1,4 +1,4 @@
----
+﻿---
 type: konzept
 titel: Charles Darwin Gesellschaft
 status: entwurf
@@ -25,7 +25,7 @@ Die Charles Darwin Gesellschaft betreibt im Universum verdeckte Forschung an Gen
 | Punkt | Detail | Beleg |
 |---|---|---|
 | Abspaltung | 1875 — Wissenschaftler trennen sich, weil sie genetische Versuche am Menschen ablehnen | OWMH 5 „Kalter Fels" (09.09.2016) |
-| Folge der Abspaltung | Gründung des [[wiki/konzepte/zirkel-der-sieben|Zirkels der Sieben]] durch die Abtrünnigen | OWMH 5 |
+| Folge der Abspaltung | Gründung des [[wiki/konzepte/zirkel-der-sieben\|Zirkels der Sieben]] durch die Abtrünnigen | OWMH 5 |
 | Forschungsprogramm „Schwarzwald" | Ab 1878: Hybrid-Experimente, Proband 3 (genetisch aus Wolf, Falke, Schwarzbär; später „Adrian") | OWMH 6 „Hexenwald" (18.11.2016) |
 | Forschungsprogramm „Azoren / Demeter" | Experimente mit Draculas Blut; Versuchspersonen werden auf der Demeter weggebracht, Schiff sinkt vor Whitby | OWMH 19 „Blutdurst" (31.01.2019), OWMH 20 „Blutzoll" (29.03.2019) |
 | Forschungsprogramm „Spitzbergen / Medusa" | Dr. Cappelli forscht an einer Gorgone-Medusa-Substanz, die Menschen versteinert | OWMH 23 „Das Medusa-Syndrom" (30.09.2019) |

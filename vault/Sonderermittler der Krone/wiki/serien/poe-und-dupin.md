@@ -1,4 +1,4 @@
----
+﻿---
 type: serie
 titel: Edgar Allan Poe & Auguste Dupin
 verlag: Maritim

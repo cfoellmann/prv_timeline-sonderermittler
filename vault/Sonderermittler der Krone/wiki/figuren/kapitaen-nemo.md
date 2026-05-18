@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Kapitaen Nemo
 aliase:
@@ -27,10 +27,10 @@ tags:
 
 | Folge / Reihe | Rolle | Notiz |
 |---|---|---|
-| [[wiki/folgen/phileas-fogg-01-entfuehrung-auf-hoher-see|DNAPF 1 - Entfuehrung auf hoher See]] | Erstauftritt | laut Chronologie |
-| [[wiki/folgen/kapitaen-nemo-01-die-gestrandeten-des-luftmeeres|NEM 1 - Die Gestrandeten des Luftmeeres]] | Titelheld / Rahmenfigur | erzaehlt Phileas Fogg von einer frueheren Insel-Geschichte |
-| [[wiki/folgen/kapitaen-nemo-02-das-geheimnis-der-insel|NEM 2 - Das Geheimnis der Insel]] | Titelheld / Rahmenfigur | fuehrt den Insel-Block der Eigenreihe fort |
-| [[wiki/serien/kapitaen-nemo|Die Abenteuer des Kapitaen Nemo]] | Titelheld | Blitz-Spin-off seit 2026 |
+| [[wiki/folgen/phileas-fogg-01-entfuehrung-auf-hoher-see\|DNAPF 1 - Entfuehrung auf hoher See]] | Erstauftritt | laut Chronologie |
+| [[wiki/folgen/kapitaen-nemo-01-die-gestrandeten-des-luftmeeres\|NEM 1 - Die Gestrandeten des Luftmeeres]] | Titelheld / Rahmenfigur | erzaehlt Phileas Fogg von einer frueheren Insel-Geschichte |
+| [[wiki/folgen/kapitaen-nemo-02-das-geheimnis-der-insel\|NEM 2 - Das Geheimnis der Insel]] | Titelheld / Rahmenfigur | fuehrt den Insel-Block der Eigenreihe fort |
+| [[wiki/serien/kapitaen-nemo\|Die Abenteuer des Kapitaen Nemo]] | Titelheld | Blitz-Spin-off seit 2026 |
 
 ## Bezug zum Zirkel der Sieben
 

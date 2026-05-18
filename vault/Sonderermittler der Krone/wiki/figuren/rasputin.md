@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Rasputin
 fraktion: antagonistisch

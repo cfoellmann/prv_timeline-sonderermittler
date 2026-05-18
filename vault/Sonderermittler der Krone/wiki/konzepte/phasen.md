@@ -1,4 +1,4 @@
----
+﻿---
 type: konzept
 titel: Phasen des Maritim-Kosmos
 status: entwurf

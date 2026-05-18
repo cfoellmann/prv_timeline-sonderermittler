@@ -1,4 +1,4 @@
----
+﻿---
 type: serie
 titel: Oscar Wilde & Irene Adler – Sonderermittler der Krone
 verlag: Blitz Verlag
@@ -49,21 +49,21 @@ tags:
 
 | Anker | Funktion fuer die Mini-Serie | Beleglage |
 |---|---|---|
-| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-16-der-austausch|OWMH 16 — Der Austausch]] | erster lokal belegter Wilde/Adler-Einsatz | Chronologie + Folgen-Seite |
-| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-34-asche-und-rauch|OWMH 34 — Asche und Rauch]] | gemeinsamer Einsatz nach der Zerstoerung Londons | Folgen-Seite |
-| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis|OWMH 50 — Bittere Erkenntnis]] | Wilde, Adler und Sherlock als gemeinsamer spaeter Ermittlungsblock | Folgen-Seite |
-| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-51-diadem-der-macht|OWMH 51]] bis [[wiki/folgen/oscar-wilde-und-mycroft-holmes-56-toedliche-farben|OWMH 56]] | Adler und Wilde bleiben parallel in denselben Grosskonflikt eingebunden | Folgen-Seiten |
-| [[wiki/folgen/phileas-fogg-47-der-schwarze-spiegel|DNAPF 47 — Der schwarze Spiegel]] | Holmes zieht Irene Adler und Oscar Wilde gemeinsam in einen Mordfall | Folgen-Seite |
-| [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume|WMU 2 — Die Todesblume]] | Irene Adler ist in einer spaeten Wilde-Nebenlinie offiziell als Figur gelistet | Folgen-Seite |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-16-der-austausch\|OWMH 16 — Der Austausch]] | erster lokal belegter Wilde/Adler-Einsatz | Chronologie + Folgen-Seite |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-34-asche-und-rauch\|OWMH 34 — Asche und Rauch]] | gemeinsamer Einsatz nach der Zerstoerung Londons | Folgen-Seite |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis\|OWMH 50 — Bittere Erkenntnis]] | Wilde, Adler und Sherlock als gemeinsamer spaeter Ermittlungsblock | Folgen-Seite |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-51-diadem-der-macht\|OWMH 51]] bis [[wiki/folgen/oscar-wilde-und-mycroft-holmes-56-toedliche-farben\|OWMH 56]] | Adler und Wilde bleiben parallel in denselben Grosskonflikt eingebunden | Folgen-Seiten |
+| [[wiki/folgen/phileas-fogg-47-der-schwarze-spiegel\|DNAPF 47 — Der schwarze Spiegel]] | Holmes zieht Irene Adler und Oscar Wilde gemeinsam in einen Mordfall | Folgen-Seite |
+| [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume\|WMU 2 — Die Todesblume]] | Irene Adler ist in einer spaeten Wilde-Nebenlinie offiziell als Figur gelistet | Folgen-Seite |
 
 ## Folgenliste
 
 | # | Titel | Datum | Notizen |
 |---|---|---|---|
-| 01 | [[wiki/folgen/oscar-wilde-und-irene-adler-01-das-schottische-stueck|Das schottische Stück]] | 25.10.2024 | Edinburgh, Shakespeare-Festival und Mord an Nigel Franklin |
-| 02 | [[wiki/folgen/oscar-wilde-und-irene-adler-02-die-tragoedie-der-irrungen|Die Tragödie der Irrungen]] | 01.11.2024 | Macbeth-Manuskript in Cawdor Castle; der Zirkel sucht mit |
-| 03 | [[wiki/folgen/oscar-wilde-und-irene-adler-03-ein-sommernachtsalbtraum|Ein Sommernachtsalbtraum]] | 08.11.2024 | offizielle Seite dupliziert derzeit offenbar den Klappentext von Folge 2; Killjoy neu gelistet |
-| 04 | [[wiki/folgen/oscar-wilde-und-irene-adler-04-was-ihr-nicht-wollt|Was ihr nicht wollt]] | 15.11.2024 | Finale um Crowleys Sprengstoff-Plan gegen Parlament und Buckingham Palace |
+| 01 | [[wiki/folgen/oscar-wilde-und-irene-adler-01-das-schottische-stueck\|Das schottische Stück]] | 25.10.2024 | Edinburgh, Shakespeare-Festival und Mord an Nigel Franklin |
+| 02 | [[wiki/folgen/oscar-wilde-und-irene-adler-02-die-tragoedie-der-irrungen\|Die Tragödie der Irrungen]] | 01.11.2024 | Macbeth-Manuskript in Cawdor Castle; der Zirkel sucht mit |
+| 03 | [[wiki/folgen/oscar-wilde-und-irene-adler-03-ein-sommernachtsalbtraum\|Ein Sommernachtsalbtraum]] | 08.11.2024 | offizielle Seite dupliziert derzeit offenbar den Klappentext von Folge 2; Killjoy neu gelistet |
+| 04 | [[wiki/folgen/oscar-wilde-und-irene-adler-04-was-ihr-nicht-wollt\|Was ihr nicht wollt]] | 15.11.2024 | Finale um Crowleys Sprengstoff-Plan gegen Parlament und Buckingham Palace |
 
 ## Crossover-Bezug
 

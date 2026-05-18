@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: James Moriarty
 sprecher: Andreas Fröhlich

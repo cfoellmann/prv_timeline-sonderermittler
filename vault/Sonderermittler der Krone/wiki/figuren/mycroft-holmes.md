@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Mycroft Holmes
 sprecher: ""

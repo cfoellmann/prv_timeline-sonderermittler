@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Dr. Benjamin Payton
 sprecher: Leonhard Mahlich

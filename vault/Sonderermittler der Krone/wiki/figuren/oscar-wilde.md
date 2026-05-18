@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Oscar Wilde
 aliase:

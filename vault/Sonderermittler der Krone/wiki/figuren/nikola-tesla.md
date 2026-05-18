@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Nikola Tesla
 sprecher: Patrick Winczewski
@@ -27,14 +27,14 @@ tags:
 
 | Folge | Rolle | Erstauftritt? |
 |---|---|---|
-| [[wiki/folgen/tesla-01-im-spannungsfeld|TES 1 — Im Spannungsfeld]] (13.12.2024) | Titelheld, arbeitet an der Uebertragung von Licht | ✓ |
-| [[wiki/folgen/tesla-02-toedliches-spielzeug|TES 2 — Tödliches Spielzeug]] (21.02.2025) | ermittelt gegen den Verdacht um gefaehrliche Automaten |   |
-| [[wiki/folgen/tesla-03-gefangen-in-cedric-manor|TES 3 — Gefangen in Cedric Manor]] (25.04.2025) | geraet bei einer Rettungsmission in eine Falle |   |
-| [[wiki/folgen/tesla-04-im-spannungsfeld|TES 4 — Im Spannungsfeld]] (27.06.2025) | kaempft sich aus Cedric Manor frei |   |
-| [[wiki/folgen/tesla-05-zweite-haut|TES 5 — Zweite Haut]] (26.09.2025) | reist nach New Orleans zu Bastien Lavache |   |
-| [[wiki/folgen/tesla-06-im-labyrinth-der-schlange|TES 6 — Im Labyrinth der Schlange]] (21.11.2025) | sitzt mit Verbuendeten in einer Tempelanlage fest |   |
-| [[wiki/folgen/tesla-07-ein-uraltes-raetsel|TES 7 — Ein uraltes Rätsel]] (30.01.2026) | kehrt aus Amerika zurueck, waehrend Feinde in London planen |   |
-| [[wiki/folgen/tesla-08-koenig-der-luefte|TES 8 — König der Lüfte]] (27.03.2026) | kaempft gegen einen Blackout-Plan im Umfeld des Koenigshauses |   |
+| [[wiki/folgen/tesla-01-im-spannungsfeld\|TES 1 — Im Spannungsfeld]] (13.12.2024) | Titelheld, arbeitet an der Uebertragung von Licht | ✓ |
+| [[wiki/folgen/tesla-02-toedliches-spielzeug\|TES 2 — Tödliches Spielzeug]] (21.02.2025) | ermittelt gegen den Verdacht um gefaehrliche Automaten |   |
+| [[wiki/folgen/tesla-03-gefangen-in-cedric-manor\|TES 3 — Gefangen in Cedric Manor]] (25.04.2025) | geraet bei einer Rettungsmission in eine Falle |   |
+| [[wiki/folgen/tesla-04-im-spannungsfeld\|TES 4 — Im Spannungsfeld]] (27.06.2025) | kaempft sich aus Cedric Manor frei |   |
+| [[wiki/folgen/tesla-05-zweite-haut\|TES 5 — Zweite Haut]] (26.09.2025) | reist nach New Orleans zu Bastien Lavache |   |
+| [[wiki/folgen/tesla-06-im-labyrinth-der-schlange\|TES 6 — Im Labyrinth der Schlange]] (21.11.2025) | sitzt mit Verbuendeten in einer Tempelanlage fest |   |
+| [[wiki/folgen/tesla-07-ein-uraltes-raetsel\|TES 7 — Ein uraltes Rätsel]] (30.01.2026) | kehrt aus Amerika zurueck, waehrend Feinde in London planen |   |
+| [[wiki/folgen/tesla-08-koenig-der-luefte\|TES 8 — König der Lüfte]] (27.03.2026) | kaempft gegen einen Blackout-Plan im Umfeld des Koenigshauses |   |
 
 ## Beziehungen
 

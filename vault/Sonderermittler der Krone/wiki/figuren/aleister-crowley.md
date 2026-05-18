@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Aleister Crowley
 fraktion: antagonistisch

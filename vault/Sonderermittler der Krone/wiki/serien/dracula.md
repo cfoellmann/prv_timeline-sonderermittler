@@ -1,4 +1,4 @@
----
+﻿---
 type: serie
 titel: Dracula und der Zirkel der Sieben
 verlag: Maritim
@@ -53,23 +53,23 @@ Die lokale Serienfunktion ist klarer als der Einzelinhalt: `Dracula` verdichtet 
 
 | Folge / Serie | Funktion fuer Dracula | Beleglage |
 |---|---|---|
-| [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|DNAPF 12 „Entscheidung in den Karpaten“]] | fruehester lokal belegter Dracula-Auftritt im Kosmos | Chronologie-Notiz |
-| [[wiki/folgen/phileas-fogg-16-gefahr-fuer-die-propellerinsel|DNAPF 16 „Gefahr fuer die Propellerinsel“]] | frueher Rueckgriff auf Dracula noch vor seiner Eigenreihe | offizielle Folgen-Seite lokal paraphrasiert |
-| [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis|DNAPF 21 „Die sieben Seelen des Anubis“]] | Dracula ist mit Frankensteins Rueckkehr verknuepft | Chronologie + Folgen-Seite |
-| [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel|DNAPF 24 „Die geheimnisvolle Insel“]] | Zweikampf Frankenstein gegen Dracula kurz vor dem Serienstart 2020 | Chronologie + Folgen-Seite |
-| [[wiki/folgen/moriarty-02-die-wiege-des-verbrechens|MOR 2 „Die Wiege des Verbrechens“]] | sehr frueher direkter Anschluss der Moriarty-Reihe an Dracula | Folgen-Seite |
-| [[wiki/folgen/irene-adler-15-in-den-krallen-des-boesen|IADK 15 „In den Krallen des Boesen“]] | Dracula bleibt auch in der Adler-Linie ein aktiver Machtfaktor | Folgen-Seite |
-| [[wiki/folgen/moriarty-16-wo-alles-endet|MOR 16 „Wo alles endet“]] | spaeter offener Rivalitaets- bzw. Konfliktpunkt mit Moriarty | Folgen-Seite |
-| [[wiki/folgen/phileas-fogg-39-die-afrika-verschwoerung|DNAPF 39 „Die Afrika-Verschwoerung“]] | belegt Dracula 2024 noch als aktiven Faktor parallel zu seiner abgeschlossenen Eigenreihe | Folgen-Seite |
+| [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten\|DNAPF 12 „Entscheidung in den Karpaten“]] | fruehester lokal belegter Dracula-Auftritt im Kosmos | Chronologie-Notiz |
+| [[wiki/folgen/phileas-fogg-16-gefahr-fuer-die-propellerinsel\|DNAPF 16 „Gefahr fuer die Propellerinsel“]] | frueher Rueckgriff auf Dracula noch vor seiner Eigenreihe | offizielle Folgen-Seite lokal paraphrasiert |
+| [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis\|DNAPF 21 „Die sieben Seelen des Anubis“]] | Dracula ist mit Frankensteins Rueckkehr verknuepft | Chronologie + Folgen-Seite |
+| [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel\|DNAPF 24 „Die geheimnisvolle Insel“]] | Zweikampf Frankenstein gegen Dracula kurz vor dem Serienstart 2020 | Chronologie + Folgen-Seite |
+| [[wiki/folgen/moriarty-02-die-wiege-des-verbrechens\|MOR 2 „Die Wiege des Verbrechens“]] | sehr frueher direkter Anschluss der Moriarty-Reihe an Dracula | Folgen-Seite |
+| [[wiki/folgen/irene-adler-15-in-den-krallen-des-boesen\|IADK 15 „In den Krallen des Boesen“]] | Dracula bleibt auch in der Adler-Linie ein aktiver Machtfaktor | Folgen-Seite |
+| [[wiki/folgen/moriarty-16-wo-alles-endet\|MOR 16 „Wo alles endet“]] | spaeter offener Rivalitaets- bzw. Konfliktpunkt mit Moriarty | Folgen-Seite |
+| [[wiki/folgen/phileas-fogg-39-die-afrika-verschwoerung\|DNAPF 39 „Die Afrika-Verschwoerung“]] | belegt Dracula 2024 noch als aktiven Faktor parallel zu seiner abgeschlossenen Eigenreihe | Folgen-Seite |
 
 ## Spaetere Reihen-Anschluesse im Repo
 
 | Reihe | Art des Anschlusses | Notiz |
 |---|---|---|
-| [[wiki/serien/moriarty|Moriarty]] | direkter Gegenspieler und Machtfaktor | Lokal besonders klar belegt ueber [[wiki/folgen/moriarty-02-die-wiege-des-verbrechens|MOR 2]], [[wiki/folgen/moriarty-04-teuflische-jagd|MOR 4]], [[wiki/folgen/moriarty-08-im-schatten-des-giganten|MOR 8]] und [[wiki/folgen/moriarty-16-wo-alles-endet|MOR 16]]. |
-| [[wiki/serien/irene-adler|Irene Adler]] | direkte Figurenpraesenz auf der Gegenseite | In mehreren IADK-Folgen ist Dracula offiziell als Figur gelistet, besonders deutlich im Block [[wiki/folgen/irene-adler-15-in-den-krallen-des-boesen|15]] bis [[wiki/folgen/irene-adler-16-den-tod-vor-augen|16]]. |
-| [[wiki/serien/phileas-fogg|Phileas Fogg]] | fruehe Abenteuerachse und spaete Rueckgriffe | DNAPF fuehrt Dracula zuerst ein und bindet ihn bis 2024 immer wieder an Frankenstein-, Afrika- und Artefaktplots zurueck. |
-| [[wiki/serien/sherlock-holmes|Sherlock Holmes]] | indirekter Spaetanschluss ueber den weiteren Zirkel-Apparat | Lokal bisher eher ueber Crowley, Theodora, Rasputin und den Gesamtzirkel belegbar als ueber bereits dokumentierte Dracula-Einzelfolgen. |
+| [[wiki/serien/moriarty\|Moriarty]] | direkter Gegenspieler und Machtfaktor | Lokal besonders klar belegt ueber [[wiki/folgen/moriarty-02-die-wiege-des-verbrechens\|MOR 2]], [[wiki/folgen/moriarty-04-teuflische-jagd\|MOR 4]], [[wiki/folgen/moriarty-08-im-schatten-des-giganten\|MOR 8]] und [[wiki/folgen/moriarty-16-wo-alles-endet\|MOR 16]]. |
+| [[wiki/serien/irene-adler\|Irene Adler]] | direkte Figurenpraesenz auf der Gegenseite | In mehreren IADK-Folgen ist Dracula offiziell als Figur gelistet, besonders deutlich im Block [[wiki/folgen/irene-adler-15-in-den-krallen-des-boesen\|15]] bis [[wiki/folgen/irene-adler-16-den-tod-vor-augen\|16]]. |
+| [[wiki/serien/phileas-fogg\|Phileas Fogg]] | fruehe Abenteuerachse und spaete Rueckgriffe | DNAPF fuehrt Dracula zuerst ein und bindet ihn bis 2024 immer wieder an Frankenstein-, Afrika- und Artefaktplots zurueck. |
+| [[wiki/serien/sherlock-holmes\|Sherlock Holmes]] | indirekter Spaetanschluss ueber den weiteren Zirkel-Apparat | Lokal bisher eher ueber Crowley, Theodora, Rasputin und den Gesamtzirkel belegbar als ueber bereits dokumentierte Dracula-Einzelfolgen. |
 
 ## Folgen
 

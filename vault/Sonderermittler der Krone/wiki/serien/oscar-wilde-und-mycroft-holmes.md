@@ -1,4 +1,4 @@
----
+﻿---
 type: serie
 titel: Oscar Wilde & Mycroft Holmes – Sonderermittler der Krone
 verlag: Maritim

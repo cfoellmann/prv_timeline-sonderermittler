@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Theodora Sachs
 sprecher: Gabrielle Pietermann

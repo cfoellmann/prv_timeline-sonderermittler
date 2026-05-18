@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Robur
 fraktion: antagonistisch
@@ -26,11 +26,11 @@ tags:
 
 | Folge / Reihe | Rolle | Notiz |
 |---|---|---|
-| [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken|DNAPF 3 - Krieg in den Wolken]] | Erstauftritt | frueher Kosmos-Anker |
-| [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl|DNAPF 4 - Der Elefant aus Stahl]] | frueher Konfliktpunkt | laut Chronologie stirbt Robur hier |
-| [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette|DNAPF 26 - Die Kueste der Skelette]] | Rueckkehr | neuer Koerper |
-| [[wiki/serien/tesla|Tesla]] | spaeterer Gegenspieler | wiederkehrend im Blitz-Block |
-| [[wiki/serien/sherlock-holmes|Sherlock Holmes]] | spaeterer Gegenspieler | Hafen-/Lebensstein-Arc |
+| [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken\|DNAPF 3 - Krieg in den Wolken]] | Erstauftritt | frueher Kosmos-Anker |
+| [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl\|DNAPF 4 - Der Elefant aus Stahl]] | frueher Konfliktpunkt | laut Chronologie stirbt Robur hier |
+| [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette\|DNAPF 26 - Die Kueste der Skelette]] | Rueckkehr | neuer Koerper |
+| [[wiki/serien/tesla\|Tesla]] | spaeterer Gegenspieler | wiederkehrend im Blitz-Block |
+| [[wiki/serien/sherlock-holmes\|Sherlock Holmes]] | spaeterer Gegenspieler | Hafen-/Lebensstein-Arc |
 
 ## Bezug zum Zirkel der Sieben
 

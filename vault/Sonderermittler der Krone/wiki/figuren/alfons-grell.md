@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Dr. Alfons Grell
 fraktion: antagonist

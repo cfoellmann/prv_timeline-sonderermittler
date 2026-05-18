@@ -1,4 +1,4 @@
----
+﻿---
 type: folge
 serie: kapitaen-nemo
 nummer: 1

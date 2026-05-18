@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Mata Hari
 fraktion: antagonistisch

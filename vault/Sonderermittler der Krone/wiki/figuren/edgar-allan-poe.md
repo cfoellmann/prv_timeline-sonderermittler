@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Edgar Allan Poe
 fraktion: held
@@ -25,9 +25,9 @@ tags:
 
 | Folge / Reihe | Rolle | Notiz |
 |---|---|---|
-| [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx|DNAPF 5 - Das Geheimnis der Eissphinx]] | frueher Kosmos-Auftritt | laut Chronologie Erstauftritt |
-| [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]] | Hauptfigur | eigene Maritim-Reihe |
-| [[wiki/serien/oscar-wilde-und-poe|Oscar Wilde & Edgar Allan Poe]] | Crossover-Hauptfigur | Blitz-Mini-Serie |
+| [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx\|DNAPF 5 - Das Geheimnis der Eissphinx]] | frueher Kosmos-Auftritt | laut Chronologie Erstauftritt |
+| [[wiki/serien/poe-und-dupin\|Edgar Allan Poe & Auguste Dupin]] | Hauptfigur | eigene Maritim-Reihe |
+| [[wiki/serien/oscar-wilde-und-poe\|Oscar Wilde & Edgar Allan Poe]] | Crossover-Hauptfigur | Blitz-Mini-Serie |
 
 ## Bezug zum Zirkel der Sieben
 

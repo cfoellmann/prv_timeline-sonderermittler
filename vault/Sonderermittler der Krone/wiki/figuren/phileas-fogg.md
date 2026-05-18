@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Phileas Fogg
 fraktion: held
@@ -25,9 +25,9 @@ tags:
 
 | Folge | Rolle | Notiz |
 |---|---|---|
-| [[wiki/folgen/phileas-fogg-01-entfuehrung-auf-hoher-see|DNAPF 1 - Entfuehrung auf hoher See]] | Titelheld | Start der Reihe |
-| [[wiki/folgen/phileas-fogg-10-der-herrscher-der-meere|DNAPF 10 - Der Herrscher der Meere]] | Crossover-Figur | erste belegte Zusammenarbeit mit [[wiki/figuren/oscar-wilde|Oscar Wilde]] |
-| [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant|DNAPF 11 - Die Jagd nach Kapitaen Grant]] | Crossover-Figur | Fogg/Wilde-Block wird fortgesetzt |
+| [[wiki/folgen/phileas-fogg-01-entfuehrung-auf-hoher-see\|DNAPF 1 - Entfuehrung auf hoher See]] | Titelheld | Start der Reihe |
+| [[wiki/folgen/phileas-fogg-10-der-herrscher-der-meere\|DNAPF 10 - Der Herrscher der Meere]] | Crossover-Figur | erste belegte Zusammenarbeit mit [[wiki/figuren/oscar-wilde\|Oscar Wilde]] |
+| [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant\|DNAPF 11 - Die Jagd nach Kapitaen Grant]] | Crossover-Figur | Fogg/Wilde-Block wird fortgesetzt |
 
 ## Bezug zum Zirkel der Sieben
 

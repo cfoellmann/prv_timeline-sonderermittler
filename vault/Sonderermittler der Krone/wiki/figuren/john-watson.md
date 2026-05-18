@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: John Watson
 status: entwurf

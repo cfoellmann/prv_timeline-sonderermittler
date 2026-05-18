@@ -1,4 +1,4 @@
----
+﻿---
 type: konzept
 titel: Zirkel der Sieben
 status: entwurf

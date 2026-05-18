@@ -1,4 +1,4 @@
----
+﻿---
 type: serie
 titel: Oscar Wilde – Die ungelösten Fälle des Mycroft Holmes
 verlag: Blitz Verlag
@@ -39,8 +39,8 @@ tags:
 
 | # | Titel | Datum | Notizen |
 |---|---|---|---|
-| 01 | [[wiki/folgen/wilde-mycroft-ungeloeste-01-der-riese-von-griffin|Der Riese von Griffin]] | 23.01.2026 | Highlands-Fall um eine riesenhafte Bestie; Abel Hawthorn begleitet Wilde |
-| 02 | [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume|Die Todesblume]] | 10.04.2026 | alter Todesfall nahe London; Irene Adler auf offizieller Seite als Figur gelistet |
+| 01 | [[wiki/folgen/wilde-mycroft-ungeloeste-01-der-riese-von-griffin\|Der Riese von Griffin]] | 23.01.2026 | Highlands-Fall um eine riesenhafte Bestie; Abel Hawthorn begleitet Wilde |
+| 02 | [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume\|Die Todesblume]] | 10.04.2026 | alter Todesfall nahe London; Irene Adler auf offizieller Seite als Figur gelistet |
 
 ## Quellen
 

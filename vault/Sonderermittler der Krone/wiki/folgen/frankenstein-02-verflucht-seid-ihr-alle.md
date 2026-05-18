@@ -1,4 +1,4 @@
----
+﻿---
 type: folge
 serie: frankenstein
 nummer: 2

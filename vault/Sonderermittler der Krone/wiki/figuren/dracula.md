@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Dracula
 fraktion: antagonistisch
@@ -26,10 +26,10 @@ tags:
 
 | Folge / Reihe | Rolle | Notiz |
 |---|---|---|
-| [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|DNAPF 12 - Entscheidung in den Karpaten]] | frueher Kosmos-Auftritt | laut Chronologie Erstauftritt |
-| [[wiki/serien/dracula|Dracula und der Zirkel der Sieben]] | Titel- und Zentralfigur | eigene Maritim-Reihe seit 2020 |
-| [[wiki/serien/moriarty|Moriarty]] | Gegenspieler / Machtfaktor | mehrfach direkt verlinkt |
-| [[wiki/serien/phileas-fogg|Phileas Fogg]] | frueher Vorlauf | DNAPF fuehrt Dracula bereits vor der Eigenreihe ein |
+| [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten\|DNAPF 12 - Entscheidung in den Karpaten]] | frueher Kosmos-Auftritt | laut Chronologie Erstauftritt |
+| [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]] | Titel- und Zentralfigur | eigene Maritim-Reihe seit 2020 |
+| [[wiki/serien/moriarty\|Moriarty]] | Gegenspieler / Machtfaktor | mehrfach direkt verlinkt |
+| [[wiki/serien/phileas-fogg\|Phileas Fogg]] | frueher Vorlauf | DNAPF fuehrt Dracula bereits vor der Eigenreihe ein |
 
 ## Bezug zum Zirkel der Sieben
 

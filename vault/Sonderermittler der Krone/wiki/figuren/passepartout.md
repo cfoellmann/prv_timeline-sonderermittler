@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Passepartout
 fraktion: helden

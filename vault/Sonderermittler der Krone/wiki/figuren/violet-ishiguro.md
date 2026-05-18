@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Violet Ishiguro
 status: stub

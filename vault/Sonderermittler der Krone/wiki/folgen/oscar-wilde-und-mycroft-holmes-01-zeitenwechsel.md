@@ -1,4 +1,4 @@
----
+﻿---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 1

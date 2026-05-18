@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Auguste Dupin
 fraktion: helden

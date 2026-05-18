@@ -1,4 +1,4 @@
----
+﻿---
 type: folge
 serie: oscar-wilde-und-irene-adler
 nummer: 4

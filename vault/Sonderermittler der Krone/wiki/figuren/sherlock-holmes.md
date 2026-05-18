@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Sherlock Holmes
 status: stub

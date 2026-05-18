@@ -1,4 +1,4 @@
----
+﻿---
 type: serie
 titel: Die Abenteuer des Kapitän Nemo
 verlag: Blitz Verlag
@@ -53,19 +53,19 @@ tags:
 
 | Folge | Funktion | Notiz |
 |---|---|---|
-| [[wiki/folgen/phileas-fogg-01-entfuehrung-auf-hoher-see|DNAPF 1 – Entfuehrung auf hoher See]] | Erstauftritt | laut Chronologie derzeit fruehester Repo-Anker fuer Nemo |
-| [[wiki/folgen/phileas-fogg-18-hetzjagd-durch-asien|DNAPF 18 – Hetzjagd durch Asien]] | Rahmenfigur | Nemo hoert einen weiteren Abschnitt von Foggs wahrer Weltreise |
-| [[wiki/folgen/phileas-fogg-20-wettlauf-mit-der-zeit|DNAPF 20 – Wettlauf mit der Zeit]] | Rahmenfigur | Nemo lauscht laut offizieller Seite dem Finale dieses Rueckblicksblocks |
-| [[wiki/folgen/phileas-fogg-41-aufbruch|DNAPF 41 – Aufbruch]] | Nebenstrang | Nemo verfolgt mit Passepartout Harriet Malone |
-| [[wiki/folgen/phileas-fogg-42-gefaehrliche-suche|DNAPF 42 – Gefaehrliche Suche]] | Nebenstrang | Nemo sucht in Saint Noire weiter nach einer Waffenlieferung |
-| [[wiki/folgen/phileas-fogg-43-afrika-in-gefahr|DNAPF 43 – Afrika in Gefahr]] | Nebenstrang | Nemo bleibt auf Frankensteins Spur |
+| [[wiki/folgen/phileas-fogg-01-entfuehrung-auf-hoher-see\|DNAPF 1 – Entfuehrung auf hoher See]] | Erstauftritt | laut Chronologie derzeit fruehester Repo-Anker fuer Nemo |
+| [[wiki/folgen/phileas-fogg-18-hetzjagd-durch-asien\|DNAPF 18 – Hetzjagd durch Asien]] | Rahmenfigur | Nemo hoert einen weiteren Abschnitt von Foggs wahrer Weltreise |
+| [[wiki/folgen/phileas-fogg-20-wettlauf-mit-der-zeit\|DNAPF 20 – Wettlauf mit der Zeit]] | Rahmenfigur | Nemo lauscht laut offizieller Seite dem Finale dieses Rueckblicksblocks |
+| [[wiki/folgen/phileas-fogg-41-aufbruch\|DNAPF 41 – Aufbruch]] | Nebenstrang | Nemo verfolgt mit Passepartout Harriet Malone |
+| [[wiki/folgen/phileas-fogg-42-gefaehrliche-suche\|DNAPF 42 – Gefaehrliche Suche]] | Nebenstrang | Nemo sucht in Saint Noire weiter nach einer Waffenlieferung |
+| [[wiki/folgen/phileas-fogg-43-afrika-in-gefahr\|DNAPF 43 – Afrika in Gefahr]] | Nebenstrang | Nemo bleibt auf Frankensteins Spur |
 
 ## Folgenliste
 
 | # | Titel | Datum | Notizen |
 |---|---|---|---|
-| 1 | [[wiki/folgen/kapitaen-nemo-01-die-gestrandeten-des-luftmeeres|Die Gestrandeten des Luftmeeres]] | 13.02.2026 | Nemo erzaehlt Phileas Fogg von einer frueheren Ballonflucht auf eine geheimnisvolle Insel |
-| 2 | [[wiki/folgen/kapitaen-nemo-02-das-geheimnis-der-insel|Das Geheimnis der Insel]] | 17.04.2026 | Piratenschiff, Entfuehrung und unerwartete Hilfe fuehren den Insel-Block weiter |
+| 1 | [[wiki/folgen/kapitaen-nemo-01-die-gestrandeten-des-luftmeeres\|Die Gestrandeten des Luftmeeres]] | 13.02.2026 | Nemo erzaehlt Phileas Fogg von einer frueheren Ballonflucht auf eine geheimnisvolle Insel |
+| 2 | [[wiki/folgen/kapitaen-nemo-02-das-geheimnis-der-insel\|Das Geheimnis der Insel]] | 17.04.2026 | Piratenschiff, Entfuehrung und unerwartete Hilfe fuehren den Insel-Block weiter |
 
 ## Offene Punkte
 

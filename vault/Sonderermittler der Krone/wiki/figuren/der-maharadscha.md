@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Der Maharadscha
 fraktion: antagonistisch

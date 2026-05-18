@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Abel Hawthorn
 status: stub

@@ -1,4 +1,4 @@
----
+﻿---
 type: figur
 titel: Henry Wheeler
 sprecher: Holger Löwenberg
