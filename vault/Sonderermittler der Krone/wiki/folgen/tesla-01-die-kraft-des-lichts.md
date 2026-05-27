@@ -2,7 +2,7 @@
 type: folge
 serie: tesla
 nummer: 1
-titel: Im Spannungsfeld
+titel: Die Kraft des Lichts
 erschienen: 2024-12-13
 verlag: Blitz Verlag
 autor: ""
@@ -15,6 +15,7 @@ spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_tesla_folgen-01-08.md
+  - raw/deep-research-report.md
   - https://www.sonderermittler-der-krone.de/serien/tesla/folge01-im-spannungsfeld/
 tags:
   - sonderermittler
@@ -22,17 +23,21 @@ tags:
   - tesla
 ---
 
-# Tesla – 1: Im Spannungsfeld
+# Tesla – 1: Die Kraft des Lichts
 
 > Nikola Tesla arbeitet an einer oeffentlichen Lichtuebertragung, als James Moriarty seine Forschung ploetzlich fuer groessere Ziele vereinnahmen will.
+
+> [!note] Titel-Korrektur
+> Die offizielle Serien- und Folgenseite fuehrt diese Folge faelschlich als **„Im Spannungsfeld"** (so heisst tatsaechlich [[wiki/folgen/tesla-04-im-spannungsfeld|Folge 4]]). Cover (`cover-m-tesla-01.jpg`), Thalia (EAN 9783689842109) und Kassettenkiste belegen eindeutig den korrekten Titel **„Die Kraft des Lichts"**. Die offizielle URL behaelt den fehlerhaften Slug `folge01-im-spannungsfeld`. Quelle: [raw/deep-research-report.md](../../raw/deep-research-report.md).
 
 ## Eckdaten
 
 - **Erscheinungsdatum:** 13.12.2024.
 - **Spielzeit:** 55 Minuten.
 - **Verlag:** Blitz Verlag.
-- **Autor:** noch nicht im Repo verifiziert.
-- **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/tesla/folge01-im-spannungsfeld/>
+- **Autor:** Silke Walter (laut Thalia).
+- **EAN:** 9783689842109 (Thalia).
+- **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/tesla/folge01-im-spannungsfeld/> (Slug trotz Titelfehler unveraendert)
 
 ## Hauptfiguren
 
@@ -58,4 +63,5 @@ Nikola Tesla bereitet einen Versuch zur Uebertragung von Licht vor, den er der B
 ## Quellen
 
 - [raw/maritim/2026-04-28_tesla_folgen-01-08.md](../../raw/maritim/2026-04-28_tesla_folgen-01-08.md)
+- [raw/deep-research-report.md](../../raw/deep-research-report.md) — Titel-Korrektur, EAN, Autor, Handelsdaten.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/tesla/folge01-im-spannungsfeld/>

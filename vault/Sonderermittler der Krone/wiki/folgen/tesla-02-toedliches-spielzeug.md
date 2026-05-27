@@ -54,7 +54,7 @@ Nachdem ein Automat explodiert, werden die Sonderermittler der Krone aufmerksam,
 ## Crossover & Querverweise
 
 - **Serie:** [[wiki/serien/tesla|Tesla]].
-- **Spielt nach:** [[wiki/folgen/tesla-01-im-spannungsfeld|TES 1 „Im Spannungsfeld“]].
+- **Spielt nach:** [[wiki/folgen/tesla-01-die-kraft-des-lichts|TES 1 „Die Kraft des Lichts“]].
 - **Spielt vor:** [[wiki/folgen/tesla-03-gefangen-in-cedric-manor|TES 3 „Gefangen in Cedric Manor“]].
 
 ## Quellen

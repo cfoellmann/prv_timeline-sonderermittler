@@ -327,3 +327,10 @@ Chronologisches Aktivitätsprotokoll. Append-only.
 - `folgen.json`: 6 Schlüssel-Episoden mit serienübergreifenden Ordering-Constraints annotiert (PF 4/5/12, OWMH 16/18/50).
 - `wiki/konzepte/hoerreihenfolgen.md` Variante 5 (In-Universe-chronologisch) von Stub zu ausgearbeiteter Tabelle mit 30 Zeitankern und Constraint-Liste erweitert.
 - Befund: Maritim hat keine offizielle Chronologie publiziert; Irene-Adler-Serie spielt als Prequel vor dem OWMH-Strang (~1889–1890).
+
+## [2026-05-27] ingest | Deep-Research-Report (Reconciliation-only)
+- Neue Quelle `raw/deep-research-report.md` ausgewertet; Report ist Meta-/Recherchedokument und bestätigt den bereits vollständig erschlossenen 305-Folgen-Korpus (keine neuen Folgen-Seiten nötig).
+- **Datenfehler-Korrektur Tesla 1:** offizielle Seite labelt fälschlich „Im Spannungsfeld"; korrekt „Die Kraft des Lichts" (Cover/Thalia EAN 9783689842109/Kassettenkiste). Datei `tesla-01-im-spannungsfeld.md` → `tesla-01-die-kraft-des-lichts.md` umbenannt (git mv); Titel, Hinweis-Callout, EAN und Autor (Silke Walter) ergänzt.
+- Alle Querverweise nachgezogen: `folgen.json` (id/titel/wiki/anmerkung), `index.md`, Serien-Seite `tesla.md`, Figur `nikola-tesla.md`, `tesla-02`; Folge-4-Notiz präzisiert (echter Träger des Titels).
+- Neue Meta-Seite `wiki/queries/quellenlage-und-kanonkarte.md`: Quellen-Eignungsmatrix, Kanon-Beziehungskarte, bekannte Primärquellen-Fehler. In `index.md` verlinkt.
+- Bewusst NICHT ingestiert (Entscheidung Christian): flächige Handels-/Katalogmetadaten (EAN/Laufzeit/Retailer-Links) — Report liefert nur 2 Beispielepisoden, flächige Aufnahme würde Schema-Erweiterung erfordern.

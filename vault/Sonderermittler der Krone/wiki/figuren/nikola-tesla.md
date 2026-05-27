@@ -27,7 +27,7 @@ tags:
 
 | Folge | Rolle | Erstauftritt? |
 |---|---|---|
-| [[wiki/folgen/tesla-01-im-spannungsfeld\|TES 1 — Im Spannungsfeld]] (13.12.2024) | Titelheld, arbeitet an der Uebertragung von Licht | ✓ |
+| [[wiki/folgen/tesla-01-die-kraft-des-lichts\|TES 1 — Die Kraft des Lichts]] (13.12.2024) | Titelheld, arbeitet an der Uebertragung von Licht | ✓ |
 | [[wiki/folgen/tesla-02-toedliches-spielzeug\|TES 2 — Tödliches Spielzeug]] (21.02.2025) | ermittelt gegen den Verdacht um gefaehrliche Automaten |   |
 | [[wiki/folgen/tesla-03-gefangen-in-cedric-manor\|TES 3 — Gefangen in Cedric Manor]] (25.04.2025) | geraet bei einer Rettungsmission in eine Falle |   |
 | [[wiki/folgen/tesla-04-im-spannungsfeld\|TES 4 — Im Spannungsfeld]] (27.06.2025) | kaempft sich aus Cedric Manor frei |   |

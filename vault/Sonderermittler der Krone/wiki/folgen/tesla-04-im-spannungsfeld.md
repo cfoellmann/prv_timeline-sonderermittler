@@ -35,7 +35,7 @@ tags:
 - **Verlag:** Blitz Verlag.
 - **Autor:** noch nicht im Repo verifiziert.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/tesla/folge04-im-spannungsfeld/>
-- **Auffaelligkeit:** Die offizielle Website verwendet denselben Titel bereits fuer Folge 1; das ist im Repo vorerst unveraendert uebernommen.
+- **Auffaelligkeit:** Die offizielle Website verwendet diesen Titel faelschlich auch fuer Folge 1. Folge 1 ist im Repo auf den korrekten Titel [[wiki/folgen/tesla-01-die-kraft-des-lichts|„Die Kraft des Lichts"]] korrigiert; „Im Spannungsfeld" ist der echte Titel **dieser** Folge 4.
 
 ## Hauptfiguren
 

@@ -9,6 +9,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 ## Übersicht
 
 - [[wiki/universum|Universum – Maritim-Kosmos]] — Zentrale Einstiegsseite mit allen Serien.
+- [[wiki/queries/quellenlage-und-kanonkarte|Quellenlage & Kanonkarte]] — Meta-Auswertung: welche Quelle wofür belastbar ist, Kanon-Beziehungskarte, bekannte Datenfehler der Primärquelle.
 
 ## Konzepte
 
@@ -206,7 +207,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 
 ### Tesla
 
-- [[wiki/folgen/tesla-01-im-spannungsfeld|TES 1 — Im Spannungsfeld]] (13.12.2024) — Tesla soll ein Licht-Experiment für Moriarty deutlich größer aufziehen.
+- [[wiki/folgen/tesla-01-die-kraft-des-lichts|TES 1 — Die Kraft des Lichts]] (13.12.2024) — Tesla soll ein Licht-Experiment für Moriarty deutlich größer aufziehen; offizielle Seite labelt fälschlich „Im Spannungsfeld".
 - [[wiki/folgen/tesla-02-toedliches-spielzeug|TES 2 — Tödliches Spielzeug]] (21.02.2025) — Explosionen durch Automaten bringen Tesla und die Sonderermittler an denselben Fall.
 - [[wiki/folgen/tesla-03-gefangen-in-cedric-manor|TES 3 — Gefangen in Cedric Manor]] (25.04.2025) — Eine Rettungsmission für Mata Hari führt Tesla bewusst in eine Falle.
 - [[wiki/folgen/tesla-04-im-spannungsfeld|TES 4 — Im Spannungsfeld]] (27.06.2025) — Die Flucht aus Cedric Manor eskaliert zum offenen Kampf.
