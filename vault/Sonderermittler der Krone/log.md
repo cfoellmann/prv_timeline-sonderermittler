@@ -345,3 +345,9 @@ Chronologisches Aktivitätsprotokoll. Append-only.
 - 3 `poe-und-dupin`-Einträge in `app/data/folgen.json` repariert: 01/02 fehlendes `wiki`-Feld ergänzt, 13 fehlerhafter Pfad (`wiki/...` → `vault/Sonderermittler%20der%20Krone/wiki/...`) korrigiert.
 - JSON validiert (284 Folgen); alle seitengestützten Einträge lösen jetzt auf.
 - Offen (Entscheidung nötig): 5 `sherlock-holmes-und-co`-Daten-Anker ohne Seite.
+
+## [2026-05-27] wiki | SHC-Vorgängerreihe: 5 Stub-Seiten angelegt
+- Für die 5 `sherlock-holmes-und-co`-Daten-Anker (26/27, 45, 48, 53, 55) Stub-Folgenseiten in `wiki/folgen/` erstellt — Schlüssel-/Grundsteinfolgen der Vorgänger-Reihe.
+- `app/data/folgen.json`: `wiki`-Feld bei allen 5 ergänzt; jetzt lösen alle 284 Einträge auf (0 offene Pfade).
+- `index.md`: neue Sektion „Sherlock Holmes & Co. (Vorgänger-Reihe)" unter Folgen; SHC-Konzeptseite verlinkt die Folgen jetzt (kein Orphan).
+- Nur existierende Figuren verlinkt (Stafford/Lestrade/Leech als Klartext) — keine neuen toten Wikilinks.

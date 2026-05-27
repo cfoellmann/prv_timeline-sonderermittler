@@ -60,11 +60,11 @@ Außerdem:
 
 | SHC-Folge | Datum | Universum-Bezug |
 |---|---|---|
-| 26/27 „Der Schrei der Banshee" | 02.09.2016 | Erste Zusammenarbeit Sherlock × Wilde |
-| 45 „Hinter den Kulissen" | 07.06.2019 | Mister Wu (gesp. Michael Pan) erstmals; legt Grundstein für IADK |
-| 48 „Das Ende des Inspektors" | 11.10.2019 | Erstauftritt Geoffrey Stafford; Inspektor Lestrade vom Zirkel ermordet |
-| 53 „Die Rückkehr der Angst" | 03.07.2020 | Dracula als „Sapriel" in London; Erstauftritt Digby Leech |
-| 55 „Perlen des Todes" | (TBD) | Grundstein für Moriarty-Serie |
+| [[wiki/folgen/sherlock-holmes-und-co-26-27-der-schrei-der-banshee\|26/27 „Der Schrei der Banshee"]] | 02.09.2016 | Erste Zusammenarbeit Sherlock × Wilde |
+| [[wiki/folgen/sherlock-holmes-und-co-45-hinter-den-kulissen\|45 „Hinter den Kulissen"]] | 07.06.2019 | Mister Wu (gesp. Michael Pan) erstmals; legt Grundstein für IADK |
+| [[wiki/folgen/sherlock-holmes-und-co-48-das-ende-des-inspektors\|48 „Das Ende des Inspektors"]] | 11.10.2019 | Erstauftritt Geoffrey Stafford; Inspektor Lestrade vom Zirkel ermordet |
+| [[wiki/folgen/sherlock-holmes-und-co-53-die-rueckkehr-der-angst\|53 „Die Rückkehr der Angst"]] | 03.07.2020 | Dracula als „Sapriel" in London; Erstauftritt Digby Leech |
+| [[wiki/folgen/sherlock-holmes-und-co-55-perlen-des-todes\|55 „Perlen des Todes"]] | (TBD) | Grundstein für Moriarty-Serie |
 
 ## Theorien & offene Fragen
 

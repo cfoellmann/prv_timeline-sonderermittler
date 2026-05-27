@@ -365,6 +365,16 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-55-blumen-des-verderbens|OWMH 55 — Blumen des Verderbens]] (30.01.2026) — Geiselnahme im Museum und neuer Brandanschlag verschärfen die Krise.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-56-toedliche-farben|OWMH 56 — Tödliche Farben]] (27.03.2026) — Moriarty markiert die Sonderermittler und nutzt ihren Standort gegen sie.
 
+### Sherlock Holmes & Co. (Vorgänger-Reihe)
+
+> Schlüsselfolgen der Vorgänger-Reihe [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes & Co.]], die als Grundstein-/Anker-Folgen ins Universum hineinwirken. Stubs.
+
+- [[wiki/folgen/sherlock-holmes-und-co-26-27-der-schrei-der-banshee|SHC 26/27 — Der Schrei der Banshee]] (02.09.2016) — Erste Zusammenarbeit Sherlock Holmes × Oscar Wilde.
+- [[wiki/folgen/sherlock-holmes-und-co-45-hinter-den-kulissen|SHC 45 — Hinter den Kulissen]] (07.06.2019) — Erstauftritt Mister Wu; Grundstein für die Irene-Adler-Linie.
+- [[wiki/folgen/sherlock-holmes-und-co-48-das-ende-des-inspektors|SHC 48 — Das Ende des Inspektors]] (11.10.2019) — Erstauftritt Geoffrey Stafford; erster direkter Zirkel-Eingriff.
+- [[wiki/folgen/sherlock-holmes-und-co-53-die-rueckkehr-der-angst|SHC 53 — Die Rückkehr der Angst]] (03.07.2020) — Dracula agiert als „Sapriel" in London.
+- [[wiki/folgen/sherlock-holmes-und-co-55-perlen-des-todes|SHC 55 — Perlen des Todes]] — Grundstein für die Moriarty-Serie.
+
 ## Figuren
 
 - [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] — Nebenfigur der frühen OWMH-Phase; Erstauftritt in OWMH 2.
