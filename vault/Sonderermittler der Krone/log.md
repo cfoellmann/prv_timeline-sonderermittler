@@ -334,3 +334,14 @@ Chronologisches Aktivitätsprotokoll. Append-only.
 - Alle Querverweise nachgezogen: `folgen.json` (id/titel/wiki/anmerkung), `index.md`, Serien-Seite `tesla.md`, Figur `nikola-tesla.md`, `tesla-02`; Folge-4-Notiz präzisiert (echter Träger des Titels).
 - Neue Meta-Seite `wiki/queries/quellenlage-und-kanonkarte.md`: Quellen-Eignungsmatrix, Kanon-Beziehungskarte, bekannte Primärquellen-Fehler. In `index.md` verlinkt.
 - Bewusst NICHT ingestiert (Entscheidung Christian): flächige Handels-/Katalogmetadaten (EAN/Laufzeit/Retailer-Links) — Report liefert nur 2 Beispielepisoden, flächige Aufnahme würde Schema-Erweiterung erfordern.
+
+## [2026-05-27] lint | Voller Health-Check
+- Maschineller Scan über 334 Wiki-Seiten (Link-Graph, Status, Orphans) + Abgleich mit `folgen.json`; Bericht in `wiki/queries/lint-2026-05-27.md`.
+- Strukturell gesund: 0 defekte Live-Links, 0 verwaiste Inhaltsseiten, alle Folgen mit Figuren-Abschnitt.
+- Offene Punkte: 3 kaputte `poe-und-dupin`-`wiki`-Pfade in `folgen.json`; 5 `sherlock-holmes-und-co`-Daten-Anker ohne Seite (Entscheidung nötig); 26 Stubs (davon 8 zentrale Figuren); 328/334 Dateien mit UTF-8-BOM (optionaler Cleanup).
+- Keine Fixes vorgenommen (Lint = Bericht; Christian entscheidet).
+
+## [2026-05-27] wiki | Lint-Fix: kaputte folgen.json-Pfade
+- 3 `poe-und-dupin`-Einträge in `app/data/folgen.json` repariert: 01/02 fehlendes `wiki`-Feld ergänzt, 13 fehlerhafter Pfad (`wiki/...` → `vault/Sonderermittler%20der%20Krone/wiki/...`) korrigiert.
+- JSON validiert (284 Folgen); alle seitengestützten Einträge lösen jetzt auf.
+- Offen (Entscheidung nötig): 5 `sherlock-holmes-und-co`-Daten-Anker ohne Seite.
