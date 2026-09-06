@@ -1,13 +1,14 @@
-﻿---
+---
 type: folge
 serie: frankenstein
 nummer: 12
 titel: Erweckung
-erschienen: 2024
+erschienen: 2024-02-02
 verlag: Maritim
+autor: "Silke Walter"
 sprecher: []
 spielzeit_min: 62
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - irene-adler
   - oscar-wilde-und-mycroft-holmes
@@ -17,6 +18,9 @@ status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/frankenstein/folge12-erweckung/
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -31,7 +35,9 @@ tags:
 ## Eckdaten
 
 - **Erscheinungsjahr:** 2024
+- **Erscheinungsdatum:** 02.02.2024 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 62 Minuten
+- **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge12-erweckung/>
 
@@ -50,6 +56,9 @@ tags:
 ## Handlung (grob)
 
 Victor Frankenstein trifft in seinem neuen Labor in den Walliser Alpen alle Vorbereitungen für sein bisher größtes Projekt: den Bau eines künstlichen Menschen. Jedoch fehlen ihm dazu einige unersetzbare Stoffe, die er bei seiner überstürzten Flucht von den Orkney-Inseln in seinem ehemaligen Labor zurücklassen musste. Gemeinsam mit Theodora Sachs macht er sich auf die Reise nach Kirkwall, wohlwissend, dass er dort auf Menschen treffen könnte, die schon lange darauf aus sind, ihm endgültig das Handwerk zu legen.
+
+> [!warning] Quellfehler: der obige Handlungstext gehört zu Folge 9
+> Der Klappentext im Crawl [raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md](../../raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md) ist für Folge 12 **wortgleich** mit dem von [[wiki/folgen/frankenstein-09-neuanfang|Folge 9 „Neuanfang"]] — ein Copy-Paste-Fehler der Primärquelle (aufgefallen beim Lint am 17.08.2026). Für „Erweckung" liegt damit faktisch **kein** Klappentext vor. Der Abschnitt bleibt vorläufig stehen, ist aber **nicht belastbar**; die Angaben zu Figuren und Crossover stammen aus der offiziellen Figurenliste, nicht aus dem Klappentext. Beim nächsten Ingest gegen die Verlagsseite prüfen.
 
 ## Bezug zum Zirkel der Sieben
 

@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 15
 titel: Goldrausch
 erschienen: 2018-05-25
 verlag: Maritim
-autor: ""
+autor: "Markus Topf & Dominik Ahrens"
 spielzeit_min: 58
-zirkel: false
+zirkel: unklar
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge15-goldrausch/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
 ---
@@ -28,6 +29,7 @@ tags:
 - **Erscheinungsdatum:** 25.05.2018.
 - **Erscheinungsjahr (offizielle Seite):** 2018.
 - **Spielzeit:** 58 Minuten.
+- **Autor:in:** Markus Topf & Dominik Ahrens (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge15-goldrausch/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=HtuHaduKfwA>

@@ -1,15 +1,21 @@
-﻿---
+---
 type: folge
 serie: poe-und-dupin
 nummer: 13
 titel: Die Aufnahmeprüfung
-erschienen: 2021
+erschienen: 2021-05-14
 verlag: Maritim
+autor: "Markus Duschek"
+spielzeit_min: 64
 zirkel: direkt
 crossover_mit: []
+spoiler_level: stub
 status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - zirkel-der-sieben
   - gaston-morell
@@ -26,7 +32,9 @@ tags:
 - **Nummer:** 13
 - **Titel:** Die Aufnahmeprüfung
 - **Erscheinungsjahr:** 2021
+- **Erscheinungsdatum:** 14.05.2021 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 64 min
+- **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **Zirkel-Bezug:** Direkt – Gaston Morell wird 7. Mitglied des Zirkels der Sieben
 

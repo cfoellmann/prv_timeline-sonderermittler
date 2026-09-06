@@ -1,14 +1,14 @@
-﻿---
+---
 type: folge
 serie: irene-adler
 nummer: 23
 titel: Täuschungen
 erschienen: 2024-09-20
 verlag: Maritim
-autor: ""
+autor: "Silke Walter"
 sprecher: []
 spielzeit_min: 57
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -16,6 +16,7 @@ quellen:
   - raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge23-taeuschungen/
   - https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-23-taeuschungen-4727/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
   - maritim
@@ -24,12 +25,13 @@ tags:
 
 # Irene Adler – 23: Täuschungen
 
-> Adler sitzt auf einem Schiff in der Falle, waehrend Rasputin in London den Umsturz gegen Krone und Parlament vorbereitet.
+> Adler sitzt auf einem Schiff in der Falle, während Rasputin in London den Umsturz gegen Krone und Parlament vorbereitet.
 
 ## Eckdaten
 
 - **Erscheinungsdatum:** 20.09.2024.
 - **Spielzeit:** 57 Minuten.
+- **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge23-taeuschungen/>
@@ -37,13 +39,13 @@ tags:
 
 ## Hauptfiguren
 
-- [[wiki/figuren/irene-adler|Irene Adler]] — geraet an Bord eines Schiffes in akute Lebensgefahr.
+- [[wiki/figuren/irene-adler|Irene Adler]] — gerät an Bord eines Schiffes in akute Lebensgefahr.
 - Wu — ist auf der offiziellen Folgen-Seite als Figur gelistet.
 - Rasputin, Aleister Crowley und [[wiki/figuren/theodora-sachs|Theodora Sachs]] — sind auf der offiziellen Folgen-Seite ebenfalls als Figuren gelistet.
 
 ## Handlung (grob)
 
-Irene Adler wird auf einem Schiff von zwei Besatzungsmitgliedern gefangen gehalten und damit von ihren Unterstuetzern isoliert. Parallel dazu gewinnt Rasputin in London immer mehr Einfluss auf eine Geheimgesellschaft, die das Koenigshaus fuer die Goldschwemme verantwortlich macht. Er fuehrt zudem ein Gespraech mit einem Mitglied des Oberhauses, um den politischen Angriff auf die Krone noch weiter auszudehnen. So verbindet die Folge den persoenlichen Ueberlebenskampf mit einer offenen Destabilisierung von Monarchie und Parlament.
+Irene Adler wird auf einem Schiff von zwei Besatzungsmitgliedern gefangen gehalten und damit von ihren Unterstützern isoliert. Parallel dazu gewinnt Rasputin in London immer mehr Einfluss auf eine Geheimgesellschaft, die das Königshaus für die Goldschwemme verantwortlich macht. Er führt zudem ein Gespräch mit einem Mitglied des Oberhauses, um den politischen Angriff auf die Krone noch weiter auszudehnen. So verbindet die Folge den persönlichen Überlebenskampf mit einer offenen Destabilisierung von Monarchie und Parlament.
 
 ## Bezug zum Zirkel der Sieben
 

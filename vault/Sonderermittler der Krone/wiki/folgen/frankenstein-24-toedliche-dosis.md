@@ -1,13 +1,14 @@
-﻿---
+---
 type: folge
 serie: frankenstein
 nummer: 24
 titel: Tödliche Dosis
 erschienen: 2026-03-27
 verlag: Maritim
+autor: "Silke Walter"
 sprecher: []
 spielzeit_min: 52
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - moriarty
   - sherlock-holmes
@@ -16,6 +17,7 @@ status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/frankenstein/folge24-toedliche-dosis/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -32,6 +34,7 @@ tags:
 
 - **Erscheinungsdatum:** 27. März 2026
 - **Spielzeit:** 52 Minuten
+- **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge24-toedliche-dosis/>
 

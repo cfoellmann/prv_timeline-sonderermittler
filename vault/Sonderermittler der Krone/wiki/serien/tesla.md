@@ -1,4 +1,4 @@
-﻿---
+---
 type: serie
 titel: Tesla
 verlag: Blitz Verlag
@@ -6,24 +6,25 @@ genre: Krimi
 start: 2024
 status: recherchiert
 zirkel: true
-folgen_count: 8
+folgen_count: 9
 quellen:
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
   - raw/maritim/2026-04-28_tesla_folgen-01-08.md
+  - raw/notes/2026-09-06_neue-folgen-scout_september-2026.md
 tags:
   - blitz
 ---
 
 # Tesla
 
-> Blitz Verlag, seit Ende 2024. Aktuell **8 Folgen** um Nikola Tesla im direkten Umfeld von Moriarty, Robur und weiteren Kosmos-Figuren.
+> Blitz Verlag, seit Ende 2024. Aktuell **9 Folgen** um Nikola Tesla im direkten Umfeld von Moriarty, Robur und weiteren Kosmos-Figuren.
 
 ## Übersicht
 
 - **Verlag:** Blitz Verlag
 - **Genre:** Krimi
 - **Erstveröffentlichung:** 13.12.2024
-- **Folgenstand:** 8 (2026-04-28)
+- **Folgenstand:** 9 (Stand 06.09.2026)
 - **Bezug zum Zirkel:** direkt — die offizielle Folgenlage verknüpft Tesla fortlaufend mit Moriarty, Crowley, Robur, Killjoy und dem bedrohten Königshaus.
 
 ## Hauptfiguren
@@ -46,9 +47,11 @@ tags:
 | 06 | [[wiki/folgen/tesla-06-im-labyrinth-der-schlange\|Im Labyrinth der Schlange]] | 21.11.2025 | Tesla, Theodora und Crowley in einem Marmorsarkophag gefangen |
 | 07 | [[wiki/folgen/tesla-07-ein-uraltes-raetsel\|Ein uraltes Rätsel]] | 30.01.2026 | Rückreise aus Amerika; Robur und Killjoy planen in London |
 | 08 | [[wiki/folgen/tesla-08-koenig-der-luefte\|König der Lüfte]] | 27.03.2026 | gestohlene Artefakte und Blackout-Plan gegen das Königshaus |
+| 09 | [[wiki/folgen/tesla-09-traumgespinst\|Traumgespinst]] | 14.08.2026 | Moriarty verwirft Teslas Flugobjekt und schickt ihn mit Crowley und Sachs nach Italien; 50 min; Autorin Silke Walter |
 
 ## Quellen
 
 - [raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md](../../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md)
 - [raw/maritim/2026-04-28_tesla_folgen-01-08.md](../../raw/maritim/2026-04-28_tesla_folgen-01-08.md) — paraphrasierte Arbeitsnotiz zu Folgen 1 bis 8.
+- [raw/notes/2026-09-06_neue-folgen-scout_september-2026.md](../../raw/notes/2026-09-06_neue-folgen-scout_september-2026.md) — Recherche vom 06.09.2026: Folge 9.
 - Offizielle Serien-Seite: <https://www.sonderermittler-der-krone.de/serien/tesla/>

@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 13
 titel: Die Auktion der Diebe
 erschienen: 2018-01-26
 verlag: Maritim
-autor: ""
+autor: "Jonas Maas"
 spielzeit_min: 73
-zirkel: false
+zirkel: unklar
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge13-die-auktion-der-diebe/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
 ---
@@ -28,6 +29,7 @@ tags:
 - **Erscheinungsdatum:** 26.01.2018.
 - **Erscheinungsjahr (offizielle Seite):** 2018.
 - **Spielzeit:** 73 Minuten.
+- **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge13-die-auktion-der-diebe/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=CWBQ1vqlj5Y>

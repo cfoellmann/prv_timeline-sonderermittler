@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 4
 titel: Tod der Königin
 erschienen: 2016-07-14
 verlag: Maritim
-autor: ""
+autor: "Jonas Maas"
 spielzeit_min: 76
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - koenigshaus
   - zirkel
@@ -31,6 +32,7 @@ tags:
 - **Schauplatz:** Großbritannien, Machtzentrum rund um Krone und Königshaus.
 - **Erscheinungsdatum:** 14. Juli 2016.
 - **Spielzeit:** 76 Minuten.
+- **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=zsY16NMB2qg>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-04.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-04.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-04.jpg>)*

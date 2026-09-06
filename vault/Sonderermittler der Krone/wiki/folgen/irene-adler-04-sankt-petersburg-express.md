@@ -1,14 +1,15 @@
-﻿---
+---
 type: folge
 serie: irene-adler
 nummer: 4
 titel: Sankt Petersburg Express
 erschienen: 2020-02-14
 verlag: Maritim
+autor: "Marc-Oliver Bischoff"
 
 sprecher: []
 spielzeit_min: 70
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -18,6 +19,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge04-sankt-petersburg-express/
   - https://music.apple.com/ch/album/sonderermittlerin-der-krone-folge-4-sankt-petersburg/1473120342
   - https://books.apple.com/dk/audiobook/irene-adler-sonderermittlerin-der-krone-folge-4-sankt/id1482977298?l=da
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
   - irene-adler
@@ -26,12 +28,13 @@ tags:
 
 # Irene Adler – Sonderermittlerin der Krone – 4: Sankt Petersburg Express
 
-> Ein verschwundener Goldtransport macht eine Zugreise durch Russland zum Misstrauens- und Ueberlebensfall.
+> Ein verschwundener Goldtransport macht eine Zugreise durch Russland zum Misstrauens- und Überlebensfall.
 
 ## Eckdaten
 
 - **Erscheinungsdatum:** 14.02.2020.
 - **Spielzeit:** 70 Minuten.
+- **Autor:in:** Marc-Oliver Bischoff (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** Marc-Oliver Bischoff.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge04-sankt-petersburg-express/>
@@ -46,17 +49,17 @@ tags:
 
 ## Handlung (grob)
 
-Ein Teil des Goldschatzes des Zarenhofs soll als Sicherheit fuer einen Kredit der Bank of England nach London gebracht werden, doch einer der Transporte verschwindet. Irene Adler reist daraufhin verdeckt im `Sankt Petersburg Express` mit, um den Hintergrund des Verschwindens aufzuklaeren. Unter den Mitreisenden befinden sich mehrere Personen, deren Rollen und Absichten zunehmend fragwuerdig wirken. Die Folge entwickelt daraus einen engen Kammerspiel-Thriller auf Schienen, der erst in einer winterlichen Finalszene ausserhalb des Zuges aufbricht.
+Ein Teil des Goldschatzes des Zarenhofs soll als Sicherheit für einen Kredit der Bank of England nach London gebracht werden, doch einer der Transporte verschwindet. Irene Adler reist daraufhin verdeckt im `Sankt Petersburg Express` mit, um den Hintergrund des Verschwindens aufzuklären. Unter den Mitreisenden befinden sich mehrere Personen, deren Rollen und Absichten zunehmend fragwürdig wirken. Die Folge entwickelt daraus einen engen Kammerspiel-Thriller auf Schienen, der erst in einer winterlichen Finalszene außerhalb des Zuges aufbricht.
 
 ## Bezug zum Zirkel der Sieben
 
 - **Direkter Anker im Repo-Kontext** — die vorhandene Chronologie verzeichnet hier den Erstauftritt Rasputins.
-- **Offizielle Seite vorsichtiger:** Auf der sichtbaren Figurenliste selbst wird Rasputin nicht genannt; der direkte Zirkelbezug stuetzt sich deshalb lokal auf die Kombination aus offizieller Folgenseite und bestehender Chronologie-Notiz.
+- **Offizielle Seite vorsichtiger:** Auf der sichtbaren Figurenliste selbst wird Rasputin nicht genannt; der direkte Zirkelbezug stützt sich deshalb lokal auf die Kombination aus offizieller Folgenseite und bestehender Chronologie-Notiz.
 
 ## Crossover & Querverweise
 
-- **Vorherige Folge:** [[wiki/folgen/irene-adler-03-blutige-kanaele|IADK 3 „Blutige Kanaele“]].
-- **Naechste Folge:** [[wiki/folgen/irene-adler-05-schlag-auf-schlag|IADK 5 „Schlag auf Schlag“]].
+- **Vorherige Folge:** [[wiki/folgen/irene-adler-03-blutige-kanaele|IADK 3 „Blutige Kanäle“]].
+- **Nächste Folge:** [[wiki/folgen/irene-adler-05-schlag-auf-schlag|IADK 5 „Schlag auf Schlag“]].
 
 ## Quellen
 

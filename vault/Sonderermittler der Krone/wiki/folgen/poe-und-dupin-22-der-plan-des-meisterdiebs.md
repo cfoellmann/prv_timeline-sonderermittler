@@ -1,14 +1,18 @@
-﻿---
+---
 type: folge
 serie: poe-und-dupin
 nummer: 22
 titel: Der Plan des Meisterdiebs
-erschienen: 2024
+erschienen: 2024-04-05
 verlag: Maritim
+spielzeit_min: 56
 zirkel: direkt
+spoiler_level: grob
 status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
 tags:
   - zirkel-der-sieben
   - arsene-lupin
@@ -24,6 +28,7 @@ tags:
 - **Serie:** [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]]
 - **Nummer:** 22
 - **Erscheinungsjahr:** 2024
+- **Erscheinungsdatum:** 05.04.2024 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 56 min
 - **Zirkel-Bezug:** Direkt
 

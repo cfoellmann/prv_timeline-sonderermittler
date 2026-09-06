@@ -1,14 +1,18 @@
-﻿---
+---
 type: folge
 serie: poe-und-dupin
 nummer: 2
 titel: Im Bann der Angst
 erschienen: 2018-09-21
 verlag: Maritim
+autor: "Markus Duschek"
+spielzeit_min: 66
 zirkel: indirekt
+spoiler_level: stub
 status: stub
 quellen:
   - raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - dracula-als-sapriel
 ---
@@ -24,6 +28,7 @@ tags:
 - **Titel:** Im Bann der Angst
 - **Erschienen:** 2018-09-21
 - **Verlag:** Maritim
+- **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Zirkel-Bezug:** Indirekt (Dracula tritt als „Sapriel" auf)
 
 ## Hauptfiguren

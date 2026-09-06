@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 12
 titel: Der Geheimbund der Masken
 erschienen: 2017-11-24
 verlag: Maritim
-autor: ""
+autor: "Jonas Maas"
 spielzeit_min: 70
-zirkel: false
+zirkel: unklar
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge12-der-geheimbund-der-masken/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
 ---
@@ -28,6 +29,7 @@ tags:
 - **Erscheinungsdatum:** 24.11.2017.
 - **Erscheinungsjahr (offizielle Seite):** 2017.
 - **Spielzeit:** 70 Minuten.
+- **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge12-der-geheimbund-der-masken/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=XA-sYE9QDb4>

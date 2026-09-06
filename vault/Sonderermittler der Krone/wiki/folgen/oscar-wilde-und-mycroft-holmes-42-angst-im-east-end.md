@@ -1,13 +1,13 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 42
 titel: Angst im East End
 erschienen: 2023-03-31
 verlag: Maritim
-autor: ""
+autor: "Silke Walter"
 spielzeit_min: 57
-zirkel: false
+zirkel: unklar
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -15,6 +15,7 @@ quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge42-angst-im-east-end/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
 ---
@@ -29,6 +30,7 @@ tags:
 - **Angabe auf der offiziellen Seite:** 2023.
 - **Fandom-Abgleich (2026-04-30):** Fandom-Einzelseite markiert Folge 42 weiterhin als „angekündigt" (veraltet).
 - **Spielzeit:** 57 Minuten.
+- **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge42-angst-im-east-end/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-42-angst-im-east-end.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-42-angst-im-east-end.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-42.jpg>)*

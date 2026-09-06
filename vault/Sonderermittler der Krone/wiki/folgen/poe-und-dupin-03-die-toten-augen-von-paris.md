@@ -1,14 +1,19 @@
-﻿---
+---
 type: folge
 serie: poe-und-dupin
 nummer: 3
 titel: Die toten Augen von Paris
-erschienen: 2018
+erschienen: 2018-09-14
 verlag: Maritim
+autor: "Markus Duschek"
+spielzeit_min: 65
 zirkel: indirekt
+spoiler_level: grob
 status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - mordserie
   - paris
@@ -24,7 +29,9 @@ tags:
 - **Nummer:** 3
 - **Titel:** Die toten Augen von Paris
 - **Erscheinungsjahr:** 2018
+- **Erscheinungsdatum:** 14.09.2018 (Apple Music, Abruf 2026-09-06).
 - **Spielzeit:** 64 min
+- **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **Zirkel-Bezug:** Indirekt (vor dem Zirkel-Einstieg)
 - **YouTube:** [Komplettes Hörspiel](https://www.youtube.com/watch?v=mzNn2cxzHbQ)

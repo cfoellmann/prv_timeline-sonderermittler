@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 50
 titel: Bittere Erkenntnis
 erschienen: 2024-09-27
 verlag: Maritim
-autor: ""
+autor: "Silke Walter"
 spielzeit_min: 115
-zirkel: false
+zirkel: unklar
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge50-bittere-erkenntnis/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
 ---
@@ -28,6 +29,7 @@ tags:
 - **Angabe auf der offiziellen Seite:** 2024.
 - **Fandom-Abgleich (2026-04-30):** Auf der Fandom-Serienseite gelistet, aber ohne verlinkte Einzelseite.
 - **Spielzeit:** 115 Minuten.
+- **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge50-bittere-erkenntnis/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-50.jpg>)*

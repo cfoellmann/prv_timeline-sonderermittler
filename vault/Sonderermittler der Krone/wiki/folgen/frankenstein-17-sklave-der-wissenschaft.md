@@ -1,13 +1,14 @@
-﻿---
+---
 type: folge
 serie: frankenstein
 nummer: 17
 titel: Sklave der Wissenschaft
-erschienen: 2025
+erschienen: 2025-01-24
 verlag: Maritim
+autor: "Silke Walter"
 sprecher: []
 spielzeit_min: 59
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - tesla
   - moriarty
@@ -16,6 +17,9 @@ status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/frankenstein/folge17-sklave-der-wissenschaft/
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -31,7 +35,9 @@ tags:
 ## Eckdaten
 
 - **Erscheinungsjahr:** 2025
+- **Erscheinungsdatum:** 24.01.2025 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 59 Minuten
+- **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge17-sklave-der-wissenschaft/>
 

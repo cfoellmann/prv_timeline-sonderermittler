@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 14
 titel: Labyrinth der Angst
 erschienen: 2018-03-29
 verlag: Maritim
-autor: ""
+autor: "Jonas Maas"
 spielzeit_min: 70
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge14-labyrinth-der-angst/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
   - zirkel
@@ -29,6 +30,7 @@ tags:
 - **Erscheinungsdatum:** 29.03.2018.
 - **Erscheinungsjahr (offizielle Seite):** 2018.
 - **Spielzeit:** 70 Minuten.
+- **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge14-labyrinth-der-angst/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=YBsmsz-ys-0>

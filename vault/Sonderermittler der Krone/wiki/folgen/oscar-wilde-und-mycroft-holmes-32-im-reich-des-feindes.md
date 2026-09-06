@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 32
 titel: Im Reich des Feindes
 erschienen: 2021-03-26
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 spielzeit_min: 62
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge32-im-reich-des-feindes/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
   - zirkel
@@ -29,6 +30,7 @@ tags:
 - **Erscheinungsdatum:** 26.03.2021.
 - **Erscheinungsjahr (offizielle Seite):** 2021.
 - **Spielzeit:** 62 Minuten.
+- **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge32-im-reich-des-feindes/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-32-im-reich-des-feindes.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-32-im-reich-des-feindes.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-32.jpg>)*

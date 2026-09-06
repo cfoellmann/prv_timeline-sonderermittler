@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 6
 titel: Hexenwald
 erschienen: 2016-11-18
 verlag: Maritim
-autor: ""
+autor: "Jonas Maas"
 spielzeit_min: 74
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge06-hexenwald/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
   - zirkel
@@ -29,6 +30,7 @@ tags:
 - **Erscheinungsdatum:** 18.11.2016.
 - **Erscheinungsjahr (offizielle Seite):** 2016.
 - **Spielzeit:** 74 Minuten.
+- **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge06-hexenwald/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=gNxc5L1NBXg>

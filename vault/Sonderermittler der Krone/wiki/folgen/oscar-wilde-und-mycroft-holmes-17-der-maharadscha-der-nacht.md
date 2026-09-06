@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 17
 titel: Der Maharadscha der Nacht
 erschienen: 2018-09-28
 verlag: Maritim
-autor: ""
+autor: "Jonas Maas"
 spielzeit_min: 78
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge17-der-maharadscha-der-nacht/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
   - zirkel
@@ -29,6 +30,7 @@ tags:
 - **Erscheinungsdatum:** 28.09.2018.
 - **Erscheinungsjahr (offizielle Seite):** 2018.
 - **Spielzeit:** 78 Minuten.
+- **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge17-der-maharadscha-der-nacht/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-17-der-maharadscha-der-nacht.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-17-der-maharadscha-der-nacht.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-17.jpg>)*

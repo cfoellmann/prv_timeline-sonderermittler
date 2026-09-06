@@ -1,4 +1,4 @@
-﻿---
+---
 type: serie
 titel: Edgar Allan Poe & Auguste Dupin
 verlag: Maritim
@@ -6,9 +6,11 @@ genre: Krimi
 start: 2018-08-17
 status: entwurf
 zirkel: true
-folgen_count: 34
+folgen_count: 36
 re_release_count: 12
 quellen:
+  - raw/Sonderermittler_Update_2026-08-17.md
+  - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
   - raw/reviews/2026-04-27_re-releases_recherche-notiz.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
@@ -23,8 +25,9 @@ tags: []
 
 - **Verlag:** Maritim
 - **Genre:** Krimi
-- **Erstveroeffentlichung:** 17.08.2018.
-- **Folgenstand (Hauptlinie):** 34 (2026-04-27)
+- **Erstveröffentlichung:** 17.08.2018.
+- **Folgenstand (Hauptlinie):** 36 (2026-08-17) — lückenlos im Vault dokumentiert.
+- **Crossover-Block 35–36:** In beiden Folgen stoßen die Sonderermittler der Krone zur Poe-Linie; in Folge 36 ermitteln [[wiki/figuren/irene-adler|Irene Adler]] und [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] direkt mit. Damit ist die Reihe erstmals eng an die Krimi-Hauptlinien gekoppelt.
 - **Bezug zum Zirkel:** sekundär. **Erst ab Folge 13 „Aufnahmeprüfung"** spielt der [[wiki/konzepte/zirkel-der-sieben|Zirkel]] eine wichtige Rolle — dort wird [[wiki/figuren/gaston-morell|Gaston Morell]] als 7. Mitglied aufgenommen. Davor: vereinzelte Zirkel-Erscheinungen (Dracula als „Sapriel" ab Folge 2).
 - **Kosmos-Vorlauf:** [[wiki/figuren/edgar-allan-poe|Edgar Allan Poe]] ist im aktuellen Repo-Stand bereits in [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx|DNAPF 5 „Das Geheimnis der Eissphinx“]] verankert.
 
@@ -35,7 +38,7 @@ tags: []
 
 ## Folgenliste (Hauptlinie)
 
-> **Stand 2026-04-30:** Vollständige Folgenliste aller 34 Episoden, gecrawlt von der offiziellen Website.
+> **Stand 2026-08-17:** Folgen 1–34 vollständig gecrawlt (30.04.2026), Folgen 35 und 36 aus der Nachrecherche vom 17.08.2026 ergänzt. Lückenlos.
 
 | # | Titel | Datum | Zirkel | Crossover | Notizen |
 |---|---|---|---|---|---|
@@ -72,7 +75,9 @@ tags: []
 | 31 | [[wiki/folgen/poe-und-dupin-31-der-blutbrunnen\|Der Blutbrunnen]] | 2025 | indirekt |   | Autor tot im Brunnen |
 | 32 | [[wiki/folgen/poe-und-dupin-32-die-schicksalsuhr\|Die Schicksalsuhr]] | 2025 | indirekt |   | Verfluchte Standuhr |
 | 33 | [[wiki/folgen/poe-und-dupin-33-der-letzte-tanz\|Der letzte Tanz]] | 2026-02-13 | indirekt |   | Tänzerin und Marktfrau ermordet |
-| 34 | [[wiki/folgen/poe-und-dupin-34-glorreiche-zeiten\|Glorreiche Zeiten]] | 2026-04-10 | indirekt |   | Aktuellste Folge |
+| 34 | [[wiki/folgen/poe-und-dupin-34-glorreiche-zeiten\|Glorreiche Zeiten]] | 2026-04-10 | indirekt |   | — |
+| 35 | [[wiki/folgen/poe-und-dupin-35-auf-der-jagd\|Auf der Jagd]] | 2026-06-05 | indirekt | [[wiki/serien/oscar-wilde-und-mycroft-holmes\|Oscar Wilde & Mycroft Holmes]] | Unterstützung durch die Sonderermittler und [[wiki/figuren/harry-houdini\|Harry Houdini]]; die Gegner planen einen Anschlag; 54 min |
+| 36 | [[wiki/folgen/poe-und-dupin-36-aufstieg-und-fall\|Aufstieg und Fall]] | 2026-07-31 | indirekt | [[wiki/serien/irene-adler\|Irene Adler]], [[wiki/serien/sherlock-holmes\|Sherlock Holmes]] | Grimoire-Suche und Entführungsfall in Saint Manon bei Paris; 57 min |
 
 ### Wichtige Storyline-Arcs
 
@@ -108,20 +113,26 @@ tags: []
 
 | Re-Release-# | Re-Release-Titel | Spielzeit | Original SHC-# | Notizen |
 |---|---|---|---|---|
-| 01 | Das Blut junger Frauen | 73 min | – | Entführung und Mord an jungen Frauen; Symbole des Teufels |
-| 02 | Der Mann in Orange | 67 min | – | Angreifer in Orange versetzt Paris in Angst und Schrecken |
-| 03 | Das Erbe der Familie Chambois | 60 min | – | Geisterhafte Erscheinungen auf einem Landsitz |
-| 04 | Das Verlangen zu töten | 63 min | – | Rache aus der Vergangenheit; Goldrausch-Verbindung |
-| 05 | Die Verschwundenen von Zimmer 5 | 72 min | – | Magierwettbewerb; Houdini tritt auf |
-| 06 | Tödliche Trauben | 74 min | – | Morde in den Weinbergen; Familie De Rancelot |
-| 07 | Wolfsspuren | 67 min | – | Die Bestie von Gévaudan kehrt zurück |
-| 08 | Mörderisches Spektakel | 64 min | – | Mord im Théâtre du Grand Guignol |
-| 09 | Das Rattendorf | 63 min | – | Rattenplage und Pest-Symptome in der Provence |
-| 10 | Femme Fatale | 60 min | – | Poe verliebt sich in die Braut eines Verbrecherkönigs |
-| 11 | Die schottische Spur | 76 min | – | Kunstraub; Spur führt nach Schottland |
-| 12 | Die Klinik-Morde | 67 min | – | Mordserie unter Patienten der Nervenklinik des Doktor Y |
+| 01 | Das Blut junger Frauen | 73 min | **SHC 12** | Entführung und Mord an jungen Frauen; Symbole des Teufels |
+| 02 | Der Mann in Orange | 67 min | **SHC 14** | Angreifer in Orange versetzt Paris in Angst und Schrecken |
+| 03 | Das Erbe der Familie Chambois | 60 min | **SHC 16** | Geisterhafte Erscheinungen auf einem Landsitz |
+| 04 | Das Verlangen zu töten | 63 min | **SHC 17** | Rache aus der Vergangenheit; Goldrausch-Verbindung |
+| 05 | Die Verschwundenen von Zimmer 5 | 72 min | **SHC 20** | Magierwettbewerb; Houdini tritt auf |
+| 06 | Tödliche Trauben | 74 min | **SHC 23** | Morde in den Weinbergen; Familie De Rancelot |
+| 07 | Wolfsspuren | 67 min | **SHC 25** | Die Bestie von Gévaudan kehrt zurück |
+| 08 | Mörderisches Spektakel | 64 min | **SHC 28** | Mord im Théâtre du Grand Guignol |
+| 09 | Das Rattendorf | 63 min | **SHC 30** | Rattenplage und Pest-Symptome in der Provence |
+| 10 | Femme Fatale | 60 min | **SHC 33** | Poe verliebt sich in die Braut eines Verbrecherkönigs |
+| 11 | Die schottische Spur | 76 min | **SHC 35** | Kunstraub; Spur führt nach Schottland |
+| 12 | Die Klinik-Morde | 67 min | **SHC 39** | Mordserie unter Patienten der Nervenklinik des Doktor Y |
 
-> **Status:** Alle 12 Re-Release-Folgen dokumentiert (Stand 2026-04-30). Mapping zu den Original-SHC-Folgen-Nummern ausstehend — erfordert Recherche in alten Sherlock Holmes & Co-Katalogen. Quellen: [raw/reviews/2026-04-27_re-releases_recherche-notiz.md](../../raw/reviews/2026-04-27_re-releases_recherche-notiz.md), [raw/maritim/2026-04-30_archive-poe-dupin_folgen-01-bis-12.md](../../raw/maritim/2026-04-30_archive-poe-dupin_folgen-01-bis-12.md).
+> **Status:** Alle 12 Re-Release-Folgen dokumentiert; das **Mapping zu den Original-SHC-Nummern ist am 06.09.2026 ergänzt** worden — ermittelt über Titelgleichheit zwischen den Album-Katalogen beider Reihen, in beide Richtungen geprüft ([raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md](../../raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md)).
+
+> Die zwölf Archiv-Folgen entsprechen **exakt den zwölf Dupin-Folgen** von [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes & Co.]]; die Auslagerung der Dupin-Linie ist damit vollständig und lückenlos. Anders als bei der Sherlock-Archivlinie gibt es hier **keine doppelt vergebene Originalnummer**.
+
+> Keine dieser zwölf Folgen trägt eine eigene SHC-Folgenseite im Vault: Eine Wiederveröffentlichung begründet keine Aufnahme (Ausschluss 1 des [SHC-Aufnahmekriteriums](../konzepte/sherlock-holmes-und-co.md)), und es sind reine Dupin-Krimis ohne Kosmos-Bezug.
+
+> Weitere Quellen: [raw/reviews/2026-04-27_re-releases_recherche-notiz.md](../../raw/reviews/2026-04-27_re-releases_recherche-notiz.md), [raw/maritim/2026-04-30_archive-poe-dupin_folgen-01-bis-12.md](../../raw/maritim/2026-04-30_archive-poe-dupin_folgen-01-bis-12.md).
 
 ## Verwandte Serien
 
@@ -130,9 +141,11 @@ tags: []
 
 ## Quellen
 
+- [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update: Folge 36.
 - [raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md](../../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md)
 - [raw/maritim/2026-04-30_archive-poe-dupin_folgen-01-bis-12.md](../../raw/maritim/2026-04-30_archive-poe-dupin_folgen-01-bis-12.md) — Re-Release-Folgen 1–12
 - [raw/reviews/2026-04-27_re-releases_recherche-notiz.md](../../raw/reviews/2026-04-27_re-releases_recherche-notiz.md)
-- [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — exaktes Startdatum und DNAPF-5-Anker fuer Poe.
+- [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — exaktes Startdatum und DNAPF-5-Anker für Poe.
 - Offizielle Serien-Seite (Hauptlinie): <https://www.sonderermittler-der-krone.de/serien/poe-und-dupin/>
 - Offizielle Serien-Seite (Re-Release): <https://www.sonderermittler-der-krone.de/serien/archive-von-poe-und-dupin/>
+- [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche vom 17.08.2026: offizielle Folgen-Detailseiten (Daten, Spielzeiten, Klappentexte, Figuren).

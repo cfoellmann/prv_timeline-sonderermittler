@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 8
 titel: Der Röntgen-Zwischenfall
 erschienen: 2017-03-31
 verlag: Maritim
-autor: ""
+autor: "Jonas Maas"
 spielzeit_min: 71
-zirkel: false
+zirkel: unklar
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge08-der-roentgen-zwischenfall/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
 ---
@@ -28,6 +29,7 @@ tags:
 - **Erscheinungsdatum:** 31.03.2017.
 - **Erscheinungsjahr (offizielle Seite):** 2017.
 - **Spielzeit:** 71 Minuten.
+- **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge08-der-roentgen-zwischenfall/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=Ct6O91WVtbI>

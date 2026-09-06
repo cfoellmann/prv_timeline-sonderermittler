@@ -1,9 +1,9 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-poe
 nummer: 4
 titel: Die ewig Liebenden
-erschienen: 2026
+erschienen: 2026-01-16
 verlag: Blitz Verlag
 spielzeit: 53
 sprecher:
@@ -19,10 +19,14 @@ sprecher:
     name: unbekannt
   - rolle: Rasputin
     name: unbekannt
+spielzeit_min: 54
 zirkel: direkt
+spoiler_level: grob
 status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
 tags:
   - mini-serie
   - crossover
@@ -36,6 +40,8 @@ tags:
 **Oscar Wilde & Edgar Allan Poe – Folge 4**
 
 > Blitz Verlag, 2026. 53 Minuten. Zirkel: direkt. **Finale der Mini-Serie.**
+
+- **Erscheinungsdatum:** 16.01.2026 (Apple Music und Deezer, Abruf 2026-09-06).
 
 ## Metadaten
 

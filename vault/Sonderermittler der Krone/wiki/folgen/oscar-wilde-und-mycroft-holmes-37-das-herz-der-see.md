@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 37
 titel: Das Herz der See
 erschienen: 2022-01-28
 verlag: Maritim
-autor: ""
+autor: "Jonas Maas"
 spielzeit_min: 64
-zirkel: false
+zirkel: unklar
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge37-das-herz-der-see/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
 ---
@@ -28,6 +29,7 @@ tags:
 - **Erscheinungsdatum:** 28.01.2022.
 - **Erscheinungsjahr (offizielle Seite):** 2022.
 - **Spielzeit:** 64 Minuten.
+- **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge37-das-herz-der-see/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-37-das-herz-der-see.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-37-das-herz-der-see.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-37.jpg>)*

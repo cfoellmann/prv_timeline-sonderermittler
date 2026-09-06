@@ -1,13 +1,14 @@
-﻿---
+---
 type: folge
 serie: frankenstein
 nummer: 15
 titel: Strom der Gedanken
-erschienen: 2024
+erschienen: 2024-09-27
 verlag: Maritim
+autor: "Silke Walter"
 sprecher: []
 spielzeit_min: 57
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - tesla
   - moriarty
@@ -17,6 +18,9 @@ status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/frankenstein/folge15-strom-der-gedanken/
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -32,7 +36,9 @@ tags:
 ## Eckdaten
 
 - **Erscheinungsjahr:** 2024
+- **Erscheinungsdatum:** 27.09.2024 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 57 Minuten
+- **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge15-strom-der-gedanken/>
 

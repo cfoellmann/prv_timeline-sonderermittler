@@ -1,13 +1,14 @@
-﻿---
+---
 type: folge
 serie: frankenstein
 nummer: 9
 titel: Neuanfang
-erschienen: 2023
+erschienen: 2023-06-09
 verlag: Maritim
+autor: "Silke Walter"
 sprecher: []
 spielzeit_min: 60
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
 spoiler_level: grob
@@ -15,6 +16,9 @@ status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/frankenstein/folge09-neuanfang/
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -29,7 +33,9 @@ tags:
 ## Eckdaten
 
 - **Erscheinungsjahr:** 2023
+- **Erscheinungsdatum:** 09.06.2023 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 60 Minuten
+- **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge09-neuanfang/>
 

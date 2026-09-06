@@ -1,9 +1,9 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-poe
 nummer: 2
 titel: Atemlos
-erschienen: 2025
+erschienen: 2025-12-19
 verlag: Blitz Verlag
 spielzeit: 56
 sprecher:
@@ -13,10 +13,14 @@ sprecher:
     name: unbekannt
   - rolle: Mycroft Holmes
     name: unbekannt
+spielzeit_min: 57
 zirkel: indirekt
+spoiler_level: grob
 status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
 tags:
   - mini-serie
   - crossover
@@ -28,6 +32,8 @@ tags:
 **Oscar Wilde & Edgar Allan Poe – Folge 2**
 
 > Blitz Verlag, 2025. 56 Minuten. Zirkel: indirekt.
+
+- **Erscheinungsdatum:** 19.12.2025 (Apple Music und Deezer, Abruf 2026-09-06).
 
 ## Metadaten
 

@@ -1,19 +1,23 @@
-﻿---
+---
 type: folge
 serie: dracula
 nummer: 12
 titel: Kaltes Blut
-erschienen: 2024
+erschienen: 2024-03-01
 verlag: Maritim
+autor: "Marc Freund"
 sprecher: []
 spielzeit_min: 62
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md
   - https://www.sonderermittler-der-krone.de/serien/dracula/folge12-kaltes-blut/
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - dracula
   - zirkel-der-sieben
@@ -28,7 +32,9 @@ tags:
 ## Eckdaten
 
 - **Erscheinungsjahr:** 2024
+- **Erscheinungsdatum:** 01.03.2024 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 62 Minuten
+- **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/dracula/folge12-kaltes-blut/>
 
@@ -45,3 +51,8 @@ Die Ereignisse in New Orleans spitzen sich zu. Dracula wird von seinem ärgsten 
 ## Bezug zum Zirkel der Sieben
 
 Die Folge zeigt Dracula in einer ungewöhnlich verwundbaren Position und demonstriert, dass selbst mächtige Zirkel-Mitglieder nicht unbesiegbar sind. Die erwachte Kreatur stellt eine Bedrohung für alle Beteiligten dar.
+
+## Quellen
+
+- [raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md](../../raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md)
+- Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/dracula/folge12-kaltes-blut/>

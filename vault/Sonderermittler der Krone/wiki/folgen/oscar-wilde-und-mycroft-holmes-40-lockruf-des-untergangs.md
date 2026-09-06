@@ -1,13 +1,13 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 40
 titel: Lockruf des Untergangs
 erschienen: 2022-09-30
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 spielzeit_min: 70
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -16,6 +16,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge40-lockruf-des-untergangs/
   - https://bastei-luebbe.de/Audio/Krimis-Thriller/Oscar-Wilde-Mycroft-Holmes-Folge-40/9783785784259
   - https://www.isbn.de/hoerbuch/9783785784259/oscar-wilde-mycroft-holmes-folge-40
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
 ---
@@ -30,6 +31,7 @@ tags:
 - **Angabe auf der offiziellen Seite:** 2022.
 - **Fandom-Abgleich (2026-04-30):** Folge 40 hat auf Fandom eine verlinkte Einzelseite.
 - **Spielzeit:** 70 Minuten.
+- **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** Marc Freund.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge40-lockruf-des-untergangs/>
@@ -59,7 +61,7 @@ Eine rätselhafte Mordserie an jungen Männern führt Oscar Wilde und Violet Ish
 
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge40-lockruf-des-untergangs/> — enthält sehr wahrscheinlich versehentlich den Text von Folge 41.
-- Bastei Luebbe / Lübbe Audio: <https://bastei-luebbe.de/Audio/Krimis-Thriller/Oscar-Wilde-Mycroft-Holmes-Folge-40/9783785784259>
+- Bastei Lübbe / Lübbe Audio: <https://bastei-luebbe.de/Audio/Krimis-Thriller/Oscar-Wilde-Mycroft-Holmes-Folge-40/9783785784259>
 - ISBN.de: <https://www.isbn.de/hoerbuch/9783785784259/oscar-wilde-mycroft-holmes-folge-40>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 

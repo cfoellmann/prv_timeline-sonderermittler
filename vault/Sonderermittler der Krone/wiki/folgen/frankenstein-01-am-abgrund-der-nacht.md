@@ -1,19 +1,23 @@
-﻿---
+---
 type: folge
 serie: frankenstein
 nummer: 1
 titel: Am Abgrund der Nacht
-erschienen: 2020
+erschienen: 2020-10-09
 verlag: Maritim
+autor: "Marc Freund"
 sprecher: []
 spielzeit_min: 78
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/frankenstein/folge01-am-abgrund-der-nacht/
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -27,7 +31,9 @@ tags:
 ## Eckdaten
 
 - **Erscheinungsjahr:** 2020
+- **Erscheinungsdatum:** 09.10.2020 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 78 Minuten
+- **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **YouTube:** <https://www.youtube.com/watch?v=Yc8P2I3UoTE>
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge01-am-abgrund-der-nacht/>

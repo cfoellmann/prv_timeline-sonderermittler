@@ -1,9 +1,9 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-poe
 nummer: 3
 titel: Nimmermehr
-erschienen: 2026
+erschienen: 2026-01-02
 verlag: Blitz Verlag
 spielzeit: 57
 sprecher:
@@ -19,10 +19,14 @@ sprecher:
     name: unbekannt
   - rolle: Rasputin
     name: unbekannt
+spielzeit_min: 57
 zirkel: direkt
+spoiler_level: grob
 status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
 tags:
   - mini-serie
   - crossover
@@ -35,6 +39,8 @@ tags:
 **Oscar Wilde & Edgar Allan Poe – Folge 3**
 
 > Blitz Verlag, 2026. 57 Minuten. Zirkel: direkt.
+
+- **Erscheinungsdatum:** 02.01.2026 (Apple Music und Deezer, Abruf 2026-09-06).
 
 ## Metadaten
 

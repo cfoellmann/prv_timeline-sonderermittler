@@ -1,19 +1,23 @@
-﻿---
+---
 type: folge
 serie: frankenstein
 nummer: 3
 titel: Angst in den Gassen
-erschienen: 2021
+erschienen: 2021-02-26
 verlag: Maritim
+autor: "Marc Freund"
 sprecher: []
 spielzeit_min: 70
-zirkel: false
+zirkel: kein
 crossover_mit: []
 spoiler_level: grob
 status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/frankenstein/folge03-angst-in-den-gassen/
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - horror
   - frankenstein
@@ -27,7 +31,9 @@ tags:
 ## Eckdaten
 
 - **Erscheinungsjahr:** 2021
+- **Erscheinungsdatum:** 26.02.2021 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 70 Minuten
+- **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **YouTube:** <https://www.youtube.com/watch?v=G18-cJ2jr4I>
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge03-angst-in-den-gassen/>

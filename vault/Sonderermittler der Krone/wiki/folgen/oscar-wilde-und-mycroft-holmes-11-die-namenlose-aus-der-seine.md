@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 11
 titel: Die Namenlose aus der Seine
 erschienen: 2017-09-29
 verlag: Maritim
-autor: ""
+autor: "Jonas Maas"
 spielzeit_min: 70
-zirkel: false
+zirkel: unklar
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge11-die-namenlose-aus-der-seine/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
 ---
@@ -28,6 +29,7 @@ tags:
 - **Erscheinungsdatum:** 29.09.2017.
 - **Erscheinungsjahr (offizielle Seite):** 2017.
 - **Spielzeit:** 70 Minuten.
+- **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge11-die-namenlose-aus-der-seine/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=Caunuji8aHE>

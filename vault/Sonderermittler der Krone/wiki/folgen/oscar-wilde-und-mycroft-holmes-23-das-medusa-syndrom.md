@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 23
 titel: Das Medusa-Syndrom
 erschienen: 2019-09-30
 verlag: Maritim
-autor: ""
+autor: "Jonas Maas"
 spielzeit_min: 72
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge23-das-medusa-syndrom/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
   - zirkel
@@ -29,6 +30,7 @@ tags:
 - **Erscheinungsdatum:** 30.09.2019.
 - **Erscheinungsjahr (offizielle Seite):** 2019.
 - **Spielzeit:** 72 Minuten.
+- **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge23-das-medusa-syndrom/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-23-das-medusa-syndrom.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-23-das-medusa-syndrom.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-23.jpg>)*

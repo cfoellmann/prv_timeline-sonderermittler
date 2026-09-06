@@ -1,14 +1,14 @@
-﻿---
+---
 type: folge
 serie: irene-adler
 nummer: 30
 titel: Verdacht und Zweifel
 erschienen: 2025-12-12
 verlag: Maritim
-autor: ""
+autor: "Silke Walter"
 sprecher: []
 spielzeit_min: 58
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -16,6 +16,7 @@ quellen:
   - raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge30-verdacht-und-zweifel/
   - https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-30-verdacht-und-zweifel-5473/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
   - maritim
@@ -24,12 +25,13 @@ tags:
 
 # Irene Adler – 30: Verdacht und Zweifel
 
-> Ein Toter bei Ausgrabungen fuehrt zu einem bronzezeitlichen Anhaenger, den der Zirkel laut offiziellem Klappentext unbedingt haben will.
+> Ein Toter bei Ausgrabungen führt zu einem bronzezeitlichen Anhänger, den der Zirkel laut offiziellem Klappentext unbedingt haben will.
 
 ## Eckdaten
 
 - **Erscheinungsdatum:** 12.12.2025.
 - **Spielzeit:** 58 Minuten.
+- **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge30-verdacht-und-zweifel/>
@@ -37,17 +39,17 @@ tags:
 
 ## Hauptfiguren
 
-- [[wiki/figuren/irene-adler|Irene Adler]] — verfolgt die Spur des Fundstuecks bis nach Exeter.
+- [[wiki/figuren/irene-adler|Irene Adler]] — verfolgt die Spur des Fundstücks bis nach Exeter.
 - Wu — ist auf der offiziellen Folgen-Seite als Figur gelistet.
 - Mata Hari — ist auf der offiziellen Folgen-Seite als Figur gelistet.
 
 ## Handlung (grob)
 
-Als Irene Adler und Wu erfahren, dass es bei Ausgrabungen nahe Exeter einen Toten gegeben hat, reisen sie sofort zum Fundort. Dort stossen sie auf die Spur eines bronzezeitlichen Anhaengers, auf dem angeblich der genaue Ort einer versunkenen Stadt markiert ist. Schon der offizielle Klappentext macht klar, dass dieses Schmuckstueck das Interesse der Mitglieder des Zirkels der Sieben weckt. Adler und Wu beginnen ihre Ermittlungen, ohne zu ahnen, wie oft sie sich damit selbst in Lebensgefahr bringen werden.
+Als Irene Adler und Wu erfahren, dass es bei Ausgrabungen nahe Exeter einen Toten gegeben hat, reisen sie sofort zum Fundort. Dort stoßen sie auf die Spur eines bronzezeitlichen Anhängers, auf dem angeblich der genaue Ort einer versunkenen Stadt markiert ist. Schon der offizielle Klappentext macht klar, dass dieses Schmuckstück das Interesse der Mitglieder des Zirkels der Sieben weckt. Adler und Wu beginnen ihre Ermittlungen, ohne zu ahnen, wie oft sie sich damit selbst in Lebensgefahr bringen werden.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — der offizielle Klappentext sagt ausdruecklich, dass die Mitglieder des Zirkels der Sieben an dem Fundstueck interessiert sind.
+- **Direkt** — der offizielle Klappentext sagt ausdrücklich, dass die Mitglieder des Zirkels der Sieben an dem Fundstück interessiert sind.
 
 ## Crossover & Querverweise
 

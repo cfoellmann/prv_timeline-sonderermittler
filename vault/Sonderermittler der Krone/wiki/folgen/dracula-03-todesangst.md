@@ -1,19 +1,23 @@
-﻿---
+---
 type: folge
 serie: dracula
 nummer: 3
 titel: Todesangst
-erschienen: 2021
+erschienen: 2021-03-05
 verlag: Maritim
+autor: "Marc Freund"
 sprecher: []
 spielzeit_min: 64
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md
   - https://www.sonderermittler-der-krone.de/serien/dracula/folge03-todesangst/
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - dracula
   - zirkel-der-sieben
@@ -28,7 +32,9 @@ tags:
 ## Eckdaten
 
 - **Erscheinungsjahr:** 2021
+- **Erscheinungsdatum:** 05.03.2021 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 64 Minuten
+- **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/dracula/folge03-todesangst/>
 - **YouTube:** <https://www.youtube.com/watch?v=beDQQvFzeXM>
@@ -36,7 +42,7 @@ tags:
 ## Hauptfiguren
 
 - [[wiki/figuren/dracula|Dracula]] — auf der Suche nach dem Geheimnis seiner Kindheit
-- Mina Harker — gezwungen, mit ihrem alten Erzfeind zusammenzuarbeiten
+- [[wiki/figuren/mina-harker|Mina Harker]] — gezwungen, mit ihrem alten Erzfeind zusammenzuarbeiten
 
 ## Handlung (grob)
 
@@ -45,3 +51,8 @@ Mina Harker wurde von ihren Gefährten Van Helsing, Jonathan und Renfield getren
 ## Bezug zum Zirkel der Sieben
 
 Die Reise nach Transsylvanien offenbart mehr über Draculas Vergangenheit und seine Rolle im Zirkel. Die Folge vertieft die mythologische Dimension der Dracula-Figur im Universum.
+
+## Quellen
+
+- [raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md](../../raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md)
+- Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/dracula/folge03-todesangst/>

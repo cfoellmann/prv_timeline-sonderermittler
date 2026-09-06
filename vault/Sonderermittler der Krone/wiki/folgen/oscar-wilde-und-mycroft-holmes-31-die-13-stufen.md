@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 31
 titel: Die 13 Stufen
 erschienen: 2021-01-29
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 spielzeit_min: 60
-zirkel: false
+zirkel: unklar
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge31-die-13-stufen/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
 ---
@@ -28,6 +29,7 @@ tags:
 - **Erscheinungsdatum:** 29.01.2021.
 - **Erscheinungsjahr (offizielle Seite):** 2021.
 - **Spielzeit:** 60 Minuten.
+- **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge31-die-13-stufen/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-31-die-13-stufen.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-31-die-13-stufen.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-31.jpg>)*

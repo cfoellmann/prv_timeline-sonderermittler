@@ -1,19 +1,23 @@
-﻿---
+---
 type: folge
 serie: frankenstein
 nummer: 19
 titel: Der Weg der Schlange
-erschienen: 2025
+erschienen: 2025-05-23
 verlag: Maritim
+autor: "Silke Walter"
 sprecher: []
 spielzeit_min: 57
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/frankenstein/folge19-der-weg-der-schlange/
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -29,7 +33,9 @@ tags:
 ## Eckdaten
 
 - **Erscheinungsjahr:** 2025
+- **Erscheinungsdatum:** 23.05.2025 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 57 Minuten
+- **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge19-der-weg-der-schlange/>
 

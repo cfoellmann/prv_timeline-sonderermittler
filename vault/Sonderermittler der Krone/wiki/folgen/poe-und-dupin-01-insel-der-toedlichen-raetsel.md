@@ -1,14 +1,18 @@
-﻿---
+---
 type: folge
 serie: poe-und-dupin
 nummer: 1
 titel: Insel der tödlichen Rätsel
 erschienen: 2018-08-17
 verlag: Maritim
+autor: "Markus Duschek"
+spielzeit_min: 73
 zirkel: indirekt
+spoiler_level: stub
 status: stub
 quellen:
   - raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - erstauftritt-gaston-morell
 ---
@@ -24,6 +28,7 @@ tags:
 - **Titel:** Insel der tödlichen Rätsel
 - **Erschienen:** 2018-08-17
 - **Verlag:** Maritim
+- **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Zirkel-Bezug:** Indirekt
 
 ## Hauptfiguren

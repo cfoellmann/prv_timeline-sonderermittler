@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 10
 titel: Eine Nacht am Brocken
 erschienen: 2017-07-21
 verlag: Maritim
-autor: ""
+autor: "Jonas Maas"
 spielzeit_min: 72
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge10-eine-nacht-am-brocken/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
   - zirkel
@@ -29,6 +30,7 @@ tags:
 - **Erscheinungsdatum:** 21.07.2017.
 - **Erscheinungsjahr (offizielle Seite):** 2017.
 - **Spielzeit:** 72 Minuten.
+- **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge10-eine-nacht-am-brocken/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=8Psqj1nIMq4>

@@ -1,12 +1,13 @@
-﻿---
+---
 type: folge
 serie: phileas-fogg
 nummer: 10
 titel: Der Herrscher der Meere
 erschienen: 2017-06-16
 verlag: Maritim
-autor: ""
-zirkel: true
+autor: "Markus Topf & Dominik Ahrens"
+spielzeit_min: 62
+zirkel: direkt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
 spoiler_level: stub
@@ -14,6 +15,7 @@ status: stub
 quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - ankerfolge
   - crossover
@@ -26,6 +28,7 @@ tags:
 ## Eckdaten
 
 - **Erscheinungsdatum:** 16.06.2017.
+- **Autor:in:** Markus Topf & Dominik Ahrens (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Arbeitsstand:** Aktuell nur als Crossover-Anker der Chronologie erschlossen.
 - **Timeline-Notiz:** Erste Zusammenarbeit Fogg x Wilde (Doppelfolge mit DNAPF 11).
@@ -38,15 +41,15 @@ tags:
 ## Handlung (grob)
 
 - Eine lokale Folgenquelle mit grober Inhaltsangabe fehlt noch.
-- Belegt ist aber, dass diese Folge einen wichtigen Brueckenschlag zwischen der Abenteuerlinie um Fogg und der spaeteren Hauptserie um Oscar Wilde bildet.
+- Belegt ist aber, dass diese Folge einen wichtigen Brückenschlag zwischen der Abenteuerlinie um Fogg und der späteren Hauptserie um Oscar Wilde bildet.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt kosmosrelevant** durch die erste explizit belegte Verknuepfung von Fogg und Wilde.
+- **Direkt kosmosrelevant** durch die erste explizit belegte Verknüpfung von Fogg und Wilde.
 
 ## Crossover & Querverweise
 
-- Gehoert zum ersten dokumentierten Fogg/Wilde-Block vor [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant|DNAPF 11]].
+- Gehört zum ersten dokumentierten Fogg/Wilde-Block vor [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant|DNAPF 11]].
 
 ## Quellen
 

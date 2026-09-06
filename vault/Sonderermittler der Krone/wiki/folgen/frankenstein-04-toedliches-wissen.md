@@ -1,13 +1,14 @@
-﻿---
+---
 type: folge
 serie: frankenstein
 nummer: 4
 titel: Tödliches Wissen
-erschienen: 2021
+erschienen: 2021-06-18
 verlag: Maritim
+autor: "Marc Freund"
 sprecher: []
 spielzeit_min: 71
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
 spoiler_level: grob
@@ -15,6 +16,9 @@ status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/frankenstein/folge04-toedliches-wissen/
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -29,7 +33,9 @@ tags:
 ## Eckdaten
 
 - **Erscheinungsjahr:** 2021
+- **Erscheinungsdatum:** 18.06.2021 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 71 Minuten
+- **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **YouTube:** <https://www.youtube.com/watch?v=e2kNcRHq1gc>
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge04-toedliches-wissen/>

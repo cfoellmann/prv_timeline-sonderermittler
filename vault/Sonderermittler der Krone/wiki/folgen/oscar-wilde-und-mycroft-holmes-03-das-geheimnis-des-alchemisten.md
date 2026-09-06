@@ -1,18 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 3
 titel: Das Geheimnis des Alchemisten
-erschienen:
+erschienen: 2016-05-13
 verlag: Maritim
-autor: ""
+autor: "Jonas Maas"
 spielzeit_min: 77
-zirkel: false
+zirkel: unklar
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - vatikan
   - rom
@@ -31,6 +33,7 @@ tags:
 - **Erscheinungsjahr:** 2016.
 - **Erscheinungsdatum:** auf der offiziellen Folgenseite derzeit nicht genauer ausgewiesen.
 - **Spielzeit:** 77 Minuten.
+- **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=vfXJ_EhRW_c>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-03.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-03.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-03.jpg>)*

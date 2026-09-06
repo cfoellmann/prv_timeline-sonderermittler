@@ -1,14 +1,15 @@
-﻿---
+---
 type: folge
 serie: irene-adler
 nummer: 11
 titel: Samen des Bösen
 erschienen: 2021-12-10
 verlag: Maritim
+autor: "Marc-Oliver Bischoff"
 
 sprecher: []
 spielzeit_min: 72
-zirkel: false
+zirkel: unklar
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -16,6 +17,7 @@ quellen:
   - raw/maritim/2026-04-30_irene-adler_folgen-11-bis-21.md
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge11-samen-des-boesen/
   - https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-11-samen-des-boesen-2585/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - irene-adler
   - maritim
@@ -31,6 +33,7 @@ tags:
 - **Erscheinungsdatum:** 10.12.2021.
 - **Angabe auf der offiziellen Seite:** 2021.
 - **Spielzeit:** 72 Minuten.
+- **Autor:in:** Marc-Oliver Bischoff (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge11-samen-des-boesen/>
@@ -44,11 +47,11 @@ tags:
 
 ## Handlung (grob)
 
-Im Amazonasbecken ist ein Forscher der Royal Botanic Society verschwunden, der fuer das Empire eine grosse Menge Kautschuksamen beschaffen sollte. Irene Adler nimmt gemeinsam mit einem vorlauten Dolmetscher und lokalen Begleitern die Suche nach dem Wissenschaftler und seiner Fracht auf. Dabei muss sie sich nicht nur mit bekannten Gegnern auseinandersetzen, sondern auch mit den unmittelbaren Gefahren des brasilianischen Regenwalds. Der Fall ist damit zugleich Expedition, Rettungsmission und Ueberlebenskampf.
+Im Amazonasbecken ist ein Forscher der Royal Botanic Society verschwunden, der für das Empire eine große Menge Kautschuksamen beschaffen sollte. Irene Adler nimmt gemeinsam mit einem vorlauten Dolmetscher und lokalen Begleitern die Suche nach dem Wissenschaftler und seiner Fracht auf. Dabei muss sie sich nicht nur mit bekannten Gegnern auseinandersetzen, sondern auch mit den unmittelbaren Gefahren des brasilianischen Regenwalds. Der Fall ist damit zugleich Expedition, Rettungsmission und Überlebenskampf.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — der sichtbare offizielle Text nennt keinen ausdruecklichen Zirkel-Akteur im Fallkern.
+- **Derzeit offen** — der sichtbare offizielle Text nennt keinen ausdrücklichen Zirkel-Akteur im Fallkern.
 
 ## Crossover & Querverweise
 

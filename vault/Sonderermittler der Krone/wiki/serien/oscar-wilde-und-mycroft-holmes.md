@@ -1,4 +1,4 @@
-﻿---
+---
 type: serie
 titel: Oscar Wilde & Mycroft Holmes – Sonderermittler der Krone
 verlag: Maritim
@@ -6,8 +6,13 @@ genre: Krimi
 start: 2016-03-11
 status: recherchiert
 zirkel: true
-folgen_count: 56
+folgen_count: 59
+watchlist_count: 1
 quellen:
+  - raw/notes/2026-09-06_neue-folgen-scout_september-2026.md
+  - raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md
+  - raw/Sonderermittler_Update_2026-08-17.md
+  - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
   - raw/maritim/2026-04-27_owmh_serien-und-folge-01.md
   - raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md
@@ -20,14 +25,15 @@ tags:
 
 # Oscar Wilde & Mycroft Holmes – Sonderermittler der Krone
 
-> **Hauptserie** des Maritim-Kosmos und zentraler Zugang zum [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]]. Maritim, seit 11.03.2016, Stand 2026-04-27 = 56 Folgen.
+> **Hauptserie** des Maritim-Kosmos und zentraler Zugang zum [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]]. Maritim, seit 11.03.2016, Stand 2026-09-06 = 59 Folgen plus eine Vormerkung.
 
 ## Übersicht
 
 - **Verlag:** Maritim
 - **Genre:** Krimi
 - **Erstveröffentlichung:** 11. März 2016 (Folgen 1 + 2 gleichzeitig)
-- **Folgenstand:** 56 (2026-04-27)
+- **Folgenstand:** 59 (2026-09-06), lückenlos dokumentiert — plus 1 Vormerkung (Folge 60, angekündigt für den 30.10.2026).
+- **Aktueller Arc (57–58):** Themse-Mordserie mit verstümmelten Leichen. Oscar Wilde übernimmt den Fall für [[wiki/figuren/geoffrey-stafford|Inspector Stafford]], verdächtigt [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] und gerät mit [[wiki/figuren/irene-adler|Irene Adler]] in Konflikt; in Folge 58 ist sie verschwunden und Wilde sucht sie mit Dr. Watson.
 - **Bezug zum Zirkel:** zentral — Hauptzugang zum Zirkel-Plot.
 - **Setting:** spätviktorianisches London, ca. 1895 ff.
 
@@ -99,7 +105,11 @@ Quelle: [offizielle Serien-Übersicht](../../raw/maritim/2026-04-27_owmh_serien-
 | 53 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-53-gefaehrliche-versuchung\|Gefährliche Versuchung]] | 30.05.2025 |  | Bombenanschlag; Moriarty und Tesla |
 | 54 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-54-stoerungen\|Störungen]] | 26.09.2025 | direkt | Zirkel sabotiert Kommunikationsnetz |
 | 55 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-55-blumen-des-verderbens\|Blumen des Verderbens]] | 30.01.2026 | direkt | Geiselnahme im Museum; Zirkel hinter Brandanschlag |
-| 56 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-56-toedliche-farben\|Tödliche Farben]] | 27.03.2026 | direkt | Moriarty markiert Sonderermittler; Zirkel-Brandanschläge; aktueller Stand |
+| 56 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-56-toedliche-farben\|Tödliche Farben]] | 27.03.2026 | direkt | Moriarty markiert Sonderermittler; Zirkel-Brandanschläge |
+| 57 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-57-zwietracht\|Zwietracht]] | 15.05.2026 | direkt | Themse-Mordserie für Inspector Stafford; Wilde verdächtigt Frankenstein, Konflikt mit Irene Adler; 53 min |
+| 58 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-58-alleingang\|Alleingang]] | 10.07.2026 | direkt | Weitere Themse-Leiche; Wilde sucht mit Dr. Watson die verschwundene Irene Adler; 52 min |
+| 59 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-59-die-spur-der-echse\|Die Spur der Echse]] | 04.09.2026 | indirekt | Wilde reist allein auf eine irische Insel zu einer angeblich jahrhundertealten Echse; Sachs und Frankenstein auf seiner Fährte; 52 min; Autorin Silke Walter; aktueller Stand |
+| 60 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-60-tiefe-reue\|Tiefe Reue]] | 30.10.2026 (geplant) | indirekt | Sherlock Holmes zurück in London; Adler und Holmes suchen Wilde vergeblich; 53 min; Watchlist |
 
 > **Datums-Notation:** Datumsangaben mit Tag stammen aus der Löchel-Chronologie. Nur-Jahresangaben sind Schätzungen aus der Veröffentlichungs-Frequenz und werden präzisiert, sobald die Folgen ingestiert werden.
 
@@ -112,9 +122,11 @@ Quelle: [offizielle Serien-Übersicht](../../raw/maritim/2026-04-27_owmh_serien-
 
 ## Quellen
 
+- [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update: Folgen 57 und 58.
 - [raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md](../../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md)
 - [raw/maritim/2026-04-27_owmh_serien-und-folge-01.md](../../raw/maritim/2026-04-27_owmh_serien-und-folge-01.md) — komplette Folgenliste 1–56.
 - [raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md](../../raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md) — offizielle Detailseiten zu Folgen 2–4.
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Arbeitsnotiz aus den offiziellen Detailseiten zu Folgen 5–56.
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Datum/Anker für ca. 30 Folgen.
 - Offizielle Serien-Seite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/>
+- [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche vom 17.08.2026: offizielle Folgen-Detailseiten (Daten, Spielzeiten, Klappentexte, Figuren).

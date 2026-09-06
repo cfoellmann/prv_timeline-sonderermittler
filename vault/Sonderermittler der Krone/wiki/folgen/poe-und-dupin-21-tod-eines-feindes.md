@@ -1,14 +1,20 @@
-﻿---
+---
 type: folge
 serie: poe-und-dupin
 nummer: 21
 titel: Tod eines Feindes
-erschienen: 2024
+erschienen: 2024-01-26
 verlag: Maritim
+autor: "Markus Duschek"
+spielzeit_min: 59
 zirkel: direkt
+spoiler_level: grob
 status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - zirkel-der-sieben
   - gaston-morell
@@ -27,7 +33,9 @@ tags:
 - **Serie:** [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]]
 - **Nummer:** 21
 - **Erscheinungsjahr:** 2024
+- **Erscheinungsdatum:** 26.01.2024 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 59 min
+- **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Zirkel-Bezug:** Direkt – Gaston Morell stirbt, Zirkel sucht neues Mitglied
 
 ## Handlung

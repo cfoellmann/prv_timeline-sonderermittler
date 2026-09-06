@@ -1,13 +1,14 @@
-﻿---
+---
 type: folge
 serie: frankenstein
 nummer: 16
 titel: Macht und Manipulation
-erschienen: 2024
+erschienen: 2024-10-18
 verlag: Maritim
+autor: "Silke Walter"
 sprecher: []
 spielzeit_min: 58
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - tesla
   - moriarty
@@ -17,6 +18,9 @@ status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/frankenstein/folge16-macht-und-manipulation/
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -32,7 +36,9 @@ tags:
 ## Eckdaten
 
 - **Erscheinungsjahr:** 2024
+- **Erscheinungsdatum:** 18.10.2024 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 58 Minuten
+- **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge16-macht-und-manipulation/>
 

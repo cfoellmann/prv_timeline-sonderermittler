@@ -1,12 +1,13 @@
-﻿---
+---
 type: folge
 serie: phileas-fogg
 nummer: 1
-titel: Entfuehrung auf hoher See
+titel: Entführung auf hoher See
 erschienen: 2015-11-06
 verlag: Maritim
 autor: ""
-zirkel: false
+spielzeit_min: 62
+zirkel: kein
 crossover_mit: []
 spoiler_level: stub
 status: stub
@@ -18,21 +19,21 @@ tags:
   - erstauftritt
 ---
 
-# Jules Verne – Die neuen Abenteuer des Phileas Fogg – 1: Entfuehrung auf hoher See
+# Jules Verne – Die neuen Abenteuer des Phileas Fogg – 1: Entführung auf hoher See
 
-> Fruehester belegter Repo-Anker der Reihe; laut Chronologie tritt hier Kapitaen Nemo erstmals im Kosmos auf.
+> Frühester belegter Repo-Anker der Reihe; laut Chronologie tritt hier Kapitän Nemo erstmals im Kosmos auf.
 
 ## Eckdaten
 
 - **Erscheinungsdatum:** 06.11.2015.
 - **Verlag:** Maritim.
-- **Arbeitsstand:** Fuer diese Folge liegt im Repo derzeit nur eine Chronologie-Notiz, aber noch keine lokale Detailquelle vor.
-- **Timeline-Notiz:** Erstauftritt Kapitaen Nemo.
+- **Arbeitsstand:** Für diese Folge liegt im Repo derzeit nur eine Chronologie-Notiz, aber noch keine lokale Detailquelle vor.
+- **Timeline-Notiz:** Erstauftritt Kapitän Nemo.
 
 ## Hauptfiguren
 
 - [[wiki/figuren/phileas-fogg|Phileas Fogg]] — Titelheld der Reihe.
-- Kapitaen Nemo — im aktuellen Repo-Stand hier erstmals belegt.
+- Kapitän Nemo — im aktuellen Repo-Stand hier erstmals belegt.
 
 ## Handlung (grob)
 

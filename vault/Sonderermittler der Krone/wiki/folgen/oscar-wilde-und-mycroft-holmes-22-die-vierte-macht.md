@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 22
 titel: Die vierte Macht
 erschienen: 2019-07-26
 verlag: Maritim
-autor: ""
+autor: "Henner Hildebrandt & Thomas Balfour"
 spielzeit_min: 72
-zirkel: false
+zirkel: unklar
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge22-die-vierte-macht/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
 ---
@@ -28,6 +29,7 @@ tags:
 - **Erscheinungsdatum:** 26.07.2019.
 - **Erscheinungsjahr (offizielle Seite):** 2019.
 - **Spielzeit:** 72 Minuten.
+- **Autor:in:** Henner Hildebrandt & Thomas Balfour (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge22-die-vierte-macht/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-22-die-vierte-macht.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-22-die-vierte-macht.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-22.jpg>)*

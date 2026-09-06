@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 19
 titel: Blutdurst
 erschienen: 2019-01-31
 verlag: Maritim
-autor: ""
+autor: "Jonas Maas"
 spielzeit_min: 68
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge19-blutdurst/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
   - zirkel
@@ -29,6 +30,7 @@ tags:
 - **Erscheinungsdatum:** 31.01.2019.
 - **Erscheinungsjahr (offizielle Seite):** 2019.
 - **Spielzeit:** 68 Minuten.
+- **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge19-blutdurst/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-19-blutdurst.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-19-blutdurst.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-19.jpg>)*

@@ -1,34 +1,38 @@
-﻿---
+---
 type: folge
 serie: phileas-fogg
 nummer: 25
-titel: Diamantenjaeger
-erschienen:
+titel: Diamantenjäger
+erschienen: 2020-08-14
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 spielzeit_min: 63
-zirkel: false
+zirkel: kein
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md
   - https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge25-diamantenjaeger/
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - aouda
   - diamanten
   - entfuehrung
 ---
 
-# Jules Verne – Die neuen Abenteuer des Phileas Fogg – 25: Diamantenjaeger
+# Jules Verne – Die neuen Abenteuer des Phileas Fogg – 25: Diamantenjäger
 
-> Eine Bitte um Hilfe fuehrt direkt zu Aoudas Verschwinden und treibt Fogg und Passepartout bis an die Kueste der Skelette.
+> Eine Bitte um Hilfe führt direkt zu Aoudas Verschwinden und treibt Fogg und Passepartout bis an die Küste der Skelette.
 
 ## Eckdaten
 
 - **Erscheinungsjahr laut offizieller Seite:** 2020.
-- **Exaktes Erscheinungsdatum:** im aktuellen Repo noch nicht primaer belegt.
+- **Erscheinungsdatum:** 14.08.2020 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 63 Minuten.
+- **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge25-diamantenjaeger/>
 
@@ -38,16 +42,16 @@ tags:
 
 ## Handlung (grob)
 
-Waehrend Phileas Fogg ausser Haus ist, bittet Daphne Pratchett Aouda um Hilfe und berichtet von der Entfuehrung ihres Mannes. Als Beweis zeigt sie einen glaenzenden Edelstein, den ihr Mann zuvor erhalten hatte. Kurz darauf verschwindet Aouda selbst spurlos. Fogg und Passepartout nehmen die Spur auf und folgen ihr ueber die hohe See bis an die beruechtigte Kueste der Skelette.
+Während Phileas Fogg außer Haus ist, bittet Daphne Pratchett Aouda um Hilfe und berichtet von der Entführung ihres Mannes. Als Beweis zeigt sie einen glänzenden Edelstein, den ihr Mann zuvor erhalten hatte. Kurz darauf verschwindet Aouda selbst spurlos. Fogg und Passepartout nehmen die Spur auf und folgen ihr über die hohe See bis an die berüchtigte Küste der Skelette.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit kein ausdruecklich belegter Zirkel-Bezug** in der offiziellen Folgenbeschreibung.
+- **Derzeit kein ausdrücklich belegter Zirkel-Bezug** in der offiziellen Folgenbeschreibung.
 
 ## Crossover & Querverweise
 
 - **Spielt nach:** [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel|DNAPF 24 „Die geheimnisvolle Insel“]].
-- **Spielt vor:** [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette|DNAPF 26 „Die Kueste der Skelette“]].
+- **Spielt vor:** [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette|DNAPF 26 „Die Küste der Skelette“]].
 
 ## Quellen
 

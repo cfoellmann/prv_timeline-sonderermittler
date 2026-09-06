@@ -1,13 +1,14 @@
-﻿---
+---
 type: folge
 serie: dracula
 nummer: 14
 titel: Blutsühne
-erschienen: 2024
+erschienen: 2024-08-30
 verlag: Maritim
+autor: "Marc Freund"
 sprecher: []
 spielzeit_min: 72
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - frankenstein
 spoiler_level: grob
@@ -15,6 +16,9 @@ status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md
   - https://www.sonderermittler-der-krone.de/serien/dracula/folge14-blutsuehne/
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - dracula
   - zirkel-der-sieben
@@ -30,7 +34,9 @@ tags:
 ## Eckdaten
 
 - **Erscheinungsjahr:** 2024
+- **Erscheinungsdatum:** 30.08.2024 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 72 Minuten
+- **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/dracula/folge14-blutsuehne/>
 
@@ -48,3 +54,8 @@ In Turin angekommen, macht sich Dracula an die Umsetzung eines Plans, der immer 
 ## Bezug zum Zirkel der Sieben
 
 Die Folge zeigt die Zusammenarbeit mehrerer Zirkel-Mitglieder (Dracula, Frankenstein, Crowley) bei einem blasphemischen Unterfangen. Das Heilige Grabtuch und Frankensteins Schöpfungskraft deuten auf einen Plan von immenser Tragweite.
+
+## Quellen
+
+- [raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md](../../raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md)
+- Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/dracula/folge14-blutsuehne/>

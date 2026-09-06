@@ -1,14 +1,20 @@
-﻿---
+---
 type: folge
 serie: poe-und-dupin
 nummer: 20
 titel: Trojaner
-erschienen: 2023
+erschienen: 2023-05-05
 verlag: Maritim
+autor: "Markus Duschek"
+spielzeit_min: 61
 zirkel: indirekt
+spoiler_level: grob
 status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - eiffelturm
   - paris
@@ -24,7 +30,9 @@ tags:
 - **Serie:** [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]]
 - **Nummer:** 20
 - **Erscheinungsjahr:** 2023
+- **Erscheinungsdatum:** 05.05.2023 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 60 min
+- **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 
 ## Handlung
 

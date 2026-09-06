@@ -1,19 +1,23 @@
-﻿---
+---
 type: folge
 serie: dracula
 nummer: 16
 titel: Der Sohn des Verderbens
-erschienen: 2024
+erschienen: 2024-10-25
 verlag: Maritim
+autor: "Marc Freund"
 sprecher: []
 spielzeit_min: 69
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md
   - https://www.sonderermittler-der-krone.de/serien/dracula/folge16-der-sohn-des-verderbens/
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - dracula
   - zirkel-der-sieben
@@ -29,14 +33,16 @@ tags:
 ## Eckdaten
 
 - **Erscheinungsjahr:** 2024
+- **Erscheinungsdatum:** 25.10.2024 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 69 Minuten
+- **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/dracula/folge16-der-sohn-des-verderbens/>
 
 ## Hauptfiguren
 
 - [[wiki/figuren/dracula|Dracula]] — kehrt in seine Heimat zurück und stellt sich seiner Vergangenheit
-- Van Helsing und Mina Harker — versuchen Dracula zu erreichen
+- [[wiki/figuren/abraham-van-helsing|Van Helsing]] und [[wiki/figuren/mina-harker|Mina Harker]] — versuchen Dracula zu erreichen
 
 ## Handlung (grob)
 
@@ -49,3 +55,8 @@ Die Folge bildet einen dramatischen Höhepunkt und führt zurück zu Draculas Ur
 ## Anmerkung
 
 Dies ist die finale Folge der Serie (Stand 2024). Die Handlung führt die verschiedenen Erzählstränge der gesamten Serie zusammen.
+
+## Quellen
+
+- [raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md](../../raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md)
+- Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/dracula/folge16-der-sohn-des-verderbens/>

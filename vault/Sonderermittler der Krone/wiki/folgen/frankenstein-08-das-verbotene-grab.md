@@ -1,19 +1,23 @@
-﻿---
+---
 type: folge
 serie: frankenstein
 nummer: 8
 titel: Das verbotene Grab
-erschienen: 2023
+erschienen: 2023-02-24
 verlag: Maritim
+autor: "Marc Freund"
 sprecher: []
 spielzeit_min: 71
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/frankenstein/folge08-das-verbotene-grab/
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -28,7 +32,9 @@ tags:
 ## Eckdaten
 
 - **Erscheinungsjahr:** 2023
+- **Erscheinungsdatum:** 24.02.2023 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 71 Minuten
+- **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge08-das-verbotene-grab/>
 

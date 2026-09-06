@@ -1,14 +1,19 @@
-﻿---
+---
 type: folge
 serie: poe-und-dupin
 nummer: 12
 titel: In den Katakomben lauert der Tod
-erschienen: 2021
+erschienen: 2021-01-29
 verlag: Maritim
+autor: "Markus Duschek"
+spielzeit_min: 63
 zirkel: indirekt
+spoiler_level: grob
 status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - katakomben
   - paris
@@ -25,7 +30,9 @@ tags:
 - **Nummer:** 12
 - **Titel:** In den Katakomben lauert der Tod
 - **Erscheinungsjahr:** 2021
+- **Erscheinungsdatum:** 29.01.2021 (Apple Music, Abruf 2026-09-06).
 - **Spielzeit:** 63 min
+- **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **Zirkel-Bezug:** Indirekt (vor dem Zirkel-Einstieg)
 

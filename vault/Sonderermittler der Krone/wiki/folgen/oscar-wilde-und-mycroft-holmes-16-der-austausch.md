@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 16
 titel: Der Austausch
 erschienen: 2018-07-27
 verlag: Maritim
-autor: ""
+autor: "Markus Topf & Dominik Ahrens"
 spielzeit_min: 64
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge16-der-austausch/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
   - zirkel
@@ -29,6 +30,7 @@ tags:
 - **Erscheinungsdatum:** 27.07.2018.
 - **Erscheinungsjahr (offizielle Seite):** 2018.
 - **Spielzeit:** 64 Minuten.
+- **Autor:in:** Markus Topf & Dominik Ahrens (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge16-der-austausch/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=IoHohziTA1U>

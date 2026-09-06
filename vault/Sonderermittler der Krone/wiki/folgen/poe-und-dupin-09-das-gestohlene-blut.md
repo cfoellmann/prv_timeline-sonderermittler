@@ -1,14 +1,19 @@
-﻿---
+---
 type: folge
 serie: poe-und-dupin
 nummer: 9
 titel: Das gestohlene Blut
-erschienen: 2020
+erschienen: 2020-04-03
 verlag: Maritim
+autor: "Markus Duschek"
+spielzeit_min: 59
 zirkel: indirekt
+spoiler_level: grob
 status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - mordserie
   - künstler-kommune
@@ -24,7 +29,9 @@ tags:
 - **Nummer:** 9
 - **Titel:** Das gestohlene Blut
 - **Erscheinungsjahr:** 2020
+- **Erscheinungsdatum:** 03.04.2020 (Apple Music, Abruf 2026-09-06).
 - **Spielzeit:** 59 min
+- **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **Zirkel-Bezug:** Indirekt (vor dem Zirkel-Einstieg)
 

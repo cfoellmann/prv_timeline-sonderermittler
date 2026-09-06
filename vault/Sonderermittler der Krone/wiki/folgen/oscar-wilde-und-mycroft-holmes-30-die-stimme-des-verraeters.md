@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 30
 titel: Die Stimme des Verräters
 erschienen: 2020-11-27
 verlag: Maritim
-autor: ""
+autor: "Jonas Maas"
 spielzeit_min: 72
-zirkel: false
+zirkel: unklar
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge30-die-stimme-des-verraeters/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
 ---
@@ -28,6 +29,7 @@ tags:
 - **Erscheinungsdatum:** 27.11.2020.
 - **Erscheinungsjahr (offizielle Seite):** 2020.
 - **Spielzeit:** 72 Minuten.
+- **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge30-die-stimme-des-verraeters/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-30-die-stimme-des-verraeters.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-30-die-stimme-des-verraeters.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-30.jpg>)*

@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 35
 titel: Zwielicht
 erschienen: 2021-09-24
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 spielzeit_min: 62
-zirkel: false
+zirkel: unklar
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge35-zwielicht/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
 ---
@@ -28,6 +29,7 @@ tags:
 - **Erscheinungsdatum:** 24.09.2021.
 - **Erscheinungsjahr (offizielle Seite):** 2021.
 - **Spielzeit:** 62 Minuten.
+- **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge35-zwielicht/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-35-zwielicht.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-35-zwielicht.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-35.jpg>)*

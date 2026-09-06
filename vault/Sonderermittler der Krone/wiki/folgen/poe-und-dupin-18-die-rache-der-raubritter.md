@@ -1,14 +1,20 @@
-﻿---
+---
 type: folge
 serie: poe-und-dupin
 nummer: 18
 titel: Die Rache der Raubritter
-erschienen: 2022
+erschienen: 2022-09-09
 verlag: Maritim
-zirkel: indirekt
+autor: "Markus Duschek"
+spielzeit_min: 57
+zirkel: direkt
+spoiler_level: grob
 status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - bergdorf
   - burg
@@ -24,7 +30,9 @@ tags:
 - **Serie:** [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]]
 - **Nummer:** 18
 - **Erscheinungsjahr:** 2022
+- **Erscheinungsdatum:** 09.09.2022 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 56 min
+- **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 
 ## Handlung
 

@@ -1,14 +1,14 @@
-﻿---
+---
 type: folge
 serie: irene-adler
 nummer: 27
 titel: Im Feuer des Zorns
 erschienen: 2025-05-23
 verlag: Maritim
-autor: ""
+autor: "Silke Walter"
 sprecher: []
 spielzeit_min: 58
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - sherlock-holmes
 spoiler_level: grob
@@ -17,6 +17,7 @@ quellen:
   - raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge27-im-feuer-des-zorns/
   - https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-27-im-feuer-des-zorns-5052/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
   - maritim
@@ -26,12 +27,13 @@ tags:
 
 # Irene Adler – 27: Im Feuer des Zorns
 
-> Waehrend Adler und Holmes weiter nach dem Saboteur suchen, endet die naechste Probe in einer toedlichen Katastrophe.
+> Während Adler und Holmes weiter nach dem Saboteur suchen, endet die nächste Probe in einer tödlichen Katastrophe.
 
 ## Eckdaten
 
 - **Erscheinungsdatum:** 23.05.2025.
 - **Spielzeit:** 58 Minuten.
+- **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge27-im-feuer-des-zorns/>
@@ -46,11 +48,11 @@ tags:
 
 ## Handlung (grob)
 
-Noch immer koennen Irene Adler und Sherlock Holmes nicht eindeutig klaeren, wer hinter den furchtbaren Anschlaegen auf das Ensemble steckt. Ein neuer Verdaechtiger taucht auf, doch selbst dieser scheint kein ueberzeugendes Motiv fuer die Sabotage zu haben. Gegen alle Vernunft entscheidet sich Adler, weiterhin in dem Stueck mitzuwirken. Die Lage eskaliert, als bereits die naechste Probe in eine Katastrophe mit mehreren Todesopfern umschlaegt.
+Noch immer können Irene Adler und Sherlock Holmes nicht eindeutig klären, wer hinter den furchtbaren Anschlägen auf das Ensemble steckt. Ein neuer Verdächtiger taucht auf, doch selbst dieser scheint kein überzeugendes Motiv für die Sabotage zu haben. Gegen alle Vernunft entscheidet sich Adler, weiterhin in dem Stück mitzuwirken. Die Lage eskaliert, als bereits die nächste Probe in eine Katastrophe mit mehreren Todesopfern umschlägt.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — die offizielle Figurenliste fuehrt den Zirkel-Gegnerblock um Theodora Sachs, Crowley und Rasputin weiter.
+- **Direkt** — die offizielle Figurenliste führt den Zirkel-Gegnerblock um Theodora Sachs, Crowley und Rasputin weiter.
 
 ## Crossover & Querverweise
 

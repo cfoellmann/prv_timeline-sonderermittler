@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 38
 titel: Außer Kontrolle
 erschienen: 2022-03-25
 verlag: Maritim
-autor: ""
+autor: "Jonas Maas"
 spielzeit_min: 62
-zirkel: false
+zirkel: unklar
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge38-au%C3%9Fer-kontrolle/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
 ---
@@ -28,6 +29,7 @@ tags:
 - **Erscheinungsdatum:** 25.03.2022.
 - **Erscheinungsjahr (offizielle Seite):** 2022.
 - **Spielzeit:** 62 Minuten.
+- **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge38-au%C3%9Fer-kontrolle/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-38-ausser-kontrolle.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-38-ausser-kontrolle.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-38.jpg>)*

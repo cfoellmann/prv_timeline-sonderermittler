@@ -1,19 +1,20 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 34
 titel: Asche und Rauch
 erschienen: 2021-07-30
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 spielzeit_min: 61
-zirkel: false
+zirkel: unklar
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge34-asche-und-rauch/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
 ---
@@ -28,6 +29,7 @@ tags:
 - **Erscheinungsdatum:** 30.07.2021.
 - **Erscheinungsjahr (offizielle Seite):** 2021.
 - **Spielzeit:** 61 Minuten.
+- **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge34-asche-und-rauch/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-34-asche-und-rauch.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-34-asche-und-rauch.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-34.jpg>)*

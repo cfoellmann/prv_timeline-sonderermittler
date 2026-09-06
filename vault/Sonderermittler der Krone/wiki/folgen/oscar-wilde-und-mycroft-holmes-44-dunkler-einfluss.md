@@ -1,13 +1,13 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 44
 titel: Dunkler Einfluss
 erschienen: 2023-07-28
 verlag: Maritim
-autor: ""
+autor: "Silke Walter"
 spielzeit_min: 58
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -15,6 +15,7 @@ quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge44-dunkler-einfluss/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
   - zirkel
@@ -30,6 +31,7 @@ tags:
 - **Angabe auf der offiziellen Seite:** 2023.
 - **Fandom-Abgleich (2026-04-30):** Fandom-Einzelseite markiert Folge 44 weiterhin als „angekündigt" (veraltet), beschreibt den Zirkel-Bezug aber explizit.
 - **Spielzeit:** 58 Minuten.
+- **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge44-dunkler-einfluss/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-44-dunkler-einfluss.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-44-dunkler-einfluss.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-44.jpg>)*

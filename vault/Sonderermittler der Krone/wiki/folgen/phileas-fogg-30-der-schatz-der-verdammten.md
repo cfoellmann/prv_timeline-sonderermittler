@@ -1,19 +1,22 @@
-﻿---
+---
 type: folge
 serie: phileas-fogg
 nummer: 30
 titel: Der Schatz der Verdammten
-erschienen:
+erschienen: 2022-03-25
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 spielzeit_min: 65
-zirkel: false
+zirkel: kein
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
   - raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md
   - https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge30-der-schatz-der-verdammten/
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - insel
   - schatz
@@ -27,27 +30,28 @@ tags:
 ## Eckdaten
 
 - **Erscheinungsjahr laut offizieller Seite:** 2022.
-- **Exaktes Erscheinungsdatum:** im aktuellen Repo noch nicht primaer belegt.
+- **Erscheinungsdatum:** 25.03.2022 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 65 Minuten.
+- **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge30-der-schatz-der-verdammten/>
 
 ## Hauptfiguren
 
-- [[wiki/figuren/phileas-fogg|Phileas Fogg]] — versucht nach der Flucht von der Gefaengnisinsel zu ueberleben.
+- [[wiki/figuren/phileas-fogg|Phileas Fogg]] — versucht nach der Flucht von der Gefängnisinsel zu überleben.
 
 ## Handlung (grob)
 
-Phileas Fogg und der Haeftling Edmond Dantes sind von der Gefaengnisinsel Chateau d'If entkommen, doch der Weg zur rettenden Kueste misslingt. Eine Brigg nimmt sie in letzter Sekunde auf, nur damit sie schliesslich auf einer unbewohnten Insel landen, auf der nach Dantes' Aufzeichnungen ein Schatz verborgen sein soll. Bald wird klar, dass mit diesem Ort etwas nicht stimmt. Noch bevor Fogg und Dantes die Lage verstehen, werden sie zu Gejagten in einem grausamen Spiel.
+Phileas Fogg und der Häftling Edmond Dantes sind von der Gefängnisinsel Chateau d'If entkommen, doch der Weg zur rettenden Küste misslingt. Eine Brigg nimmt sie in letzter Sekunde auf, nur damit sie schließlich auf einer unbewohnten Insel landen, auf der nach Dantes' Aufzeichnungen ein Schatz verborgen sein soll. Bald wird klar, dass mit diesem Ort etwas nicht stimmt. Noch bevor Fogg und Dantes die Lage verstehen, werden sie zu Gejagten in einem grausamen Spiel.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit kein ausdruecklich belegter Zirkel-Bezug** in der offiziellen Folgenbeschreibung.
+- **Derzeit kein ausdrücklich belegter Zirkel-Bezug** in der offiziellen Folgenbeschreibung.
 
 ## Crossover & Querverweise
 
-- **Spielt nach:** [[wiki/folgen/phileas-fogg-29-die-verschwoerung|DNAPF 29 „Die Verschwoerung“]].
-- **Spielt vor:** [[wiki/folgen/phileas-fogg-31-gefaehrliche-wiederkehr|DNAPF 31 „Gefaehrliche Wiederkehr“]].
+- **Spielt nach:** [[wiki/folgen/phileas-fogg-29-die-verschwoerung|DNAPF 29 „Die Verschwörung“]].
+- **Spielt vor:** [[wiki/folgen/phileas-fogg-31-gefaehrliche-wiederkehr|DNAPF 31 „Gefährliche Wiederkehr“]].
 
 ## Quellen
 

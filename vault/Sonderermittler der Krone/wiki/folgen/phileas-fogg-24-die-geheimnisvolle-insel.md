@@ -1,13 +1,13 @@
-﻿---
+---
 type: folge
 serie: phileas-fogg
 nummer: 24
 titel: Die geheimnisvolle Insel
 erschienen: 2020-05-08
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 spielzeit_min: 67
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - frankenstein
   - dracula
@@ -18,6 +18,7 @@ quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
   - https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge24-die-geheimnisvolle-insel/
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - ankerfolge
   - insel
@@ -33,6 +34,7 @@ tags:
 - **Erscheinungsdatum:** 08.05.2020.
 - **Erscheinungsjahr laut offizieller Seite:** 2020.
 - **Spielzeit:** 67 Minuten.
+- **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge24-die-geheimnisvolle-insel/>
 - **Timeline-Notiz:** Zweikampf Frankenstein vs. Dracula.
@@ -40,16 +42,16 @@ tags:
 ## Hauptfiguren
 
 - [[wiki/figuren/phileas-fogg|Phileas Fogg]] — verfolgt die Spur seiner verschwundenen Frau.
-- [[wiki/figuren/dracula|Dracula]] — bleibt ueber die Ankernotiz als Machtfaktor im Hintergrund relevant.
+- [[wiki/figuren/dracula|Dracula]] — bleibt über die Ankernotiz als Machtfaktor im Hintergrund relevant.
 - [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] — ist laut Chronologie Teil des zugespitzten Konflikts.
 
 ## Handlung (grob)
 
-Nach einer dramatischen Reise ueber die Weltmeere zwingt ein Unwetter Phileas Fogg und Maud Brewster, auf einer unbekannten Insel Schutz zu suchen. Dort stoesst Fogg auf Spuren seiner verschwundenen Frau Aouda, was die Insel sofort zu mehr als nur einem Zufluchtsort macht. Auf der Suche nach ihr geraet er in eine Falle, waehrend unter dem Einfluss eines Plantagenbesitzers und duesterer Vorgaenge Voodoo-Trommeln den Ton angeben. Die offizielle Beschreibung deutet auf eine dramatische Auseinandersetzung in einem labyrinthartigen Tunnelsystem hin, waehrend die Repo-Chronologie zusaetzlich den Konflikt Frankenstein gegen Dracula als wichtigen Kosmos-Anker markiert.
+Nach einer dramatischen Reise über die Weltmeere zwingt ein Unwetter Phileas Fogg und Maud Brewster, auf einer unbekannten Insel Schutz zu suchen. Dort stößt Fogg auf Spuren seiner verschwundenen Frau Aouda, was die Insel sofort zu mehr als nur einem Zufluchtsort macht. Auf der Suche nach ihr gerät er in eine Falle, während unter dem Einfluss eines Plantagenbesitzers und düsterer Vorgänge Voodoo-Trommeln den Ton angeben. Die offizielle Beschreibung deutet auf eine dramatische Auseinandersetzung in einem labyrinthartigen Tunnelsystem hin, während die Repo-Chronologie zusätzlich den Konflikt Frankenstein gegen Dracula als wichtigen Kosmos-Anker markiert.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt relevant** ueber die Frankenstein/Dracula-Achse.
+- **Direkt relevant** über die Frankenstein/Dracula-Achse.
 
 ## Quellen
 

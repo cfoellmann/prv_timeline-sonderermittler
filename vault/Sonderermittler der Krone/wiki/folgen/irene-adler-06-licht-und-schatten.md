@@ -1,14 +1,15 @@
-﻿---
+---
 type: folge
 serie: irene-adler
 nummer: 6
 titel: Licht und Schatten
 erschienen: 2020-10-30
 verlag: Maritim
+autor: "Marc-Oliver Bischoff"
 
 sprecher: []
 spielzeit_min: 69
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - poe-und-dupin
   - phileas-fogg
@@ -20,6 +21,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge06-licht-und-schatten/
   - https://music.apple.com/de/album/sonderermittlerin-der-krone-folge-6-licht-und-schatten/1535472993
   - https://books.apple.com/de/audiobook/irene-adler-sonderermittlerin-der-krone-folge-6-licht/id1535644188
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - sonderermittler
   - irene-adler
@@ -34,6 +36,7 @@ tags:
 
 - **Erscheinungsdatum:** 30.10.2020.
 - **Spielzeit:** 69 Minuten.
+- **Autor:in:** Marc-Oliver Bischoff (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** Marc-Oliver Bischoff.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge06-licht-und-schatten/>
@@ -41,26 +44,26 @@ tags:
 
 ## Hauptfiguren
 
-- [[wiki/figuren/irene-adler|Irene Adler]] — uebernimmt die Ermittlungen rund um das Verschwinden von Louis Le Prince.
-- [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — stellt Irene fuer den Frankreich-Einsatz einen Begleiter an die Seite.
-- [[wiki/figuren/edgar-allan-poe|Edgar Allan Poe]] und **Auguste Dupin** — sind auf offizieller Figurenebene praesent.
+- [[wiki/figuren/irene-adler|Irene Adler]] — übernimmt die Ermittlungen rund um das Verschwinden von Louis Le Prince.
+- [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — stellt Irene für den Frankreich-Einsatz einen Begleiter an die Seite.
+- [[wiki/figuren/edgar-allan-poe|Edgar Allan Poe]] und **Auguste Dupin** — sind auf offizieller Figurenebene präsent.
 - **Passepartout** — begleitet Irene laut offizieller Seite in Paris.
 - [[wiki/figuren/dracula|Dracula]] und [[wiki/figuren/robur|Robur]] — binden die Folge direkt an die Gegenseite.
 
 ## Handlung (grob)
 
-Auf dem Weg zur Weltausstellung in Paris verschwindet der Erfinder Louis Le Prince mitsamt einem neuartigen Filmprojektionsapparat. Irene Adler untersucht den Fall in einem Umfeld aus technischer Konkurrenz, internationalem Prestige und moeglicher Industriespionage. Dabei bekommt sie mit Passepartout einen landeskundigen Begleiter an die Seite, waehrend weitere Serienfiguren in die Angelegenheit hineinragen. Die Folge wirkt dadurch nicht nur wie ein Erfindungs- und Entfuehrungsfall, sondern wie ein bewusst gebautes Scharnier zwischen mehreren Kosmos-Linien.
+Auf dem Weg zur Weltausstellung in Paris verschwindet der Erfinder Louis Le Prince mitsamt einem neuartigen Filmprojektionsapparat. Irene Adler untersucht den Fall in einem Umfeld aus technischer Konkurrenz, internationalem Prestige und möglicher Industriespionage. Dabei bekommt sie mit Passepartout einen landeskundigen Begleiter an die Seite, während weitere Serienfiguren in die Angelegenheit hineinragen. Die Folge wirkt dadurch nicht nur wie ein Erfindungs- und Entführungsfall, sondern wie ein bewusst gebautes Scharnier zwischen mehreren Kosmos-Linien.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — die offizielle Figurenliste fuehrt mit Dracula und Robur zwei zentrale Gegenspielerfiguren.
-- **Repo-Chronologie:** Die vorhandene Chronologie markiert die Folge zusaetzlich als erste Zusammenarbeit Adler x Passepartout sowie Adler x Poe/Dupin.
+- **Direkt** — die offizielle Figurenliste führt mit Dracula und Robur zwei zentrale Gegenspielerfiguren.
+- **Repo-Chronologie:** Die vorhandene Chronologie markiert die Folge zusätzlich als erste Zusammenarbeit Adler x Passepartout sowie Adler x Poe/Dupin.
 
 ## Crossover & Querverweise
 
 - **Vorherige Folge:** [[wiki/folgen/irene-adler-05-schlag-auf-schlag|IADK 5 „Schlag auf Schlag“]].
-- **Naechste Folge:** [[wiki/folgen/irene-adler-07-toedliche-riffe|IADK 7 „Toedliche Riffe“]].
-- **Serienanschluesse:** [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]] und [[wiki/serien/phileas-fogg|Jules Verne – Die neuen Abenteuer des Phileas Fogg]].
+- **Nächste Folge:** [[wiki/folgen/irene-adler-07-toedliche-riffe|IADK 7 „Tödliche Riffe“]].
+- **Serienanschlüsse:** [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]] und [[wiki/serien/phileas-fogg|Jules Verne – Die neuen Abenteuer des Phileas Fogg]].
 
 ## Quellen
 

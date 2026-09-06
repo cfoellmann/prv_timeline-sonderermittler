@@ -1,4 +1,4 @@
-﻿---
+---
 type: serie
 titel: Frankenstein und der Zirkel der Sieben
 verlag: Maritim
@@ -6,10 +6,14 @@ genre: Horror
 start: 2020-10-09
 status: recherchiert
 zirkel: true
-folgen_count: 24
+folgen_count: 26
+watchlist_count: 2
 quellen:
+  - raw/notes/2026-09-06_neue-folgen-scout_september-2026.md
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
   - raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md
+  - raw/Sonderermittler_Update_2026-08-17.md
+  - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
 tags:
@@ -25,8 +29,10 @@ tags:
 
 - **Verlag:** Maritim
 - **Genre:** Horror
-- **Erstveroeffentlichung:** 09.10.2020.
-- **Folgenstand:** 24 (2026-04-27)
+- **Erstveröffentlichung:** 09.10.2020.
+- **Folgenstand:** 26 (2026-09-06) — plus 2 Vormerkungen (Folge 27, geplant 11.09.2026; Folge 28, geplant 13.11.2026). Lückenlos 1–26. Eine Folge 29 „Die Jahrtausendeibe“ ist angekündigt, aber nur dem Titel nach bekannt.
+- **⚠️ Zählfehler der Primärquelle:** Die globale Serienübersicht listet am 17.08.2026 **zwei Einträge mit der Nummer 25** („Trügerische Hoffnung" und „Doppelte Tarnung"). Die Einzel-Folgenseiten und die Handelsmetadaten belegen die korrekte Zählung: 25 = *Trügerische Hoffnung*, 26 = *Doppelte Tarnung*.
+- **Laufender Arc (25–27):** Tarnmantel-Auftrag von Moriarty → Reise in die Karpaten → Durchsuchung von Draculas leergeräumtem Labor.
 - **Bezug zum Zirkel:** zentral — Titel-Mitglied.
 - **Wichtiger Vorlauf:** [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] ist im aktuellen Repo-Stand bereits in [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl|DNAPF 4 „Der Elefant aus Stahl“]] verankert.
 
@@ -36,13 +42,13 @@ tags:
 
 ## Kosmos-Anbindung
 
-- **Fruehauftritt:** Die Phileas-Fogg-Reihe fuehrt Frankenstein bereits 2016 ein und setzt ihn dort mehrfach ein, noch lange vor der Eigenreihe.
-- **Wichtige DNAPF-Anker:** [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl|DNAPF 4]] (Erstauftritt), [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien|DNAPF 8]] (Konflikt mit Fogg), [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis|DNAPF 21]] (Rueckkehr), [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel|DNAPF 24]] (Konflikt mit Dracula).
-- **Spaetere Anschluesse:** Frankenstein ist im aktuellen Repo-Stand ausserdem klar mit [[wiki/serien/moriarty|Moriarty]], [[wiki/serien/sherlock-holmes|Sherlock Holmes]] und [[wiki/serien/tesla|Tesla]] verschraenkt.
+- **Frühauftritt:** Die Phileas-Fogg-Reihe führt Frankenstein bereits 2016 ein und setzt ihn dort mehrfach ein, noch lange vor der Eigenreihe.
+- **Wichtige DNAPF-Anker:** [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl|DNAPF 4]] (Erstauftritt), [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien|DNAPF 8]] (Konflikt mit Fogg), [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis|DNAPF 21]] (Rückkehr), [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel|DNAPF 24]] (Konflikt mit Dracula).
+- **Spätere Anschlüsse:** Frankenstein ist im aktuellen Repo-Stand außerdem klar mit [[wiki/serien/moriarty|Moriarty]], [[wiki/serien/sherlock-holmes|Sherlock Holmes]] und [[wiki/serien/tesla|Tesla]] verschränkt.
 
 ## Folgenliste
 
-**Stand:** 30.04.2026. Alle 24 Folgen sind nun im Wiki dokumentiert.
+**Stand:** 06.09.2026. Alle 26 veröffentlichten Folgen sind im Wiki dokumentiert; die Folgen 27 und 28 sind als Watchlist-Einträge geführt. Folge 29 „Die Jahrtausendeibe“ ist angekündigt, hat aber weder Datum noch Klappentext und daher noch keine eigene Seite.
 
 | # | Titel | Erscheinungsjahr | Spielzeit | Zirkel | Crossover |
 |---|---|---|---|---|---|
@@ -70,6 +76,10 @@ tags:
 | 22 | [[wiki/folgen/frankenstein-22-falsches-versprechen\|Falsches Versprechen]] | 2025 | 55 min | ✓ | Moriarty |
 | 23 | [[wiki/folgen/frankenstein-23-jaeger-und-gejagter\|Jäger und Gejagter]] | 2026 | 50 min | ✓ | — |
 | 24 | [[wiki/folgen/frankenstein-24-toedliche-dosis\|Tödliche Dosis]] | 2026-03-27 | 52 min | ✓ | Moriarty, Sherlock Holmes |
+| 25 | [[wiki/folgen/frankenstein-25-truegerische-hoffnung\|Trügerische Hoffnung]] | 2026-05-22 | 56 min | ✓ | Moriarty, Sherlock Holmes |
+| 26 | [[wiki/folgen/frankenstein-26-doppelte-tarnung\|Doppelte Tarnung]] | 2026-07-13 | 52 min | ✓ | Dracula |
+| 27 | [[wiki/folgen/frankenstein-27-finsteres-erbe\|Finsteres Erbe]] | 2026-09-11 (geplant) | 53 min | ✓ | Dracula, Moriarty |
+| 28 | [[wiki/folgen/frankenstein-28-gegen-jeden-widerstand\|Gegen jeden Widerstand]] | 2026-11-13 (geplant) | — | ✓ | Dracula, Moriarty, Sherlock Holmes |
 
 **Legende:**
 - **OWMH** = Oscar Wilde & Mycroft Holmes
@@ -88,11 +98,16 @@ Die Serie zeigt mehrere zusammenhängende Handlungsbögen:
 4. **Glasgow/Tesla-Arc (Folgen 13-16):** Zusammenarbeit mit Nikola Tesla in Glasgow, finanziert von Moriarty.
 5. **Unsterblichkeits-Arc (Folgen 18-21):** Suche nach dem Äskulapstab und der Panazee.
 6. **Australien-Arc (Folgen 22-24):** Reise nach Australien auf der Suche nach einer speziellen Spinne, mit tragischen Folgen.
+7. **Tarnmantel-/Karpaten-Arc (Folgen 25-27):** Moriarty beauftragt Frankenstein und [[wiki/figuren/bastien-lavache|Bastien Lavache]] mit Tarnmänteln für alle Zirkelmitglieder; die Gruppe reist zu [[wiki/figuren/dracula|Draculas]] Labor und findet es leergeräumt vor.
 
 ## Quellen
 
 - [raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md](../../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md)
 - [raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md](../../raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md) — Vollständige Folgeninformationen gecrawlt von der offiziellen Website.
+- [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update: Folge 26 und Watchlist-Folge 27.
+- [raw/notes/2026-09-06_neue-folgen-scout_september-2026.md](../../raw/notes/2026-09-06_neue-folgen-scout_september-2026.md) — Recherche vom 06.09.2026: Watchlist-Folgen 28 und 29.
+- [raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md](../../raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md) — Nachfass 06.09.2026: Datumskorrektur Folge 28 von 25.09. auf 13.11.2026 (Apple Music, Deezer).
 - [raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md](../../raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md) — exaktes Startdatum der Reihe.
-- [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — DNAPF-Anker fuer die Vorlaufphase.
+- [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — DNAPF-Anker für die Vorlaufphase.
 - Offizielle Serien-Seite: <https://www.sonderermittler-der-krone.de/serien/frankenstein/>
+- [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche vom 17.08.2026: offizielle Folgen-Detailseiten (Daten, Spielzeiten, Klappentexte, Figuren).

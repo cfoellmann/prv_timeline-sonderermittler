@@ -1,13 +1,14 @@
-﻿---
+---
 type: folge
 serie: frankenstein
 nummer: 2
 titel: Verflucht seid ihr alle
-erschienen: 2020
+erschienen: 2020-12-04
 verlag: Maritim
+autor: "Marc Freund"
 sprecher: []
 spielzeit_min: 63
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
 spoiler_level: grob
@@ -15,6 +16,9 @@ status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/frankenstein/folge02-verflucht-seid-ihr-alle/
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -29,7 +33,9 @@ tags:
 ## Eckdaten
 
 - **Erscheinungsjahr:** 2020
+- **Erscheinungsdatum:** 04.12.2020 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 63 Minuten
+- **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **YouTube:** <https://www.youtube.com/watch?v=hL-fjHTefv0>
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge02-verflucht-seid-ihr-alle/>

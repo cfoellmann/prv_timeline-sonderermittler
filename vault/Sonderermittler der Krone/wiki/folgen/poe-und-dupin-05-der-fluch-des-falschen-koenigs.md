@@ -1,14 +1,19 @@
-﻿---
+---
 type: folge
 serie: poe-und-dupin
 nummer: 5
 titel: Der Fluch des falschen Königs
-erschienen: 2019
+erschienen: 2019-05-10
 verlag: Maritim
+autor: "Markus Duschek"
+spielzeit_min: 68
 zirkel: indirekt
+spoiler_level: grob
 status: recherchiert
 quellen:
   - raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md
+  - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - ägyptologie
   - fluch
@@ -25,7 +30,9 @@ tags:
 - **Nummer:** 5
 - **Titel:** Der Fluch des falschen Königs
 - **Erscheinungsjahr:** 2019
+- **Erscheinungsdatum:** 10.05.2019 (Apple Music, Abruf 2026-09-06).
 - **Spielzeit:** 67 min
+- **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **Zirkel-Bezug:** Indirekt (vor dem Zirkel-Einstieg)
 - **YouTube:** [Komplettes Hörspiel](https://www.youtube.com/watch?v=YkiPpA4AZZM)

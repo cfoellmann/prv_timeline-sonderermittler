@@ -5,11 +5,15 @@ nummer: 48
 titel: Das Ende des Inspektors
 erschienen: 2019-10-11
 verlag: Maritim
+autor: "Markus Duschek"
+spielzeit_min: 57
 zirkel: direkt
+spoiler_level: stub
 status: stub
 quellen:
   - raw/reviews/2026-04-27_re-releases_recherche-notiz.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - vorgaengerreihe
   - erstauftritt-geoffrey-stafford
@@ -26,18 +30,19 @@ tags:
 - **Titel:** Das Ende des Inspektors
 - **Erschienen:** 2019-10-11
 - **Verlag:** Maritim
+- **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Zirkel-Bezug:** Direkt
 
 ## Hauptfiguren
 
 - [[wiki/figuren/sherlock-holmes|Sherlock Holmes]]
-- **Geoffrey Stafford** (Erstauftritt) — noch keine eigene Figuren-Seite
-- **Inspektor Lestrade** — gerät ins Visier des Zirkels
+- [[wiki/figuren/geoffrey-stafford|Geoffrey Stafford]] (Erstauftritt)
+- [[wiki/figuren/lestrade|Inspektor Lestrade]] — gerät ins Visier des Zirkels
 
 ## Bezug zum Universum
 
 - Erster dokumentierter **direkter Zirkel-Eingriff** in der Vorgänger-Reihe.
-- Führt Geoffrey Stafford als Figur in den Kosmos ein.
+- Führt [[wiki/figuren/geoffrey-stafford|Geoffrey Stafford]] als Figur in den Kosmos ein.
 
 ## Quellen
 

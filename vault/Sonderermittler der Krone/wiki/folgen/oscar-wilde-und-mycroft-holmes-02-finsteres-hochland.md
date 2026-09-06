@@ -1,13 +1,13 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 2
 titel: Finsteres Hochland
 erschienen: 2016-03-11
 verlag: Maritim
-autor: ""
+autor: "Jonas Maas"
 spielzeit_min: 79
-zirkel: true
+zirkel: indirekt
 in_universe_jahr: 1895
 crossover_mit: []
 spoiler_level: grob
@@ -15,6 +15,7 @@ status: entwurf
 quellen:
   - raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
+  - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
 tags:
   - schottland
   - erstauftritt
@@ -32,6 +33,7 @@ tags:
 - **Schauplatz:** schottische Highlands.
 - **Erscheinungsdatum:** 11. März 2016.
 - **Spielzeit:** 79 Minuten.
+- **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=K1YZiBvFr5o>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-02.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-02.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-02.jpg>)*
