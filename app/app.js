@@ -220,8 +220,9 @@
 
       const list = document.createElement('div');
       list.className = 'folge-list';
-      // Ohne Story-Datum nach Erscheinungsdatum sortieren
-      unknown.sort((a, b) => erschienenSortKey(a) - erschienenSortKey(b));
+      // Ohne Story-Datum nach Erscheinungsdatum sortieren — über compareFolgen,
+      // damit gleiche Daten denselben Tiebreaker bekommen wie die Haupttimeline.
+      unknown.sort((a, b) => compareFolgen(a, b, 'erschienen'));
       for (const f of unknown) list.appendChild(renderFolgeCard(f));
       section.appendChild(list);
       DOM.timeline.appendChild(section);
