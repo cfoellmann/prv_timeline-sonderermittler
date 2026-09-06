@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 20
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 66
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - frankenstein
 spoiler_level: grob
@@ -24,7 +24,7 @@ tags:
 
 # Moriarty – 20: Doppelter Verrat
 
-> Moriarty ist auf der Suche nach Elaine Lightman, der Tochter eines bekannten Forschers, deren Spur er verloren hat. Doch auch Robur ist hinter dieser Person her, wenn auch aus ganz anderen Gruenden.
+> Moriarty ist auf der Suche nach Elaine Lightman, der Tochter eines bekannten Forschers, deren Spur er verloren hat. Doch auch Robur ist hinter dieser Person her, wenn auch aus ganz anderen Gründen.
 
 ## Eckdaten
 
@@ -42,7 +42,7 @@ tags:
 
 ## Handlung (grob)
 
-Moriarty ist auf der Suche nach Elaine Lightman, der Tochter eines bekannten Forschers, deren Spur er verloren hat. Doch auch Robur ist hinter dieser Person her, wenn auch aus ganz anderen Gruenden. Elaine Lightman wird entfuehrt.
+Moriarty ist auf der Suche nach Elaine Lightman, der Tochter eines bekannten Forschers, deren Spur er verloren hat. Doch auch Robur ist hinter dieser Person her, wenn auch aus ganz anderen Gründen. Elaine Lightman wird entführt.
 
 ## Bezug zum Zirkel der Sieben
 

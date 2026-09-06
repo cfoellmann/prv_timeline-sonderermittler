@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 41
@@ -7,7 +7,7 @@ erschienen: 2023-01-27
 verlag: Maritim
 autor: Silke Walter
 spielzeit_min: 58
-zirkel: false
+zirkel: unklar
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -34,7 +34,7 @@ tags:
 - **Autorin:** Silke Walter.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge41-auf-bewaehrung/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-41.jpg>)*
-- **Prüfnotiz:** Offizielle Fan-Seite und Bastei-Luebbe-Klappentext stimmen hier überein; sekundäre Rezensionen ergänzen, dass Sherlock Holmes Oscar in den Fall zieht und die Folge wie ein Auftakt zu Folge 42 funktioniert.
+- **Prüfnotiz:** Offizielle Fan-Seite und Bastei-Lübbe-Klappentext stimmen hier überein; sekundäre Rezensionen ergänzen, dass Sherlock Holmes Oscar in den Fall zieht und die Folge wie ein Auftakt zu Folge 42 funktioniert.
 
 ## Hauptfiguren
 
@@ -59,7 +59,7 @@ Im Londoner East End werden in mehreren Nächten entstellte Leichen gefunden, wa
 
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge41-auf-bewaehrung/>
-- Bastei Luebbe / Lübbe Audio: <https://bastei-luebbe.de/Audio/Krimis-Thriller/Oscar-Wilde-Mycroft-Holmes-Folge-41/9783785784624>
+- Bastei Lübbe / Lübbe Audio: <https://bastei-luebbe.de/Audio/Krimis-Thriller/Oscar-Wilde-Mycroft-Holmes-Folge-41/9783785784624>
 - Buchtips-Rezension: <https://www.buchtips.net/rez11306-folge-41-auf-bewaehrung.htm>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 

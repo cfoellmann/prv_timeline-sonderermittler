@@ -1,5 +1,6 @@
-﻿---
+---
 type: weiterleitung
+titel: Aus den Archiven von Edgar Allan Poe & Auguste Dupin
 ziel: wiki/serien/poe-und-dupin
 status: weiterleitung
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: sherlock-holmes
 nummer: 21
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 62
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - tesla
 spoiler_level: grob

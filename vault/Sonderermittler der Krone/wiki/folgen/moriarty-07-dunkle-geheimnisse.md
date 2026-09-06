@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 7
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 61
-zirkel: false
+zirkel: indirekt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
 spoiler_level: grob
@@ -25,7 +25,7 @@ tags:
 
 # Moriarty – 7: Dunkle Geheimnisse
 
-> Moriartys Spur fuehrt nach Gent. Zusammen mit Oscar Wilde betritt er ein altes Lagerhaus, in dem sie sich Hinweise auf die verschollenen Maschinen und Aufzeichnungen des Erfinders von Kempelen erhoffen.
+> Moriartys Spur führt nach Gent. Zusammen mit Oscar Wilde betritt er ein altes Lagerhaus, in dem sie sich Hinweise auf die verschollenen Maschinen und Aufzeichnungen des Erfinders von Kempelen erhoffen.
 
 ## Eckdaten
 
@@ -42,11 +42,11 @@ tags:
 
 ## Handlung (grob)
 
-Moriartys Spur fuehrt nach Gent. Zusammen mit Oscar Wilde betritt er ein altes Lagerhaus, in dem sie sich Hinweise auf die verschollenen Maschinen und Aufzeichnungen des Erfinders von Kempelen erhoffen. Doch das geheimnisvolle Haus entpuppt sich als eine toedliche Falle, als ploetzlich ein alter Gegner wieder auftaucht.
+Moriartys Spur führt nach Gent. Zusammen mit Oscar Wilde betritt er ein altes Lagerhaus, in dem sie sich Hinweise auf die verschollenen Maschinen und Aufzeichnungen des Erfinders von Kempelen erhoffen. Doch das geheimnisvolle Haus entpuppt sich als eine tödliche Falle, als plötzlich ein alter Gegner wieder auftaucht.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Indirekt** — Indirekter Zirkel-Bezug ueber wiederkehrende Kosmos-Figuren und Konfliktlinien, ohne dass ein Zirkelmitglied im offiziellen Figurenblock genannt wird.
+- **Indirekt** — Indirekter Zirkel-Bezug über wiederkehrende Kosmos-Figuren und Konfliktlinien, ohne dass ein Zirkelmitglied im offiziellen Figurenblock genannt wird.
 
 ## Crossover & Querverweise
 

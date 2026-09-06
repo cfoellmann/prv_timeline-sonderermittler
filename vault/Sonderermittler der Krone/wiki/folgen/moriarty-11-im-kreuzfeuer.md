@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 11
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 64
-zirkel: false
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf

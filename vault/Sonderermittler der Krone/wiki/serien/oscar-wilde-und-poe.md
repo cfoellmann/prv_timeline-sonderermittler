@@ -1,4 +1,4 @@
-﻿---
+---
 type: serie
 titel: Oscar Wilde & Edgar Allan Poe
 verlag: Blitz Verlag
@@ -6,7 +6,7 @@ genre: Krimi
 start: 2025-12
 ende: 2026-01
 status: recherchiert
-zirkel: direkt
+zirkel: true
 folgen_count: 4
 mini_serie: true
 handlungsbogen: ewig-liebende

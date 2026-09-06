@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: tesla
 nummer: 8
@@ -8,7 +8,7 @@ verlag: Blitz Verlag
 autor: ""
 sprecher: []
 spielzeit_min: 53
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - sherlock-holmes
   - moriarty
@@ -25,7 +25,7 @@ tags:
 
 # Tesla – 8: König der Lüfte
 
-> Ein Diebstahl von Schluesselobjekten und ein geplanter Blackout fuehren Teslas Handlungsstrang direkt an das bedrohte Koenigshaus heran.
+> Ein Diebstahl von Schlüsselobjekten und ein geplanter Blackout führen Teslas Handlungsstrang direkt an das bedrohte Königshaus heran.
 
 ## Eckdaten
 
@@ -37,25 +37,25 @@ tags:
 
 ## Hauptfiguren
 
-- [[wiki/figuren/nikola-tesla|Nikola Tesla]] — sucht die gestohlenen Objekte und geraet erneut in eine lebensgefaehrliche Lage.
+- [[wiki/figuren/nikola-tesla|Nikola Tesla]] — sucht die gestohlenen Objekte und gerät erneut in eine lebensgefährliche Lage.
 - [[wiki/figuren/james-moriarty|James Moriarty]] — ist auf offizieller Seite als Figur gelistet.
 - [[wiki/figuren/theodora-sachs|Theodora Sachs]] — begleitet Tesla weiter.
-- [[wiki/figuren/robur|Robur]] — bereitet mit Killjoy den grossen Blackout vor.
+- [[wiki/figuren/robur|Robur]] — bereitet mit Killjoy den großen Blackout vor.
 - [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] — ist auf offizieller Seite als Figur gelistet.
 
 ## Handlung (grob)
 
-Tesla, Theodora Sachs und Bastien Lavache entdecken, dass ihnen Merlins Mantel und die Haut der Riesenschlange gestohlen wurden. Die Suche nach diesen Gegenstaenden fuehrt sie zwar naeher an ihr Ziel, bringt sie aber zugleich in unmittelbare Lebensgefahr. Waerenddessen richten Robur und Killjoy in einem stillgelegten Elektrizitaetswerk alles fuer einen grossen Blackout her. Der Fall verknuepft Teslas persoenliche Krise damit direkt mit einer Bedrohung fuer das Koenigshaus.
+Tesla, Theodora Sachs und Bastien Lavache entdecken, dass ihnen Merlins Mantel und die Haut der Riesenschlange gestohlen wurden. Die Suche nach diesen Gegenständen führt sie zwar näher an ihr Ziel, bringt sie aber zugleich in unmittelbare Lebensgefahr. Währenddessen richten Robur und Killjoy in einem stillgelegten Elektrizitätswerk alles für einen großen Blackout her. Der Fall verknüpft Teslas persönliche Krise damit direkt mit einer Bedrohung für das Königshaus.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — bekannte Gegenspieler arbeiten an einem grossen Anschlag, der das Machtzentrum des Kosmos treffen soll.
+- **Direkt** — bekannte Gegenspieler arbeiten an einem großen Anschlag, der das Machtzentrum des Kosmos treffen soll.
 
 ## Crossover & Querverweise
 
 - **Serie:** [[wiki/serien/tesla|Tesla]].
 - **Spielt nach:** [[wiki/folgen/tesla-07-ein-uraltes-raetsel|TES 7 „Ein uraltes Rätsel“]].
-- **Figuren-Anschluss:** Mit [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] und [[wiki/figuren/james-moriarty|James Moriarty]] beruehrt die Folge zwei zentrale Gegenpole des erweiterten Sonderermittler-Kosmos.
+- **Figuren-Anschluss:** Mit [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] und [[wiki/figuren/james-moriarty|James Moriarty]] berührt die Folge zwei zentrale Gegenpole des erweiterten Sonderermittler-Kosmos.
 
 ## Quellen
 

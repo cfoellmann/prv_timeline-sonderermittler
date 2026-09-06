@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: sherlock-holmes
 nummer: 8
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 60
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
   - irene-adler
@@ -55,7 +55,7 @@ Carter Roth wird nach einem Sturz schwer verletzt ins Krankenhaus eingeliefert, 
 ## Crossover & Querverweise
 
 - **Serie:** [[wiki/serien/sherlock-holmes|Sherlock Holmes – Sonderermittler der Krone]].
-- **Crossover-Anschluss:** offizielle Figurenpraesenz von [[wiki/figuren/oscar-wilde|Oscar Wilde]] und [[wiki/figuren/irene-adler|Irene Adler]].
+- **Crossover-Anschluss:** offizielle Figurenpräsenz von [[wiki/figuren/oscar-wilde|Oscar Wilde]] und [[wiki/figuren/irene-adler|Irene Adler]].
 - **Spielt nach:** [[wiki/folgen/sherlock-holmes-07-gefaehrliche-expeditionen|SH 7 „Gefährliche Expeditionen“]].
 
 ## Quellen

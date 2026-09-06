@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: sherlock-holmes
 nummer: 7
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 62
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf

@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-irene-adler
 nummer: 2
@@ -8,7 +8,7 @@ verlag: Blitz Verlag
 autor: ""
 sprecher: []
 spielzeit_min: 54
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
   - irene-adler
@@ -38,24 +38,24 @@ tags:
 ## Hauptfiguren
 
 - [[wiki/figuren/oscar-wilde|Oscar Wilde]] — verfolgt gemeinsam mit Irene Adler die Spur eines brisanten Manuskripts.
-- [[wiki/figuren/irene-adler|Irene Adler]] — traegt die Ermittlungen mit Wilde in die Highlands.
+- [[wiki/figuren/irene-adler|Irene Adler]] — trägt die Ermittlungen mit Wilde in die Highlands.
 - [[wiki/figuren/theodora-sachs|Theodora Sachs]] — ist auf der offiziellen Folgen-Seite als Figur gelistet.
 - Aleister Crowley und Rasputin — sind auf der offiziellen Folgen-Seite ebenfalls als Figuren gelistet.
 
 ## Handlung (grob)
 
-Wilde und Adler erfahren, dass William Shakespeare moeglicherweise eine unbekannte Fassung des Macbeth hinterlassen hat. Dieses Schriftstueck soll heikle Informationen ueber das Koenigshaus enthalten und in Cawdor Castle versteckt sein. Die beiden Sonderermittler reisen nach Inverness, um der Spur nachzugehen. Dort wird schnell klar, dass Teile des Zirkels der Sieben laengst dieselbe Jagd aufgenommen haben.
+Wilde und Adler erfahren, dass William Shakespeare möglicherweise eine unbekannte Fassung des Macbeth hinterlassen hat. Dieses Schriftstück soll heikle Informationen über das Königshaus enthalten und in Cawdor Castle versteckt sein. Die beiden Sonderermittler reisen nach Inverness, um der Spur nachzugehen. Dort wird schnell klar, dass Teile des Zirkels der Sieben längst dieselbe Jagd aufgenommen haben.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt relevant** — der sichtbare Klappentext nennt Teile des Zirkels der Sieben ausdruecklich als konkurrierende Suchpartei.
+- **Direkt relevant** — der sichtbare Klappentext nennt Teile des Zirkels der Sieben ausdrücklich als konkurrierende Suchpartei.
 
 ## Crossover & Querverweise
 
 - **Serie:** [[wiki/serien/oscar-wilde-und-irene-adler|Oscar Wilde & Irene Adler – Sonderermittler der Krone]].
 - **Spielt nach:** [[wiki/folgen/oscar-wilde-und-irene-adler-01-das-schottische-stueck|WIA 1 „Das schottische Stück“]].
 - **Spielt vor:** [[wiki/folgen/oscar-wilde-und-irene-adler-03-ein-sommernachtsalbtraum|WIA 3 „Ein Sommernachtsalbtraum“]].
-- **Kosmos-Anschluss:** Die Folge fuehrt Wilde und Adler tief in einen Plot um Krone, Geheimmanuskript und aktive Zirkel-Figuren.
+- **Kosmos-Anschluss:** Die Folge führt Wilde und Adler tief in einen Plot um Krone, Geheimmanuskript und aktive Zirkel-Figuren.
 
 ## Quellen
 

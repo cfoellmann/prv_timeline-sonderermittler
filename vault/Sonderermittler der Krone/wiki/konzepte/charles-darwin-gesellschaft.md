@@ -1,4 +1,4 @@
-﻿---
+---
 type: konzept
 titel: Charles Darwin Gesellschaft
 status: entwurf

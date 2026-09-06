@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 23
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 67
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - tesla
   - frankenstein
@@ -26,7 +26,7 @@ tags:
 
 # Moriarty – 23: Jagdinstinkt
 
-> Um die zerstoererische Erfindung Dr. Paynes - eine Waffe, die Elektrizitaet in toedliche Strahlen umwandeln kann - ist ein erbitterter Kampf entbrannt.
+> Um die zerstörerische Erfindung Dr. Paynes - eine Waffe, die Elektrizität in tödliche Strahlen umwandeln kann - ist ein erbitterter Kampf entbrannt.
 
 ## Eckdaten
 
@@ -46,7 +46,7 @@ tags:
 
 ## Handlung (grob)
 
-Um die zerstoererische Erfindung Dr. Paynes - eine Waffe, die Elektrizitaet in toedliche Strahlen umwandeln kann - ist ein erbitterter Kampf entbrannt. Zuletzt hatte sie der Verbrecher Baltimore Harmon in seinem Besitz, doch genau der ist mit einem Mal verschwunden.
+Um die zerstörerische Erfindung Dr. Paynes - eine Waffe, die Elektrizität in tödliche Strahlen umwandeln kann - ist ein erbitterter Kampf entbrannt. Zuletzt hatte sie der Verbrecher Baltimore Harmon in seinem Besitz, doch genau der ist mit einem Mal verschwunden.
 
 ## Bezug zum Zirkel der Sieben
 

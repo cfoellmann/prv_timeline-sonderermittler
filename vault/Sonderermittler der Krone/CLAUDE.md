@@ -57,6 +57,10 @@ vault/Sonderermittler der Krone/
 - Umlaute auflösen (`ä` → `ae`, `ö` → `oe`, `ü` → `ue`, `ß` → `ss`).
 - Sonderzeichen entfernen.
 
+> [!important] Die Umlaut-Auflösung gilt **ausschließlich für Slugs** — also Dateinamen, Wikilink-Ziele, `serie:`-Werte, `id`-Felder und Tags.
+> **Nicht** für Fließtext, Überschriften oder `titel:`. Dort wird normales Deutsch mit Umlauten geschrieben (`für`, nicht `fuer`).
+> Am 17.08.2026 mussten dafür 2002 Vorkommen in 158 Dateien zurückkorrigiert werden.
+
 ### Wikilinks
 
 - Innerhalb des Vaults Obsidian-Wikilinks verwenden: `[[wiki/figuren/oscar-wilde|Oscar Wilde]]`.
@@ -66,19 +70,30 @@ vault/Sonderermittler der Krone/
 
 ```yaml
 ---
-type: folge | serie | figur | konzept
+type: folge | serie | figur | konzept | uebersicht | weiterleitung | query
 serie: <serie-slug>          # nur bei type=folge
 nummer: <int>                # nur bei type=folge
-titel: <Original-Titel>
-erschienen: JJJJ-MM-TT        # falls bekannt
+titel: <Original-Titel>       # echter Titel MIT Umlauten, nicht der Slug
+erschienen: JJJJ-MM-TT        # falls bekannt; JJJJ erlaubt, wenn nur das Jahr belegt ist
 verlag: Maritim
+genre: <Genre>                # nur bei type=serie, optional
+start: JJJJ-MM-TT             # nur bei type=serie, optional
 autor: <Autor:in>             # nur bei type=folge/serie
+aliase: []                    # nur bei type=figur, Pseudonyme
+fraktion: <s. u.>             # nur bei type=figur, optional
+seite_ermittler: <s. u.>      # nur bei type=figur, optional
 sprecher:                     # nur bei type=folge, optional
   - rolle: <Rolle>
     name: <Sprecher:in>
-zirkel: true | false          # spielt der Zirkel der Sieben eine Rolle?
+spielzeit_min: <int>          # nur bei type=folge, optional (Laufzeit in Minuten)
+zirkel: <s. u.>               # spielt der Zirkel der Sieben eine Rolle?
 crossover_mit:                # andere Serien-Slugs
   - <serie-slug>
+re_release_von: <...>         # nur bei type=folge, falls zutreffend
+spoiler_level: grob | voll | stub   # nur bei type=folge
+veroeffentlichungsstatus: geplant   # nur bei type=folge, nur für Watchlist-Einträge
+folgen_count: <int>           # nur bei type=serie, erschienene Folgen (inkl. Folge 0)
+watchlist_count: <int>        # nur bei type=serie, zusätzlich geplante Folgen
 status: stub | entwurf | recherchiert | review | final
 quellen:                      # Pfade in raw/ oder URLs
   - <pfad-oder-url>
@@ -88,6 +103,25 @@ tags:
 ```
 
 `status` ist wichtig fürs Lint: `stub` = leerer Eintrag mit Skelett, `final` = recherchiert und gegengelesen.
+
+**`zirkel` — zwei Skalen, je nach Seitentyp:**
+
+| Seitentyp | Werte | Bedeutung |
+|---|---|---|
+| `type: folge` | `direkt` \| `indirekt` \| `kein` \| `unklar` | **identisch mit `zirkel` in `app/data/folgen.json`** — die App ist hier führend, Wiki und JSON müssen übereinstimmen. `unklar` ist der Default ohne Recherchelage. |
+| `type: serie`, `type: figur` | `true` \| `false` \| `unklar` | grobe Ja/Nein-Aussage auf Reihen- bzw. Figurenebene |
+
+Bis zum 17.08.2026 wurden auf Folgen-Seiten `true`/`false` **und** die vierstufigen Werte gemischt geführt; das erzeugte 20 Widersprüche gegen `folgen.json`. Seitdem gilt für Folgen ausschließlich die vierstufige Skala.
+
+**`folgen_count` zählt Folge 0 mit**, wenn die Reihe eine hat (Moriarty 0–26 → 27, Irene Adler 0–34 → 35). Geplante, noch nicht erschienene Folgen zählen **nicht** in `folgen_count`, sondern in `watchlist_count`.
+
+**`fraktion` und `seite_ermittler`** (nur Figuren-Seiten, gelebte Praxis seit den ersten Figuren-Ingests, hier erstmals dokumentiert):
+
+- `fraktion` — Grundausrichtung der Figur im Konflikt.
+- `seite_ermittler` — für wen sie arbeitet, z. B. `krone`, `zirkel`, `ambivalent`.
+
+> [!caution] Die Wertelisten sind derzeit **nicht** normiert.
+> Im Bestand stehen für `fraktion` parallel `held`, `helden`, `heldin`, `held-umfeld`, `held-strippen`, `antagonist`, `antagonistisch`, `verraeter`, `ambivalent` und `zirkel-umfeld` — also Singular/Plural-Dubletten und mindestens ein Tippfehler (`held-strippen`). Solange das nicht vereinheitlicht ist, taugen die Felder nicht zum Filtern. Vereinheitlichung ist eine inhaltliche Entscheidung und steht offen (siehe Lint 2026-08-17).
 
 ---
 
@@ -358,7 +392,7 @@ Wenn eine Folgen-Seite im Wiki angelegt oder geändert wird, **muss** der entspr
 
 | Wann | Aktion |
 |---|---|
-| Neue Folge ingestiert | Eintrag in `folgen[]` anlegen mit allen bekannten Feldern; unbekannte mit `null` und `story_praezision: "unbekannt"`. |
+| Neue Folge ingestiert | Eintrag in `folgen[]` anlegen mit allen bekannten Feldern; unbekannte weglassen oder auf `null` setzen, `story_praezision: "unbekannt"`. |
 | Story-Datum wird beim Hören klarer | `story_jahr/monat/tag` und `story_praezision` aktualisieren, `story_anmerkung` schärfen. |
 | Spoiler-Stufe ändert sich | `spoiler_level` aktualisieren (`stub` → `grob` → ggf. `voll`). |
 | Zirkel-Bezug klärt sich | `zirkel` von `unklar` auf `direkt` / `indirekt` / `kein` setzen. |
@@ -370,7 +404,7 @@ Wenn eine Folgen-Seite im Wiki angelegt oder geändert wird, **muss** der entspr
 
 ```jsonc
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "stand": "JJJJ-MM-TT",
   "epoche_min_jahr": 1875,
   "epoche_max_jahr": 1905,
@@ -382,7 +416,8 @@ Wenn eine Folgen-Seite im Wiki angelegt oder geändert wird, **muss** der entspr
     "verlag": "Maritim | Blitz | Winterzeit/Maritim",
     "genre": "Krimi | Horror | Abenteuer/Fantasy | Abenteuer",
     "farbe": "#hex",                       // serien-eigene Farbe
-    "wiki": "vault/.../wiki/serien/<id>.md"
+    "wiki": "vault/.../wiki/serien/<id>.md",
+    "anmerkung": "<Kontext>"               // optional, z. B. "Vorgänger-Reihe"
   }],
 
   "folgen": [{
@@ -390,7 +425,8 @@ Wenn eine Folgen-Seite im Wiki angelegt oder geändert wird, **muss** der entspr
     "serie": "<serie-slug>",
     "nummer": 1,
     "titel": "<Folgentitel>",
-    "erschienen": "JJJJ-MM-TT" | null,
+    "erschienen": "JJJJ-MM-TT" | "JJJJ" | null,
+    "spielzeit_min": 64,                   // optional, Laufzeit in Minuten
     "story_jahr": 1895 | null,
     "story_monat": 4 | null,               // 1–12
     "story_tag": null | 1..31,
@@ -410,6 +446,8 @@ Wenn eine Folgen-Seite im Wiki angelegt oder geändert wird, **muss** der entspr
 - **`story_praezision: "unbekannt"`** ist explizit erlaubt — die App rendert solche Folgen in einer eigenen Sektion ans Ende.
 - **`zirkel: "unklar"`** ist der Default für Folgen ohne klare Recherche-Lage. Nicht mit `null` mischen.
 - **`wiki`-Pfade** sind relativ zur Repo-Wurzel und URL-encoded (`%20` für Leerzeichen).
+- **Optionale Felder dürfen fehlen.** `story_jahr`, `story_monat`, `story_tag`, `story_anmerkung`, `logline`, `spielzeit_min` und `anmerkung` können entweder auf `null` stehen **oder ganz weggelassen werden** — für die App ist beides gleichwertig. Pflicht sind nur `id`, `serie`, `nummer`, `titel`, `erschienen`, `story_praezision`, `zirkel`, `spoiler_level`, `wiki`.
+- **Diese Felder müssen mit dem Wiki-Frontmatter der Folgen-Seite übereinstimmen:** `titel`, `erschienen`, `nummer`, `serie`, `zirkel`, `spoiler_level`. Das Lint prüft genau diese Paare.
 
 ## 10. Erste Sitzungs-Routine
 

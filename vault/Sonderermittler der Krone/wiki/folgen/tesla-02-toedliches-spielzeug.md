@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: tesla
 nummer: 2
@@ -8,7 +8,7 @@ verlag: Blitz Verlag
 autor: ""
 sprecher: []
 spielzeit_min: 53
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - irene-adler
   - moriarty
@@ -25,7 +25,7 @@ tags:
 
 # Tesla – 2: Tödliches Spielzeug
 
-> Explosionen durch kleine Automaten ziehen sowohl die Sonderermittler als auch Nikola Tesla in denselben gefaehrlichen Fall.
+> Explosionen durch kleine Automaten ziehen sowohl die Sonderermittler als auch Nikola Tesla in denselben gefährlichen Fall.
 
 ## Eckdaten
 
@@ -37,7 +37,7 @@ tags:
 
 ## Hauptfiguren
 
-- [[wiki/figuren/nikola-tesla|Nikola Tesla]] — will seinen Namen von den Automaten-Geruechten reinwaschen.
+- [[wiki/figuren/nikola-tesla|Nikola Tesla]] — will seinen Namen von den Automaten-Gerüchten reinwaschen.
 - [[wiki/figuren/james-moriarty|James Moriarty]] — dringt auf die Fortsetzung von Teslas Versuchsreihe.
 - [[wiki/figuren/theodora-sachs|Theodora Sachs]] — bleibt Teil von Teslas unmittelbarem Umfeld.
 - [[wiki/figuren/irene-adler|Irene Adler]] — ist auf offizieller Seite als Figur gelistet.
@@ -45,11 +45,11 @@ tags:
 
 ## Handlung (grob)
 
-Nachdem ein Automat explodiert, werden die Sonderermittler der Krone aufmerksam, und in London verbreitet sich das Geruecht, Tesla habe die Maschinen selbst gebaut. Tesla beschliesst deshalb, gegen Moriartys ausdruecklichen Wunsch nachzuforschen. Eine zweite Explosion bestaetigt, dass hinter den Vorfaellen mehr steckt als ein technischer Unfall. Seine privaten Ermittlungen bringen Tesla dadurch mitten in akute Lebensgefahr.
+Nachdem ein Automat explodiert, werden die Sonderermittler der Krone aufmerksam, und in London verbreitet sich das Gerücht, Tesla habe die Maschinen selbst gebaut. Tesla beschließt deshalb, gegen Moriartys ausdrücklichen Wunsch nachzuforschen. Eine zweite Explosion bestätigt, dass hinter den Vorfällen mehr steckt als ein technischer Unfall. Seine privaten Ermittlungen bringen Tesla dadurch mitten in akute Lebensgefahr.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt im erweiterten Zirkel-Umfeld** — Moriarty lenkt Teslas Handeln, waehrend mit Irene Adler und Wu weitere Serienanschluesse sichtbar werden.
+- **Direkt im erweiterten Zirkel-Umfeld** — Moriarty lenkt Teslas Handeln, während mit Irene Adler und Wu weitere Serienanschlüsse sichtbar werden.
 
 ## Crossover & Querverweise
 

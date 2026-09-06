@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: sherlock-holmes
 nummer: 13
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 59
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - frankenstein
 spoiler_level: grob

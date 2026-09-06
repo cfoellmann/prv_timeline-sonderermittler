@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 1
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 73
-zirkel: false
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -23,7 +23,7 @@ tags:
 
 # Moriarty – 1: Das Rätsel der Marie Celeste
 
-> Zwei Tote werden auf einem Friedhof in Suedengland beigesetzt. Unter der Trauergemeinde befinden sich sowohl Sherlock Holmes und Doktor Watson als auch der geheimnisvolle Fremde, der sich James Moriarty nennt.
+> Zwei Tote werden auf einem Friedhof in Südengland beigesetzt. Unter der Trauergemeinde befinden sich sowohl Sherlock Holmes und Doktor Watson als auch der geheimnisvolle Fremde, der sich James Moriarty nennt.
 
 ## Eckdaten
 
@@ -40,7 +40,7 @@ tags:
 
 ## Handlung (grob)
 
-Zwei Tote werden auf einem Friedhof in Suedengland beigesetzt. Unter der Trauergemeinde befinden sich sowohl Sherlock Holmes und Doktor Watson als auch der geheimnisvolle Fremde, der sich James Moriarty nennt. Was fuer ein Spiel treibt er?
+Zwei Tote werden auf einem Friedhof in Südengland beigesetzt. Unter der Trauergemeinde befinden sich sowohl Sherlock Holmes und Doktor Watson als auch der geheimnisvolle Fremde, der sich James Moriarty nennt. Was für ein Spiel treibt er?
 
 ## Bezug zum Zirkel der Sieben
 

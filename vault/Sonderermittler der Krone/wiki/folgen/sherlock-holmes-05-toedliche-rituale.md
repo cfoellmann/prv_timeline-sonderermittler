@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: sherlock-holmes
 nummer: 5
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 65
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -24,7 +24,7 @@ tags:
 
 # Sherlock Holmes – 5: Tödliche Rituale
 
-> In Grail's Hollow deuten unheimliche Vorfaelle fuer Holmes schnell auf eine neue Zirkel-Spur hin.
+> In Grail's Hollow deuten unheimliche Vorfälle für Holmes schnell auf eine neue Zirkel-Spur hin.
 
 ## Eckdaten
 
@@ -37,16 +37,16 @@ tags:
 
 ## Hauptfiguren
 
-- [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] — nimmt die Vorfaelle in Grail's Hollow selbst auf.
+- [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] — nimmt die Vorfälle in Grail's Hollow selbst auf.
 - [[wiki/figuren/john-watson|John Watson]] — ist auf der offiziellen Seite als Figur gelistet.
 
 ## Handlung (grob)
 
-In Grail's Hollow haeufen sich brutale und scheinbar ritualhafte Vorkommnisse, von verstuemmelt aufgefundenen Tieren bis zu blutigen Spuren auf dem Friedhof. Ein Ortsvorstand fuerchtet, dass Dorfbewohner den Teufel beschwoeren wollen, doch Holmes zieht sofort eine andere Moeglichkeit in Betracht. Er fragt sich, ob der Zirkel der Sieben hinter den Geschehnissen steckt. Kaum beginnt er zu ermitteln, geschieht bereits der erste Mord.
+In Grail's Hollow häufen sich brutale und scheinbar ritualhafte Vorkommnisse, von verstümmelt aufgefundenen Tieren bis zu blutigen Spuren auf dem Friedhof. Ein Ortsvorstand fürchtet, dass Dorfbewohner den Teufel beschwören wollen, doch Holmes zieht sofort eine andere Möglichkeit in Betracht. Er fragt sich, ob der Zirkel der Sieben hinter den Geschehnissen steckt. Kaum beginnt er zu ermitteln, geschieht bereits der erste Mord.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — Holmes nennt im offiziellen Klappentext selbst den [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] als moegliche Erklaerung fuer die Vorfaelle.
+- **Direkt** — Holmes nennt im offiziellen Klappentext selbst den [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] als mögliche Erklärung für die Vorfälle.
 
 ## Crossover & Querverweise
 

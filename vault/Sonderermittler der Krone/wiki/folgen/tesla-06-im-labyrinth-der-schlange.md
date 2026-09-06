@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: tesla
 nummer: 6
@@ -8,7 +8,7 @@ verlag: Blitz Verlag
 autor: ""
 sprecher: []
 spielzeit_min: 51
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -23,7 +23,7 @@ tags:
 
 # Tesla – 6: Im Labyrinth der Schlange
 
-> In einer Tempelanlage gefangen, muessen Tesla und seine Verbuendeten unter Zeitdruck einen Ausweg aus einem Marmorsarkophag finden.
+> In einer Tempelanlage gefangen, müssen Tesla und seine Verbündeten unter Zeitdruck einen Ausweg aus einem Marmorsarkophag finden.
 
 ## Eckdaten
 
@@ -35,13 +35,13 @@ tags:
 
 ## Hauptfiguren
 
-- [[wiki/figuren/nikola-tesla|Nikola Tesla]] — sucht einen Ausweg aus dem unterirdischen Gefaengnis.
+- [[wiki/figuren/nikola-tesla|Nikola Tesla]] — sucht einen Ausweg aus dem unterirdischen Gefängnis.
 - [[wiki/figuren/theodora-sachs|Theodora Sachs]] — sitzt mit Tesla fest.
-- [[wiki/figuren/aleister-crowley|Aleister Crowley]] — gehoert zur eingeschlossenen Gruppe.
+- [[wiki/figuren/aleister-crowley|Aleister Crowley]] — gehört zur eingeschlossenen Gruppe.
 
 ## Handlung (grob)
 
-Tesla, Theodora Sachs und Aleister Crowley muessen erkennen, dass sie in einer Tempelanlage in einen Sarkophag aus Marmor gesperrt wurden. Mit schwindender Luft und ohne einfachen Fluchtweg versuchen sie, sich unter grosser Anstrengung zu befreien. Waerend sie im Inneren um ihr Ueberleben kaempfen, verfolgt die Voodoo-Gemeinschaft ausserhalb bereits den naechsten Plan. Die Folge konzentriert sich damit auf klaustrophobischen Ueberlebensdruck innerhalb eines groesseren Ritual- und Machtkonflikts.
+Tesla, Theodora Sachs und Aleister Crowley müssen erkennen, dass sie in einer Tempelanlage in einen Sarkophag aus Marmor gesperrt wurden. Mit schwindender Luft und ohne einfachen Fluchtweg versuchen sie, sich unter großer Anstrengung zu befreien. Während sie im Inneren um ihr Überleben kämpfen, verfolgt die Voodoo-Gemeinschaft außerhalb bereits den nächsten Plan. Die Folge konzentriert sich damit auf klaustrophobischen Überlebensdruck innerhalb eines größeren Ritual- und Machtkonflikts.
 
 ## Bezug zum Zirkel der Sieben
 

@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: tesla
 nummer: 4
@@ -8,7 +8,7 @@ verlag: Blitz Verlag
 autor: ""
 sprecher: []
 spielzeit_min: 54
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - irene-adler
   - moriarty
@@ -26,7 +26,7 @@ tags:
 
 # Tesla – 4: Im Spannungsfeld
 
-> Die Flucht aus Cedric Manor fuehrt Tesla und seine Begleiter in einen offenen Kampf, waehrend weitere Gegner auf das Anwesen vorruecken.
+> Die Flucht aus Cedric Manor führt Tesla und seine Begleiter in einen offenen Kampf, während weitere Gegner auf das Anwesen vorrücken.
 
 ## Eckdaten
 
@@ -35,23 +35,23 @@ tags:
 - **Verlag:** Blitz Verlag.
 - **Autor:** noch nicht im Repo verifiziert.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/tesla/folge04-im-spannungsfeld/>
-- **Auffaelligkeit:** Die offizielle Website verwendet diesen Titel faelschlich auch fuer Folge 1. Folge 1 ist im Repo auf den korrekten Titel [[wiki/folgen/tesla-01-die-kraft-des-lichts|„Die Kraft des Lichts"]] korrigiert; „Im Spannungsfeld" ist der echte Titel **dieser** Folge 4.
+- **Auffälligkeit:** Die offizielle Website verwendet diesen Titel fälschlich auch für Folge 1. Folge 1 ist im Repo auf den korrekten Titel [[wiki/folgen/tesla-01-die-kraft-des-lichts|„Die Kraft des Lichts"]] korrigiert; „Im Spannungsfeld" ist der echte Titel **dieser** Folge 4.
 
 ## Hauptfiguren
 
-- [[wiki/figuren/nikola-tesla|Nikola Tesla]] — kaempft sich mit Verbuendeten aus Cedric Manor heraus.
+- [[wiki/figuren/nikola-tesla|Nikola Tesla]] — kämpft sich mit Verbündeten aus Cedric Manor heraus.
 - [[wiki/figuren/theodora-sachs|Theodora Sachs]] — flieht gemeinsam mit Tesla.
-- [[wiki/figuren/mata-hari|Mata Hari]] — gehoert zur Fluchtgruppe.
+- [[wiki/figuren/mata-hari|Mata Hari]] — gehört zur Fluchtgruppe.
 - [[wiki/figuren/rasputin|Rasputin]] — wird im offiziellen Klappentext direkt mitgenannt.
-- [[wiki/figuren/killjoy|Killjoy]] — rueckt gemeinsam mit Robur auf Cedric Manor vor.
+- [[wiki/figuren/killjoy|Killjoy]] — rückt gemeinsam mit Robur auf Cedric Manor vor.
 
 ## Handlung (grob)
 
-Tesla, Theodora Sachs, Rasputin und Mata Hari schaffen es zunaechst, das Treppenhaus von Cedric Manor unbemerkt zu erreichen. Doch Hugh Appleton und Henry Cedric stellen sich ihnen entgegen und machen schnell klar, dass es keine kampflose Flucht geben wird. Gleichzeitig naehern sich mit Robur, Killjoy und Barry Wood weitere Gegner dem Anwesen. Der Ausbruch aus Cedric Manor wird so zu einer eskalierenden Konfrontation mit mehreren Fronten.
+Tesla, Theodora Sachs, Rasputin und Mata Hari schaffen es zunächst, das Treppenhaus von Cedric Manor unbemerkt zu erreichen. Doch Hugh Appleton und Henry Cedric stellen sich ihnen entgegen und machen schnell klar, dass es keine kampflose Flucht geben wird. Gleichzeitig nähern sich mit Robur, Killjoy und Barry Wood weitere Gegner dem Anwesen. Der Ausbruch aus Cedric Manor wird so zu einer eskalierenden Konfrontation mit mehreren Fronten.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — die Folge verknuepft Tesla eng mit bekannten Gegnern und Verbundfiguren des Zirkel-Kosmos.
+- **Direkt** — die Folge verknüpft Tesla eng mit bekannten Gegnern und Verbundfiguren des Zirkel-Kosmos.
 
 ## Crossover & Querverweise
 

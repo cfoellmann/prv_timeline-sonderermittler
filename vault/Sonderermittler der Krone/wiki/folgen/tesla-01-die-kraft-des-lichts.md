@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: tesla
 nummer: 1
@@ -8,7 +8,7 @@ verlag: Blitz Verlag
 autor: ""
 sprecher: []
 spielzeit_min: 55
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - moriarty
 spoiler_level: grob
@@ -25,10 +25,10 @@ tags:
 
 # Tesla – 1: Die Kraft des Lichts
 
-> Nikola Tesla arbeitet an einer oeffentlichen Lichtuebertragung, als James Moriarty seine Forschung ploetzlich fuer groessere Ziele vereinnahmen will.
+> Nikola Tesla arbeitet an einer öffentlichen Lichtübertragung, als James Moriarty seine Forschung plötzlich für größere Ziele vereinnahmen will.
 
 > [!note] Titel-Korrektur
-> Die offizielle Serien- und Folgenseite fuehrt diese Folge faelschlich als **„Im Spannungsfeld"** (so heisst tatsaechlich [[wiki/folgen/tesla-04-im-spannungsfeld|Folge 4]]). Cover (`cover-m-tesla-01.jpg`), Thalia (EAN 9783689842109) und Kassettenkiste belegen eindeutig den korrekten Titel **„Die Kraft des Lichts"**. Die offizielle URL behaelt den fehlerhaften Slug `folge01-im-spannungsfeld`. Quelle: [raw/deep-research-report.md](../../raw/deep-research-report.md).
+> Die offizielle Serien- und Folgenseite führt diese Folge fälschlich als **„Im Spannungsfeld"** (so heißt tatsächlich [[wiki/folgen/tesla-04-im-spannungsfeld|Folge 4]]). Cover (`cover-m-tesla-01.jpg`), Thalia (EAN 9783689842109) und Kassettenkiste belegen eindeutig den korrekten Titel **„Die Kraft des Lichts"**. Die offizielle URL behält den fehlerhaften Slug `folge01-im-spannungsfeld`. Quelle: [raw/deep-research-report.md](../../raw/deep-research-report.md).
 
 ## Eckdaten
 
@@ -37,18 +37,18 @@ tags:
 - **Verlag:** Blitz Verlag.
 - **Autor:** Silke Walter (laut Thalia).
 - **EAN:** 9783689842109 (Thalia).
-- **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/tesla/folge01-im-spannungsfeld/> (Slug trotz Titelfehler unveraendert)
+- **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/tesla/folge01-im-spannungsfeld/> (Slug trotz Titelfehler unverändert)
 
 ## Hauptfiguren
 
-- [[wiki/figuren/nikola-tesla|Nikola Tesla]] — geraet mit seinem Experiment in einen groesseren Machtplan.
+- [[wiki/figuren/nikola-tesla|Nikola Tesla]] — gerät mit seinem Experiment in einen größeren Machtplan.
 - [[wiki/figuren/james-moriarty|James Moriarty]] — fordert eine drastische Ausweitung des Versuchs.
-- [[wiki/figuren/theodora-sachs|Theodora Sachs]] — gehoert zum direkten Umfeld der Reihe.
+- [[wiki/figuren/theodora-sachs|Theodora Sachs]] — gehört zum direkten Umfeld der Reihe.
 - [[wiki/figuren/robur|Robur]] — ist auf der offiziellen Seite als Figur gelistet.
 
 ## Handlung (grob)
 
-Nikola Tesla bereitet einen Versuch zur Uebertragung von Licht vor, den er der Bevoelkerung auf einem grossen Fest zeigen moechte. James Moriarty erscheint in seinem Labor und zwingt dem Projekt ploetzlich eine viel groessere Dimension auf. Kurz darauf taucht mit Hugh Appleton ein frueherer Kommilitone auf, der Tesla an traumatische Erlebnisse erinnert. Das Experiment wird damit zum Ausgangspunkt einer persoenlichen und politischen Bedrohung.
+Nikola Tesla bereitet einen Versuch zur Übertragung von Licht vor, den er der Bevölkerung auf einem großen Fest zeigen möchte. James Moriarty erscheint in seinem Labor und zwingt dem Projekt plötzlich eine viel größere Dimension auf. Kurz darauf taucht mit Hugh Appleton ein früherer Kommilitone auf, der Tesla an traumatische Erlebnisse erinnert. Das Experiment wird damit zum Ausgangspunkt einer persönlichen und politischen Bedrohung.
 
 ## Bezug zum Zirkel der Sieben
 
@@ -58,7 +58,7 @@ Nikola Tesla bereitet einen Versuch zur Uebertragung von Licht vor, den er der B
 
 - **Serie:** [[wiki/serien/tesla|Tesla]].
 - **Spielt vor:** [[wiki/folgen/tesla-02-toedliches-spielzeug|TES 2 „Tödliches Spielzeug“]].
-- **Figuren-Anschluss:** Tesla ist laut offizieller Figuren-Seite auch in [[wiki/serien/moriarty|Moriarty – Zwischen Genie und Verbrechen]] und [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] praesent.
+- **Figuren-Anschluss:** Tesla ist laut offizieller Figuren-Seite auch in [[wiki/serien/moriarty|Moriarty – Zwischen Genie und Verbrechen]] und [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] präsent.
 
 ## Quellen
 

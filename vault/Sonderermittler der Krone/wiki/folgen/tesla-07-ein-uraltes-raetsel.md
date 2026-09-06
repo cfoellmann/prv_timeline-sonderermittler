@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: tesla
 nummer: 7
@@ -8,7 +8,7 @@ verlag: Blitz Verlag
 autor: ""
 sprecher: []
 spielzeit_min: 53
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - sherlock-holmes
 spoiler_level: grob
@@ -24,7 +24,7 @@ tags:
 
 # Tesla – 7: Ein uraltes Rätsel
 
-> Nach einem Einbruch in New Orleans wird Teslas Rueckreise nach London zum Auftakt einer weiteren Katastrophe.
+> Nach einem Einbruch in New Orleans wird Teslas Rückreise nach London zum Auftakt einer weiteren Katastrophe.
 
 ## Eckdaten
 
@@ -36,19 +36,19 @@ tags:
 
 ## Hauptfiguren
 
-- [[wiki/figuren/nikola-tesla|Nikola Tesla]] — verlaesst Amerika ueberstuerzt und geraet auf der Rueckreise unter Druck.
-- [[wiki/figuren/theodora-sachs|Theodora Sachs]] — gehoert weiter zu Teslas Gruppe.
+- [[wiki/figuren/nikola-tesla|Nikola Tesla]] — verlässt Amerika überstürzt und gerät auf der Rückreise unter Druck.
+- [[wiki/figuren/theodora-sachs|Theodora Sachs]] — gehört weiter zu Teslas Gruppe.
 - [[wiki/figuren/aleister-crowley|Aleister Crowley]] — bleibt Teil derselben Flucht- und Reisebewegung.
-- [[wiki/figuren/robur|Robur]] — bereitet in London Teslas Rueckkehr mit vor.
+- [[wiki/figuren/robur|Robur]] — bereitet in London Teslas Rückkehr mit vor.
 - [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] — ist auf offizieller Seite als Figur gelistet.
 
 ## Handlung (grob)
 
-Nach dem Einbruch in das Haus von Garth Petty verlassen Tesla und die anderen Beteiligten New Orleans ueberhastet. Auf der Weiterreise nach New York sorgt eine Verzoegerung dafuer, dass ihr Plan auseinanderfaellt und sich eine Katastrophe anbahnt. Parallel finden Robur und Killjoy in London heraus, dass Tesla sich in Amerika aufhaelt, und bereiten seine Rueckkehr mit einer boesen Ueberraschung vor. Dadurch laufen Reiseplot und Londoner Gegenmassnahme direkt aufeinander zu.
+Nach dem Einbruch in das Haus von Garth Petty verlassen Tesla und die anderen Beteiligten New Orleans überhastet. Auf der Weiterreise nach New York sorgt eine Verzögerung dafür, dass ihr Plan auseinanderfällt und sich eine Katastrophe anbahnt. Parallel finden Robur und Killjoy in London heraus, dass Tesla sich in Amerika aufhält, und bereiten seine Rückkehr mit einer bösen Überraschung vor. Dadurch laufen Reiseplot und Londoner Gegenmassnahme direkt aufeinander zu.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — Robur und Killjoy greifen aktiv ein, waehrend Sherlock-Holmes-Anschluesse die Reihe noch enger an den Kosmos binden.
+- **Direkt** — Robur und Killjoy greifen aktiv ein, während Sherlock-Holmes-Anschlüsse die Reihe noch enger an den Kosmos binden.
 
 ## Crossover & Querverweise
 

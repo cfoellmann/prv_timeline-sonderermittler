@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 24
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 65
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - tesla
   - frankenstein
@@ -26,7 +26,7 @@ tags:
 
 # Moriarty – 24: Ausgeliefert
 
-> Endlich ist es James Moriarty gelungen, den Strahlenapparat des Professor Payne in seinen Besitz zu bringen. In seinem Haus in London wagt er ein gefaehrliches Experiment.
+> Endlich ist es James Moriarty gelungen, den Strahlenapparat des Professor Payne in seinen Besitz zu bringen. In seinem Haus in London wagt er ein gefährliches Experiment.
 
 ## Eckdaten
 
@@ -46,7 +46,7 @@ tags:
 
 ## Handlung (grob)
 
-Endlich ist es James Moriarty gelungen, den Strahlenapparat des Professor Payne in seinen Besitz zu bringen. In seinem Haus in London wagt er ein gefaehrliches Experiment. Doch noch sind Moriartys Gegner nicht geschlagen.
+Endlich ist es James Moriarty gelungen, den Strahlenapparat des Professor Payne in seinen Besitz zu bringen. In seinem Haus in London wagt er ein gefährliches Experiment. Doch noch sind Moriartys Gegner nicht geschlagen.
 
 ## Bezug zum Zirkel der Sieben
 

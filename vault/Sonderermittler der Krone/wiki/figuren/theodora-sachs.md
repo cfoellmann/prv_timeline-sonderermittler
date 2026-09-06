@@ -1,4 +1,4 @@
-﻿---
+---
 type: figur
 titel: Theodora Sachs
 sprecher: Gabrielle Pietermann
@@ -14,22 +14,22 @@ tags:
 
 # Theodora Sachs
 
-> Theodora Sachs ist laut offiziellem Figurenprofil zunaechst Draculas Assistentin, unterstuetzt spaeter weitere Zirkel-Mitglieder und versucht selbst, dauerhaft in den Zirkel der Sieben aufgenommen zu werden.
+> Theodora Sachs ist laut offiziellem Figurenprofil zunächst Draculas Assistentin, unterstützt später weitere Zirkel-Mitglieder und versucht selbst, dauerhaft in den Zirkel der Sieben aufgenommen zu werden.
 
 ## Eckdaten
 
 - **Sprecherin:** Gabrielle Pietermann.
 - **Wichtigste Reihe im aktuellen Repo-Stand:** [[wiki/serien/moriarty|Moriarty – Zwischen Genie und Verbrechen]].
-- **Rolle im Kosmos:** Vermittlerin, Helferin und gefaehrliche Gegenspielerin mit hypnotischen Faehigkeiten.
+- **Rolle im Kosmos:** Vermittlerin, Helferin und gefährliche Gegenspielerin mit hypnotischen Fähigkeiten.
 
 ## Auftritte im aktuellen Repo-Stand
 
-- **Moriarty-Reihe:** ab [[wiki/folgen/moriarty-02-die-wiege-des-verbrechens|MOR 02 „Die Wiege des Verbrechens“]] regelmaessig praesent.
-- **Weitere Anschluesse:** [[wiki/serien/tesla|Tesla]] fuehrt Theodora Sachs fortlaufend an Teslas Seite im Auftrag oder Einflussbereich Moriartys.
+- **Moriarty-Reihe:** ab [[wiki/folgen/moriarty-02-die-wiege-des-verbrechens|MOR 02 „Die Wiege des Verbrechens“]] regelmäßig präsent.
+- **Weitere Anschlüsse:** [[wiki/serien/tesla|Tesla]] führt Theodora Sachs fortlaufend an Teslas Seite im Auftrag oder Einflussbereich Moriartys.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — Theodora Sachs gehoert laut offizieller Figurenbeschreibung klar ins operative Umfeld des Zirkels und strebt selbst einen festen Platz im Bund an.
+- **Direkt** — Theodora Sachs gehört laut offizieller Figurenbeschreibung klar ins operative Umfeld des Zirkels und strebt selbst einen festen Platz im Bund an.
 
 ## Quellen
 

@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 14
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 67
-zirkel: false
+zirkel: indirekt
 crossover_mit:
   - tesla
 spoiler_level: grob
@@ -25,7 +25,7 @@ tags:
 
 # Moriarty – 14: Das Schiff der Verdammten
 
-> Moriarty reist zusammen mit dem Erfinder Nikola Tesla nach Genua, wo sie hoffen, auf Spuren der entfuehrten Anne Morgan zu stossen.
+> Moriarty reist zusammen mit dem Erfinder Nikola Tesla nach Genua, wo sie hoffen, auf Spuren der entführten Anne Morgan zu stoßen.
 
 ## Eckdaten
 
@@ -41,11 +41,11 @@ tags:
 
 ## Handlung (grob)
 
-Moriarty reist zusammen mit dem Erfinder Nikola Tesla nach Genua, wo sie hoffen, auf Spuren der entfuehrten Anne Morgan zu stossen. Waehrenddessen wird die Tochter des reichen Bankiers heimlich auf ein Schiff verfrachtet, das ausserhalb des Hafens vor Anker liegt. Dort kaempft man mit schwerwiegenden Problemen.
+Moriarty reist zusammen mit dem Erfinder Nikola Tesla nach Genua, wo sie hoffen, auf Spuren der entführten Anne Morgan zu stoßen. Währenddessen wird die Tochter des reichen Bankiers heimlich auf ein Schiff verfrachtet, das außerhalb des Hafens vor Anker liegt. Dort kämpft man mit schwerwiegenden Problemen.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Indirekt** — Indirekter Zirkel-Bezug ueber wiederkehrende Kosmos-Figuren und Konfliktlinien, ohne dass ein Zirkelmitglied im offiziellen Figurenblock genannt wird.
+- **Indirekt** — Indirekter Zirkel-Bezug über wiederkehrende Kosmos-Figuren und Konfliktlinien, ohne dass ein Zirkelmitglied im offiziellen Figurenblock genannt wird.
 
 ## Crossover & Querverweise
 

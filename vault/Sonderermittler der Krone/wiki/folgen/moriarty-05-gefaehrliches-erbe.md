@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 5
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 65
-zirkel: false
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -23,7 +23,7 @@ tags:
 
 # Moriarty – 5: Gefährliches Erbe
 
-> James Moriarty macht auf der Ueberfahrt von New York nach England die Bekanntschaft mit einem Mann namens Lambert, der nach Salisbury reist, um ein geheimnisvolles Erbe anzutreten.
+> James Moriarty macht auf der Überfahrt von New York nach England die Bekanntschaft mit einem Mann namens Lambert, der nach Salisbury reist, um ein geheimnisvolles Erbe anzutreten.
 
 ## Eckdaten
 
@@ -39,7 +39,7 @@ tags:
 
 ## Handlung (grob)
 
-James Moriarty macht auf der Ueberfahrt von New York nach England die Bekanntschaft mit einem Mann namens Lambert, der nach Salisbury reist, um ein geheimnisvolles Erbe anzutreten. Doch bereits auf dem Dampfer ereignen sich gefaehrliche Dinge. Es scheint, als habe es jemand auf Lamberts Leben abgesehen.
+James Moriarty macht auf der Überfahrt von New York nach England die Bekanntschaft mit einem Mann namens Lambert, der nach Salisbury reist, um ein geheimnisvolles Erbe anzutreten. Doch bereits auf dem Dampfer ereignen sich gefährliche Dinge. Es scheint, als habe es jemand auf Lamberts Leben abgesehen.
 
 ## Bezug zum Zirkel der Sieben
 

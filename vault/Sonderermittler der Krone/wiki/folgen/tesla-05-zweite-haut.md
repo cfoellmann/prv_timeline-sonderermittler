@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: tesla
 nummer: 5
@@ -8,7 +8,7 @@ verlag: Blitz Verlag
 autor: ""
 sprecher: []
 spielzeit_min: 55
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - moriarty
 spoiler_level: grob
@@ -24,7 +24,7 @@ tags:
 
 # Tesla – 5: Zweite Haut
 
-> Tesla sucht einen Weg, Moriarty nuetzlich zu bleiben, ohne selbst weiteren Schaden anzurichten, und reist dafuer nach New Orleans.
+> Tesla sucht einen Weg, Moriarty nützlich zu bleiben, ohne selbst weiteren Schaden anzurichten, und reist dafür nach New Orleans.
 
 ## Eckdaten
 
@@ -36,14 +36,14 @@ tags:
 
 ## Hauptfiguren
 
-- [[wiki/figuren/nikola-tesla|Nikola Tesla]] — versucht moralisch kontrolliert in Moriartys Naehe zu ueberleben.
+- [[wiki/figuren/nikola-tesla|Nikola Tesla]] — versucht moralisch kontrolliert in Moriartys Nähe zu überleben.
 - [[wiki/figuren/james-moriarty|James Moriarty]] — bleibt der Massstab, an dem Tesla seine Entscheidungen ausrichtet.
 - [[wiki/figuren/theodora-sachs|Theodora Sachs]] — begleitet Tesla nach New Orleans.
 - [[wiki/figuren/aleister-crowley|Aleister Crowley]] — reist mit Tesla und Theodora.
 
 ## Handlung (grob)
 
-Tesla weiss, dass er Moriartys Gunst nicht verlieren darf, und sucht deshalb nach einer Loesung, die ihm Handlungsspielraum laesst, ohne Unschuldige zu gefaehrden. Mit Theodora Sachs und Aleister Crowley reist er nach New Orleans zu Bastien Lavache. Dort stossen sie auf eine Lage, in der gefaehrliche Gegner selbst vor Zirkelmitgliedern nicht zurueckschrecken. Die Folge verschiebt den Schwerpunkt damit von London in ein Voodoo-gepraegtes Umfeld.
+Tesla weiß, dass er Moriartys Gunst nicht verlieren darf, und sucht deshalb nach einer Lösung, die ihm Handlungsspielraum lässt, ohne Unschuldige zu gefährden. Mit Theodora Sachs und Aleister Crowley reist er nach New Orleans zu Bastien Lavache. Dort stoßen sie auf eine Lage, in der gefährliche Gegner selbst vor Zirkelmitgliedern nicht zurückschrecken. Die Folge verschiebt den Schwerpunkt damit von London in ein Voodoo-geprägtes Umfeld.
 
 ## Bezug zum Zirkel der Sieben
 

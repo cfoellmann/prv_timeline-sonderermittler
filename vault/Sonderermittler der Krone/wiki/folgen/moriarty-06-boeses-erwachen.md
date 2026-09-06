@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 6
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 60
-zirkel: false
+zirkel: indirekt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
 spoiler_level: grob
@@ -25,7 +25,7 @@ tags:
 
 # Moriarty – 6: Böses Erwachen
 
-> James Moriarty und Theodora Sachs forschen in Calais nach zwei Fluechtigen. Bald darauf finden sie sich in einem Zug mit Kurs auf Gent wieder.
+> James Moriarty und Theodora Sachs forschen in Calais nach zwei Flüchtigen. Bald darauf finden sie sich in einem Zug mit Kurs auf Gent wieder.
 
 ## Eckdaten
 
@@ -42,11 +42,11 @@ tags:
 
 ## Handlung (grob)
 
-James Moriarty und Theodora Sachs forschen in Calais nach zwei Fluechtigen. Bald darauf finden sie sich in einem Zug mit Kurs auf Gent wieder. Mit an Bord ist ein alter Bekannter: Oscar Wilde, Sonderermittler der britischen Krone.
+James Moriarty und Theodora Sachs forschen in Calais nach zwei Flüchtigen. Bald darauf finden sie sich in einem Zug mit Kurs auf Gent wieder. Mit an Bord ist ein alter Bekannter: Oscar Wilde, Sonderermittler der britischen Krone.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Indirekt** — Indirekter Zirkel-Bezug ueber wiederkehrende Kosmos-Figuren und Konfliktlinien, ohne dass ein Zirkelmitglied im offiziellen Figurenblock genannt wird.
+- **Indirekt** — Indirekter Zirkel-Bezug über wiederkehrende Kosmos-Figuren und Konfliktlinien, ohne dass ein Zirkelmitglied im offiziellen Figurenblock genannt wird.
 
 ## Crossover & Querverweise
 

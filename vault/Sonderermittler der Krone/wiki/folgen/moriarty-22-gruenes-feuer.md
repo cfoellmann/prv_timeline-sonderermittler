@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 22
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 68
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - tesla
   - frankenstein
@@ -26,7 +26,7 @@ tags:
 
 # Moriarty – 22: Grünes Feuer
 
-> In der Naehe von Epping Forest kommt es zu seltsamen Lichtphaenomenen. Ein Augenzeuge berichtet von Polarlichtern.
+> In der Nähe von Epping Forest kommt es zu seltsamen Lichtphänomenen. Ein Augenzeuge berichtet von Polarlichtern.
 
 ## Eckdaten
 
@@ -46,7 +46,7 @@ tags:
 
 ## Handlung (grob)
 
-In der Naehe von Epping Forest kommt es zu seltsamen Lichtphaenomenen. Ein Augenzeuge berichtet von Polarlichtern. Moriarty wird auf einen kurzen Zeitungsartikel aufmerksam und reist zusammen mit Crowley und Theodora Sachs zur Ruine von Markham Manor, wo die Lichter beobachtet wurden.
+In der Nähe von Epping Forest kommt es zu seltsamen Lichtphänomenen. Ein Augenzeuge berichtet von Polarlichtern. Moriarty wird auf einen kurzen Zeitungsartikel aufmerksam und reist zusammen mit Crowley und Theodora Sachs zur Ruine von Markham Manor, wo die Lichter beobachtet wurden.
 
 ## Bezug zum Zirkel der Sieben
 

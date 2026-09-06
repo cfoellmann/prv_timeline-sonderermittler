@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-irene-adler
 nummer: 1
@@ -8,7 +8,7 @@ verlag: Blitz Verlag
 autor: ""
 sprecher: []
 spielzeit_min: 54
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
   - irene-adler
@@ -48,12 +48,12 @@ Irene Adler tritt bei einem Shakespeare-Festival in Edinburgh auf und wird vom O
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt im erweiterten Zirkel-Umfeld** — der Klappentext nennt den Zirkel nicht ausbuchstabiert, aber die offizielle Figurenliste fuehrt mit Crowley, Theodora Sachs und Rasputin mehrere bekannte Gegenspieler des Zirkels.
+- **Direkt im erweiterten Zirkel-Umfeld** — der Klappentext nennt den Zirkel nicht ausbuchstabiert, aber die offizielle Figurenliste führt mit Crowley, Theodora Sachs und Rasputin mehrere bekannte Gegenspieler des Zirkels.
 
 ## Crossover & Querverweise
 
 - **Serie:** [[wiki/serien/oscar-wilde-und-irene-adler|Oscar Wilde & Irene Adler – Sonderermittler der Krone]].
-- **Spielt nach:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-56-toedliche-farben|OWMH 56 „Tödliche Farben“]] im Veroeffentlichungskontext der bereits laufenden Wilde-/Adler-Achse.
+- **Spielt nach:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-56-toedliche-farben|OWMH 56 „Tödliche Farben“]] im Veröffentlichungskontext der bereits laufenden Wilde-/Adler-Achse.
 - **Spielt vor:** [[wiki/folgen/oscar-wilde-und-irene-adler-02-die-tragoedie-der-irrungen|WIA 2 „Die Tragödie der Irrungen“]].
 - **Figuren-Anschluss:** Das Duo greift die seit [[wiki/folgen/oscar-wilde-und-mycroft-holmes-16-der-austausch|OWMH 16 „Der Austausch“]] belegte Zusammenarbeit als eigene Blitz-Mini-Serie auf.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 16
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 73
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - tesla
   - dracula
@@ -26,7 +26,7 @@ tags:
 
 # Moriarty – 16: Wo alles endet
 
-> Moriarty ist von dem Wunsch beseelt, sein Leben zu aendern und einem alten Rivalen den Kampf anzusagen. Doch ist dieser Plan mit grossen Gefahren verbunden, denn bei seinem Gegner handelt es sich um niemand Geringeren als den Grafen Dracula.
+> Moriarty ist von dem Wunsch beseelt, sein Leben zu ändern und einem alten Rivalen den Kampf anzusagen. Doch ist dieser Plan mit großen Gefahren verbunden, denn bei seinem Gegner handelt es sich um niemand Geringeren als den Grafen Dracula.
 
 ## Eckdaten
 
@@ -44,7 +44,7 @@ tags:
 
 ## Handlung (grob)
 
-Moriarty ist von dem Wunsch beseelt, sein Leben zu aendern und einem alten Rivalen den Kampf anzusagen. Doch ist dieser Plan mit grossen Gefahren verbunden, denn bei seinem Gegner handelt es sich um niemand Geringeren als den Grafen Dracula. Mittels eines ausgekluegelten Plans gelingt es Moriarty, den Anfuehrer des Zirkels der Sieben in seine alte Heimat, nach Transsylvanien, zu locken.
+Moriarty ist von dem Wunsch beseelt, sein Leben zu ändern und einem alten Rivalen den Kampf anzusagen. Doch ist dieser Plan mit großen Gefahren verbunden, denn bei seinem Gegner handelt es sich um niemand Geringeren als den Grafen Dracula. Mittels eines ausgeklügelten Plans gelingt es Moriarty, den Anführer des Zirkels der Sieben in seine alte Heimat, nach Transsylvanien, zu locken.
 
 ## Bezug zum Zirkel der Sieben
 

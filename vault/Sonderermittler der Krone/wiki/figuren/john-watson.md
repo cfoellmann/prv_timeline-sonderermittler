@@ -1,4 +1,4 @@
-﻿---
+---
 type: figur
 titel: John Watson
 status: entwurf
@@ -18,11 +18,11 @@ tags:
 
 - **Funktion im Kosmos:** Partner und Vertrauter von Sherlock Holmes.
 - **Serienbezug:** zentrale Figur in [[wiki/serien/sherlock-holmes|Sherlock Holmes - Sonderermittler der Krone]].
-- **Weitere Anschluesse:** Laut bereits dokumentierten Folgen taucht Watson auch in [[wiki/serien/moriarty|Moriarty]] sowie spaeter im Umfeld von [[wiki/serien/tesla|Tesla]] als offizielle Figurenpraesenz auf.
+- **Weitere Anschlüsse:** Laut bereits dokumentierten Folgen taucht Watson auch in [[wiki/serien/moriarty|Moriarty]] sowie später im Umfeld von [[wiki/serien/tesla|Tesla]] als offizielle Figurenpräsenz auf.
 
 ## Einordnung
 
-Der aktuelle Repo-Stand behandelt John Watson vor allem als Stabilitaetsfigur der Holmes-Linie. Seine groesste Bedeutung fuer das Universum liegt bisher weniger in einem eigenen Plot-Strang als darin, dass er Holmes durch mehrere direkt zirkelrelevante Handlungsboegen begleitet und dadurch an zentrale Schaltpunkte des Kosmos angebunden ist.
+Der aktuelle Repo-Stand behandelt John Watson vor allem als Stabilitätsfigur der Holmes-Linie. Seine größte Bedeutung für das Universum liegt bisher weniger in einem eigenen Plot-Strang als darin, dass er Holmes durch mehrere direkt zirkelrelevante Handlungsbögen begleitet und dadurch an zentrale Schaltpunkte des Kosmos angebunden ist.
 
 ## Quellen
 

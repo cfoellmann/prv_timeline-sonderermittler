@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 15
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 72
-zirkel: false
+zirkel: indirekt
 crossover_mit:
   - tesla
 spoiler_level: grob
@@ -25,7 +25,7 @@ tags:
 
 # Moriarty – 15: Bilder für die Ewigkeit
 
-> Auf dem Schiff der Verdammten im Hafen von Genua kommt es zu gefaehrlichen Auseinandersetzungen. Moriarty muss alles auf eine Karte setzen, um die entfuehrte Anne Morgan zu befreien.
+> Auf dem Schiff der Verdammten im Hafen von Genua kommt es zu gefährlichen Auseinandersetzungen. Moriarty muss alles auf eine Karte setzen, um die entführte Anne Morgan zu befreien.
 
 ## Eckdaten
 
@@ -41,11 +41,11 @@ tags:
 
 ## Handlung (grob)
 
-Auf dem Schiff der Verdammten im Hafen von Genua kommt es zu gefaehrlichen Auseinandersetzungen. Moriarty muss alles auf eine Karte setzen, um die entfuehrte Anne Morgan zu befreien. Doch kaum an Bord, erlebt er eine unangenehme Ueberraschung.
+Auf dem Schiff der Verdammten im Hafen von Genua kommt es zu gefährlichen Auseinandersetzungen. Moriarty muss alles auf eine Karte setzen, um die entführte Anne Morgan zu befreien. Doch kaum an Bord, erlebt er eine unangenehme Überraschung.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Indirekt** — Indirekter Zirkel-Bezug ueber wiederkehrende Kosmos-Figuren und Konfliktlinien, ohne dass ein Zirkelmitglied im offiziellen Figurenblock genannt wird.
+- **Indirekt** — Indirekter Zirkel-Bezug über wiederkehrende Kosmos-Figuren und Konfliktlinien, ohne dass ein Zirkelmitglied im offiziellen Figurenblock genannt wird.
 
 ## Crossover & Querverweise
 

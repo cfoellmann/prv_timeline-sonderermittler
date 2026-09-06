@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-irene-adler
 nummer: 3
@@ -8,7 +8,7 @@ verlag: Blitz Verlag
 autor: ""
 sprecher: []
 spielzeit_min: 54
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
   - irene-adler
@@ -25,7 +25,7 @@ tags:
 
 # Oscar Wilde & Irene Adler – 3: Ein Sommernachtsalbtraum
 
-> Die offizielle Seite deutet eine Fortsetzung des Macbeth-/Cawdor-Blocks an; Killjoy tritt nun zusaetzlich auf offizieller Figurenebene auf.
+> Die offizielle Seite deutet eine Fortsetzung des Macbeth-/Cawdor-Blocks an; Killjoy tritt nun zusätzlich auf offizieller Figurenebene auf.
 
 ## Eckdaten
 
@@ -44,18 +44,18 @@ tags:
 
 ## Handlung (grob)
 
-Die sichtbare offizielle Folgen-Seite wiederholt derzeit offenbar den Klappentext von Folge 2 nahezu oder ganz wortgleich. Sicher belegt ist damit nur, dass der Plot um die unbekannte Macbeth-Fassung, Cawdor Castle und die Suche konkurrierender Parteien weiterlaeuft. Neu gegenueber Folge 2 ist auf der offiziellen Figurenebene vor allem Killjoy, der nun zusaetzlich gelistet wird. Der genaue neue Aufhaenger dieser dritten Folge bleibt auf Basis der sichtbaren Quelle deshalb teilweise offen.
+Die sichtbare offizielle Folgen-Seite wiederholt derzeit offenbar den Klappentext von Folge 2 nahezu oder ganz wortgleich. Sicher belegt ist damit nur, dass der Plot um die unbekannte Macbeth-Fassung, Cawdor Castle und die Suche konkurrierender Parteien weiterläuft. Neu gegenüber Folge 2 ist auf der offiziellen Figurenebene vor allem Killjoy, der nun zusätzlich gelistet wird. Der genaue neue Aufhänger dieser dritten Folge bleibt auf Basis der sichtbaren Quelle deshalb teilweise offen.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt relevant** — die offizielle Seite wiederholt den Folge-2-Text mit ausdruecklichem Zirkel-Bezug; zusaetzlich weitet die Figurenliste den Gegnerkreis um Killjoy aus.
+- **Direkt relevant** — die offizielle Seite wiederholt den Folge-2-Text mit ausdrücklichem Zirkel-Bezug; zusätzlich weitet die Figurenliste den Gegnerkreis um Killjoy aus.
 
 ## Crossover & Querverweise
 
 - **Serie:** [[wiki/serien/oscar-wilde-und-irene-adler|Oscar Wilde & Irene Adler – Sonderermittler der Krone]].
 - **Spielt nach:** [[wiki/folgen/oscar-wilde-und-irene-adler-02-die-tragoedie-der-irrungen|WIA 2 „Die Tragödie der Irrungen“]].
 - **Spielt vor:** [[wiki/folgen/oscar-wilde-und-irene-adler-04-was-ihr-nicht-wollt|WIA 4 „Was ihr nicht wollt“]].
-- **Quellenhinweis:** Die Beschreibung dieser Folgen-Seite ist derzeit nur eingeschraenkt belastbar, weil der sichtbare Klappentext offenbar ein Dublettenfehler der offiziellen Website ist.
+- **Quellenhinweis:** Die Beschreibung dieser Folgen-Seite ist derzeit nur eingeschränkt belastbar, weil der sichtbare Klappentext offenbar ein Dublettenfehler der offiziellen Website ist.
 
 ## Quellen
 

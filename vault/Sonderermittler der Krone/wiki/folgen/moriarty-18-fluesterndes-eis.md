@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 18
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 67
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - frankenstein
 spoiler_level: grob
@@ -24,7 +24,7 @@ tags:
 
 # Moriarty – 18: Flüsterndes Eis
 
-> Moriarty ist mit dem Wissenschaftler Jason Lightman einen gefaehrlichen Pakt eingegangen: Er bewahrt den Doktor vor dessen drohender Hinrichtung und erhaelt im Gegenzug dessen Forschungsergebnisse auf dem Feld der Kryokonservierung.
+> Moriarty ist mit dem Wissenschaftler Jason Lightman einen gefährlichen Pakt eingegangen: Er bewahrt den Doktor vor dessen drohender Hinrichtung und erhält im Gegenzug dessen Forschungsergebnisse auf dem Feld der Kryokonservierung.
 
 ## Eckdaten
 
@@ -42,7 +42,7 @@ tags:
 
 ## Handlung (grob)
 
-Moriarty ist mit dem Wissenschaftler Jason Lightman einen gefaehrlichen Pakt eingegangen: Er bewahrt den Doktor vor dessen drohender Hinrichtung und erhaelt im Gegenzug dessen Forschungsergebnisse auf dem Feld der Kryokonservierung. Nachdem Moriarty seinen Teil des Versprechens eingehalten hat, reist er zusammen mit Frankenstein und Lightman an einen abgelegenen Kanal, auf dem ein rostiger Kahn, die Persephone, vor Anker liegt. Alles dort scheint friedlich.
+Moriarty ist mit dem Wissenschaftler Jason Lightman einen gefährlichen Pakt eingegangen: Er bewahrt den Doktor vor dessen drohender Hinrichtung und erhält im Gegenzug dessen Forschungsergebnisse auf dem Feld der Kryokonservierung. Nachdem Moriarty seinen Teil des Versprechens eingehalten hat, reist er zusammen mit Frankenstein und Lightman an einen abgelegenen Kanal, auf dem ein rostiger Kahn, die Persephone, vor Anker liegt. Alles dort scheint friedlich.
 
 ## Bezug zum Zirkel der Sieben
 

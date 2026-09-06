@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 4
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 62
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - dracula
   - oscar-wilde-und-mycroft-holmes
@@ -26,7 +26,7 @@ tags:
 
 # Moriarty – 4: Teuflische Jagd
 
-> Ein entsetzliches Verbrechen geschieht in der Cunningham Row. Fuer den ruecksichtslosen Mord an einer alleinstehenden Frau kommt nur ein Mann als Taeter in Frage: James Moriarty!
+> Ein entsetzliches Verbrechen geschieht in der Cunningham Row. Für den rücksichtslosen Mord an einer alleinstehenden Frau kommt nur ein Mann als Täter in Frage: James Moriarty!
 
 ## Eckdaten
 
@@ -45,7 +45,7 @@ tags:
 
 ## Handlung (grob)
 
-Ein entsetzliches Verbrechen geschieht in der Cunningham Row. Fuer den ruecksichtslosen Mord an einer alleinstehenden Frau kommt nur ein Mann als Taeter in Frage: James Moriarty! Er wird noch am Tatort von der Polizei festgenommen.
+Ein entsetzliches Verbrechen geschieht in der Cunningham Row. Für den rücksichtslosen Mord an einer alleinstehenden Frau kommt nur ein Mann als Täter in Frage: James Moriarty! Er wird noch am Tatort von der Polizei festgenommen.
 
 ## Bezug zum Zirkel der Sieben
 

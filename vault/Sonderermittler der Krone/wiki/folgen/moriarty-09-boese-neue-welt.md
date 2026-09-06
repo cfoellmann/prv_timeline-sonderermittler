@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 9
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 64
-zirkel: false
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -23,7 +23,7 @@ tags:
 
 # Moriarty – 9: Böse neue Welt
 
-> An einem einsamen See im US-Bundesstaat New Jersey kommt es gleich zu mehreren denkwuerdigen Begegnungen. Schuesse fallen.
+> An einem einsamen See im US-Bundesstaat New Jersey kommt es gleich zu mehreren denkwürdigen Begegnungen. Schüsse fallen.
 
 ## Eckdaten
 
@@ -38,7 +38,7 @@ tags:
 
 ## Handlung (grob)
 
-An einem einsamen See im US-Bundesstaat New Jersey kommt es gleich zu mehreren denkwuerdigen Begegnungen. Schuesse fallen. Im Gras liegt eine Leiche.
+An einem einsamen See im US-Bundesstaat New Jersey kommt es gleich zu mehreren denkwürdigen Begegnungen. Schüsse fallen. Im Gras liegt eine Leiche.
 
 ## Bezug zum Zirkel der Sieben
 

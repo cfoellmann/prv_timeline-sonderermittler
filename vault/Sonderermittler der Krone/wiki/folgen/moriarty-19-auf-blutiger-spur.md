@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 19
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 70
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - frankenstein
 spoiler_level: grob
@@ -24,7 +24,7 @@ tags:
 
 # Moriarty – 19: Auf blutiger Spur
 
-> Nur mit knapper Not entkommt James Moriarty einem sinkenden Schiff, nur um gleich darauf in die Faenge von Scotland Yard zu geraten.
+> Nur mit knapper Not entkommt James Moriarty einem sinkenden Schiff, nur um gleich darauf in die Fänge von Scotland Yard zu geraten.
 
 ## Eckdaten
 
@@ -41,7 +41,7 @@ tags:
 
 ## Handlung (grob)
 
-Nur mit knapper Not entkommt James Moriarty einem sinkenden Schiff, nur um gleich darauf in die Faenge von Scotland Yard zu geraten. Inspektor Wittenburgh ist darauf versessen, seinen Widersacher vor Gericht zu bringen. Doch ploetzlich nehmen die Ereignisse fuer beide Maenner eine unerwartete Wendung, als die Kutsche auf freier Strecke zum Halten gezwungen wird.
+Nur mit knapper Not entkommt James Moriarty einem sinkenden Schiff, nur um gleich darauf in die Fänge von Scotland Yard zu geraten. Inspektor Wittenburgh ist darauf versessen, seinen Widersacher vor Gericht zu bringen. Doch plötzlich nehmen die Ereignisse für beide Männer eine unerwartete Wendung, als die Kutsche auf freier Strecke zum Halten gezwungen wird.
 
 ## Bezug zum Zirkel der Sieben
 

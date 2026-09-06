@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 17
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 74
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - frankenstein
 spoiler_level: grob
@@ -24,7 +24,7 @@ tags:
 
 # Moriarty – 17: Dem Tod entrissen
 
-> Die Gefaengnisglocke von Pentonville kuendigt den Tod von Doktor Jason Lightman an. Nebel kriecht ueber den Gefaengnishof.
+> Die Gefängnisglocke von Pentonville kündigt den Tod von Doktor Jason Lightman an. Nebel kriecht über den Gefängnishof.
 
 ## Eckdaten
 
@@ -42,7 +42,7 @@ tags:
 
 ## Handlung (grob)
 
-Die Gefaengnisglocke von Pentonville kuendigt den Tod von Doktor Jason Lightman an. Nebel kriecht ueber den Gefaengnishof. Duester und bedrohlich ragt der Galgen aus dem weissen Dunst.
+Die Gefängnisglocke von Pentonville kündigt den Tod von Doktor Jason Lightman an. Nebel kriecht über den Gefängnishof. Düster und bedrohlich ragt der Galgen aus dem weißen Dunst.
 
 ## Bezug zum Zirkel der Sieben
 

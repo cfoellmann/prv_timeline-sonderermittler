@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: sherlock-holmes
 nummer: 1
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 72
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - moriarty
 spoiler_level: grob
@@ -24,7 +24,7 @@ tags:
 
 # Sherlock Holmes – 1: Dunkle Kräfte, Teil 1
 
-> Kurz nach einem schweren Schlag des Zirkels der Sieben stoesst Sherlock Holmes in einen Fall, den Mycroft Holmes und Professor van Dusen bereits untersuchen.
+> Kurz nach einem schweren Schlag des Zirkels der Sieben stößt Sherlock Holmes in einen Fall, den Mycroft Holmes und Professor van Dusen bereits untersuchen.
 
 ## Eckdaten
 
@@ -44,16 +44,16 @@ tags:
 
 ## Handlung (grob)
 
-England hat sich kaum von einem Schlag des Zirkels der Sieben erholt, als Mycroft Holmes mit einer seltsamen Vergiftungsserie konfrontiert wird. Professor van Dusen untersucht den Tatort bereits, als Sherlock Holmes unerwartet dazustoesst und erkennt, dass jemand die Ermittler absichtlich zusammenfuehrt. Kaum beginnen sie, der ungewoehnlichen Mordmethode nachzugehen, deutet sich schon das naechste Verbrechen an. Der Fall wirkt von Beginn an wie ein kalkuliertes Spiel gegen mehrere der kluegsten Koepfe des Kosmos.
+England hat sich kaum von einem Schlag des Zirkels der Sieben erholt, als Mycroft Holmes mit einer seltsamen Vergiftungsserie konfrontiert wird. Professor van Dusen untersucht den Tatort bereits, als Sherlock Holmes unerwartet dazustößt und erkennt, dass jemand die Ermittler absichtlich zusammenführt. Kaum beginnen sie, der ungewöhnlichen Mordmethode nachzugehen, deutet sich schon das nächste Verbrechen an. Der Fall wirkt von Beginn an wie ein kalkuliertes Spiel gegen mehrere der klügsten Köpfe des Kosmos.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — der offizielle Klappentext setzt die Handlung ausdruecklich nach einem Schlag des [[wiki/konzepte/zirkel-der-sieben|Zirkels der Sieben]] an.
+- **Direkt** — der offizielle Klappentext setzt die Handlung ausdrücklich nach einem Schlag des [[wiki/konzepte/zirkel-der-sieben|Zirkels der Sieben]] an.
 
 ## Crossover & Querverweise
 
 - **Serie:** [[wiki/serien/sherlock-holmes|Sherlock Holmes – Sonderermittler der Krone]].
-- **Kosmos-Anschluss:** Verknuepft Sherlock Holmes frueh mit [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] und [[wiki/figuren/james-moriarty|James Moriarty]].
+- **Kosmos-Anschluss:** Verknüpft Sherlock Holmes früh mit [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] und [[wiki/figuren/james-moriarty|James Moriarty]].
 - **Spielt vor:** [[wiki/folgen/sherlock-holmes-02-dunkle-kraefte-teil-2|SH 2 „Dunkle Kräfte, Teil 2“]].
 
 ## Quellen

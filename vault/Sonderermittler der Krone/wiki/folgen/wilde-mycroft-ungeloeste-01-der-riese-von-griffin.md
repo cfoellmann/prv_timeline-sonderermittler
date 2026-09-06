@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: wilde-mycroft-ungeloeste
 nummer: 1
@@ -8,7 +8,7 @@ verlag: Blitz Verlag
 autor: ""
 sprecher: []
 spielzeit_min: 54
-zirkel: false
+zirkel: unklar
 crossover_mit: []
 spoiler_level: grob
 status: entwurf

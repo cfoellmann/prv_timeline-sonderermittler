@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 10
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 62
-zirkel: false
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -23,7 +23,7 @@ tags:
 
 # Moriarty – 10: Familienbande
 
-> James Moriarty ist in den Vereinigten Staaten von Amerika im Hause der Familie Lockwood untergekommen und beginnt von dort aus, seine verbrecherischen Faeden zu spinnen.
+> James Moriarty ist in den Vereinigten Staaten von Amerika im Hause der Familie Lockwood untergekommen und beginnt von dort aus, seine verbrecherischen Fäden zu spinnen.
 
 ## Eckdaten
 
@@ -38,7 +38,7 @@ tags:
 
 ## Handlung (grob)
 
-James Moriarty ist in den Vereinigten Staaten von Amerika im Hause der Familie Lockwood untergekommen und beginnt von dort aus, seine verbrecherischen Faeden zu spinnen. Dabei stolpert er jedoch in einen heiklen Entfuehrungsfall, der schon bald mehrere Tote nach sich zieht. Moriarty begibt sich auf die Suche nach dem vermissten Norman Lockwood und geraet dabei zwischen die Fronten zweier verfeindeter Familien, die eines gemeinsam haben: Sie alle handeln skrupellos und kennen keine Gnade.
+James Moriarty ist in den Vereinigten Staaten von Amerika im Hause der Familie Lockwood untergekommen und beginnt von dort aus, seine verbrecherischen Fäden zu spinnen. Dabei stolpert er jedoch in einen heiklen Entführungsfall, der schon bald mehrere Tote nach sich zieht. Moriarty begibt sich auf die Suche nach dem vermissten Norman Lockwood und gerät dabei zwischen die Fronten zweier verfeindeter Familien, die eines gemeinsam haben: Sie alle handeln skrupellos und kennen keine Gnade.
 
 ## Bezug zum Zirkel der Sieben
 

@@ -1,4 +1,4 @@
-﻿---
+---
 type: figur
 titel: Mata Hari
 fraktion: antagonistisch
@@ -31,8 +31,8 @@ Mata Hari wird im Maritim-Kosmos als exotische Femme Fatale und geschickte Spion
 
 ### Poe & Dupin
 
-- EAPAD 21 – Tod eines Feindes: Als Kandidatin für den freien Zirkel-Posten erwähnt (neben Lupin und Houdini)
-- EAPAD 23 – Der falsche Saphir: Versucht, den wertvollsten Saphir der Welt für den Zirkel zu stehlen
+- [[wiki/folgen/poe-und-dupin-21-tod-eines-feindes|EAPAD 21 – Tod eines Feindes]]: Als Kandidatin für den freien Zirkel-Posten erwähnt (neben [[wiki/figuren/arsene-lupin|Arsène Lupin]] und [[wiki/figuren/harry-houdini|Harry Houdini]])
+- [[wiki/folgen/poe-und-dupin-23-der-falsche-saphir|EAPAD 23 – Der falsche Saphir]]: Versucht, den wertvollsten Saphir der Welt für den Zirkel zu stehlen
 
 ### Moriarty
 

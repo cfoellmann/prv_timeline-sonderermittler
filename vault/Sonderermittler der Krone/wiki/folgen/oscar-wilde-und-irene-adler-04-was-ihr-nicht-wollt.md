@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: oscar-wilde-und-irene-adler
 nummer: 4
@@ -8,7 +8,7 @@ verlag: Blitz Verlag
 autor: ""
 sprecher: []
 spielzeit_min: 54
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
   - irene-adler
@@ -25,7 +25,7 @@ tags:
 
 # Oscar Wilde & Irene Adler – 4: Was ihr nicht wollt
 
-> Nach der Flucht aus Stratford upon Avon muessen Wilde und Adler einen Anschlag auf Parlament und Buckingham Palace stoppen.
+> Nach der Flucht aus Stratford upon Avon müssen Wilde und Adler einen Anschlag auf Parlament und Buckingham Palace stoppen.
 
 ## Eckdaten
 
@@ -37,24 +37,24 @@ tags:
 
 ## Hauptfiguren
 
-- [[wiki/figuren/oscar-wilde|Oscar Wilde]] — muss nach der Flucht vor seinen Verfolgern sofort den naechsten Gegenschlag abwehren.
+- [[wiki/figuren/oscar-wilde|Oscar Wilde]] — muss nach der Flucht vor seinen Verfolgern sofort den nächsten Gegenschlag abwehren.
 - [[wiki/figuren/irene-adler|Irene Adler]] — bleibt gemeinsam mit Wilde in einer hochpolitischen Endphase des Falls.
 - [[wiki/figuren/theodora-sachs|Theodora Sachs]] — ist auf der offiziellen Folgen-Seite als Figur gelistet.
 - Aleister Crowley, Rasputin und Killjoy — sind auf der offiziellen Folgen-Seite ebenfalls als Figuren gelistet.
 
 ## Handlung (grob)
 
-Nur knapp entkommen Wilde und Adler ihren Verfolgern in Stratford upon Avon. Waerend sie noch versuchen, wieder Handlungsspielraum zu gewinnen, hat Aleister Crowley bereits einen hochwirksamen Sprengstoff hergestellt. Die drohende Katastrophe richtet sich nun unmittelbar gegen das englische Parlament und den Buckingham Palace. Damit wird aus dem literarischen Suchfall endgueltig ein Anschlagsplot gegen das Zentrum der Monarchie.
+Nur knapp entkommen Wilde und Adler ihren Verfolgern in Stratford upon Avon. Während sie noch versuchen, wieder Handlungsspielraum zu gewinnen, hat Aleister Crowley bereits einen hochwirksamen Sprengstoff hergestellt. Die drohende Katastrophe richtet sich nun unmittelbar gegen das englische Parlament und den Buckingham Palace. Damit wird aus dem literarischen Suchfall endgültig ein Anschlagsplot gegen das Zentrum der Monarchie.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt relevant** — Crowley wird im Klappentext als treibende Kraft des Anschlags genannt, und die offizielle Figurenliste fuehrt weitere bekannte Zirkel-Gegner.
+- **Direkt relevant** — Crowley wird im Klappentext als treibende Kraft des Anschlags genannt, und die offizielle Figurenliste führt weitere bekannte Zirkel-Gegner.
 
 ## Crossover & Querverweise
 
 - **Serie:** [[wiki/serien/oscar-wilde-und-irene-adler|Oscar Wilde & Irene Adler – Sonderermittler der Krone]].
 - **Spielt nach:** [[wiki/folgen/oscar-wilde-und-irene-adler-03-ein-sommernachtsalbtraum|WIA 3 „Ein Sommernachtsalbtraum“]].
-- **Mini-Serien-Finale:** Schliesst den aktuell lokal belegten vierteiligen Wilde/Adler-Block ab.
+- **Mini-Serien-Finale:** Schließt den aktuell lokal belegten vierteiligen Wilde/Adler-Block ab.
 - **Kosmos-Anschluss:** Die Folge bindet das Duo direkt an eine erneute Bedrohung von Krone und Staat.
 
 ## Quellen

@@ -1,4 +1,4 @@
-﻿---
+---
 type: figur
 titel: Aouda
 aliase:
@@ -36,7 +36,7 @@ Aouda ist eine zentrale Figur in der Phileas-Fogg-Serie und begleitet Fogg als s
 Aouda erscheint in zahlreichen Episoden der Phileas-Fogg-Serie, darunter:
 
 - [[wiki/folgen/phileas-fogg-09-im-reich-des-zaren|DNAPF 9 – Im Reich des Zaren]] — Reise durch Russland mit Fogg und Passepartout
-- [[wiki/folgen/phileas-fogg-22-die-gasse-der-fluesternden-schatten|DNAPF 22 – Die Gasse der fluesternden Schatten]] (2020)
+- [[wiki/folgen/phileas-fogg-22-die-gasse-der-fluesternden-schatten|DNAPF 22 – Die Gasse der flüsternden Schatten]] (2020)
 - [[wiki/folgen/phileas-fogg-23-verschwoerung-auf-dem-atlantik|DNAPF 23 – Verschwörung auf dem Atlantik]] (2020)
 - [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel|DNAPF 24 – Die geheimnisvolle Insel]] (08.05.2020) — Aoudas Spur führt in dunklen Machtkonflikt
 - [[wiki/folgen/phileas-fogg-25-diamantenjaeger|DNAPF 25 – Diamantenjäger]] (2020) — **Aoudas Verschwinden** treibt Handlung

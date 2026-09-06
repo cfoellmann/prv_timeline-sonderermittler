@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: sherlock-holmes
 nummer: 2
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 70
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - moriarty
 spoiler_level: grob
@@ -25,7 +25,7 @@ tags:
 
 # Sherlock Holmes – 2: Dunkle Kräfte, Teil 2
 
-> Holmes und Professor van Dusen verfolgen dieselbe Mordserie weiter und stossen dabei auch auf Moriarty.
+> Holmes und Professor van Dusen verfolgen dieselbe Mordserie weiter und stoßen dabei auch auf Moriarty.
 
 ## Eckdaten
 
@@ -38,18 +38,18 @@ tags:
 
 ## Hauptfiguren
 
-- [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] — verfolgt die naechsten Spuren der Mordserie.
+- [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] — verfolgt die nächsten Spuren der Mordserie.
 - [[wiki/figuren/john-watson|John Watson]] — ist auf der offiziellen Seite als Figur gelistet.
-- [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — bleibt ueber die Figurenliste im Fall praesent.
+- [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — bleibt über die Figurenliste im Fall präsent.
 - [[wiki/figuren/james-moriarty|James Moriarty]] — wird zum Teil der weiteren Spurensuche.
 
 ## Handlung (grob)
 
-Weitere raetselhafte Verbrechen beunruhigen London und zwingen Sherlock Holmes und Professor van Dusen dazu, mal gemeinsam, mal getrennt nach dem Taeter zu suchen. Ihre Nachforschungen fuehren sie in ein verlassenes Theater, in eine Londoner Waescherei und schliesslich nach Sussex. Dort begegnen sie nicht nur neuen Verdaechtigen, sondern auch dem Mann, der sich Moriarty nennt. Damit weitet der Zweiteiler den Holmes-Plot zu einem klaren Kosmos-Scharnier aus.
+Weitere rätselhafte Verbrechen beunruhigen London und zwingen Sherlock Holmes und Professor van Dusen dazu, mal gemeinsam, mal getrennt nach dem Täter zu suchen. Ihre Nachforschungen führen sie in ein verlassenes Theater, in eine Londoner Wäscherei und schließlich nach Sussex. Dort begegnen sie nicht nur neuen Verdächtigen, sondern auch dem Mann, der sich Moriarty nennt. Damit weitet der Zweiteiler den Holmes-Plot zu einem klaren Kosmos-Scharnier aus.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — als zweiter Teil des Auftaktfalls fuehrt die Folge den nach dem Zirkel-Schlag begonnenen Konflikt fort.
+- **Direkt** — als zweiter Teil des Auftaktfalls führt die Folge den nach dem Zirkel-Schlag begonnenen Konflikt fort.
 
 ## Crossover & Querverweise
 

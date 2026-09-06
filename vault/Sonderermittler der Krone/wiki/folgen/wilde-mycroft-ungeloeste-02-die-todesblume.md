@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: wilde-mycroft-ungeloeste
 nummer: 2
@@ -8,7 +8,7 @@ verlag: Blitz Verlag
 autor: ""
 sprecher: []
 spielzeit_min: 54
-zirkel: false
+zirkel: unklar
 crossover_mit:
   - irene-adler
 spoiler_level: grob

@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: sherlock-holmes
 nummer: 9
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 62
-zirkel: false
+zirkel: unklar
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -42,7 +42,7 @@ tags:
 
 ## Handlung (grob)
 
-Der Geigenbauer Alessio Longo wird tot in seiner Werkstatt aufgefunden. Weil Holmes selbst zu dessen Kundenkreis gehoert, beginnt er auf Bitte eines Freundes des Ermordeten mit den Ermittlungen. Schnell stoesst er auf gefälschte Stradivaris und auf die Frage, welche Rolle Longo in diesen Geschäften spielte. Der Fall wirkt zunächst noch wie ein klassischer Kriminalfall, bereitet aber den deutlich kosmosrelevanteren Musik- und Artefaktstrang der Folgentrilogie vor.
+Der Geigenbauer Alessio Longo wird tot in seiner Werkstatt aufgefunden. Weil Holmes selbst zu dessen Kundenkreis gehört, beginnt er auf Bitte eines Freundes des Ermordeten mit den Ermittlungen. Schnell stößt er auf gefälschte Stradivaris und auf die Frage, welche Rolle Longo in diesen Geschäften spielte. Der Fall wirkt zunächst noch wie ein klassischer Kriminalfall, bereitet aber den deutlich kosmosrelevanteren Musik- und Artefaktstrang der Folgentrilogie vor.
 
 ## Bezug zum Zirkel der Sieben
 

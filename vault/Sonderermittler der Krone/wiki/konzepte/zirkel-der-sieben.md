@@ -1,4 +1,4 @@
-﻿---
+---
 type: konzept
 titel: Zirkel der Sieben
 status: entwurf
@@ -76,6 +76,7 @@ Wird beim Folgen-Ingest gefüllt — Format wie in der Vorlage in [CLAUDE.md](..
 - *Welche Folge ist der „kanonische Einstieg" in den Zirkel-Plot?* — Sekundärquellen empfehlen [[wiki/serien/oscar-wilde-und-mycroft-holmes]] Folgen 1, 4, 5 als Zirkel-Setup.
 - *Genaue Hierarchie im Zirkel:* Dracula als Anführer ist gesetzt, die Rangfolge der übrigen sechs ist unklar.
 - *Wann genau wird Morell als 7. Mitglied aufgenommen?* — In EAPAD 13 „Aufnahmeprüfung", erst dort ist der Zirkel komplett.
+- ⚠️ *Wer rückt nach Morells Tod auf den siebten Platz?* — **Ungeklärt.** [[wiki/folgen/poe-und-dupin-21-tod-eines-feindes|EAPAD 21 „Tod eines Feindes"]] belegt, dass [[wiki/figuren/gaston-morell|Gaston Morell]] in einer tödlichen Auseinandersetzung mit dem Zirkel stirbt und [[wiki/figuren/dracula|Dracula]] den Platz mit einem von drei Anwärtern füllen will: dem Gentleman-Dieb [[wiki/figuren/arsene-lupin|Arsène Lupin]], der Spionin [[wiki/figuren/mata-hari|Mata Hari]] und dem Entfesselungskünstler [[wiki/figuren/harry-houdini|Harry Houdini]]. Die Prüfung läuft über EAPAD 22 und 23 (Diebstahl des wertvollsten Saphirs der Welt). **Der Ausgang ist im Repo nicht dokumentiert.** Indizien aus dem späteren Verlauf: Mata Hari ist durchgängig als Zirkel-Operative etabliert (aber ausdrücklich *nicht* als Kernmitglied geführt), Houdini steht 2026 auf Ermittlerseite, Lupin taucht nach EAPAD 23 nicht mehr auf. Beim Hören von EAPAD 21–23 klären.
 
 ## Quellen
 

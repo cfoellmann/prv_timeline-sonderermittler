@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: kapitaen-nemo
 nummer: 2
@@ -8,7 +8,7 @@ verlag: Blitz Verlag
 autor: ""
 sprecher: []
 spielzeit_min: 48
-zirkel: false
+zirkel: unklar
 crossover_mit:
   - phileas-fogg
 spoiler_level: grob
@@ -22,9 +22,9 @@ tags:
   - insel
 ---
 
-# Die Abenteuer des Kapitaen Nemo – 2: Das Geheimnis der Insel
+# Die Abenteuer des Kapitän Nemo – 2: Das Geheimnis der Insel
 
-> Eine Entfuehrung, ein Piratenschiff und ein schwer verletzter Gefaehrte treiben die Gestrandeten tiefer in das gefaehrliche Insel-Abenteuer hinein.
+> Eine Entführung, ein Piratenschiff und ein schwer verletzter Gefährte treiben die Gestrandeten tiefer in das gefährliche Insel-Abenteuer hinein.
 
 ## Eckdaten
 
@@ -37,12 +37,12 @@ tags:
 
 ## Hauptfiguren
 
-- [[wiki/figuren/kapitaen-nemo|Kapitaen Nemo]] — fuehrt den Rueckblick ueber das Insel-Abenteuer weiter.
-- [[wiki/figuren/phileas-fogg|Phileas Fogg]] — bleibt in der Rahmenhandlung der Zuhoerer von Nemos Bericht.
+- [[wiki/figuren/kapitaen-nemo|Kapitän Nemo]] — führt den Rückblick über das Insel-Abenteuer weiter.
+- [[wiki/figuren/phileas-fogg|Phileas Fogg]] — bleibt in der Rahmenhandlung der Zuhörer von Nemos Bericht.
 
 ## Handlung (grob)
 
-Die Gestrandeten muessen feststellen, dass Hilma Braun entfuehrt wurde, und wollen sofort zu einer Suchaktion aufbrechen. Bevor sie dazu kommen, taucht vor der Insel ein Piratenschiff auf, das die Lage weiter zuspitzt. Pencroff wagt sich an Bord, loest damit jedoch eine Eskalation aus, bei der die Piraten die Gruppe direkt angreifen und Maatene Huatare lebensgefaehrlich verletzen. Unerwartete Hilfe von einem Unbekannten rettet die Lage im letzten Moment, deutet aber zugleich an, dass das eigentliche Abenteuer erst beginnt.
+Die Gestrandeten müssen feststellen, dass Hilma Braun entführt wurde, und wollen sofort zu einer Suchaktion aufbrechen. Bevor sie dazu kommen, taucht vor der Insel ein Piratenschiff auf, das die Lage weiter zuspitzt. Pencroff wagt sich an Bord, löst damit jedoch eine Eskalation aus, bei der die Piraten die Gruppe direkt angreifen und Maatene Huatare lebensgefährlich verletzen. Unerwartete Hilfe von einem Unbekannten rettet die Lage im letzten Moment, deutet aber zugleich an, dass das eigentliche Abenteuer erst beginnt.
 
 ## Bezug zum Zirkel der Sieben
 
@@ -50,8 +50,8 @@ Die Gestrandeten muessen feststellen, dass Hilma Braun entfuehrt wurde, und woll
 
 ## Crossover & Querverweise
 
-- **Serie:** [[wiki/serien/kapitaen-nemo|Die Abenteuer des Kapitaen Nemo]].
-- **Rahmenfigur:** [[wiki/figuren/phileas-fogg|Phileas Fogg]] haelt die Folge an [[wiki/serien/phileas-fogg|Phileas Fogg]] angebunden.
+- **Serie:** [[wiki/serien/kapitaen-nemo|Die Abenteuer des Kapitän Nemo]].
+- **Rahmenfigur:** [[wiki/figuren/phileas-fogg|Phileas Fogg]] hält die Folge an [[wiki/serien/phileas-fogg|Phileas Fogg]] angebunden.
 - **Spielt nach:** [[wiki/folgen/kapitaen-nemo-01-die-gestrandeten-des-luftmeeres|NEM 1 „Die Gestrandeten des Luftmeeres“]].
 
 ## Quellen

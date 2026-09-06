@@ -1,4 +1,4 @@
-﻿---
+---
 type: figur
 titel: James Moriarty
 sprecher: Andreas Fröhlich
@@ -20,16 +20,16 @@ tags:
 
 - **Sprecher:** Andreas Fröhlich.
 - **Zentrale Reihe:** [[wiki/serien/moriarty|Moriarty – Zwischen Genie und Verbrechen]].
-- **Rolle im Kosmos:** Gegenpol zu Sherlock Holmes, Strippenzieher eigener Plaene und wiederkehrender Machtfaktor im Zirkel-Umfeld.
+- **Rolle im Kosmos:** Gegenpol zu Sherlock Holmes, Strippenzieher eigener Pläne und wiederkehrender Machtfaktor im Zirkel-Umfeld.
 
 ## Auftritte im aktuellen Repo-Stand
 
 - **Eigene Reihe:** [[wiki/serien/moriarty|Moriarty – Zwischen Genie und Verbrechen]] mit Folgen `0` bis `24`.
-- **Weitere Anschluesse:** [[wiki/serien/tesla|Tesla]] nennt Moriarty als zentrale Druckfigur; das Repo fuehrt zudem den Grundstein ueber [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes & Co.]].
+- **Weitere Anschlüsse:** [[wiki/serien/tesla|Tesla]] nennt Moriarty als zentrale Druckfigur; das Repo führt zudem den Grundstein über [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes & Co.]].
 
 ## Bezug zum Zirkel der Sieben
 
-- **Ambivalent, aber direkt relevant** — Moriarty arbeitet nicht einfach nur fuer den Zirkel. Das offizielle Profil beschreibt ihn vielmehr als Akteur, der zugleich gegen eigene Feinde und gegen den Zirkel intrigiert.
+- **Ambivalent, aber direkt relevant** — Moriarty arbeitet nicht einfach nur für den Zirkel. Das offizielle Profil beschreibt ihn vielmehr als Akteur, der zugleich gegen eigene Feinde und gegen den Zirkel intrigiert.
 
 ## Quellen
 

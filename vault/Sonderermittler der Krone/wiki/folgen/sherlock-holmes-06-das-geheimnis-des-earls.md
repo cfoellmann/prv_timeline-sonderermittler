@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: sherlock-holmes
 nummer: 6
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 61
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
   - irene-adler
@@ -26,7 +26,7 @@ tags:
 
 # Sherlock Holmes – 6: Das Geheimnis des Earls
 
-> Durch Oscar Wilde fuehrt eine Spur aus Grail's Hollow Sherlock Holmes in einen weiteren Fall um Killjoy, Irene Adler und die Krone.
+> Durch Oscar Wilde führt eine Spur aus Grail's Hollow Sherlock Holmes in einen weiteren Fall um Killjoy, Irene Adler und die Krone.
 
 ## Eckdaten
 
@@ -42,15 +42,15 @@ tags:
 - [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] — nimmt den Kampf gegen Killjoy bewusst auf.
 - [[wiki/figuren/john-watson|John Watson]] — begleitet Holmes erneut aktiv.
 - [[wiki/figuren/irene-adler|Irene Adler]] — ist auf der offiziellen Seite als Figur gelistet.
-- [[wiki/figuren/oscar-wilde|Oscar Wilde]] — liefert laut Klappentext den entscheidenden Hinweis auf aehnliche Vorfaelle.
+- [[wiki/figuren/oscar-wilde|Oscar Wilde]] — liefert laut Klappentext den entscheidenden Hinweis auf ähnliche Vorfälle.
 
 ## Handlung (grob)
 
-Sherlock Holmes beschliesst, den Kampf gegen Killjoy fortzusetzen, nachdem Oscar Wilde ihn auf aehnliche Vorfaelle wie in Grail's Hollow aufmerksam gemacht hat. Gemeinsam mit Dr. Watson reist er in einen kleinen Ort nahe London, in dem offenbar niemand etwas gesehen oder gehoert haben will. Der Fund einer Leiche gibt der Untersuchung eine konkrete Richtung. Damit wird aus einem lokalen Nachfolgefall zugleich ein klarer Anschluss an die OWMH-Hauptlinie.
+Sherlock Holmes beschließt, den Kampf gegen Killjoy fortzusetzen, nachdem Oscar Wilde ihn auf ähnliche Vorfälle wie in Grail's Hollow aufmerksam gemacht hat. Gemeinsam mit Dr. Watson reist er in einen kleinen Ort nahe London, in dem offenbar niemand etwas gesehen oder gehört haben will. Der Fund einer Leiche gibt der Untersuchung eine konkrete Richtung. Damit wird aus einem lokalen Nachfolgefall zugleich ein klarer Anschluss an die OWMH-Hauptlinie.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — die Folge fuehrt den Killjoy-/Grail's-Hollow-Komplex weiter und bindet Holmes ueber Oscar Wilde enger an den laufenden Kosmos-Konflikt.
+- **Direkt** — die Folge führt den Killjoy-/Grail's-Hollow-Komplex weiter und bindet Holmes über Oscar Wilde enger an den laufenden Kosmos-Konflikt.
 
 ## Crossover & Querverweise
 

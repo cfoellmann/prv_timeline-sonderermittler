@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 2
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 65
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - dracula
 spoiler_level: grob
@@ -24,7 +24,7 @@ tags:
 
 # Moriarty – 2: Die Wiege des Verbrechens
 
-> Das Verbrechen hat einen neuen Namen: James Moriarty. Er ist ein Mann, den niemand genau einzuordnen weiss.
+> Das Verbrechen hat einen neuen Namen: James Moriarty. Er ist ein Mann, den niemand genau einzuordnen weiß.
 
 ## Eckdaten
 
@@ -42,7 +42,7 @@ tags:
 
 ## Handlung (grob)
 
-Das Verbrechen hat einen neuen Namen: James Moriarty. Er ist ein Mann, den niemand genau einzuordnen weiss. Sowohl die Agentin Theodora Sachs als auch Inspektor Stafford von Scotland Yard interessieren sich brennend fuer den geheimnisvollen Fremden, von dem bisher kaum mehr als sein Name bekannt ist.
+Das Verbrechen hat einen neuen Namen: James Moriarty. Er ist ein Mann, den niemand genau einzuordnen weiß. Sowohl die Agentin Theodora Sachs als auch Inspektor Stafford von Scotland Yard interessieren sich brennend für den geheimnisvollen Fremden, von dem bisher kaum mehr als sein Name bekannt ist.
 
 ## Bezug zum Zirkel der Sieben
 

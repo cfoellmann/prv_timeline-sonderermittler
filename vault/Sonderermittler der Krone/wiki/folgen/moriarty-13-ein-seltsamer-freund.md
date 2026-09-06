@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 13
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 69
-zirkel: false
+zirkel: indirekt
 crossover_mit:
   - tesla
 spoiler_level: grob
@@ -25,7 +25,7 @@ tags:
 
 # Moriarty – 13: Ein seltsamer Freund
 
-> In Genf trifft James Moriarty auf den Erfinder Nikola Tesla. Die Begegnung ist nicht zufaellig, was Tesla jedoch zunaechst nicht ahnt.
+> In Genf trifft James Moriarty auf den Erfinder Nikola Tesla. Die Begegnung ist nicht zufällig, was Tesla jedoch zunächst nicht ahnt.
 
 ## Eckdaten
 
@@ -41,11 +41,11 @@ tags:
 
 ## Handlung (grob)
 
-In Genf trifft James Moriarty auf den Erfinder Nikola Tesla. Die Begegnung ist nicht zufaellig, was Tesla jedoch zunaechst nicht ahnt. Um Tesla fuer seine Plaene zu gewinnen, bietet Moriarty dem Forscher einen Pakt an, bei dem sich die beiden Maenner gegenseitig aushelfen.
+In Genf trifft James Moriarty auf den Erfinder Nikola Tesla. Die Begegnung ist nicht zufällig, was Tesla jedoch zunächst nicht ahnt. Um Tesla für seine Pläne zu gewinnen, bietet Moriarty dem Forscher einen Pakt an, bei dem sich die beiden Männer gegenseitig aushelfen.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Indirekt** — Indirekter Zirkel-Bezug ueber wiederkehrende Kosmos-Figuren und Konfliktlinien, ohne dass ein Zirkelmitglied im offiziellen Figurenblock genannt wird.
+- **Indirekt** — Indirekter Zirkel-Bezug über wiederkehrende Kosmos-Figuren und Konfliktlinien, ohne dass ein Zirkelmitglied im offiziellen Figurenblock genannt wird.
 
 ## Crossover & Querverweise
 

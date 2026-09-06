@@ -1,5 +1,6 @@
-﻿---
+---
 type: weiterleitung
+titel: Aus den Archiven von Sherlock Holmes
 ziel: wiki/serien/sherlock-holmes
 status: weiterleitung
 ---

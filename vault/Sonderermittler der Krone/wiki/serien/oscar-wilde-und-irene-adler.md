@@ -1,4 +1,4 @@
-﻿---
+---
 type: serie
 titel: Oscar Wilde & Irene Adler – Sonderermittler der Krone
 verlag: Blitz Verlag
@@ -29,7 +29,7 @@ tags:
 - **Genre:** Krimi
 - **Erstveröffentlichung:** 25.10.2024
 - **Folgenstand:** 4 (Stand 2026-04-29)
-- **Bezug zum Zirkel:** direkt — die offizielle Folgenlage verknuepft die Mini-Serie durch Crowley, Theodora Sachs, Rasputin, Killjoy und einen offenen Zirkel-Hinweis in Folge 2/3 unmittelbar mit dem Gegnernetzwerk.
+- **Bezug zum Zirkel:** direkt — die offizielle Folgenlage verknüpft die Mini-Serie durch Crowley, Theodora Sachs, Rasputin, Killjoy und einen offenen Zirkel-Hinweis in Folge 2/3 unmittelbar mit dem Gegnernetzwerk.
 - **Reihenfunktion im Kosmos:** verdichtet die lang aufgebaute Zusammenarbeit von Wilde und Adler zu einer eigenen Blitz-Crossover-Linie.
 
 ## Hauptfiguren
@@ -40,21 +40,21 @@ tags:
 
 ## Kosmos-Funktion
 
-- Die Reihe baut auf einer bereits laenger etablierten Zusammenarbeit von Oscar Wilde und Irene Adler auf, statt das Duo neu einzufuehren.
+- Die Reihe baut auf einer bereits länger etablierten Zusammenarbeit von Oscar Wilde und Irene Adler auf, statt das Duo neu einzuführen.
 - Lokal belegt ist ihr erster gemeinsamer Serienanschluss in [[wiki/folgen/oscar-wilde-und-mycroft-holmes-16-der-austausch|OWMH 16 — Der Austausch]].
-- Spaetere OWMH-Folgen fuehren beide wiederholt als gemeinsames Einsatzteam, etwa in [[wiki/folgen/oscar-wilde-und-mycroft-holmes-34-asche-und-rauch|OWMH 34]], [[wiki/folgen/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis|OWMH 50]] sowie dem spaeten Block [[wiki/folgen/oscar-wilde-und-mycroft-holmes-51-diadem-der-macht|51]] bis [[wiki/folgen/oscar-wilde-und-mycroft-holmes-56-toedliche-farben|56]].
-- Auch benachbarte Reihen behandeln Irene Adler und Oscar Wilde bereits als Teil derselben spaeten Ermittlerbewegung, etwa [[wiki/serien/sherlock-holmes|Sherlock Holmes – Sonderermittler der Krone]], [[wiki/serien/wilde-mycroft-ungeloeste|Wilde/Mycroft ungeloeste Faelle]] und [[wiki/serien/phileas-fogg|Phileas Fogg]] ueber [[wiki/folgen/phileas-fogg-47-der-schwarze-spiegel|DNAPF 47]].
+- Spätere OWMH-Folgen führen beide wiederholt als gemeinsames Einsatzteam, etwa in [[wiki/folgen/oscar-wilde-und-mycroft-holmes-34-asche-und-rauch|OWMH 34]], [[wiki/folgen/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis|OWMH 50]] sowie dem späten Block [[wiki/folgen/oscar-wilde-und-mycroft-holmes-51-diadem-der-macht|51]] bis [[wiki/folgen/oscar-wilde-und-mycroft-holmes-56-toedliche-farben|56]].
+- Auch benachbarte Reihen behandeln Irene Adler und Oscar Wilde bereits als Teil derselben späten Ermittlerbewegung, etwa [[wiki/serien/sherlock-holmes|Sherlock Holmes – Sonderermittler der Krone]], [[wiki/serien/wilde-mycroft-ungeloeste|Wilde/Mycroft ungelöste Fälle]] und [[wiki/serien/phileas-fogg|Phileas Fogg]] über [[wiki/folgen/phileas-fogg-47-der-schwarze-spiegel|DNAPF 47]].
 
 ## Belegte Vorlaufpunkte im Repo
 
-| Anker | Funktion fuer die Mini-Serie | Beleglage |
+| Anker | Funktion für die Mini-Serie | Beleglage |
 |---|---|---|
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-16-der-austausch\|OWMH 16 — Der Austausch]] | erster lokal belegter Wilde/Adler-Einsatz | Chronologie + Folgen-Seite |
-| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-34-asche-und-rauch\|OWMH 34 — Asche und Rauch]] | gemeinsamer Einsatz nach der Zerstoerung Londons | Folgen-Seite |
-| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis\|OWMH 50 — Bittere Erkenntnis]] | Wilde, Adler und Sherlock als gemeinsamer spaeter Ermittlungsblock | Folgen-Seite |
-| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-51-diadem-der-macht\|OWMH 51]] bis [[wiki/folgen/oscar-wilde-und-mycroft-holmes-56-toedliche-farben\|OWMH 56]] | Adler und Wilde bleiben parallel in denselben Grosskonflikt eingebunden | Folgen-Seiten |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-34-asche-und-rauch\|OWMH 34 — Asche und Rauch]] | gemeinsamer Einsatz nach der Zerstörung Londons | Folgen-Seite |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis\|OWMH 50 — Bittere Erkenntnis]] | Wilde, Adler und Sherlock als gemeinsamer später Ermittlungsblock | Folgen-Seite |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-51-diadem-der-macht\|OWMH 51]] bis [[wiki/folgen/oscar-wilde-und-mycroft-holmes-56-toedliche-farben\|OWMH 56]] | Adler und Wilde bleiben parallel in denselben Großkonflikt eingebunden | Folgen-Seiten |
 | [[wiki/folgen/phileas-fogg-47-der-schwarze-spiegel\|DNAPF 47 — Der schwarze Spiegel]] | Holmes zieht Irene Adler und Oscar Wilde gemeinsam in einen Mordfall | Folgen-Seite |
-| [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume\|WMU 2 — Die Todesblume]] | Irene Adler ist in einer spaeten Wilde-Nebenlinie offiziell als Figur gelistet | Folgen-Seite |
+| [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume\|WMU 2 — Die Todesblume]] | Irene Adler ist in einer späten Wilde-Nebenlinie offiziell als Figur gelistet | Folgen-Seite |
 
 ## Folgenliste
 
@@ -68,19 +68,19 @@ tags:
 ## Crossover-Bezug
 
 - Verbindet direkt die Linien aus [[wiki/serien/oscar-wilde-und-mycroft-holmes]] und [[wiki/serien/irene-adler]].
-- Liegt als Blitz-Spin-off in derselben spaeten Ausbauphase wie [[wiki/serien/tesla]], [[wiki/serien/oscar-wilde-und-poe]] und [[wiki/serien/wilde-mycroft-ungeloeste]].
+- Liegt als Blitz-Spin-off in derselben späten Ausbauphase wie [[wiki/serien/tesla]], [[wiki/serien/oscar-wilde-und-poe]] und [[wiki/serien/wilde-mycroft-ungeloeste]].
 - Die Reihe wirkt damit weniger wie ein isoliertes Experiment als wie ein gezieltes Verdichten bereits vorhandener Team-ups.
 
 ## Offene Punkte
 
 - Auf der offiziellen Folgen-Seite von [[wiki/folgen/oscar-wilde-und-irene-adler-03-ein-sommernachtsalbtraum|Folge 3]] steht derzeit offenbar derselbe sichtbare Klappentext wie bei Folge 2.
-- Autor:innen und Sprecherlisten sind fuer die Einzelfolgen im Repo weiterhin nicht verifiziert.
-- Falls spaeter weitere belastbare Quellen zu Folge 3 auftauchen, sollte ihre grobe Handlung gezielt nachgeschaerft werden.
+- Autor:innen und Sprecherlisten sind für die Einzelfolgen im Repo weiterhin nicht verifiziert.
+- Falls später weitere belastbare Quellen zu Folge 3 auftauchen, sollte ihre grobe Handlung gezielt nachgeschärft werden.
 
 ## Quellen
 
 - [raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md](../../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md)
 - [raw/maritim/2026-04-29_wilde-und-adler_folgen-01-bis-04.md](../../raw/maritim/2026-04-29_wilde-und-adler_folgen-01-bis-04.md) — paraphrasierte Arbeitsnotiz zu Serienseite und Folgen 1 bis 4.
-- [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — belegt den fruehen Wilde/Adler-Anschluss ueber OWMH 16.
-- [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — spaetere gemeinsame Wilde/Adler-Bloecke innerhalb der Hauptserie.
+- [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — belegt den frühen Wilde/Adler-Anschluss über OWMH 16.
+- [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — spätere gemeinsame Wilde/Adler-Blöcke innerhalb der Hauptserie.
 - Offizielle Serien-Seite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-adler/>

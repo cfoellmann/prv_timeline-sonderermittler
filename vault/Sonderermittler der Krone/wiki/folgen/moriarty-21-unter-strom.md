@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 21
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 63
-zirkel: true
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -40,7 +40,7 @@ tags:
 
 ## Handlung (grob)
 
-Die Suche nach Elaine Lightman, von der James Moriarty glaubt, sie trage das Geheimnis des ewigen Lebens in sich, entwickelt sich zu einem Fiasko. Ein geheimnisvolles Gebaeude geraet ins Visier: ein Turm mitten im Londoner Stadtteil Hammersmith, direkt neben dem Gefaengnis gelegen. Die Besitzerin ist eine mysterioese Dame namens Daphne Crest.
+Die Suche nach Elaine Lightman, von der James Moriarty glaubt, sie trage das Geheimnis des ewigen Lebens in sich, entwickelt sich zu einem Fiasko. Ein geheimnisvolles Gebäude gerät ins Visier: ein Turm mitten im Londoner Stadtteil Hammersmith, direkt neben dem Gefängnis gelegen. Die Besitzerin ist eine mysteriöse Dame namens Daphne Crest.
 
 ## Bezug zum Zirkel der Sieben
 

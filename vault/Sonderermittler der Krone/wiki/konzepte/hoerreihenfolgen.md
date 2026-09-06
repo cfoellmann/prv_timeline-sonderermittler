@@ -1,4 +1,4 @@
-﻿---
+---
 type: konzept
 titel: Hör-Reihenfolgen
 status: entwurf
@@ -80,13 +80,13 @@ Empfohlen aus Foren-Tradition: **Oscar Wilde & Mycroft Holmes komplett zuerst** 
 **Vorteil:** Zirkel-Plot bleibt zusammenhängend, danach ergänzen die Spin-offs.
 **Nachteil:** Frühe Crossover (z. B. SHC 26/27 oder DNAPF 10/11) wirken im Nachgang weniger überraschend.
 
-> **DNAPF-Anker im aktuellen Repo-Stand:** Besonders relevant fuer diese Variante sind [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken|DNAPF 3]] (Robur), [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl|4]] (Victor Frankenstein), [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx|5]] (Edgar Allan Poe), [[wiki/folgen/phileas-fogg-10-der-herrscher-der-meere|10]] / [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant|11]] (Fogg x Wilde) und [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|12]] (Dracula).
+> **DNAPF-Anker im aktuellen Repo-Stand:** Besonders relevant für diese Variante sind [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken|DNAPF 3]] (Robur), [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl|4]] (Victor Frankenstein), [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx|5]] (Edgar Allan Poe), [[wiki/folgen/phileas-fogg-10-der-herrscher-der-meere|10]] / [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant|11]] (Fogg x Wilde) und [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|12]] (Dracula).
 
 ---
 
 ## Variante 4 — 4er-Zyklen / Phasen
 
-Foren-Beobachtung (Hoergruselspiele/Hörspieltalk): Die Serien sind in **abgeschlossenen 4er-Zyklen** strukturiert. Eine mögliche Reihenfolge:
+Foren-Beobachtung (Hörgruselspiele/Hörspieltalk): Die Serien sind in **abgeschlossenen 4er-Zyklen** strukturiert. Eine mögliche Reihenfolge:
 
 - Zyklus pro Serie als Block hören (Folgen 1–4, 5–8, …) und nach jedem Zyklus zur nächsten Serie wechseln.
 - Frankenstein, Dracula, Moriarty sind „bis jeweils Folge 4 unabhängig voneinander" — danach beginnen sie sich zu verzahnen.
@@ -99,7 +99,10 @@ Foren-Beobachtung (Hoergruselspiele/Hörspieltalk): Die Serien sind in **abgesch
 
 ## Variante 5 — In-Universe-chronologisch
 
-Anhand der In-Universe-Jahresangaben aus den Folgen sortiert. Bisher sind **30 von 284 Folgen** mit konkretem `story_jahr` erfasst; die Lücken (vor allem Phileas-Fogg-Hauptstrang, Poe & Dupin, Dracula, Frankenstein, Moriarty) bleiben offen.
+Anhand der In-Universe-Jahresangaben aus den Folgen sortiert. Stand 17.08.2026 sind **35 von 301 Folgen** mit einem `story_jahr` erfasst — davon nur **12 direkt belegt** (alle aus der Löchel-Chronologie, alle OWMH), die übrigen 23 sind Ableitungen mit `story_praezision: "geschaetzt"`.
+
+> [!warning] Die Zeitachse ist nicht ungepflegt, sondern unbelegt.
+> Am 17.08.2026 wurden alle 301 Folgen systematisch gegen sämtliche `raw/`-Quellen geprüft. Ergebnis: In **keiner** Folge von Dracula, Frankenstein, Moriarty, Tesla, Sherlock Holmes (2022er Reihe), Kapitän Nemo und den drei Blitz-Reihen steht eine Jahreszahl — weder im Klappentext noch auf der Wiki-Seite. Ein Regex über alle Folgen-Seiten nach Jahreszahlen 1800–1999 liefert dort **null Treffer**. Die Löchel-Chronologie, die einzige echte In-Universe-Quelle im Repo, vergibt Jahresangaben **ausschließlich an OWMH-Folgen**; bei allen anderen Reihen ist ihre In-Universe-Spalte leer. Weitere Datierung ist ohne Hören oder zusätzliche Quellen nicht möglich.
 
 ### Bekannte In-Universe-Zeitanker
 
@@ -127,14 +130,45 @@ Folgende Erstauftritte erzeugen Reihenfolge-Bedingungen:
 - **OWMH 18** → Payton-Tod als Wendepunkt
 - **OWMH 50** → Mycroft ermordet = Strukturbruch für alle Folgeserien
 
+### Abgeleitete Anker (Lint 2026-08-17, `story_praezision: "geschaetzt"`)
+
+| Jahr | Folge | Ableitung |
+|---:|---|---|
+| 1895 | OWMH 3 | zwischen den datierten Folgen 2 und 4 |
+| 1895 | OWMH 8 | Röntgens Entdeckung ist in der Handlung bereits erfolgt → nicht vor Nov. 1895 |
+| 1895 | SHC 26/27 | erste Zusammenarbeit Holmes × Wilde; Wilde ist ab OWMH 1 (Frühjahr 1895) im Amt; bei Löchel zwischen OWMH 4 und 5 |
+| 1896 | SHC 48 | Zirkel-Schlag gegen Scotland Yard; bei Löchel zwischen OWMH 23 und 25 (beide 1896) |
+| 1896 | SHC 53 | Dracula als „Sapriel" in London, nach seiner Ankunft in England (OWMH 19/20, 1896) |
+| 1897 | DNAPF 14 | Klondike-Goldrausch mit ausdrücklicher Nennung von Dawson City (hist. 1896–1899) |
+
+Dazu wurden **16 OWMH-Folgen von `"jahr"` auf `"geschaetzt"` herabgestuft** (4, 5, 7, 9, 11–13, 15, 18, 22, 24, 26–29): ihr Jahr stammt nicht aus einem Beleg, sondern aus der Interpolation zwischen datierten Nachbarfolgen. Die Jahre bleiben, nur die behauptete Genauigkeit war falsch. Ebenso zurückgenommen: OWMH 1 stand auf `"monat"` (April), belegt ist im Klappentext aber nur „Frühjahr 1895" → jetzt `"jahr"`.
+
+### Methodische Grenzen der Datierung
+
+> [!important] Reale Lebensdaten sind in diesem Kosmos **kein** zulässiges Datierungsmittel.
+> Das Universum verschiebt historische Personen bewusst in seine Gegenwart. Belege: **Vidocq** tritt in EAPAD 10 als lebender Konkurrent Dupins auf (historisch † 1857, also mindestens 18 Jahre vor Epochenbeginn), **Mata Hari** ist historisch 1876 geboren und trägt diesen Namen erst ab 1905, **Edgar Cayce** ist 1877 geboren. Damit entfällt die naheliegende Methode, EAPAD 21–24 über Mata Hari, Houdini oder Lupin zu datieren.
+
+Weitere Fallen, die beim Sweep aufgefallen sind:
+
+- **Rückbezüge sind keine Handlungsgegenwart.** EAPAD 8 „Im Schatten der Guillotine" nennt die Französische Revolution nur in den Bekennerbriefen des Täters; DNAPF 18–20 ist eine Rückblende auf die Weltreise. Beides datiert die Folge nicht.
+- **Nur relative Constraints, keine Jahre:** die gesamte Tesla-Reihe liegt nach MOR 13 (Moriarty rekrutiert Tesla in Genf) und ist damit die späteste datierbare Reihe des Kosmos — ohne Jahr. Dracula 7/8 und Frankenstein 2/4 liegen über Theodora Sachs bzw. Crowley nach 1896; das sind die ersten belastbaren Untergrenzen, die die Horror-Reihen überhaupt haben. NEM 1/2 sind zweigeteilt (Rahmenhandlung + Insel-Rückblende „vor Nemos erster Begegnung mit Fogg").
+- **Die Tesla-Reihe hat keine historischen Anker.** Ihre Erfindungen sind fiktiv (Lichtübertragung, Strahlenapparat, Merlins Mantel) — Artefakt-Fantasy, nicht Technikhistorie.
+
+### Ungelöste Widersprüche in den vorhandenen Daten
+
+- **IADK 5 (1890) und IADK 6 (1889) liegen vor dem Debüt ihrer Titelfigur.** Irene Adlers belegter Erstauftritt als Sonderermittlerin ist OWMH 16 = 1896 — laut der Anker-Constraints oben ausdrücklich „vor Irene-Adler-Hauptserie". Beide Werte können nicht gleichzeitig stimmen; zudem liegt Folge 6 vor Folge 5. Beide Schätzungen stammen aus historischen Ereignissen (Stromkrieg, Pariser Weltausstellung), von denen die Weltausstellung real 1889 **oder** 1900 sein kann. **Bewusst nicht verbogen — Entscheidung offen.** Solange das ungeklärt ist, ist jede Poe-&-Dupin-Datierung wackelig, weil deren Untergrenzen über Irene Adler laufen.
+- **IADK 9 „Tunguska"** verweist unverkennbar auf das Tunguska-Ereignis (hist. 30.06.1908). Das läge drei Jahre hinter `epoche_max_jahr: 1905` und zwölf Jahre nach dem Serien-Anker 1896. Da **keine Repo-Quelle** ein Jahr nennt, wurde bewusst **nichts** eingetragen. Zum Eintragen müsste die Epoche erweitert werden — Christians Entscheidung.
+- **OWMH 15 „Goldrausch"** steht auf 1896 (aus Löchels Klammer 14–29), spielt aber am Klondike und nennt Wyatt Earp: der Ansturm lief 1897–99, Earp zog ab 1897 nordwärts. Auf `"geschaetzt"` heruntergestuft und der Konflikt in `story_anmerkung` notiert.
+- **Epochen-Rahmen sind dreifach verschieden:** `folgen.json` sagt 1875–1905, `universum.md` „ca. 1895–1905", der Deep-Research-Report „um 1900". Alle belegten OWMH-Anker liegen in 1895/96.
+
 ### Offene Lücken
 
-- Phileas-Fogg-Serie: kein In-Universe-Jahr bekannt (weder aus Quellen noch aus Löchel-Chronologie)
-- Poe & Dupin: kein In-Universe-Jahr, nur relative Anker
-- Dracula, Frankenstein, Moriarty, Tesla, Kapitän Nemo: noch keine Zeitdaten
-- OWMH 30–56: Fortlauf nach 1896 (wahrscheinlich 1896–1897), aber keine Quellenbestätigung
+- Phileas-Fogg-Serie: kein In-Universe-Jahr außer der Ableitung zu DNAPF 14
+- Poe & Dupin: kein In-Universe-Jahr, nur relative Anker (frühester harter Anker: „nach 1889" über Eiffelturm in EAPAD 20 und Moulin Rouge in EAPAD 33)
+- Dracula, Frankenstein, Moriarty, Tesla, Sherlock Holmes (2022er Reihe), Kapitän Nemo: keine Zeitdaten, nur relative Constraints
+- OWMH 30–58: Fortlauf nach 1896 (wahrscheinlich 1896–1897), aber keine Quellenbestätigung — diese Vermutung ist **nicht** in Daten übersetzt worden
 
-> **Nächster Schritt:** Beim Ingest weiterer Folgen-Details systematisch `story_jahr` erfassen. Sobald >50 % der Folgen datiert sind, kann eine automatische Sortierung generiert werden.
+> **Nächster Schritt:** Nicht mehr aus den vorhandenen Quellen zu holen. Weitere Datierung erfordert Hören (dann `story_jahr` + `story_praezision` pro Folge nachtragen) oder eine zusätzliche Chronologie-Quelle, die über OWMH hinausgeht.
 
 ---
 
@@ -157,6 +191,6 @@ Die beiden Re-Release-Reihen ([[wiki/serien/poe-und-dupin#Re-Release-„Aus-den-
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md)
 - [raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md](../../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md)
 - Hörspieltalk-Forum „Der Zirkel der Sieben": <https://www.xn--hrspieltalk-rfb.de/forum/thread/21260-der-zirkel-der-sieben/>
-- Hoergruselspiele-Forum „Von Fogg über Wilde bis Frankenstein": <https://www.hoergruselspiele.de/forum/index.php?thread/32155-von-fogg-%C3%BCber-wilde-bis-frankenstein-das-gro%C3%9Fe-maritim-serienuniversum/>
+- Hörgruselspiele-Forum „Von Fogg über Wilde bis Frankenstein": <https://www.hoergruselspiele.de/forum/index.php?thread/32155-von-fogg-%C3%BCber-wilde-bis-frankenstein-das-gro%C3%9Fe-maritim-serienuniversum/>
 - Black Stone Magazine, Chronologie Teil 1: <https://blackbookmagazine.blogspot.com/2023/02/das-maritim-horspiel-universum.html>
 - Black Stone Magazine, Chronologie Teil 3: <https://blackbookmagazine.blogspot.com/2023/11/das-maritim-horspiel-universum-chronologie-teil-3.html>

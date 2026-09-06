@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: tesla
 nummer: 3
@@ -8,7 +8,7 @@ verlag: Blitz Verlag
 autor: ""
 sprecher: []
 spielzeit_min: 57
-zirkel: true
+zirkel: direkt
 crossover_mit:
   - irene-adler
   - moriarty
@@ -26,7 +26,7 @@ tags:
 
 # Tesla – 3: Gefangen in Cedric Manor
 
-> Tesla folgt Moriartys Auftrag nach Cedric Manor und steuert bewusst auf eine Rettungsmission zu, die zur Falle werden koennte.
+> Tesla folgt Moriartys Auftrag nach Cedric Manor und steuert bewusst auf eine Rettungsmission zu, die zur Falle werden könnte.
 
 ## Eckdaten
 
@@ -42,15 +42,15 @@ tags:
 - [[wiki/figuren/james-moriarty|James Moriarty]] — schickt Tesla auf die Mission und vergibt parallel einen zweiten Auftrag.
 - [[wiki/figuren/mata-hari|Mata Hari]] — soll auf dem Anwesen gefangen gehalten werden.
 - [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] — wird mit Crowley auf ein Energiesystem angesetzt.
-- [[wiki/figuren/aleister-crowley|Aleister Crowley]] — arbeitet im offiziellen Text an Moriartys technischem Grossprojekt mit.
+- [[wiki/figuren/aleister-crowley|Aleister Crowley]] — arbeitet im offiziellen Text an Moriartys technischem Großprojekt mit.
 
 ## Handlung (grob)
 
-Tesla reist auf Moriartys Wunsch nach Cedric Manor, weil er dort Mata Hari vermutet. Ihm ist bewusst, dass er sich mit der Mission moeglicherweise direkt in die Haende seines Feindes begibt. Waerend Tesla vor Ort in die Enge geraet, setzt Moriarty in London Frankenstein und Aleister Crowley auf ein System an, das die Weiterleitung von Energie verstaerken soll. Dadurch verbindet die Folge eine Rettungsaktion mit einem groesseren technischen Komplott.
+Tesla reist auf Moriartys Wunsch nach Cedric Manor, weil er dort Mata Hari vermutet. Ihm ist bewusst, dass er sich mit der Mission möglicherweise direkt in die Hände seines Feindes begibt. Während Tesla vor Ort in die Enge gerät, setzt Moriarty in London Frankenstein und Aleister Crowley auf ein System an, das die Weiterleitung von Energie verstärken soll. Dadurch verbindet die Folge eine Rettungsaktion mit einem größeren technischen Komplott.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — mehrere bekannte Figuren aus Moriarty-, Frankenstein- und Zirkel-Handlungsstraengen treten gemeinsam auf.
+- **Direkt** — mehrere bekannte Figuren aus Moriarty-, Frankenstein- und Zirkel-Handlungssträngen treten gemeinsam auf.
 
 ## Crossover & Querverweise
 

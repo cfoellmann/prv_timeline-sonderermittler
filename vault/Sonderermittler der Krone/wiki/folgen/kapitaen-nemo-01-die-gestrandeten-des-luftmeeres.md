@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: kapitaen-nemo
 nummer: 1
@@ -8,7 +8,7 @@ verlag: Blitz Verlag
 autor: ""
 sprecher: []
 spielzeit_min: 60
-zirkel: false
+zirkel: unklar
 crossover_mit:
   - phileas-fogg
 spoiler_level: grob
@@ -22,9 +22,9 @@ tags:
   - insel
 ---
 
-# Die Abenteuer des Kapitaen Nemo – 1: Die Gestrandeten des Luftmeeres
+# Die Abenteuer des Kapitän Nemo – 1: Die Gestrandeten des Luftmeeres
 
-> Bei einem Dinner im Reform Club berichtet Kapitaen Nemo Phileas Fogg von einer frueheren Ballonflucht, die auf einer geheimnisvollen Insel zum Ueberlebenskampf wird.
+> Bei einem Dinner im Reform Club berichtet Kapitän Nemo Phileas Fogg von einer früheren Ballonflucht, die auf einer geheimnisvollen Insel zum Überlebenskampf wird.
 
 ## Eckdaten
 
@@ -37,12 +37,12 @@ tags:
 
 ## Hauptfiguren
 
-- [[wiki/figuren/kapitaen-nemo|Kapitaen Nemo]] — rahmt das Abenteuer als Rueckblick gegenueber Phileas Fogg.
-- [[wiki/figuren/phileas-fogg|Phileas Fogg]] — fungiert in der Rahmenhandlung als Nemo-Zuhoerer im Reform Club.
+- [[wiki/figuren/kapitaen-nemo|Kapitän Nemo]] — rahmt das Abenteuer als Rückblick gegenüber Phileas Fogg.
+- [[wiki/figuren/phileas-fogg|Phileas Fogg]] — fungiert in der Rahmenhandlung als Nemo-Zuhörer im Reform Club.
 
 ## Handlung (grob)
 
-Bei einem gemeinsamen Dinner im Reform Club erzaehlt Kapitaen Nemo von einer Begebenheit aus der Zeit, bevor sich sein Weg und der von Phileas Fogg zum ersten Mal kreuzten. Eine kleine Gruppe flieht mit einem Ballon von der Insel Naoero, wird jedoch von einem Sturm weit vom Kurs abgebracht und landet auf einer scheinbar unbewohnten Insel. Dort verschwindet der Ingenieur Schmidt spurlos, waehrend in der Nacht merkwuerdige Lichter und Geraeusche auftauchen. Das Abenteuer kippt dadurch von einer Fluchtgeschichte in ein Inselraetsel mit wachsender Bedrohung.
+Bei einem gemeinsamen Dinner im Reform Club erzählt Kapitän Nemo von einer Begebenheit aus der Zeit, bevor sich sein Weg und der von Phileas Fogg zum ersten Mal kreuzten. Eine kleine Gruppe flieht mit einem Ballon von der Insel Naoero, wird jedoch von einem Sturm weit vom Kurs abgebracht und landet auf einer scheinbar unbewohnten Insel. Dort verschwindet der Ingenieur Schmidt spurlos, während in der Nacht merkwürdige Lichter und Geräusche auftauchen. Das Abenteuer kippt dadurch von einer Fluchtgeschichte in ein Inselrätsel mit wachsender Bedrohung.
 
 ## Bezug zum Zirkel der Sieben
 
@@ -50,7 +50,7 @@ Bei einem gemeinsamen Dinner im Reform Club erzaehlt Kapitaen Nemo von einer Beg
 
 ## Crossover & Querverweise
 
-- **Serie:** [[wiki/serien/kapitaen-nemo|Die Abenteuer des Kapitaen Nemo]].
+- **Serie:** [[wiki/serien/kapitaen-nemo|Die Abenteuer des Kapitän Nemo]].
 - **Rahmenfigur:** [[wiki/figuren/phileas-fogg|Phileas Fogg]] verbindet die Folge sichtbar mit [[wiki/serien/phileas-fogg|Jules Verne – Die neuen Abenteuer des Phileas Fogg]].
 - **Spielt vor:** [[wiki/folgen/kapitaen-nemo-02-das-geheimnis-der-insel|NEM 2 „Das Geheimnis der Insel“]].
 

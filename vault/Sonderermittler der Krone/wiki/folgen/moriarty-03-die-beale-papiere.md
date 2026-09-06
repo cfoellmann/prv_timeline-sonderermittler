@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 3
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 68
-zirkel: false
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -23,7 +23,7 @@ tags:
 
 # Moriarty – 3: Die Beale-Papiere
 
-> Ein geheimnisvoller Fremder hinterlaesst einen Koffer in einem kleinen Landhotel und bittet den Betreiber, zehn Jahre lang darauf aufzupassen.
+> Ein geheimnisvoller Fremder hinterlässt einen Koffer in einem kleinen Landhotel und bittet den Betreiber, zehn Jahre lang darauf aufzupassen.
 
 ## Eckdaten
 
@@ -39,7 +39,7 @@ tags:
 
 ## Handlung (grob)
 
-Ein geheimnisvoller Fremder hinterlaesst einen Koffer in einem kleinen Landhotel und bittet den Betreiber, zehn Jahre lang darauf aufzupassen. Der Fremde kehrt nie zurueck, doch sein Koffer gibt auch Jahre spaeter noch Raetsel auf und wird sogar Ausloeser fuer einen entsetzlichen Mord. James Moriarty wird gezwungen zu handeln, da ausgerechnet sein alter Freund Filmore des Mordes bezichtigt wird.
+Ein geheimnisvoller Fremder hinterlässt einen Koffer in einem kleinen Landhotel und bittet den Betreiber, zehn Jahre lang darauf aufzupassen. Der Fremde kehrt nie zurück, doch sein Koffer gibt auch Jahre später noch Rätsel auf und wird sogar Auslöser für einen entsetzlichen Mord. James Moriarty wird gezwungen zu handeln, da ausgerechnet sein alter Freund Filmore des Mordes bezichtigt wird.
 
 ## Bezug zum Zirkel der Sieben
 

@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: sherlock-holmes
 nummer: 3
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 73
-zirkel: false
+zirkel: kein
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -23,7 +23,7 @@ tags:
 
 # Sherlock Holmes – 3: Verräterische Lilien
 
-> Ein Forschungsstreit unter alten Freunden fuehrt Sherlock Holmes in einen Fall aus Misstrauen, Manipulation und verdeckten Interessen.
+> Ein Forschungsstreit unter alten Freunden führt Sherlock Holmes in einen Fall aus Misstrauen, Manipulation und verdeckten Interessen.
 
 ## Eckdaten
 
@@ -36,16 +36,16 @@ tags:
 
 ## Hauptfiguren
 
-- [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] — wird als Berater in ein bruechig gewordenes Vertrauensverhaeltnis gezogen.
+- [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] — wird als Berater in ein brüchig gewordenes Vertrauensverhältnis gezogen.
 - [[wiki/figuren/john-watson|John Watson]] — begleitet Holmes laut offizieller Seite.
 
 ## Handlung (grob)
 
-Professor Arbogast misstraut ploetzlich einem alten Freund und fuerchtet, dass hinter dessen Interesse an seinen Forschungsergebnissen mehr steckt als reine Neugier. Holmes reist mit Watson zu ihm und trifft dort auf ein Umfeld, in dem jemand offensichtlich falsch spielt. Noch bevor sich die Lage aufklaert, ueberschlagen sich die Ereignisse. Die Folge wirkt im aktuellen Repo-Stand eher als isolierter Holmes-Fall denn als offenes Zirkel-Kapitel.
+Professor Arbogast misstraut plötzlich einem alten Freund und fürchtet, dass hinter dessen Interesse an seinen Forschungsergebnissen mehr steckt als reine Neugier. Holmes reist mit Watson zu ihm und trifft dort auf ein Umfeld, in dem jemand offensichtlich falsch spielt. Noch bevor sich die Lage aufklärt, überschlagen sich die Ereignisse. Die Folge wirkt im aktuellen Repo-Stand eher als isolierter Holmes-Fall denn als offenes Zirkel-Kapitel.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen bis eher kein direkter Bezug** — weder Klappentext noch offizielle Figurenliste nennen einen ausdruecklichen Zirkel- oder Serienanschluss.
+- **Derzeit offen bis eher kein direkter Bezug** — weder Klappentext noch offizielle Figurenliste nennen einen ausdrücklichen Zirkel- oder Serienanschluss.
 
 ## Crossover & Querverweise
 

@@ -1,4 +1,4 @@
-﻿---
+---
 type: folge
 serie: moriarty
 nummer: 12
@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 70
-zirkel: false
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -23,7 +23,7 @@ tags:
 
 # Moriarty – 12: Wiedergeburt
 
-> Nach den schicksalhaften Ereignissen im Sanatorium des ermordeten Doktor Lorraine geraet Moriarty mehr und mehr zwischen die Fronten zweier verfeindeter Familien, die zur Unterwelt New Yorks gehoeren.
+> Nach den schicksalhaften Ereignissen im Sanatorium des ermordeten Doktor Lorraine gerät Moriarty mehr und mehr zwischen die Fronten zweier verfeindeter Familien, die zur Unterwelt New Yorks gehören.
 
 ## Eckdaten
 
@@ -38,7 +38,7 @@ tags:
 
 ## Handlung (grob)
 
-Nach den schicksalhaften Ereignissen im Sanatorium des ermordeten Doktor Lorraine geraet Moriarty mehr und mehr zwischen die Fronten zweier verfeindeter Familien, die zur Unterwelt New Yorks gehoeren. Doch Moriarty nimmt die Herausforderung an und bedient sich einiger trickreicher Kniffe, um die Kontrahenten gegeneinander auszuspielen. Am Ende waehnt er sich bereits als Sieger.
+Nach den schicksalhaften Ereignissen im Sanatorium des ermordeten Doktor Lorraine gerät Moriarty mehr und mehr zwischen die Fronten zweier verfeindeter Familien, die zur Unterwelt New Yorks gehören. Doch Moriarty nimmt die Herausforderung an und bedient sich einiger trickreicher Kniffe, um die Kontrahenten gegeneinander auszuspielen. Am Ende wähnt er sich bereits als Sieger.
 
 ## Bezug zum Zirkel der Sieben
 
