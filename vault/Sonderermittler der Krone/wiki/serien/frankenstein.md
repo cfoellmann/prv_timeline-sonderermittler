@@ -6,9 +6,11 @@ genre: Horror
 start: 2020-10-09
 status: recherchiert
 zirkel: true
-folgen_count: 26
-watchlist_count: 2
+folgen_count: 27
+watchlist_count: 1
 quellen:
+  - raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md
+  - raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md
   - raw/notes/2026-09-06_neue-folgen-scout_september-2026.md
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
   - raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md
@@ -30,7 +32,7 @@ tags:
 - **Verlag:** Maritim
 - **Genre:** Horror
 - **Erstveröffentlichung:** 09.10.2020.
-- **Folgenstand:** 26 (2026-09-06) — plus 2 Vormerkungen (Folge 27, geplant 11.09.2026; Folge 28, geplant 13.11.2026). Lückenlos 1–26. Eine Folge 29 „Die Jahrtausendeibe“ ist angekündigt, aber nur dem Titel nach bekannt.
+- **Folgenstand:** 27 (2026-10-03) — plus 1 Vormerkung (Folge 28, geplant 13.11.2026). Lückenlos 1–27. Weitere Folgen sind nur dem Titel nach angekündigt (siehe Folgenliste).
 - **⚠️ Zählfehler der Primärquelle:** Die globale Serienübersicht listet am 17.08.2026 **zwei Einträge mit der Nummer 25** („Trügerische Hoffnung" und „Doppelte Tarnung"). Die Einzel-Folgenseiten und die Handelsmetadaten belegen die korrekte Zählung: 25 = *Trügerische Hoffnung*, 26 = *Doppelte Tarnung*.
 - **Laufender Arc (25–27):** Tarnmantel-Auftrag von Moriarty → Reise in die Karpaten → Durchsuchung von Draculas leergeräumtem Labor.
 - **Bezug zum Zirkel:** zentral — Titel-Mitglied.
@@ -48,7 +50,9 @@ tags:
 
 ## Folgenliste
 
-**Stand:** 06.09.2026. Alle 26 veröffentlichten Folgen sind im Wiki dokumentiert; die Folgen 27 und 28 sind als Watchlist-Einträge geführt. Folge 29 „Die Jahrtausendeibe“ ist angekündigt, hat aber weder Datum noch Klappentext und daher noch keine eigene Seite.
+**Stand:** 03.10.2026. Alle 27 veröffentlichten Folgen sind im Wiki dokumentiert; Folge 28 ist als Watchlist-Eintrag geführt.
+
+**Nur dem Titel nach angekündigt** (Hörspieltalk-Threads vom 15.07.2026, jeweils ohne Klappentext und Termin — Einzelquelle, daher keine eigenen Seiten und nicht in `watchlist_count`): 29 „Die Jahrtausendeibe“, 31 „Die Rache des Doktors“, 32 „Die Kraft der Natur“, 33 „Das Geheimnis des Präparators“, 34 „Im Bann der Unendlichkeit“, 35 „Der Herr der Schlangen“, 36 „Der Eingang zur Unterwelt“. Für **Folge 30** existiert kein Ankündigungsthread — Lücke in der Quelle, kein Beleg für eine ausgelassene Nummer.
 
 | # | Titel | Erscheinungsjahr | Spielzeit | Zirkel | Crossover |
 |---|---|---|---|---|---|
@@ -78,7 +82,7 @@ tags:
 | 24 | [[wiki/folgen/frankenstein-24-toedliche-dosis\|Tödliche Dosis]] | 2026-03-27 | 52 min | ✓ | Moriarty, Sherlock Holmes |
 | 25 | [[wiki/folgen/frankenstein-25-truegerische-hoffnung\|Trügerische Hoffnung]] | 2026-05-22 | 56 min | ✓ | Moriarty, Sherlock Holmes |
 | 26 | [[wiki/folgen/frankenstein-26-doppelte-tarnung\|Doppelte Tarnung]] | 2026-07-13 | 52 min | ✓ | Dracula |
-| 27 | [[wiki/folgen/frankenstein-27-finsteres-erbe\|Finsteres Erbe]] | 2026-09-11 (geplant) | 53 min | ✓ | Dracula, Moriarty |
+| 27 | [[wiki/folgen/frankenstein-27-finsteres-erbe\|Finsteres Erbe]] | 2026-09-11 | 53 min | ✓ | Dracula, Moriarty |
 | 28 | [[wiki/folgen/frankenstein-28-gegen-jeden-widerstand\|Gegen jeden Widerstand]] | 2026-11-13 (geplant) | — | ✓ | Dracula, Moriarty, Sherlock Holmes |
 
 **Legende:**
@@ -110,4 +114,6 @@ Die Serie zeigt mehrere zusammenhängende Handlungsbögen:
 - [raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md](../../raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md) — exaktes Startdatum der Reihe.
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — DNAPF-Anker für die Vorlaufphase.
 - Offizielle Serien-Seite: <https://www.sonderermittler-der-krone.de/serien/frankenstein/>
+- [raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md](../../raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md) — Fanseite und HolyShop, 03.10.2026: Folge 27 erschienen.
+- [raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md](../../raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md) — Recherche vom 03.10.2026: Apple Music/Deezer zu Folge 27, Titelankündigungen 29 und 31–36.
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche vom 17.08.2026: offizielle Folgen-Detailseiten (Daten, Spielzeiten, Klappentexte, Figuren).

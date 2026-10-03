@@ -6,9 +6,10 @@ genre: Krimi
 start: 2020-09-25
 status: recherchiert
 zirkel: true
-folgen_count: 27
-watchlist_count: 1
+folgen_count: 28
 quellen:
+  - raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md
+  - raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md
   - raw/notes/2026-09-06_neue-folgen-scout_september-2026.md
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
   - raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md
@@ -27,7 +28,7 @@ tags:
 
 - **Verlag:** Maritim.
 - **Erstveröffentlichung der Hauptreihe:** 25.09.2020 mit [[wiki/folgen/moriarty-01-das-raetsel-der-marie-celeste|MOR 01 „Das Rätsel der Marie Celeste“]].
-- **Folgenstand:** 27 Folgen (`0` bis `26`), Stand 06.09.2026 — lückenlos im Vault dokumentiert. Zusätzlich 1 Vormerkung: Folge 27 (Download 25.09.2026, CD 28.08.2026).
+- **Folgenstand:** 28 Folgen (`0` bis `27`), Stand 03.10.2026 — lückenlos im Vault dokumentiert. Folge 27 erschien am 25.09.2026 als Download (CD bereits 28.08.2026). Eine Folge 28 ist bislang nicht angekündigt.
 - **Datumsabweichung Folge 25:** die offizielle Folgenseite nennt den 06.05.2026, die frühere HolyShop-Ankündigung den 05.06.2026. Der Mai-Termin ist plausibler, weil Folge 26 am 31.07.2026 erschien.
 - **Bezug zum Zirkel:** direkt bis indirekt — Moriarty intrigiert laut offiziellem Figurenprofil sowohl gegen eigene Feinde als auch gegen den [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]].
 - **Auffälligkeit (Stand 28.04.2026, historisch):** HolyShop kündigte Folge `25: Ein Hauch von Ewigkeit` für den 05.06.2026 an, während die offizielle Serienseite noch bei Folge `24` endete.
@@ -71,7 +72,7 @@ tags:
 | 24 | [[wiki/folgen/moriarty-24-ausgeliefert\|Ausgeliefert]] | 10.04.2026 | direkt | [[wiki/serien/tesla\|Tesla]], [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Endlich ist es James Moriarty gelungen, den Strahlenapparat des Professor Payne in seinen Besitz zu bringen. In seinem Haus in London wagt er ein gefährliches Experiment. |
 | 25 | [[wiki/folgen/moriarty-25-ein-hauch-von-ewigkeit\|Ein Hauch von Ewigkeit]] | 06.05.2026 | direkt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Der Wahrsager [[wiki/figuren/edgar-cayce\|Edgar Cayce]] erzählt Moriarty von einem magischen Stein aus einer karibischen Heilquelle. Auf der Schiffsreise nach New York sind mächtige Gegner an Bord. 68 min. |
 | 26 | [[wiki/folgen/moriarty-26-der-teufel-von-cat-rock\|Der Teufel von Cat Rock]] | 31.07.2026 | direkt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Halb bewusstlos wird Moriarty aus dem Atlantik gerettet und auf die Insel Cat Rock gebracht, wo es zu einem Mord kommt. 64 min. |
-| 27 | [[wiki/folgen/moriarty-27-tiefe-wasser\|Tiefe Wasser]] | 25.09.2026 (geplant) | indirekt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Moriarty ist untergetaucht; eine Spur in Nassau, ein Wrack vor North Bimini. 70 min. Watchlist. |
+| 27 | [[wiki/folgen/moriarty-27-tiefe-wasser\|Tiefe Wasser]] | 25.09.2026 | indirekt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Moriarty ist untergetaucht; eine Spur in Nassau, ein Wrack vor North Bimini. 70 min. |
 
 ## Quellen
 
@@ -80,4 +81,6 @@ tags:
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update: Folge 26.
 - Offizielle Serien-Seite: <https://www.sonderermittler-der-krone.de/serien/moriarty/>
 - HolyShop-Serienliste: <https://shop.holysoft.de/serien/moriarty/>
+- [raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md](../../raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md) — Fanseite und HolyShop, 03.10.2026: Folge 27 erschienen.
+- [raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md](../../raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md) — Recherche vom 03.10.2026: Apple Music/Deezer zu Folge 27.
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche vom 17.08.2026: offizielle Folgen-Detailseiten (Daten, Spielzeiten, Klappentexte, Figuren).

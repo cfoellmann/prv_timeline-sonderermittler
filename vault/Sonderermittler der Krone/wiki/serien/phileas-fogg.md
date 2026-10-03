@@ -7,7 +7,9 @@ start: 2015-11-06
 status: recherchiert
 zirkel: true
 folgen_count: 52
+watchlist_count: 1
 quellen:
+  - raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md
   - raw/notes/2026-09-06_neue-folgen-scout_september-2026.md
   - raw/Sonderermittler_Update_2026-08-17.md
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
@@ -30,8 +32,8 @@ tags:
 - **Verlag:** Maritim.
 - **Genre:** Abenteuer / Fantasy.
 - **Erstveröffentlichung:** 06.11.2015 mit [[wiki/folgen/phileas-fogg-01-entfuehrung-auf-hoher-see|DNAPF 1 "Entführung auf hoher See"]].
-- **Folgenstand:** 52 Folgen laut Serienübersicht, unverändert am 06.09.2026 — lückenlos im Vault dokumentiert.
-- **Angekündigt:** `Folge 53: Der verschollene Zug`. Nur der Titel ist bekannt (Hörspieltalk-Thread vom 31.05.2026, Vermerk „Weitere Informationen folgen zeitnah“); weder Datum noch Klappentext liegen vor, HolyShop führt die Reihe weiterhin mit 52 Folgen. Deshalb **keine** eigene Folgenseite und kein `folgen.json`-Eintrag.
+- **Folgenstand:** 52 Folgen laut Serienübersicht, unverändert am 03.10.2026 — lückenlos im Vault dokumentiert. Zusätzlich 1 Vormerkung: Folge 53.
+- **Angekündigt:** [[wiki/folgen/phileas-fogg-53-der-verschollene-zug|Folge 53 „Der verschollene Zug“]]. Seit dem 17.09.2026 liegen Klappentext und Besetzung vor (Hörspieltalk), deshalb jetzt eigene Watchlist-Seite mit `status: entwurf`. **Einzelquelle:** Der Forentermin 16.10.2026 ist übernommen, aber noch durch keine Plattform gedeckt — Apple Music, Deezer und die HolyShop-Releaseliste führen die Folge am 03.10.2026 nicht.
 - **Neuer Block ab Folge 51:** Nach dem Isais-Finale in DNAPF 50 beginnt mit `Der Blaue Lotus` (Hongkong) und `Im Tal der Inkas` (Peru) ein Abenteuer-Block ohne erkennbaren Zirkel-Bezug. Fogg lebt zu Beginn von Folge 51 nach einem Trauerfall isoliert in London.
 - **Bezug zum Zirkel:** zunächst randständig bis indirekt, später deutlich kosmosrelevant über Robur, Frankenstein, Dracula und die Zusammenarbeit mit Oscar Wilde.
 - **Repo-Stand des Folgen-Crawls:** Alle 50 Folgen liegen jetzt im Repo vor; am 29.04.2026 wurde der Bestand in drei Blöcken bis `DNAPF 50` auf offizielle Folgenseiten hochgezogen.
@@ -108,6 +110,7 @@ tags:
 | 50 | [[wiki/folgen/phileas-fogg-50-goetterdaemmerung\|Götterdämmerung]] | 27.02.2026 | kein |   | überlanges Indien-Finale um den Kristall der Isais |
 | 51 | [[wiki/folgen/phileas-fogg-51-der-blaue-lotus\|Der Blaue Lotus]] | 01.05.2026 | kein |   | Ein Brief holt den nach einem Trauerfall isolierten Fogg nach Hongkong; 73 min |
 | 52 | [[wiki/folgen/phileas-fogg-52-im-tal-der-inkas\|Im Tal der Inkas]] | 26.06.2026 | kein |   | Hilferuf von [[wiki/figuren/ethan-ramsay\|Sir Ethan Ramsay]]; Suche nach Paititi mit [[wiki/figuren/elena-vargas\|Elena Vargas]]; 68 min |
+| 53 | [[wiki/folgen/phileas-fogg-53-der-verschollene-zug\|Der verschollene Zug]] | 16.10.2026 (geplant) | unklar |   | Luxuszug *L'Ombre d'Or* verschwindet zwischen Paris und Istanbul, Passepartout an Bord; Spur in die Karpaten. Watchlist, Einzelquelle |
 
 ## Verwandte Serien
 
@@ -125,4 +128,5 @@ tags:
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md) — offizielle Folgenseiten 22 bis 32, paraphrasiert.
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md) — offizielle Folgenseiten 33 bis 50, paraphrasiert.
 - Offizielle Serien-Seite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/>
+- [raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md](../../raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md) — Recherche vom 03.10.2026: Ankündigung Folge 53 und Negativbefund der Plattformen.
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche vom 17.08.2026: offizielle Folgen-Detailseiten (Daten, Spielzeiten, Klappentexte, Figuren).

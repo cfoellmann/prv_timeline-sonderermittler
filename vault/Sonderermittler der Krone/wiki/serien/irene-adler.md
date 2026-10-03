@@ -6,9 +6,11 @@ genre: Krimi
 start: 2019-06-14
 status: recherchiert
 zirkel: true
-folgen_count: 35
-watchlist_count: 2
+folgen_count: 36
+watchlist_count: 1
 quellen:
+  - raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md
+  - raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md
   - raw/notes/2026-09-06_neue-folgen-scout_september-2026.md
   - raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md
   - raw/Sonderermittler_Update_2026-08-17.md
@@ -39,7 +41,7 @@ tags:
 - **Genre:** Krimi.
 - **Erstveröffentlichung der Hauptreihe:** 14.06.2019 mit [[wiki/folgen/irene-adler-01-tod-im-oberhaus|IADK 1 „Tod im Oberhaus“]].
 - **Auffälligkeit der Nummernlogik:** [[wiki/folgen/irene-adler-00-hinter-den-kulissen|IADK 0 „Hinter den Kulissen“]] erschien später als Prolog am 22.11.2019.
-- **Folgenstand:** 35 Folgen (`0` bis `34`), Stand 06.09.2026 — lückenlos erschlossen. Zusätzlich 2 Vormerkungen: Folge 35 (02.10.2026) und Folge 36 (27.11.2026).
+- **Folgenstand:** 36 Folgen (`0` bis `35`), Stand 03.10.2026 — lückenlos erschlossen. Zusätzlich 1 Vormerkung: Folge 36 (27.11.2026).
 - **Aktueller Arc (33–34):** Der Maschinenmensch **Eva** wird zum Konfliktgegenstand. Mycroft Holmes hatte vor seinem Tod ihre Verlegung veranlasst; Irene und Wu suchen das Versteck, während der Gegner in Cornwall **Menorium** jagt.
 - **Phasen-Einordnung:** frühe Ausbau-Serie der Phase 4, also des Blocks zwischen der ersten großen Maritim-Erweiterung und den späteren Blitz-Spin-offs.
 - **Bezug zum Zirkel:** direkt. Die Reihe führt mit Rasputin mindestens ein später zentrales Zirkel-Mitglied früh ein und dient im aktuellen Repo-Stand zudem als wichtige Scharnierlinie zwischen Zirkel-Plot und konkurrierenden Gegenkräften wie Moriarty.
@@ -107,7 +109,7 @@ tags:
 | 32 | [[wiki/folgen/irene-adler-32-falsche-helden\|Falsche Helden]] | 24.04.2026 | direkt |
 | 33 | [[wiki/folgen/irene-adler-33-ein-altes-problem\|Ein altes Problem]] | 12.06.2026 | direkt |
 | 34 | [[wiki/folgen/irene-adler-34-kuenstlicher-feind\|Künstlicher Feind]] | 07.08.2026 | direkt |
-| 35 | [[wiki/folgen/irene-adler-35-bilder-des-fortschritts\|Bilder des Fortschritts]] | 02.10.2026 (geplant) | direkt |
+| 35 | [[wiki/folgen/irene-adler-35-bilder-des-fortschritts\|Bilder des Fortschritts]] | 02.10.2026 | direkt |
 | 36 | [[wiki/folgen/irene-adler-36-die-kraft-der-illusion\|Die Kraft der Illusion]] | 27.11.2026 (geplant) | unklar |
 
 ## Auffälligkeiten beim Datumsabgleich
@@ -147,4 +149,6 @@ tags:
 - [raw/maritim/2026-04-28_tesla_folgen-01-08.md](../../raw/maritim/2026-04-28_tesla_folgen-01-08.md) — spätere Serienanschlüsse über die Tesla-Linie.
 - [raw/maritim/2026-04-29_wilde-und-adler_folgen-01-bis-04.md](../../raw/maritim/2026-04-29_wilde-und-adler_folgen-01-bis-04.md) — direkte Blitz-Fortsetzung der Wilde/Adler-Achse.
 - Offizielle Serien-Seite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/>
+- [raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md](../../raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md) — Fanseite und HolyShop, 03.10.2026: Folge 35 erschienen.
+- [raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md](../../raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md) — Recherche vom 03.10.2026: Apple Music/Deezer zu Folge 35.
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche vom 17.08.2026: offizielle Folgen-Detailseiten (Daten, Spielzeiten, Klappentexte, Figuren).

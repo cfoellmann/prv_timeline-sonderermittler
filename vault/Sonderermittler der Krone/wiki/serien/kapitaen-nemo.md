@@ -7,8 +7,10 @@ start: 2026-02
 status: entwurf
 zirkel: unklar
 folgen_count: 4
+watchlist_count: 1
 mini_serie: true
 quellen:
+  - raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
   - raw/maritim/2026-04-29_kapitaen-nemo_folgen-01-02.md
   - raw/Sonderermittler_Update_2026-08-17.md
@@ -32,7 +34,7 @@ tags:
 - **Verlag:** Blitz Verlag.
 - **Genre:** Abenteuer.
 - **Erstveröffentlichung:** seit Februar 2026 laut Serienübersicht.
-- **Folgenstand:** 4 Folgen (Stand 06.09.2026). Die Folgen 3 und 4 bilden einen zusammenhängenden Franklin-/Eismeer-Block, nachdem die Folgen 1–2 den Insel-Block abgeschlossen hatten.
+- **Folgenstand:** 4 Folgen (Stand 03.10.2026), dazu 1 Vormerkung: [[wiki/folgen/kapitaen-nemo-05-kopfgeld|Folge 5 „Kopfgeld“]] für den 09.10.2026. Die Folgen 3 und 4 bilden einen zusammenhängenden Franklin-/Eismeer-Block, nachdem die Folgen 1–2 den Insel-Block abgeschlossen hatten.
 - **Format:** kleine Blitz-Spin-off-Reihe; die Serienquelle zählt Kapitän Nemo ausdrücklich zu den Mini-Serien des Kosmos.
 - **Bezug zum Zirkel:** derzeit unklar. Die Nemo-Folgen 1 bis 3 nennen den Zirkel im sichtbaren Material nicht direkt, die Figur ist im Repo aber mehrfach an kosmosrelevanten Verne-Handlungsachsen präsent — und die Folgen 3 und 4 listen Oscar Wilde mit.
 
@@ -71,6 +73,7 @@ tags:
 | 2 | [[wiki/folgen/kapitaen-nemo-02-das-geheimnis-der-insel\|Das Geheimnis der Insel]] | 17.04.2026 | Piratenschiff, Entführung und unerwartete Hilfe führen den Insel-Block weiter |
 | 3 | [[wiki/folgen/kapitaen-nemo-03-verschollen-im-eis\|Verschollen im Eis]] | 12.06.2026 | Nautilus nimmt Schiffbrüchige auf; [[wiki/figuren/adams\|Dr. Adams]] sucht die Schiffe der Franklin-Expedition im Eismeer; 66 min; **Oscar Wilde offiziell gelistet** |
 | 4 | [[wiki/folgen/kapitaen-nemo-04-die-ueberlebenden-der-erebus\|Die Überlebenden der Erebus]] | 07.08.2026 | Wrack der HMS Erebus im Packeis; [[wiki/figuren/adams\|Dr. Adams]] ist hinter verlorenem Gold her; 65 min; Oscar Wilde erneut gelistet |
+| 5 | [[wiki/folgen/kapitaen-nemo-05-kopfgeld\|Kopfgeld]] | 09.10.2026 (geplant) | Anschläge auf Nemo in fast jedem Hafen; Spur nach New York und in Nemos Vergangenheit; 63 min; Oscar Wilde besetzt (Sascha Rotermund). Watchlist |
 
 ## Offene Punkte
 
@@ -79,6 +82,7 @@ tags:
 - **Autoren-Angabe für Folge 3 bleibt unbelegt:** Die offizielle Folgenseite nennt keinen Autor. Die Zuschreibung „Marc Freund" (nach Jules Verne) stammt ausschließlich aus Google-Play-Metadaten und ist im Repo daher **nicht** als Autor gesetzt.
 - **Spielzeit-Abweichung Folge 3:** offizielle Folgenseite 66 min, Google Play „1 h 5 min". Im Repo gilt die offizielle Angabe.
 - **Offene Frage zur Rahmenhandlung:** Für Folge 3 ist Phileas Fogg nicht mehr als Figur gelistet, Oscar Wilde dagegen schon. Ob die Fogg-Rahmenhandlung entfällt, ist beim Hören zu klären.
+- **Fortsetzung bestätigt:** Mit Folge 5 läuft die Reihe über die ersten vier Folgen hinaus weiter (Apple Music, Hörspieltalk; dort der Forenkommentar, die Staffel sei „von Anfang an bestätigt“ gewesen). Ob der Vermerk `mini_serie: true` damit noch trägt, ist eine Einordnungsfrage für Christian.
 - `zirkel` bleibt vorerst auf `unklar`, solange keine Folge Nemo deutlicher an eine Zirkel-Achse bindet.
 
 ## Quellen
@@ -90,5 +94,6 @@ tags:
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md) — lokale Nemo-Anker über DNAPF 18 und 20.
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md) — lokale Nemo-Anker über DNAPF 41 bis 43.
 - [raw/notes/2026-09-06_neue-folgen-scout_september-2026.md](../../raw/notes/2026-09-06_neue-folgen-scout_september-2026.md) — Recherche vom 06.09.2026: Folge 4.
+- [raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md](../../raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md) — Recherche vom 03.10.2026: Watchlist-Folge 5.
 - Offizielle Serien-Seite: <https://www.sonderermittler-der-krone.de/serien/kapitaen-nemo/>
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche vom 17.08.2026: offizielle Folgen-Detailseiten (Daten, Spielzeiten, Klappentexte, Figuren).

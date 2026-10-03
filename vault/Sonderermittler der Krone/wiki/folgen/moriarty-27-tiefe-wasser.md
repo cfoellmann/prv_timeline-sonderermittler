@@ -13,33 +13,30 @@ crossover_mit:
   - frankenstein
 spoiler_level: grob
 status: recherchiert
-veroeffentlichungsstatus: geplant
 quellen:
   - raw/notes/2026-09-06_neue-folgen-scout_september-2026.md
   - raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md
   - https://www.xn--hrspieltalk-rfb.de/forum/thread/31576-moriarty-zwischen-genie-und-verbrechen-27-tiefe-wasser/
+  - raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md
+  - raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md
+  - https://www.sonderermittler-der-krone.de/serien/moriarty/folge27-tiefe-wasser/
 tags:
   - sonderermittler
   - maritim
   - krimi
-  - watchlist
 ---
 
 # Moriarty – Zwischen Genie und Verbrechen – 27: Tiefe Wasser
-
-> [!note] Watchlist — geplante Veröffentlichung
-> Angekündigt für den **25.09.2026** (Download). Am 06.09.2026 noch nicht erschienen.
->
-> Datum am 06.09.2026 gegen Apple Music und Deezer gegengeprüft.
 
 > Moriarty ist untergetaucht. Eine Spur in Nassau, ein Wrack vor North Bimini — und mehrere Parteien, die dasselbe suchen.
 
 ## Eckdaten
 
-- **Geplante Veröffentlichung (Download):** 25.09.2026 — am 06.09.2026 durch Apple Music bestätigt (46 Tracks).
+- **Erscheinungsdatum (Download):** 25.09.2026 — offizielle Folgenseite, HolyShop (Ersterscheinung), Apple Music (collectionId 6783852411, 46 Tracks) und Deezer übereinstimmend. Am 03.10.2026 aus der Watchlist übernommen.
+- **EAN/UPC:** 199109366169 (Deezer).
 - **CD-Veröffentlichung:** 28.08.2026 — abweichendes Format, kein Widerspruch. `erschienen` führt nach Repo-Konvention das Download-Datum.
-- **Status am 06.09.2026:** angekündigt, noch nicht veröffentlicht.
-- **Spielzeit:** 70 Minuten (Vorschauangabe) — damit eine der längsten Folgen der Reihe.
+- **Spielzeit:** 70 Minuten (offizielle Folgenseite und HolyShop; Apple-Music-Trackssumme 70,2 min) — damit eine der längsten Folgen der Reihe.
+- **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge27-tiefe-wasser/> — gelistete Figuren: James Moriarty, Victor Frankenstein, Mata Hari.
 - **Verlag:** Maritim.
 - **Autor:in:** noch nicht im Repo verifiziert.
 - **Schauplatz:** Nassau (Bahamas), North Bimini, Meeresgrund.
@@ -77,6 +74,9 @@ tags:
 
 ## Quellen
 
+- Offizielle Folgenseite (Klappentext, Datum, Spielzeit, Figuren): <https://www.sonderermittler-der-krone.de/serien/moriarty/folge27-tiefe-wasser/>
+- [raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md](../../raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md) — Abschrift von Fanseite und HolyShop, 03.10.2026.
+- [raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md](../../raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md) — Apple Music und Deezer (Datum, UPC), 03.10.2026.
 - [raw/notes/2026-09-06_neue-folgen-scout_september-2026.md](../../raw/notes/2026-09-06_neue-folgen-scout_september-2026.md) — Recherchenotiz mit Klappentext und Sprecherliste.
 - [raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md](../../raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md) — Bestätigung des Download-Datums, Auflösung des CD-/Download-Splits.
 - Apple Music (iTunes Lookup API, Artist 1578682459): 2026-09-25.

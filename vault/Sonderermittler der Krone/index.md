@@ -27,13 +27,13 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 
 ### Maritim — Hauptlinie
 
-- [[wiki/serien/phileas-fogg|Jules Verne – Die neuen Abenteuer des Phileas Fogg]] — seit 06.11.2015, Abenteuer/Fantasy, 52 Folgen; frühe Kosmos-Drehscheibe für Nemo, Robur, Frankenstein, Dracula und das erste Wilde-Crossover. Ab Folge 51 neuer Abenteuer-Block ohne Zirkel-Bezug.
+- [[wiki/serien/phileas-fogg|Jules Verne – Die neuen Abenteuer des Phileas Fogg]] — seit 06.11.2015, Abenteuer/Fantasy, 52 Folgen; frühe Kosmos-Drehscheibe für Nemo, Robur, Frankenstein, Dracula und das erste Wilde-Crossover. Ab Folge 51 neuer Abenteuer-Block ohne Zirkel-Bezug; Folge 53 als Vormerkung (Einzelquelle, Termin offen).
 - [[wiki/serien/oscar-wilde-und-mycroft-holmes|Oscar Wilde & Mycroft Holmes – Sonderermittler der Krone]] — seit 2016, Krimi, 59 Folgen + Folge 60 als Vormerkung, **Hauptserie**; nach dem Themse-Arc 57–58 folgt mit 59–60 der Echsen-/Unsterblichkeitsblock um Wildes Alleingang.
 - [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]] — seit 2018, Krimi, 36 Folgen + 12 Re-Release-Folgen integriert; ab Folge 35 eng an die Sonderermittler-Linien gekoppelt.
-- [[wiki/serien/irene-adler|Irene Adler – Sonderermittlerin der Krone]] — seit 14.06.2019, Krimi, 35 Folgen (`0` bis `34`) + Folgen 35–36 als Vormerkung, lückenlos erschlossen; der Eva-/Menorium-Arc läuft von 33 bis mindestens 35.
-- [[wiki/serien/moriarty|Moriarty – Zwischen Genie und Verbrechen]] — seit 2020, Krimi, 27 Folgen (`0` bis `26`) + Folge 27 als Vormerkung; Unsterblichkeits-Arc 25–27 führt über den Atlantik nach Cat Rock und auf die Bahamas.
+- [[wiki/serien/irene-adler|Irene Adler – Sonderermittlerin der Krone]] — seit 14.06.2019, Krimi, 36 Folgen (`0` bis `35`) + Folge 36 als Vormerkung, lückenlos erschlossen; der Eva-/Menorium-Arc läuft von 33 bis mindestens 35.
+- [[wiki/serien/moriarty|Moriarty – Zwischen Genie und Verbrechen]] — seit 2020, Krimi, 28 Folgen (`0` bis `27`); Unsterblichkeits-Arc 25–27 führt über den Atlantik nach Cat Rock und auf die Bahamas.
 - [[wiki/serien/dracula|Dracula und der Zirkel der Sieben]] — 2020–2024, Horror, 16 Folgen, abgeschlossen; Antagonisten-Spin-off um den Anführer des Zirkels. Wird 2026 über FRANK 26/27 und SH 23 von aussen fortgeschrieben.
-- [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] — seit 2020, Horror, 26 Folgen + Folgen 27–28 als Vormerkung; Tarnmantel-/Karpaten-Arc 25–28, Folge 29 nur dem Titel nach angekündigt.
+- [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] — seit 2020, Horror, 27 Folgen + Folge 28 als Vormerkung; Tarnmantel-/Karpaten-Arc 25–28, Folgen 29 und 31–36 nur dem Titel nach angekündigt.
 - [[wiki/serien/sherlock-holmes|Sherlock Holmes – Sonderermittler der Krone]] — seit 25.11.2022, Krimi, 22 Folgen + Folgen 23 (09.10.2026) und 24 (04.12.2026) als Vormerkung, plus 10 integrierte Re-Release-Folgen; Voodoo-Arc 21–22, Dracula-Rückkehr ab 23.
 
 ### Blitz Verlag — Spin-offs ab Ende 2024
@@ -41,8 +41,8 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/serien/oscar-wilde-und-irene-adler|Oscar Wilde & Irene Adler – Sonderermittler der Krone]] — seit Ende 2024, 4-teilige Blitz-Mini-Serie; verdichtet die bereits laufende Wilde/Adler-Achse des Kosmos.
 - [[wiki/serien/tesla|Tesla]] — seit Ende 2024, Krimi, 9 Folgen, mit direktem Moriarty-/Zirkel-Anschluss.
 - [[wiki/serien/oscar-wilde-und-poe|Oscar Wilde & Edgar Allan Poe]] — Ende 2025/Anfang 2026, Krimi, 4 Folgen (Mini-Serie); Oscar Wilde und Edgar Allan Poe auf der Jagd nach den uralten Statuen der »Ewig Liebenden«, Zirkel ab Folge 3 direkt beteiligt; vollständig dokumentiert.
-- [[wiki/serien/wilde-mycroft-ungeloeste|Oscar Wilde – Die ungelösten Fälle des Mycroft Holmes]] — seit Januar 2026, Krimi, 4 Folgen + 4 angekündigte Titel; mit Folge 3 (Van Helsing, Fledermäuse) erstmals in Zirkel-Nähe, Folge 4 führt Professor Challenger ein.
-- [[wiki/serien/kapitaen-nemo|Die Abenteuer des Kapitän Nemo]] — seit 13.02.2026, Abenteuer, 4 Folgen; nach dem Insel-Zweiteiler bilden die Folgen 3–4 einen Franklin-/Eismeer-Block — beide listen Oscar Wilde.
+- [[wiki/serien/wilde-mycroft-ungeloeste|Oscar Wilde – Die ungelösten Fälle des Mycroft Holmes]] — seit Januar 2026, Krimi, 4 Folgen + Folge 5 als Vormerkung (16.10.2026) + 3 angekündigte Titel; mit Folge 3 (Van Helsing, Fledermäuse) erstmals in Zirkel-Nähe, Folge 4 führt Professor Challenger ein.
+- [[wiki/serien/kapitaen-nemo|Die Abenteuer des Kapitän Nemo]] — seit 13.02.2026, Abenteuer, 4 Folgen + Folge 5 als Vormerkung (09.10.2026); nach dem Insel-Zweiteiler bilden die Folgen 3–4 einen Franklin-/Eismeer-Block — beide listen Oscar Wilde, Folge 5 besetzt ihn erneut.
 
 ### Weiterleitungen (Re-Releases — jetzt Sub-Sektionen ihrer Hauptserie)
 
@@ -105,6 +105,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/phileas-fogg-50-goetterdaemmerung|DNAPF 50 — Götterdämmerung]] (27.02.2026) — Die Kristalljagd endet in Indien in einem überlangen Finale.
 - [[wiki/folgen/phileas-fogg-51-der-blaue-lotus|DNAPF 51 — Der Blaue Lotus]] (01.05.2026) — Ein Brief holt den nach einem Trauerfall isolierten Fogg nach Hongkong.
 - [[wiki/folgen/phileas-fogg-52-im-tal-der-inkas|DNAPF 52 — Im Tal der Inkas]] (26.06.2026) — Ein Hilferuf führt Fogg mit der Archäologin Elena Vargas in die peruanischen Anden zur Suche nach Paititi.
+- [[wiki/folgen/phileas-fogg-53-der-verschollene-zug|DNAPF 53 — Der verschollene Zug]] (16.10.2026, geplant) — Ein Luxuszug verschwindet zwischen Paris und Istanbul, Passepartout an Bord; die Spur führt in die Karpaten. Watchlist, Einzelquelle.
 
 ### Irene Adler
 
@@ -143,7 +144,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/irene-adler-32-falsche-helden|IADK 32 — Falsche Helden]] (2026-04-24) — Im Moor festgesetzt, müssen Adler und Wu auf Rettung hoffen, während der Zirkel ihnen laut Klappentext einen schweren Verlust zufügen könnte.
 - [[wiki/folgen/irene-adler-33-ein-altes-problem|IADK 33 — Ein altes Problem]] (2026-06-12) — Der Mord an einem Eingeweihten bringt den Maschinenmenschen Eva zurück ins Spiel; Irene sucht sein Versteck vor dem Zirkel.
 - [[wiki/folgen/irene-adler-34-kuenstlicher-feind|IADK 34 — Künstlicher Feind]] (2026-08-07) — Der Täter jagt in Cornwall Menorium, um aus Eva den perfekten künstlichen Menschen zu machen.
-- [[wiki/folgen/irene-adler-35-bilder-des-fortschritts|IADK 35 — Bilder des Fortschritts]] (02.10.2026, geplant) — Robur und Killjoy entkommen mit dem letzten Menorium; Adler und Wu hetzen nach London zurück. Watchlist.
+- [[wiki/folgen/irene-adler-35-bilder-des-fortschritts|IADK 35 — Bilder des Fortschritts]] (02.10.2026) — Robur und Killjoy entkommen mit dem letzten Menorium; Adler und Wu hetzen nach London zurück.
 - [[wiki/folgen/irene-adler-36-die-kraft-der-illusion|IADK 36 — Die Kraft der Illusion]] (27.11.2026, geplant) — Irene Adler erscheint nicht zum Treffen; Wu und Oscar Wilde suchen sie. Watchlist.
 
 ### Sherlock Holmes
@@ -179,6 +180,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume|WMU 2 — Die Todesblume]] (10.04.2026) — Wilde prüft einen alten Todesfall aus Mycrofts Akten neu; Irene Adler ist als Figur gelistet.
 - [[wiki/folgen/wilde-mycroft-ungeloeste-03-das-fledermausamulett|WMU 3 — Das Fledermausamulett]] (19.06.2026) — Eine blutleere Leiche bei Glastonbury und Fledermäuse führen Wilde und Van Helsing in den Vampir-Komplex.
 - [[wiki/folgen/wilde-mycroft-ungeloeste-04-das-buch-des-grauens|WMU 4 — Das Buch des Grauens]] (14.08.2026) — Eine Karte aus den Fallakten weist zum „Buch des Grauens"; Wilde ermittelt mit Professor Challenger.
+- [[wiki/folgen/wilde-mycroft-ungeloeste-05-kalt-wie-eis|WMU 5 — Kalt wie Eis]] (16.10.2026, geplant) — Wilde rollt eine Serie tödlicher Kutschenüberfälle in der Kleinstadt Falcon neu auf. Watchlist.
 
 ### Die Abenteuer des Kapitän Nemo
 
@@ -186,6 +188,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/kapitaen-nemo-02-das-geheimnis-der-insel|NEM 2 — Das Geheimnis der Insel]] (17.04.2026) — Entführung, Piratenangriff und unerwartete Hilfe treiben den Insel-Block weiter.
 - [[wiki/folgen/kapitaen-nemo-03-verschollen-im-eis|NEM 3 — Verschollen im Eis]] (12.06.2026) — Die Nautilus nimmt Schiffbrüchige auf und sucht im Eismeer die verschollenen Schiffe der Franklin-Expedition.
 - [[wiki/folgen/kapitaen-nemo-04-die-ueberlebenden-der-erebus|NEM 4 — Die Überlebenden der Erebus]] (07.08.2026) — Im Packeis stößt die Nautilus auf das Wrack der HMS Erebus — und Nemo und Dr. Adams sind dort nicht allein.
+- [[wiki/folgen/kapitaen-nemo-05-kopfgeld|NEM 5 — Kopfgeld]] (09.10.2026, geplant) — In fast jedem Hafen wird ein Anschlag auf Nemo verübt; in New York will er herausfinden, wer dahintersteckt. Watchlist.
 
 ### Oscar Wilde & Irene Adler
 
@@ -223,7 +226,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/moriarty-24-ausgeliefert|MOR 24 — Ausgeliefert]] (10.04.2026) — Endlich ist es James Moriarty gelungen, den Strahlenapparat des Professor Payne in seinen Besitz zu bringen. In seinem Haus in London wagt er ein gefährliches Experiment.
 - [[wiki/folgen/moriarty-25-ein-hauch-von-ewigkeit|MOR 25 — Ein Hauch von Ewigkeit]] (06.05.2026) — Der Wahrsager Edgar Cayce erzählt Moriarty von einem magischen Stein; auf der Schiffsreise nach New York sind mächtige Gegner an Bord.
 - [[wiki/folgen/moriarty-26-der-teufel-von-cat-rock|MOR 26 — Der Teufel von Cat Rock]] (31.07.2026) — Halb bewusstlos aus dem Atlantik gerettet, landet Moriarty auf der Insel Cat Rock, wo ein Mord geschieht.
-- [[wiki/folgen/moriarty-27-tiefe-wasser|MOR 27 — Tiefe Wasser]] (25.09.2026, geplant) — Eine Spur in Nassau und ein Wrack vor North Bimini bringen den untergetauchten Moriarty mit dem Erfinder Walter Blunt zusammen. Watchlist.
+- [[wiki/folgen/moriarty-27-tiefe-wasser|MOR 27 — Tiefe Wasser]] (25.09.2026) — Eine Spur in Nassau und ein Wrack vor North Bimini bringen den untergetauchten Moriarty mit dem Erfinder Walter Blunt zusammen.
 
 ### Tesla
 
@@ -330,7 +333,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/frankenstein-24-toedliche-dosis|FRANK 24 — Tödliche Dosis]] (2026-03-27) — Abschluss des Australien-Arcs.
 - [[wiki/folgen/frankenstein-25-truegerische-hoffnung|FRANK 25 — Trügerische Hoffnung]] (22.05.2026) — Moriarty lässt Frankenstein und Lavache Tarnmäntel für alle Zirkelmitglieder entwickeln.
 - [[wiki/folgen/frankenstein-26-doppelte-tarnung|FRANK 26 — Doppelte Tarnung]] (13.07.2026) — Auf dem Weg zu Draculas Labor blockiert das Wetter die Karpaten-Reise; der Zirkel nimmt ein riskantes Angebot an.
-- [[wiki/folgen/frankenstein-27-finsteres-erbe|FRANK 27 — Finsteres Erbe]] (11.09.2026, geplant) — Draculas Labor ist leergeräumt; Merlins Buch und das Kalte Blut sind verschwunden. Watchlist.
+- [[wiki/folgen/frankenstein-27-finsteres-erbe|FRANK 27 — Finsteres Erbe]] (11.09.2026) — Draculas Labor ist leergeräumt; Merlins Buch und das Kalte Blut sind verschwunden.
 - [[wiki/folgen/frankenstein-28-gegen-jeden-widerstand|FRANK 28 — Gegen jeden Widerstand]] (13.11.2026, geplant) — Die Rückreise mit Draculas Truhen gerät in Schwierigkeiten, während Robur und Killjoy bereits wissen, dass die Beute wertlos ist. Watchlist.
 
 ### Oscar Wilde & Mycroft Holmes
@@ -470,6 +473,8 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 
 ## Quellen-Übersicht
 
+- [raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md](raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md) — Neue-Folgen-Scout vom 03.10.2026: FRANK 27, MOR 27 und IADK 35 erschienen; neue Vormerkungen NEM 5, WMU 5, DNAPF 53; Titelankündigungen FRANK 29 und 31–36.
+- [raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md](raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md) — Fanseite (Serienübersicht, Schlagzeilen, drei Folgenseiten) und HolyShop-Releaseliste, Stand 03.10.2026.
 - [raw/Sonderermittler_Update_2026-08-17.md](raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update vom 17.08.2026: 11 neue Folgen, 2 Vormerkungen, neuer Arbeitsstand 316 offizielle Folgen.
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche vom 17.08.2026: schließt die vier Vault-Lücken (DNAPF 51, EAPAD 35, FRANK 25, MOR 25) und trägt Daten, Spielzeiten, Klappentexte und Figuren für alle Folgen des Updates nach.
 - [raw/deep-research-report.md](raw/deep-research-report.md) — Deep-Research-Report (Meta-/Reconciliation-Dokument, Mai 2026).

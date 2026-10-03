@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1.0",
-  "stand": "2026-09-06",
+  "stand": "2026-10-03",
   "epoche_min_jahr": 1875,
   "epoche_max_jahr": 1905,
   "serien": [
@@ -834,6 +834,19 @@
       "logline": "Ein Hilferuf eines vermissten Forschers führt Fogg in die peruanischen Anden – auf die Suche nach der legendären Stadt Paititi.",
       "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/phileas-fogg-52-im-tal-der-inkas.md",
       "spielzeit_min": 68
+    },
+    {
+      "id": "phileas-fogg-53-der-verschollene-zug",
+      "serie": "phileas-fogg",
+      "nummer": 53,
+      "titel": "Der verschollene Zug",
+      "erschienen": "2026-10-16",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Watchlist, Einzelquelle (Hörspieltalk, 17.09.2026). Termin 2026-10-16 laut Forum, auf Entscheidung Christians übernommen; Apple Music, Deezer und HolyShop führen die Folge am 03.10.2026 noch nicht. Paris – Istanbul – Karpaten.",
+      "zirkel": "unklar",
+      "spoiler_level": "grob",
+      "logline": "Der Luxuszug L'Ombre d'Or verschwindet zwischen Paris und Istanbul – mit Passepartout an Bord. Foggs Suche führt in die Karpaten.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/phileas-fogg-53-der-verschollene-zug.md"
     },
     {
       "id": "oscar-wilde-und-mycroft-holmes-01-zeitenwechsel",
@@ -4356,7 +4369,7 @@
       "story_monat": null,
       "story_tag": null,
       "story_praezision": "unbekannt",
-      "story_anmerkung": "Watchlist: geplant fuer 2026-09-11. Durchsuchung von Draculas ehemaligem Labor in den Karpaten. Kein belegtes Story-Jahr; In-Universe liegt die Folge nach dem Abschluss der Dracula-Reihe und unmittelbar nach Folge 26.",
+      "story_anmerkung": "Erschienen 2026-09-11 (offizielle Folgenseite, Apple Music und Deezer übereinstimmend; am 03.10.2026 aus der Watchlist übernommen). Durchsuchung von Draculas ehemaligem Labor in den Karpaten. Kein belegtes Story-Jahr; In-Universe liegt die Folge nach dem Abschluss der Dracula-Reihe und unmittelbar nach Folge 26.",
       "zirkel": "direkt",
       "spoiler_level": "grob",
       "logline": "Draculas Labor ist leergeräumt – Merlins Buch, das Kalte Blut und alle andere Beute sind verschwunden.",
@@ -4488,6 +4501,20 @@
       "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/kapitaen-nemo-04-die-ueberlebenden-der-erebus.md"
     },
     {
+      "id": "kapitaen-nemo-05-kopfgeld",
+      "serie": "kapitaen-nemo",
+      "nummer": 5,
+      "titel": "Kopfgeld",
+      "erschienen": "2026-10-09",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Watchlist: geplant für 2026-10-09 (Apple Music und Hörspieltalk übereinstimmend). Häfen, dann New York City; Oscar Wilde besetzt.",
+      "zirkel": "unklar",
+      "spoiler_level": "grob",
+      "spielzeit_min": 63,
+      "logline": "In fast jedem Hafen wird ein Anschlag auf Nemo verübt – in New York will er herausfinden, wer dahintersteckt.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/kapitaen-nemo-05-kopfgeld.md"
+    },
+    {
       "id": "wilde-mycroft-ungeloeste-04-das-buch-des-grauens",
       "serie": "wilde-mycroft-ungeloeste",
       "nummer": 4,
@@ -4502,13 +4529,27 @@
       "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/wilde-mycroft-ungeloeste-04-das-buch-des-grauens.md"
     },
     {
+      "id": "wilde-mycroft-ungeloeste-05-kalt-wie-eis",
+      "serie": "wilde-mycroft-ungeloeste",
+      "nummer": 5,
+      "titel": "Kalt wie Eis",
+      "erschienen": "2026-10-16",
+      "story_praezision": "unbekannt",
+      "story_anmerkung": "Watchlist: geplant für 2026-10-16 (Apple Music; Hörspieltalk nennt nur 2026). Altfall in der Kleinstadt Falcon.",
+      "zirkel": "unklar",
+      "spoiler_level": "grob",
+      "spielzeit_min": 53,
+      "logline": "Tödliche Kutschenüberfälle in Falcon gelten als aufgeklärt – doch der Verurteilte bestreitet eine der Taten, und Wilde rollt den Fall neu auf.",
+      "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/wilde-mycroft-ungeloeste-05-kalt-wie-eis.md"
+    },
+    {
       "id": "irene-adler-35-bilder-des-fortschritts",
       "serie": "irene-adler",
       "nummer": 35,
       "titel": "Bilder des Fortschritts",
       "erschienen": "2026-10-02",
       "story_praezision": "unbekannt",
-      "story_anmerkung": "Watchlist: geplant für 2026-10-02 (Apple Music und Deezer übereinstimmend; am 06.09.2026 von 2026-09-18 korrigiert). Fortsetzung des Eva-/Menorium-Arcs.",
+      "story_anmerkung": "Erschienen 2026-10-02 (Fanseite, HolyShop, Apple Music, Deezer; am 03.10.2026 aus der Watchlist übernommen). Fortsetzung des Eva-/Menorium-Arcs.",
       "zirkel": "direkt",
       "spoiler_level": "grob",
       "spielzeit_min": 55,
@@ -4536,7 +4577,7 @@
       "titel": "Tiefe Wasser",
       "erschienen": "2026-09-25",
       "story_praezision": "unbekannt",
-      "story_anmerkung": "Watchlist: Download 2026-09-25 (durch Apple Music bestätigt), CD 2026-08-28 — Formatsplit, kein Widerspruch. Nassau und North Bimini.",
+      "story_anmerkung": "Erschienen 2026-09-25 als Download (Fanseite, HolyShop, Apple Music, Deezer; am 03.10.2026 aus der Watchlist übernommen), CD bereits 2026-08-28 — Formatsplit, kein Widerspruch. Nassau und North Bimini.",
       "zirkel": "indirekt",
       "spoiler_level": "grob",
       "spielzeit_min": 70,

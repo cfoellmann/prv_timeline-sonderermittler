@@ -37,35 +37,31 @@ crossover_mit:
   - frankenstein
 spoiler_level: grob
 status: recherchiert
-veroeffentlichungsstatus: geplant
 quellen:
   - raw/notes/2026-09-06_neue-folgen-scout_september-2026.md
   - raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - https://www.xn--hrspieltalk-rfb.de/forum/thread/31824-irene-adler-35-bilder-des-fortschritts/
+  - raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md
+  - raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md
+  - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge35-bilder-des-fortschritts/
 tags:
   - sonderermittler
   - maritim
   - krimi
-  - watchlist
 ---
 
 # Irene Adler – Sonderermittlerin der Krone – 35: Bilder des Fortschritts
-
-> [!note] Watchlist — geplante Veröffentlichung
-> Angekündigt für den **02.10.2026**. Am 06.09.2026 noch nicht erschienen und auf der offiziellen Fanseite noch nicht gelistet. Nach dem Erscheinen gegen die Folgenseite prüfen.
->
-> Datum am 06.09.2026 gegen Apple Music und Deezer gegengeprüft.
 
 > Robur und Killjoy sind entkommen — und haben den letzten Rest Menorium erbeutet.
 
 ## Eckdaten
 
-- **Geplante Veröffentlichung:** 02.10.2026 (Apple Music und Deezer übereinstimmend).
+- **Erscheinungsdatum:** 02.10.2026 — offizielle Folgenseite, HolyShop (Ersterscheinung), Apple Music (collectionId 6793608150) und Deezer übereinstimmend. Am 03.10.2026 aus der Watchlist übernommen.
 - **EAN/UPC:** 199109376625 (Deezer).
-- **Status am 06.09.2026:** angekündigt, noch nicht veröffentlicht.
-- **Spielzeit:** 55 Minuten (Vorschauangabe).
+- **Spielzeit:** 55 Minuten (offizielle Folgenseite und HolyShop; Apple-Music-Trackssumme 54,6 min).
+- **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge35-bilder-des-fortschritts/> — gelistete Figuren: Irene Adler, Wu, Victor Frankenstein, Theodora Sachs, Robur, Killjoy.
 - **Verlag:** Maritim.
 - **Autorin:** Silke Walter (Vorschauangabe).
 - **Schauplatz:** Rückweg nach London.
@@ -106,6 +102,9 @@ tags:
 
 ## Quellen
 
+- Offizielle Folgenseite (Klappentext, Datum, Spielzeit, Figuren): <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge35-bilder-des-fortschritts/>
+- [raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md](../../raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md) — Abschrift von Fanseite und HolyShop, 03.10.2026.
+- [raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md](../../raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md) — Apple Music und Deezer (Datum, UPC), 03.10.2026.
 - [raw/notes/2026-09-06_neue-folgen-scout_september-2026.md](../../raw/notes/2026-09-06_neue-folgen-scout_september-2026.md) — Recherchenotiz mit Klappentext und Sprecherliste.
 - [raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md](../../raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md) — Auflösung des Datumswiderspruchs.
 - [raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md](../../raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md) — Apple Music: 2026-10-02.
