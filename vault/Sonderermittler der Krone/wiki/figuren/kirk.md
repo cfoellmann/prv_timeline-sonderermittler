@@ -6,6 +6,7 @@ aliase:
 status: stub
 quellen:
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
+  - raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md
 tags:
   - sherlock-holmes
   - dracula-strang
@@ -13,15 +14,15 @@ tags:
 
 # Miss Kirk
 
-> Haushälterin von [[wiki/figuren/allison|Father Allison]] und Augenzeugin des „Wiedergängers von Soho" — sie bringt den Fall in die Baker Street.
+> Haushälterin von [[wiki/figuren/allison|Pater Allison]] und Augenzeugin des „Wiedergängers von Soho" — sie bringt den Fall in die Baker Street.
 
 ## Auftritte
 
-- [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho|SH 23 — Der Wiedergänger von Soho]] (geplant 09.10.2026) — kommt in die Baker Street und berichtet, Father Allison sei in der vorigen Nacht von einem Geist angegriffen worden. Sie selbst sah die dunkle Gestalt fliehen. [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] verspricht, der Sache nachzugehen.
+- [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho|SH 23 — Der Wiedergänger von Soho]] (09.10.2026) — kommt in die Baker Street und berichtet, Pater Allison sei in der vorigen Nacht von einem Wiedergänger angegriffen worden. Sie selbst sah die dunkle Gestalt fliehen. [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] verspricht, der Sache nachzugehen.
 
 ## Beziehungen
 
-- [[wiki/figuren/allison|Father Allison]] — ihr Arbeitgeber, das Opfer des Angriffs.
+- [[wiki/figuren/allison|Pater Allison]] — ihr Arbeitgeber, das Opfer des Angriffs.
 - [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] und [[wiki/figuren/john-watson|John Watson]] — nehmen ihren Bericht auf.
 
 ## Bezug zum Zirkel der Sieben
@@ -35,5 +36,6 @@ tags:
 
 ## Quellen
 
+- Offizielle Folgenseite (Klappentext): <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge23-der-wiedergaenger-von-soho/>
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md)
 - Klappentext (Forenwiedergabe): <https://www.xn--hrspieltalk-rfb.de/forum/thread/31483-sherlock-holmes-sonderermittler-der-krone-23-der-wiederg%C3%A4nger-von-soho/>

@@ -10,6 +10,7 @@ folgen_count: 4
 watchlist_count: 1
 mini_serie: true
 quellen:
+  - raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md
   - raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
   - raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md
@@ -31,7 +32,7 @@ tags:
 - **Verlag:** Blitz Verlag
 - **Genre:** Krimi
 - **Erstveröffentlichung:** 23.01.2026
-- **Folgenstand:** 4 (Stand: 2026-10-03), lückenlos dokumentiert. Dazu 1 Vormerkung mit eigener Seite (Folge 5) und drei nur dem Titel nach angekündigte Folgen (siehe Watchlist).
+- **Folgenstand:** 4 (Stand: 2026-10-12), lückenlos dokumentiert. Dazu 1 Vormerkung mit eigener Seite (Folge 5) und drei nur dem Titel nach angekündigte Folgen (siehe Watchlist).
 - **Bezug zum Zirkel:** bis Folge 2 kein Bezug erkennbar. **Mit Folge 3 ändert sich das:** blutleere Leiche, Fledermäuse, ein Fledermausamulett und **Abraham Van Helsing** als Mitermittler rücken die Reihe in den Vampir-/[[wiki/figuren/dracula|Dracula]]-Komplex und damit indirekt an den [[wiki/konzepte/zirkel-der-sieben|Zirkel]].
 
 ## Hauptfiguren
@@ -53,9 +54,9 @@ tags:
 
 ## Watchlist — angekündigte Folgen
 
-**Folge 5 „Kalt wie Eis“** hat seit dem 03.10.2026 eine eigene Watchlist-Seite (Termin 16.10.2026 laut Apple Music, Klappentext und Spielzeit laut Hörspieltalk) und zählt in `watchlist_count`.
+**Folge 5 „Kalt wie Eis“** hat seit dem 03.10.2026 eine eigene Watchlist-Seite (Termin 16.10.2026 laut Apple Music, seit 12.10.2026 zusätzlich durch die Verlagsankündigung „Am Freitag geht's los" gedeckt; Klappentext und Spielzeit laut Hörspieltalk) und zählt in `watchlist_count`.
 
-Drei weitere Titel sind angekündigt, aber **nur als Titel** bekannt — ohne Datum, Klappentext oder Spielzeit (Stand 03.10.2026 unverändert). Für eigene Folgenseiten reicht die Datenlage nicht; sie werden hier vorgemerkt.
+Drei weitere Titel sind angekündigt, aber **nur als Titel** bekannt — ohne Datum, Klappentext oder Spielzeit (Stand 12.10.2026 unverändert). Für eigene Folgenseiten reicht die Datenlage nicht; sie werden hier vorgemerkt.
 
 | # | Titel | Stand |
 |---|---|---|
@@ -73,7 +74,7 @@ Quelle: Hörspieltalk-Sammelthread und Einzelthreads (Wiedergabe der Verlagsvors
 - Ob [[wiki/konzepte/fledermausamulett|das Fledermausamulett]] ein eigenständiges Artefakt oder ein Dracula-Insigne ist, ist offen.
 - Autor:innen der Reihe sind weiterhin unbelegt; die offiziellen Folgenseiten nennen keine.
 - **Datumskonflikt Folge 4 aufgelöst (06.09.2026):** Storytel, Apple Music und Deezer nennen übereinstimmend den **14.08.2026**; nur die offizielle Folgenseite nennt den 18.08.2026. Der Repo-Wert wurde auf den 14.08.2026 korrigiert.
-- **Verlagskonflikt:** Der Hörspieltalk-Sammelthread führt die Reihe unter „Maritim“, Storytel und das Repo unter „Blitz Verlag“. Repo-Stand unverändert. Neuer Beleg vom 03.10.2026: Apple Music nennt für Folge 5 ausdrücklich „℗ 2026 Blitz Verlag“ (wie bei Folge 4).
+- **Verlagskonflikt entschieden (12.10.2026): Blitz Verlag.** Christian hat die Zuordnung festgeschrieben; die Forenzuordnung „[MARITIM]“ gilt als Vertriebsweg, nicht als Verlag. Vorgeschichte: Der Hörspieltalk-Sammelthread führt die Reihe unter „Maritim“, Storytel und das Repo unter „Blitz Verlag“. Neuer Beleg vom 03.10.2026: Apple Music nennt für Folge 5 ausdrücklich „℗ 2026 Blitz Verlag“ (wie bei Folge 4). Neuer Beleg vom 12.10.2026: Der Ankündigungsbeitrag des Maritim-Labels Highscore Music zu Folge 5 trägt `#blitzverlag` — der Vertrieb läuft über Maritim, die Reihe gehört zu Blitz. Damit spricht alles für den Repo-Stand; die Forenzuordnung „[MARITIM]" bildet vermutlich den Vertriebsweg ab.
 
 ## Quellen
 
@@ -83,4 +84,5 @@ Quelle: Hörspieltalk-Sammelthread und Einzelthreads (Wiedergabe der Verlagsvors
 - [raw/notes/2026-09-06_neue-folgen-scout_september-2026.md](../../raw/notes/2026-09-06_neue-folgen-scout_september-2026.md) — Recherche vom 06.09.2026: Folge 4 und Watchlist 5–8.
 - Offizielle Serien-Seite: <https://www.sonderermittler-der-krone.de/serien/wilde/>
 - [raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md](../../raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md) — Recherche vom 03.10.2026: Watchlist-Folge 5, unveränderte Titelvormerkungen 6–8.
+- [raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md](../../raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md) — Recherche vom 12.10.2026: Verlagsankündigung zu Folge 5.
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche vom 17.08.2026: offizielle Folgen-Detailseiten (Daten, Spielzeiten, Klappentexte, Figuren).

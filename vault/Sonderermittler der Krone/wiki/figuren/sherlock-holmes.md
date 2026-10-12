@@ -61,7 +61,7 @@ Historisch reicht die Figur hinter die Sonderermittler-Reihen zurück: In der Vo
 | [[wiki/folgen/sherlock-holmes-20-verhaengnisvolles-meisterwerk\|SH 20 — Verhängnisvolles Meisterwerk]] | setzt die Adrik-Recherche nach einem Rückschlag neu auf, während Watson in Lebensgefahr gerät |
 | [[wiki/folgen/sherlock-holmes-21-eine-studie-in-blutrot\|SH 21 — Eine Studie in Blutrot]] | vermutet bei einem mutmaßlichen Ritualmord einen Voodoo-Hintergrund und telegrafiert an **Bastien Lavache** — Öffnung zum Tesla-Strang |
 | [[wiki/folgen/sherlock-holmes-22-der-zweite-blutfleck\|SH 22 — Der zweite Blutfleck]] | mit Watson und Lavache **Gefangener** der vermeintlichen Voodoo-Gemeinde; ermittelt aus der Gefangenschaft weiter |
-| [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho\|SH 23 — Der Wiedergänger von Soho]] | *(geplant 09.10.2026)* nimmt den Fall des nächtlich angegriffenen Father Allison an und informiert [[wiki/figuren/abraham-van-helsing\|Van Helsing]] und [[wiki/figuren/jonathan-harker\|Jonathan Harker]] |
+| [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho\|SH 23 — Der Wiedergänger von Soho]] | *(09.10.2026)* nimmt den Fall des nächtlich angegriffenen Pater Allison an und informiert [[wiki/figuren/abraham-van-helsing\|Van Helsing]] und [[wiki/figuren/jonathan-harker\|Jonathan Harker]] |
 
 ### Gastauftritte in anderen Reihen
 

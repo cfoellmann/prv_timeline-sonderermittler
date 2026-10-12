@@ -13,6 +13,7 @@ crossover_mit: []
 spoiler_level: grob
 status: entwurf
 quellen:
+  - raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md
   - raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md
   - https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge05-toedliche-rituale/
   - https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-5-toedliche-rituale-4335/
@@ -34,6 +35,7 @@ tags:
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge05-toedliche-rituale/>
+- **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=YDA4-rmoZMs> — freigegeben 03.10.2026 (Schlagzeile der Fanseite).
 
 ## Hauptfiguren
 

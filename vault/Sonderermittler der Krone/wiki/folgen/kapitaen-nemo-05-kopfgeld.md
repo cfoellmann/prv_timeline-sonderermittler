@@ -29,30 +29,29 @@ crossover_mit:
   - oscar-wilde-und-mycroft-holmes
 spoiler_level: grob
 status: recherchiert
-veroeffentlichungsstatus: geplant
 quellen:
   - raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md
   - https://www.xn--hrspieltalk-rfb.de/forum/thread/32475-die-abenteuer-des-k%C3%A4pitan-nemo-5-kopfgeld/
+  - raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md
+  - raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md
+  - https://www.sonderermittler-der-krone.de/serien/kapitaen-nemo/folge05-kopfgeld/
 tags:
   - blitz
   - abenteuer
   - jules-verne
-  - watchlist
 ---
 
 # Die Abenteuer des Kapitän Nemo – 5: Kopfgeld
-
-> [!note] Watchlist — geplante Veröffentlichung
-> Angekündigt für den **09.10.2026**. Am 03.10.2026 noch nicht erschienen und auf der offiziellen Fanseite noch nicht gelistet. Nach dem Erscheinen gegen die Folgenseite prüfen.
 
 > In fast jedem Hafen, den die Nautilus anläuft, trachtet jemand Nemo nach dem Leben — in New York will er herausfinden, warum.
 
 ## Eckdaten
 
-- **Geplante Veröffentlichung:** 09.10.2026 — Apple Music (collectionId 6812211650, 41 Tracks) und Hörspieltalk-Ankündigung übereinstimmend.
-- **Status am 03.10.2026:** angekündigt, noch nicht veröffentlicht. Deezer führt die Folge noch nicht; bei den Blitz-Reihen erschienen die Deezer-Einträge bisher erst zum Veröffentlichungstag.
-- **Spielzeit:** 63 Minuten (Ankündigung; Apple-Music-Trackssumme 63,2 min).
-- **Verlag:** Blitz Verlag (Reihenzuordnung im Vault; Apple Music nennt den Distributor All Ears GmbH, wie schon bei Folge 4).
+- **Erscheinungsdatum (Download):** 09.10.2026 — offizielle Folgenseite, Apple Music (collectionId 6812211650, 41 Tracks), Deezer und Hörspieltalk-Ankündigung übereinstimmend; der Verlag (Highscore Music) kündigt die Folge mit „Blitz präsentiert am Freitag" an und meldet sie am 09.10.2026 als „Out now!". Am 12.10.2026 aus der Watchlist übernommen.
+- **EAN/UPC:** 4071498815946 (Deezer, Label Blitz Verlag). CD-ISBN 978-3-86212-786-3 (DNB, Verlagsfirma Timm + Wilken oHG).
+- **Spielzeit:** 63 Minuten (offizielle Folgenseite und Ankündigung; Apple-Music-Trackssumme 63,2 min).
+- **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/kapitaen-nemo/folge05-kopfgeld/> — gelistete Figuren: Nemo, Oscar Wilde.
+- **Verlag:** Blitz Verlag (Reihenzuordnung im Vault; Deezer und der Verlagsbeitrag nennen Blitz, Apple Music den Distributor All Ears GmbH, wie schon bei Folge 4).
 - **Autor:** Marc Freund — Angabe der Hörspieltalk-Ankündigung, deckt sich mit der Handelszuschreibung bei [[wiki/folgen/kapitaen-nemo-04-die-ueberlebenden-der-erebus|NEM 4]].
 - **Sprecher (Ankündigung, Auswahl):** Klaus Dieter Klebsch (Nemo), Peter Sura (Nemo, jung), Sascha Rotermund (Oscar Wilde), Mathias Renneisen, Felix Strüven, Sarah Alles, Manuel Straube, Till Hagen; dazu Tobias Schmitz, Jean Coppong und Janis Zaurins in kleinen Rollen.
 - **Schauplatz:** verschiedene Häfen, dann New York City.
@@ -60,7 +59,7 @@ tags:
 ## Hauptfiguren
 
 - [[wiki/figuren/kapitaen-nemo|Kapitän Nemo]] — Ziel einer Serie von Anschlägen; zusätzlich in einer jungen Fassung besetzt, was auf Rückblenden hindeutet.
-- [[wiki/figuren/oscar-wilde|Oscar Wilde]] — in der Besetzungsliste, zum dritten Mal in Folge in dieser Reihe; seine Funktion nennt der Klappentext nicht.
+- [[wiki/figuren/oscar-wilde|Oscar Wilde]] — in der Besetzungsliste und auf der offiziellen Folgenseite gelistet, zum dritten Mal in Folge in dieser Reihe; seine Funktion nennt der Klappentext nicht.
 - Edgar Hale, Charlotte D'Artois, Virgil Tomas, Ogden Barrymore, Tyrone — neue Nebenfiguren, noch ohne eigene Seiten.
 
 ## Handlung (grob)
@@ -84,10 +83,13 @@ tags:
 - Die doppelte Besetzung Nemos (Klebsch und Sura als junge Fassung) legt einen Rückblick auf Nemos Vorgeschichte nahe — **Lesart, nicht belegt.**
 - Wer der „totgesagte Freund" ist, nennt der Klappentext nicht. Offen.
 - Oscar Wilde ist nun in drei aufeinanderfolgenden Nemo-Folgen besetzt bzw. gelistet, taucht aber in keinem Klappentext auf. Ob er eine Rahmenhandlung trägt, bleibt beim Hören zu klären.
-- **Quellenlage:** zwei voneinander unabhängige Quellen (Apple Music, Hörspieltalk). Klappentext und Besetzung stammen allein aus der Forenwiedergabe; nach Erscheinen gegen die offizielle Folgenseite prüfen.
+- **Quellenlage:** Klappentext am 12.10.2026 gegen die offizielle Folgenseite geprüft — wortgleich. Die Besetzung stammt weiterhin allein aus der Forenwiedergabe der Verlagsvorschau.
 
 ## Quellen
 
+- Offizielle Folgenseite (Klappentext, Datum, Spielzeit, Figuren): <https://www.sonderermittler-der-krone.de/serien/kapitaen-nemo/folge05-kopfgeld/>
+- [raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md](../../raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md) — Abschrift Fanseite und DNB, 12.10.2026.
+- [raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md](../../raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md) — Rechercheprotokoll (Deezer, Verlagsbeiträge).
 - [raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md](../../raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md) — Recherchenotiz mit Klappentext, Besetzung und Apple-Music-Daten.
 - Ankündigung mit Klappentext, Autor und Besetzung: <https://www.xn--hrspieltalk-rfb.de/forum/thread/32475-die-abenteuer-des-k%C3%A4pitan-nemo-5-kopfgeld/>
 - Apple Music (iTunes Lookup API, Artist 1870953044): 2026-10-09, collectionId 6812211650.

@@ -1,24 +1,26 @@
 ---
 type: figur
-titel: Father Allison
+titel: Pater Allison
 aliase:
   - Allison
+  - Father Allison
 status: stub
 quellen:
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
+  - raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md
 tags:
   - sherlock-holmes
   - dracula-strang
   - kirche
 ---
 
-# Father Allison
+# Pater Allison
 
-> Geistlicher, der nachts von einem „Geist" angegriffen wird — der Auslöser des Wiedergänger-Falls.
+> Geistlicher, der nachts von einem „Wiedergänger" angegriffen wird — der Auslöser des Wiedergänger-Falls.
 
 ## Auftritte
 
-- [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho|SH 23 — Der Wiedergänger von Soho]] (geplant 09.10.2026) — wurde in der Nacht vor dem Fallbeginn angegriffen. Seine Haushälterin [[wiki/figuren/kirk|Miss Kirk]] meldet es in der Baker Street; sie sah die dunkle Gestalt fliehen.
+- [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho|SH 23 — Der Wiedergänger von Soho]] (09.10.2026) — wurde in der Nacht vor dem Fallbeginn angegriffen. Seine Haushälterin [[wiki/figuren/kirk|Miss Kirk]] meldet es in der Baker Street; sie sah die dunkle Gestalt fliehen.
 
 ## Beziehungen
 
@@ -32,10 +34,12 @@ tags:
 
 ## Offene Fragen
 
+- **Namensform:** Der offizielle Klappentext (Fanseite, HolyShop) spricht von **Pater** Allison. Die Vault-Seite führte bis 12.10.2026 die Form „Father Allison" aus einer früheren Wiedergabe; sie bleibt als Alias stehen.
 - Dass ein **Geistlicher** das erste Opfer ist, passt zum Vampir-Motiv (Weihwasser, Kreuz, geheiligter Boden) — ob das dramaturgisch ausgespielt wird, ist offen.
 - Er überlebt den Angriff offenbar; Zustand und weitere Rolle sind nicht belegt.
 
 ## Quellen
 
+- Offizielle Folgenseite (Klappentext): <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge23-der-wiedergaenger-von-soho/>
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md)
 - Klappentext (Forenwiedergabe): <https://www.xn--hrspieltalk-rfb.de/forum/thread/31483-sherlock-holmes-sonderermittler-der-krone-23-der-wiederg%C3%A4nger-von-soho/>

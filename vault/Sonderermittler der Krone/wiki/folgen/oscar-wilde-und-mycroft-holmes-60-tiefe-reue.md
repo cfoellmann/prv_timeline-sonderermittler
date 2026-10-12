@@ -45,6 +45,8 @@ quellen:
   - raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - https://www.xn--hrspieltalk-rfb.de/forum/thread/32062-oscar-wilde-mycroft-holmes-60-tiefe-reue/
+  - raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md
+  - raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md
 tags:
   - sonderermittler
   - maritim
@@ -57,16 +59,16 @@ tags:
 > [!note] Watchlist — geplante Veröffentlichung
 > Angekündigt für den **30.10.2026**. Am 06.09.2026 noch nicht erschienen.
 >
-> Datum am 06.09.2026 gegen Apple Music und Deezer gegengeprüft.
+> Datum am 06.09.2026 gegen Apple Music und Deezer gegengeprüft, am 12.10.2026 zusätzlich durch die HolyShop-Produktseite (Ersterscheinung 30.10.2026) bestätigt.
 
 > Sherlock Holmes ist zurück in London, doch Oscar Wilde ist nirgends zu finden — er sucht weiter auf der Insel nach der Echse.
 
 ## Eckdaten
 
-- **Geplante Veröffentlichung:** 30.10.2026 (Apple Music und Deezer übereinstimmend).
+- **Geplante Veröffentlichung:** 30.10.2026 (Apple Music, Deezer und HolyShop übereinstimmend).
 - **EAN/UPC:** 199109388680 (Deezer).
 - **Status am 06.09.2026:** angekündigt, noch nicht veröffentlicht.
-- **Spielzeit:** 53 Minuten (Vorschauangabe).
+- **Spielzeit:** 53 Minuten (Vorschauangabe und HolyShop; Apple-Music-Trackssumme 53,0 min).
 - **Verlag:** Maritim.
 - **Autor:in:** noch nicht im Repo verifiziert.
 - **Schauplatz:** London und die irische Insel aus [[wiki/folgen/oscar-wilde-und-mycroft-holmes-59-die-spur-der-echse|OWMH 59]].
@@ -104,6 +106,8 @@ tags:
 
 ## Quellen
 
+- [raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md](../../raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md) — HolyShop-Produktseite (Termin, Spielzeit, Klappentext), Abruf 12.10.2026.
+- [raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md](../../raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md) — Apple-Music-Trackssumme und Deezer-Abgleich, 12.10.2026.
 - [raw/notes/2026-09-06_neue-folgen-scout_september-2026.md](../../raw/notes/2026-09-06_neue-folgen-scout_september-2026.md) — Recherchenotiz mit Klappentext und Sprecherliste.
 - [raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md](../../raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md) — Auflösung des Datumswiderspruchs.
 - [raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md](../../raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md) — Apple Music: 2026-10-30.

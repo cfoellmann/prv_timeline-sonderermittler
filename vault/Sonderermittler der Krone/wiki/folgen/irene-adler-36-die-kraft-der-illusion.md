@@ -19,6 +19,8 @@ quellen:
   - raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - https://www.xn--hrspieltalk-rfb.de/forum/thread/32246-irene-adler-sonderermittlerin-der-krone-36-die-kraft-der-illusion/
+  - raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md
+  - raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md
 tags:
   - sonderermittler
   - maritim
@@ -31,15 +33,15 @@ tags:
 > [!note] Watchlist — geplante Veröffentlichung
 > Angekündigt für den **27.11.2026**. Am 06.09.2026 noch nicht erschienen.
 >
-> Datum am 06.09.2026 gegen Apple Music und Deezer gegengeprüft.
+> Datum am 06.09.2026 gegen Apple Music und Deezer gegengeprüft, am 12.10.2026 zusätzlich durch die HolyShop-Produktseite (Ersterscheinung 27.11.2026) bestätigt.
 
 > Irene Adler erscheint nicht zum verabredeten Treffen. Wu und Wilde suchen sie.
 
 ## Eckdaten
 
-- **Geplante Veröffentlichung:** 27.11.2026 — am 06.09.2026 durch Apple Music (collectionId 6805508742) bestätigt.
+- **Geplante Veröffentlichung:** 27.11.2026 — am 06.09.2026 durch Apple Music (collectionId 6805508742) bestätigt, am 12.10.2026 durch Deezer (UPC 199109394438) und die HolyShop-Produktseite.
 - **Status am 06.09.2026:** angekündigt, noch nicht veröffentlicht.
-- **Spielzeit:** 58 Minuten (Vorschauangabe).
+- **Spielzeit:** 58 Minuten (Vorschauangabe und HolyShop; Apple-Music-Trackssumme 57,9 min).
 - **Verlag:** Maritim.
 - **Autor:in:** noch nicht im Repo verifiziert.
 - **Sprecher (Vorschauangabe, ohne Rollenzuordnung):** Yvonne Greitzke, Michael Pan, Sascha Rotermund, Manuel Straube, Milton Welsh, Matti Klemm, Magdalena Höfner, Tim Knauer, Wanja Gerick, Jean Coppong.
@@ -73,6 +75,8 @@ tags:
 
 ## Quellen
 
+- [raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md](../../raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md) — HolyShop-Produktseite (Termin, Spielzeit, Klappentext), Abruf 12.10.2026.
+- [raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md](../../raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md) — Apple-Music-Trackssumme und Deezer-Abgleich, 12.10.2026.
 - [raw/notes/2026-09-06_neue-folgen-scout_september-2026.md](../../raw/notes/2026-09-06_neue-folgen-scout_september-2026.md) — Recherchenotiz.
 - [raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md](../../raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md) — Gegenprüfung der Watchlist-Termine.
 - [raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md](../../raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md) — Apple Music: 2026-11-27.

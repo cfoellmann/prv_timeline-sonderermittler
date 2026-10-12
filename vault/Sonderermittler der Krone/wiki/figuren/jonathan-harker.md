@@ -28,7 +28,7 @@ Harker ist die Figur, über die Dracula in [[wiki/folgen/dracula-01-erbe-des-boe
 | [[wiki/folgen/dracula-03-todesangst\|DRAC 3 — Todesangst]] | Gefährte Mina Harkers, von ihr getrennt |
 | [[wiki/folgen/dracula-04-hinter-den-schatten\|DRAC 4 — Hinter den Schatten]] | verfolgt mit [[wiki/figuren/abraham-van-helsing\|Van Helsing]] den Vampir bis in die Karpaten |
 | [[wiki/folgen/dracula-15-das-mal-der-frevler\|DRAC 15 — Das Mal der Frevler]] | macht mit Bram Stoker in Turin Jagd auf Dracula |
-| [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho\|SH 23 — Der Wiedergänger von Soho]] (geplant 09.10.2026) | erfährt mit Van Helsing von [[wiki/figuren/sherlock-holmes\|Holmes]] und [[wiki/figuren/john-watson\|Watson]] vom „Wiedergänger" |
+| [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho\|SH 23 — Der Wiedergänger von Soho]] (09.10.2026) | erfährt mit Van Helsing von [[wiki/figuren/sherlock-holmes\|Holmes]] und [[wiki/figuren/john-watson\|Watson]] vom „Wiedergänger" |
 
 ## Beziehungen
 

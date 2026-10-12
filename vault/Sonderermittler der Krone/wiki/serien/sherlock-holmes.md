@@ -6,10 +6,12 @@ genre: Krimi
 start: 2022-11-25
 status: recherchiert
 zirkel: true
-folgen_count: 22
-watchlist_count: 2
+folgen_count: 23
+watchlist_count: 1
 re_release_count: 10
 quellen:
+  - raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md
+  - raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md
   - raw/notes/2026-09-06_neue-folgen-scout_september-2026.md
   - raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
@@ -29,8 +31,9 @@ tags:
 ## Übersicht
 
 - **Verlag:** Maritim.
-- **Erstveröffentlichung der Hauptlinie:** 25.11.2022 mit `Folge 1: Dunkle Kraefte, Teil 1`.
-- **Stand am 17.08.2026:** 22 veröffentlichte Folgen (`1` bis `22`); `Folge 22: Der zweite Blutfleck` erschien am 14.08.2026. Zusätzlich ist `Folge 23: Der Wiedergaenger von Soho` als HolyShop-Vormerkung für den 09.10.2026 gelistet und im Vault als Watchlist-Eintrag geführt. **Stand 06.09.2026:** zusätzlich ist `Folge 24: Die Straßen der Angst` für den 04.12.2026 angekündigt. Der zunächst gemeldete Reihenfolgewiderspruch (Folge 24 vor Folge 23) ist damit aufgelöst — die Forenangabe 25.09.2026 war falsch, Apple Music und Deezer nennen übereinstimmend den 04.12.2026.
+- **Erstveröffentlichung der Hauptlinie:** 25.11.2022 mit `Folge 1: Dunkle Kräfte, Teil 1`.
+- **Stand am 17.08.2026:** 22 veröffentlichte Folgen (`1` bis `22`); `Folge 22: Der zweite Blutfleck` erschien am 14.08.2026. Zusätzlich ist `Folge 23: Der Wiedergänger von Soho` als HolyShop-Vormerkung für den 09.10.2026 gelistet und im Vault als Watchlist-Eintrag geführt. **Stand 06.09.2026:** zusätzlich ist `Folge 24: Die Straßen der Angst` für den 04.12.2026 angekündigt. Der zunächst gemeldete Reihenfolgewiderspruch (Folge 24 vor Folge 23) ist damit aufgelöst — die Forenangabe 25.09.2026 war falsch, Apple Music und Deezer nennen übereinstimmend den 04.12.2026.
+- **Stand 12.10.2026:** 23 veröffentlichte Folgen — [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho|Folge 23 „Der Wiedergänger von Soho“]] ist am 09.10.2026 erschienen (HolyShop, Apple Music, Deezer). Folge 24 bleibt Vormerkung für den 04.12.2026, jetzt zusätzlich durch die HolyShop-Produktseite bestätigt (58 min). Die Fanseite nennt für Folge 23 fälschlich den 10.09.2026.
 - **Stand der offiziellen Serienseite am 28.04.2026 (historisch):** 21 Folgen (`1` bis `21`), davon zu diesem Datum 20 veröffentlicht.
 - **Reihenfunktion im Kosmos:** eigenständige Holmes-Front innerhalb der späten Maritim-Phase; die Reihe greift wiederholt auf Mycroft Holmes, Oscar Wilde, Irene Adler und mehrere aktive Zirkel-Figuren zurück.
 - **Bezug zum Zirkel:** direkt. Schon der Auftakt spielt nach einem Schlag des Zirkels; spätestens ab Folge 5 laufen mehrere Arcs offen über Killjoy, Theodora Sachs, Aleister Crowley, Rasputin, Robur und Victor Frankenstein.
@@ -88,8 +91,8 @@ tags:
 | 20 | [[wiki/folgen/sherlock-holmes-20-verhaengnisvolles-meisterwerk\|Verhängnisvolles Meisterwerk]] | 24.04.2026 | direkt |   | Während Holmes zu Gordon Adrik recherchiert, suchen Theodora, Crowley und Rasputin weiter nach dessen Buch. |
 | 21 | [[wiki/folgen/sherlock-holmes-21-eine-studie-in-blutrot\|Eine Studie in Blutrot]] | 19.06.2026 | direkt | [[wiki/serien/tesla\|Tesla]] | Bastien Lavache verknüpft die Holmes-Reihe ausdrücklich mit dem Tesla-/Voodoo-Strang. |
 | 22 | [[wiki/folgen/sherlock-holmes-22-der-zweite-blutfleck\|Der zweite Blutfleck]] | 14.08.2026 | direkt | [[wiki/serien/tesla\|Tesla]] | Holmes, Watson und Lavache sind Gefangene der Voodoo-Gemeinde; Theodora Sachs gelistet. Titel greift Doyles `The Adventure of the Second Stain` auf, ist aber keine Adaption. 59 min. |
-| 23 | [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho\|Der Wiedergänger von Soho]] | 09.10.2026 (geplant) | direkt | [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]] | Ein Priester wird von einem `Geist` angegriffen; alles deutet auf Draculas Befreiung. Van Helsing und Jonathan Harker beteiligt. 56 min. |
-| 24 | [[wiki/folgen/sherlock-holmes-24-die-strassen-der-angst\|Die Straßen der Angst]] | 04.12.2026 (geplant) | direkt | [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]], [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Holmes und Watson warten auf Nachricht aus Transsylvanien; Diebstahl eines Buchs über Aderlass und Blutwäsche. Watchlist. |
+| 23 | [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho\|Der Wiedergänger von Soho]] | 09.10.2026 | direkt | [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]] | Pater Allison wird von einem Wiedergänger angegriffen; alles deutet auf Draculas Befreiung. Van Helsing und Jonathan Harker beteiligt, Theodora Sachs gelistet. Autorin Silke Walter. 56 min. |
+| 24 | [[wiki/folgen/sherlock-holmes-24-die-strassen-der-angst\|Die Straßen der Angst]] | 04.12.2026 (geplant) | direkt | [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]], [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Holmes und Watson warten auf Nachricht aus Transsylvanien; Diebstahl eines Buchs über Aderlass und Blutwäsche. 58 min. Watchlist. |
 
 ## Re-Release / „Aus den Archiven"
 
@@ -148,6 +151,7 @@ tags:
 - [raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md](../../raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md) — paraphrasierte Arbeitsnotiz zu Hauptlinie und Re-Release.
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update: Folge 22 und Watchlist-Folge 23.
 - [raw/notes/2026-09-06_neue-folgen-scout_september-2026.md](../../raw/notes/2026-09-06_neue-folgen-scout_september-2026.md) — Recherche vom 06.09.2026: Watchlist-Folge 24.
+- [raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md](../../raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md) und [raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md](../../raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md) — Recherche vom 12.10.2026: Folge 23 erschienen, Folge 24 HolyShop-bestätigt.
 - [raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md](../../raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md) — Nachfass 06.09.2026: Titel- und Datumskorrektur Folge 24 über Apple Music und Deezer.
 - Offizielle Serien-Seite (Hauptlinie): <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/>
 - Offizielle Serien-Seite (Re-Release): <https://www.sonderermittler-der-krone.de/serien/archive-von-sherlock-holmes/>

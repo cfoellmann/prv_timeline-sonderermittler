@@ -33,6 +33,7 @@ sprecher:
     name: Wanja Gerick
   - rolle: Schwester Liz
     name: Ilona Otto
+spielzeit_min: 58
 zirkel: direkt
 crossover_mit:
   - dracula
@@ -46,6 +47,8 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - https://www.xn--hrspieltalk-rfb.de/forum/thread/31954-sherlock-holmes-sonderermittler-der-krone-24-die-stra%C3%9Fe-der-angst/
+  - raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md
+  - raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md
 tags:
   - sonderermittler
   - maritim
@@ -56,15 +59,15 @@ tags:
 # Sherlock Holmes – Sonderermittler der Krone – 24: Die Straßen der Angst
 
 > [!note] Watchlist — geplante Veröffentlichung
-> Angekündigt für den **04.12.2026**. Am 06.09.2026 noch nicht erschienen.
+> Angekündigt für den **04.12.2026**. Am 06.09.2026 noch nicht erschienen. Am 12.10.2026 zusätzlich durch die HolyShop-Produktseite bestätigt.
 
 > Während Holmes und Watson auf Nachricht aus Transsylvanien warten, meldet ein Klient den Diebstahl eines alten Buchs über Aderlass und Blutwäsche.
 
 ## Eckdaten
 
-- **Geplante Veröffentlichung:** 04.12.2026 (Apple Music und Deezer übereinstimmend).
+- **Geplante Veröffentlichung:** 04.12.2026 (Apple Music, Deezer und HolyShop übereinstimmend).
 - **Status am 06.09.2026:** angekündigt, noch nicht veröffentlicht.
-- **Spielzeit:** noch nicht bekannt; die Katalogeinträge nennen 38 Tracks.
+- **Spielzeit:** 58 Minuten (HolyShop-Produktseite, Abruf 12.10.2026; Apple-Music-Trackssumme 58,4 min über 38 Tracks).
 - **Verlag:** Maritim.
 - **Autor:in:** noch nicht im Repo verifiziert.
 - **Schauplatz:** Baker Street, London.
@@ -104,6 +107,8 @@ tags:
 
 ## Quellen
 
+- [raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md](../../raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md) — HolyShop-Produktseite (Termin, Spielzeit, Klappentext), Abruf 12.10.2026.
+- [raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md](../../raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md) — Apple-Music-Trackssumme und Deezer-Abgleich, 12.10.2026.
 - [raw/notes/2026-09-06_neue-folgen-scout_september-2026.md](../../raw/notes/2026-09-06_neue-folgen-scout_september-2026.md) — Klappentext und Sprecherliste.
 - [raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md](../../raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md) — Auflösung von Titel- und Datumswiderspruch.
 - [raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md](../../raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md) — Apple Music: 2026-12-04, Plural-Titel.

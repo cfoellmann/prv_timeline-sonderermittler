@@ -39,6 +39,8 @@ veroeffentlichungsstatus: geplant
 quellen:
   - raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md
   - https://www.xn--hrspieltalk-rfb.de/forum/thread/32498-jules-verne-die-neuen-abenteuer-des-phileas-fogg-53-der-verschollene-zug/
+  - raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md
+  - raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md
 tags:
   - phileas-fogg
   - maritim
@@ -48,15 +50,16 @@ tags:
 
 # Jules Verne – Die neuen Abenteuer des Phileas Fogg – 53: Der verschollene Zug
 
-> [!warning] Einzelquelle — Termin nicht belegt
-> Titel, Klappentext und Besetzung stammen allein aus einer Hörspieltalk-Ankündigung vom 17.09.2026. Der dort genannte Termin **16.10.2026** ist auf Christians Entscheidung übernommen, obwohl ihn am 03.10.2026 weder Apple Music noch Deezer noch die HolyShop-Releaseliste stützen (dort sind Maritim-Titel bis Anfang Dezember 2026 vorgemerkt). Nach Erscheinen gegen Fanseite und Plattformen prüfen.
+> [!warning] Termin nicht belegt — Einzelquelle
+> Klappentext und Besetzung stammen allein aus einer Hörspieltalk-Ankündigung vom 17.09.2026. **Titel und Nummer sind seit dem 12.10.2026 doppelt belegt** (zusätzlich DNB-Satz der CD). Der Forentermin **16.10.2026** ist auf Christians Entscheidung übernommen, wird aber weiterhin von **keiner** Plattform gestützt: Am 12.10.2026, vier Tage vorher, führen weder Apple Music noch Deezer noch HolyShop noch die Fanseite die Folge — dort sind Maritim-Titel bis Ende Dezember 2026 vorgemerkt. Nach dem 16.10.2026 erneut prüfen.
 
 > Ein Luxuszug verschwindet zwischen Paris und Istanbul — mit Passepartout an Bord. Die Spur führt Fogg in die Karpaten.
 
 ## Eckdaten
 
 - **Geplante Veröffentlichung:** 16.10.2026 (Forenangabe, noch ohne Plattformbeleg).
-- **Status am 03.10.2026:** angekündigt, noch nicht veröffentlicht.
+- **Status am 12.10.2026:** angekündigt, noch nicht veröffentlicht; keine Plattform, kein HolyShop-Eintrag, nicht auf der Fanseite.
+- **CD-ISBN:** 978-3-86212-866-2 (DNB, Titelform „Jules Verne - Folge 53: Der verschollene Zug", Jahr 2026, Verlagsfirma Timm + Wilken oHG). Schließt lückenlos an Folge 51 (…864-8) und 52 (…865-5) an.
 - **Spielzeit:** noch nicht bekannt.
 - **Verlag:** Maritim.
 - **Autor:in:** noch nicht im Repo verifiziert.
@@ -90,9 +93,11 @@ tags:
 ## Theorien & offene Fragen
 
 - Im Forum wird der Graf in den Karpaten als Anspielung auf [[wiki/figuren/dracula|Dracula]] gelesen; ein anderer Forenteilnehmer hält dagegen, Dracula kehre nicht zurück. **Beides Forenmeinung, nicht belegt.** Die Besetzung nennt den Grafen „Radu Milescu".
-- Der Termin 16.10.2026 ist nach den dokumentierten Erfahrungen mit Forenterminen (siehe [[wiki/queries/quellenlage-und-kanonkarte|Quellenlage & Kanonkarte]]) unsicher; dass Apple Music die Folge zwei Wochen vorher nicht führt, spricht zusätzlich gegen ihn.
+- Der Termin 16.10.2026 ist nach den dokumentierten Erfahrungen mit Forenterminen (siehe [[wiki/queries/quellenlage-und-kanonkarte|Quellenlage & Kanonkarte]]) unsicher; dass Apple Music die Folge am 03.10. und am 12.10.2026 nicht führt, spricht zusätzlich gegen ihn. Bei allen anderen Maritim-Folgen des Herbstes 2026 stand der Apple-Eintrag Wochen vor dem Termin.
 
 ## Quellen
 
 - [raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md](../../raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md) — Recherchenotiz mit Klappentext, Besetzung und Negativbefund der Plattformen.
+- [raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md](../../raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md) — DNB-Satz der CD, Abruf 12.10.2026.
+- [raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md](../../raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md) — erneuter Negativbefund der Plattformen am 12.10.2026.
 - Ankündigung mit Klappentext und Besetzung: <https://www.xn--hrspieltalk-rfb.de/forum/thread/32498-jules-verne-die-neuen-abenteuer-des-phileas-fogg-53-der-verschollene-zug/>

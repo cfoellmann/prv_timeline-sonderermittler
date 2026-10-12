@@ -29,6 +29,7 @@ sprecher:
     name: Tanja Lipinski
   - rolle: Eugen Marin
     name: Joachim Tennstedt
+spielzeit_min: 54
 zirkel: direkt
 crossover_mit:
   - dracula
@@ -43,6 +44,8 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - https://www.xn--hrspieltalk-rfb.de/forum/thread/32021-frankenstein-und-der-zirkel-der-sieben-28-gegen-jeden-widerstand/
+  - raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md
+  - raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md
 tags:
   - frankenstein
   - maritim
@@ -55,17 +58,17 @@ tags:
 > [!note] Watchlist — geplante Veröffentlichung
 > Angekündigt für den **13.11.2026**. Am 06.09.2026 noch nicht erschienen.
 >
-> Datum am 06.09.2026 gegen Apple Music und Deezer gegengeprüft.
+> Datum am 06.09.2026 gegen Apple Music und Deezer gegengeprüft, am 12.10.2026 zusätzlich durch die HolyShop-Produktseite (Ersterscheinung 13.11.2026) bestätigt.
 
 > Die Truhen mit Draculas Schätzen sind an Bord, die Rückreise läuft — und Robur und Killjoy wissen bereits, dass die Beute wertlos ist.
 
 ## Eckdaten
 
-- **Geplante Veröffentlichung:** 13.11.2026 (Apple Music und Deezer übereinstimmend).
+- **Geplante Veröffentlichung:** 13.11.2026 (Apple Music, Deezer und HolyShop übereinstimmend).
 - **Status am 06.09.2026:** angekündigt, noch nicht veröffentlicht.
-- **Spielzeit:** noch nicht bekannt; die Katalogeinträge nennen 35 Tracks.
+- **Spielzeit:** 54 Minuten (HolyShop-Produktseite, Abruf 12.10.2026; Apple-Music-Trackssumme 53,7 min über 35 Tracks).
 - **EAN/UPC:** 199109388673 (Deezer).
-- **Verlag:** Maritim.
+- **Verlag:** Maritim (HolyShop: Label Maritim, Altersempfehlung 14 Jahre).
 - **Autor:in:** noch nicht im Repo verifiziert.
 - **Schauplatz:** Rückreise von den Karpaten nach London.
 
@@ -104,6 +107,8 @@ tags:
 
 ## Quellen
 
+- [raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md](../../raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md) — HolyShop-Produktseite (Termin, Spielzeit, Klappentext), Abruf 12.10.2026.
+- [raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md](../../raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md) — Apple-Music-Trackssumme und Deezer-Abgleich, 12.10.2026.
 - [raw/notes/2026-09-06_neue-folgen-scout_september-2026.md](../../raw/notes/2026-09-06_neue-folgen-scout_september-2026.md) — Recherchenotiz mit Klappentext und Sprecherliste.
 - [raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md](../../raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md) — Auflösung des Datumswiderspruchs.
 - [raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md](../../raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md) — Apple Music: 2026-11-13.

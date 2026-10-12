@@ -53,9 +53,15 @@ Sortiert nach Erstveröffentlichung. Eine Markdown-Tabelle pro Serie wird in den
 > [!success] Keine Nummernlücken mehr
 > Die vier zuvor fehlenden Folgen (**DNAPF 51 „Der Blaue Lotus"**, **EAPAD 35 „Auf der Jagd"**, **FRANK 25 „Trügerische Hoffnung"**, **MOR 25 „Ein Hauch von Ewigkeit"**) sind mit der Nachrecherche vom 17.08.2026 geschlossen. Alle Serien sind jetzt lückenlos dokumentiert.
 
-> [!note] Watchlist — geplante Folgen
-> - [[wiki/folgen/frankenstein-27-finsteres-erbe|FRANK 27 „Finsteres Erbe“]] — geplant 11.09.2026 (nur HolyShop-Vormerkung).
-> - [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho|SH 23 „Der Wiedergänger von Soho“]] — geplant 09.10.2026 (nur HolyShop-Vormerkung).
+> [!note] Watchlist — geplante Folgen (Stand 12.10.2026)
+> - [[wiki/folgen/wilde-mycroft-ungeloeste-05-kalt-wie-eis|WMU 5 „Kalt wie Eis“]] — 16.10.2026.
+> - [[wiki/folgen/phileas-fogg-53-der-verschollene-zug|DNAPF 53 „Der verschollene Zug“]] — Forentermin 16.10.2026, ohne Plattformbeleg.
+> - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-60-tiefe-reue|OWMH 60 „Tiefe Reue“]] — 30.10.2026.
+> - [[wiki/folgen/frankenstein-28-gegen-jeden-widerstand|FRANK 28 „Gegen jeden Widerstand“]] — 13.11.2026.
+> - [[wiki/folgen/irene-adler-36-die-kraft-der-illusion|IADK 36 „Die Kraft der Illusion“]] — 27.11.2026.
+> - [[wiki/folgen/sherlock-holmes-24-die-strassen-der-angst|SH 24 „Die Straßen der Angst“]] — 04.12.2026.
+>
+> Erschienen seit dem letzten Stand dieses Kastens (17.08.2026) u. a. FRANK 27 (11.09.2026) sowie SH 23 und NEM 5 (beide 09.10.2026). Die Folgenzahlen der Tabelle oben sind weiterhin auf dem Stand vom 17.08.2026 — maßgeblich sind `folgen_count` der Serienseiten und [[index|index.md]].
 
 ## Aktuelle Kosmos-Bewegung (Stand 2026-08-17)
 

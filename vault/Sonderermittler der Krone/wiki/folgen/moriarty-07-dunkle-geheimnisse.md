@@ -14,6 +14,7 @@ crossover_mit:
 spoiler_level: grob
 status: entwurf
 quellen:
+  - raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md
   - raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge07-dunkle-geheimnisse/
   - https://shop.holysoft.de/produkte/moriarty-7-dunkle-geheimnisse-3044/
@@ -33,6 +34,7 @@ tags:
 - **Spielzeit:** 61 Minuten.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge07-dunkle-geheimnisse/>
+- **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=TGEN9r5yGJ0> — freigegeben 25.07.2026 (Schlagzeile der Fanseite).
 
 ## Hauptfiguren
 

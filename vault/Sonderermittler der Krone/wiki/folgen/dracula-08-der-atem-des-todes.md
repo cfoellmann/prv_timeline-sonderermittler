@@ -13,6 +13,7 @@ crossover_mit: []
 spoiler_level: grob
 status: recherchiert
 quellen:
+  - raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md
   - raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md
   - https://www.sonderermittler-der-krone.de/serien/dracula/folge08-der-atem-des-todes/
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
@@ -36,6 +37,7 @@ tags:
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/dracula/folge08-der-atem-des-todes/>
+- **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=JepDGZkiRX4> — Schlagzeile der Fanseite vom 19.07.2026.
 
 ## Hauptfiguren
 

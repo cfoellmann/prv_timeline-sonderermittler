@@ -9,6 +9,7 @@ zirkel: true
 folgen_count: 27
 watchlist_count: 1
 quellen:
+  - raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md
   - raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md
   - raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md
   - raw/notes/2026-09-06_neue-folgen-scout_september-2026.md
@@ -32,7 +33,7 @@ tags:
 - **Verlag:** Maritim
 - **Genre:** Horror
 - **Erstveröffentlichung:** 09.10.2020.
-- **Folgenstand:** 27 (2026-10-03) — plus 1 Vormerkung (Folge 28, geplant 13.11.2026). Lückenlos 1–27. Weitere Folgen sind nur dem Titel nach angekündigt (siehe Folgenliste).
+- **Folgenstand:** 27 (2026-10-03) — plus 1 Vormerkung (Folge 28, geplant 13.11.2026). Lückenlos 1–27. Weitere Folgen sind nur dem Titel nach angekündigt (siehe Folgenliste). Am 12.10.2026 unverändert; Termin und Spielzeit (54 min) von Folge 28 zusätzlich durch die HolyShop-Produktseite belegt.
 - **⚠️ Zählfehler der Primärquelle:** Die globale Serienübersicht listet am 17.08.2026 **zwei Einträge mit der Nummer 25** („Trügerische Hoffnung" und „Doppelte Tarnung"). Die Einzel-Folgenseiten und die Handelsmetadaten belegen die korrekte Zählung: 25 = *Trügerische Hoffnung*, 26 = *Doppelte Tarnung*.
 - **Laufender Arc (25–27):** Tarnmantel-Auftrag von Moriarty → Reise in die Karpaten → Durchsuchung von Draculas leergeräumtem Labor.
 - **Bezug zum Zirkel:** zentral — Titel-Mitglied.
@@ -83,7 +84,7 @@ tags:
 | 25 | [[wiki/folgen/frankenstein-25-truegerische-hoffnung\|Trügerische Hoffnung]] | 2026-05-22 | 56 min | ✓ | Moriarty, Sherlock Holmes |
 | 26 | [[wiki/folgen/frankenstein-26-doppelte-tarnung\|Doppelte Tarnung]] | 2026-07-13 | 52 min | ✓ | Dracula |
 | 27 | [[wiki/folgen/frankenstein-27-finsteres-erbe\|Finsteres Erbe]] | 2026-09-11 | 53 min | ✓ | Dracula, Moriarty |
-| 28 | [[wiki/folgen/frankenstein-28-gegen-jeden-widerstand\|Gegen jeden Widerstand]] | 2026-11-13 (geplant) | — | ✓ | Dracula, Moriarty, Sherlock Holmes |
+| 28 | [[wiki/folgen/frankenstein-28-gegen-jeden-widerstand\|Gegen jeden Widerstand]] | 2026-11-13 (geplant) | 54 min | ✓ | Dracula, Moriarty, Sherlock Holmes |
 
 **Legende:**
 - **OWMH** = Oscar Wilde & Mycroft Holmes

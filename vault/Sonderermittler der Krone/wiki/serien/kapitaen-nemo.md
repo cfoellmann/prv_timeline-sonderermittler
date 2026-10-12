@@ -6,10 +6,11 @@ genre: Abenteuer
 start: 2026-02
 status: entwurf
 zirkel: unklar
-folgen_count: 4
-watchlist_count: 1
+folgen_count: 5
 mini_serie: true
 quellen:
+  - raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md
+  - raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md
   - raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
   - raw/maritim/2026-04-29_kapitaen-nemo_folgen-01-02.md
@@ -34,7 +35,7 @@ tags:
 - **Verlag:** Blitz Verlag.
 - **Genre:** Abenteuer.
 - **Erstveröffentlichung:** seit Februar 2026 laut Serienübersicht.
-- **Folgenstand:** 4 Folgen (Stand 03.10.2026), dazu 1 Vormerkung: [[wiki/folgen/kapitaen-nemo-05-kopfgeld|Folge 5 „Kopfgeld“]] für den 09.10.2026. Die Folgen 3 und 4 bilden einen zusammenhängenden Franklin-/Eismeer-Block, nachdem die Folgen 1–2 den Insel-Block abgeschlossen hatten.
+- **Folgenstand:** 5 Folgen (Stand 12.10.2026) — [[wiki/folgen/kapitaen-nemo-05-kopfgeld|Folge 5 „Kopfgeld“]] ist am 09.10.2026 erschienen (Fanseite, Apple Music, Deezer). Keine weitere Folge angekündigt. Die Folgen 3 und 4 bilden einen zusammenhängenden Franklin-/Eismeer-Block, nachdem die Folgen 1–2 den Insel-Block abgeschlossen hatten.
 - **Format:** kleine Blitz-Spin-off-Reihe; die Serienquelle zählt Kapitän Nemo ausdrücklich zu den Mini-Serien des Kosmos.
 - **Bezug zum Zirkel:** derzeit unklar. Die Nemo-Folgen 1 bis 3 nennen den Zirkel im sichtbaren Material nicht direkt, die Figur ist im Repo aber mehrfach an kosmosrelevanten Verne-Handlungsachsen präsent — und die Folgen 3 und 4 listen Oscar Wilde mit.
 
@@ -73,7 +74,7 @@ tags:
 | 2 | [[wiki/folgen/kapitaen-nemo-02-das-geheimnis-der-insel\|Das Geheimnis der Insel]] | 17.04.2026 | Piratenschiff, Entführung und unerwartete Hilfe führen den Insel-Block weiter |
 | 3 | [[wiki/folgen/kapitaen-nemo-03-verschollen-im-eis\|Verschollen im Eis]] | 12.06.2026 | Nautilus nimmt Schiffbrüchige auf; [[wiki/figuren/adams\|Dr. Adams]] sucht die Schiffe der Franklin-Expedition im Eismeer; 66 min; **Oscar Wilde offiziell gelistet** |
 | 4 | [[wiki/folgen/kapitaen-nemo-04-die-ueberlebenden-der-erebus\|Die Überlebenden der Erebus]] | 07.08.2026 | Wrack der HMS Erebus im Packeis; [[wiki/figuren/adams\|Dr. Adams]] ist hinter verlorenem Gold her; 65 min; Oscar Wilde erneut gelistet |
-| 5 | [[wiki/folgen/kapitaen-nemo-05-kopfgeld\|Kopfgeld]] | 09.10.2026 (geplant) | Anschläge auf Nemo in fast jedem Hafen; Spur nach New York und in Nemos Vergangenheit; 63 min; Oscar Wilde besetzt (Sascha Rotermund). Watchlist |
+| 5 | [[wiki/folgen/kapitaen-nemo-05-kopfgeld\|Kopfgeld]] | 09.10.2026 | Anschläge auf Nemo in fast jedem Hafen; Spur nach New York und in Nemos Vergangenheit; 63 min; Oscar Wilde besetzt (Sascha Rotermund) und offiziell gelistet |
 
 ## Offene Punkte
 
@@ -95,5 +96,6 @@ tags:
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md) — lokale Nemo-Anker über DNAPF 41 bis 43.
 - [raw/notes/2026-09-06_neue-folgen-scout_september-2026.md](../../raw/notes/2026-09-06_neue-folgen-scout_september-2026.md) — Recherche vom 06.09.2026: Folge 4.
 - [raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md](../../raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md) — Recherche vom 03.10.2026: Watchlist-Folge 5.
+- [raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md](../../raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md) — Recherche vom 12.10.2026: Folge 5 erschienen.
 - Offizielle Serien-Seite: <https://www.sonderermittler-der-krone.de/serien/kapitaen-nemo/>
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche vom 17.08.2026: offizielle Folgen-Detailseiten (Daten, Spielzeiten, Klappentexte, Figuren).

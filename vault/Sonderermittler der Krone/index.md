@@ -9,7 +9,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 ## Übersicht
 
 - [[wiki/universum|Universum – Maritim-Kosmos]] — Zentrale Einstiegsseite mit allen Serien.
-- [[wiki/queries/quellenlage-und-kanonkarte|Quellenlage & Kanonkarte]] — Meta-Auswertung: welche Quelle wofür belastbar ist, Kanon-Beziehungskarte, bekannte Datenfehler der Primärquelle.
+- [[wiki/queries/quellenlage-und-kanonkarte|Quellenlage & Kanonkarte]] — Meta-Auswertung: welche Quelle wofür belastbar ist, Kanon-Beziehungskarte, bekannte Datenfehler der Primärquelle (seit 12.10.2026 inkl. Datumsdreher SH 23).
 - [[wiki/queries/lint-2026-09-06|Lint / Health-Check 2026-09-06]] — **aktueller** Vault-Gesundheitsbericht: 317 Folgen, 0 Divergenzen Wiki ↔ `folgen.json`, 0 verwaiste Seiten, alle Serienzählungen korrekt. Offen sind nur inhaltliche Punkte — allen voran die fehlenden Sprecher:innen (301 von 317) und die In-Universe-Zeitachse.
 - [[wiki/queries/lint-2026-08-17|Lint / Health-Check 2026-08-17]] — Vault-Gesundheitsbericht inkl. Abarbeitung: Umlaut-Rückkorrektur (2002 Stellen), 10 Datumsfehler in `folgen.json`, `zirkel`-Vereinheitlichung, Schema 1.1.0. Offen bleiben die zentralen Figuren-Stubs und die In-Universe-Zeitachse.
 
@@ -27,22 +27,22 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 
 ### Maritim — Hauptlinie
 
-- [[wiki/serien/phileas-fogg|Jules Verne – Die neuen Abenteuer des Phileas Fogg]] — seit 06.11.2015, Abenteuer/Fantasy, 52 Folgen; frühe Kosmos-Drehscheibe für Nemo, Robur, Frankenstein, Dracula und das erste Wilde-Crossover. Ab Folge 51 neuer Abenteuer-Block ohne Zirkel-Bezug; Folge 53 als Vormerkung (Einzelquelle, Termin offen).
+- [[wiki/serien/phileas-fogg|Jules Verne – Die neuen Abenteuer des Phileas Fogg]] — seit 06.11.2015, Abenteuer/Fantasy, 52 Folgen; frühe Kosmos-Drehscheibe für Nemo, Robur, Frankenstein, Dracula und das erste Wilde-Crossover. Ab Folge 51 neuer Abenteuer-Block ohne Zirkel-Bezug; Folge 53 als Vormerkung (Titel durch DNB doppelt belegt, Termin Einzelquelle), Folge 54 nur dem Titel nach angekündigt.
 - [[wiki/serien/oscar-wilde-und-mycroft-holmes|Oscar Wilde & Mycroft Holmes – Sonderermittler der Krone]] — seit 2016, Krimi, 59 Folgen + Folge 60 als Vormerkung, **Hauptserie**; nach dem Themse-Arc 57–58 folgt mit 59–60 der Echsen-/Unsterblichkeitsblock um Wildes Alleingang.
 - [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]] — seit 2018, Krimi, 36 Folgen + 12 Re-Release-Folgen integriert; ab Folge 35 eng an die Sonderermittler-Linien gekoppelt.
 - [[wiki/serien/irene-adler|Irene Adler – Sonderermittlerin der Krone]] — seit 14.06.2019, Krimi, 36 Folgen (`0` bis `35`) + Folge 36 als Vormerkung, lückenlos erschlossen; der Eva-/Menorium-Arc läuft von 33 bis mindestens 35.
 - [[wiki/serien/moriarty|Moriarty – Zwischen Genie und Verbrechen]] — seit 2020, Krimi, 28 Folgen (`0` bis `27`); Unsterblichkeits-Arc 25–27 führt über den Atlantik nach Cat Rock und auf die Bahamas.
 - [[wiki/serien/dracula|Dracula und der Zirkel der Sieben]] — 2020–2024, Horror, 16 Folgen, abgeschlossen; Antagonisten-Spin-off um den Anführer des Zirkels. Wird 2026 über FRANK 26/27 und SH 23 von aussen fortgeschrieben.
-- [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] — seit 2020, Horror, 27 Folgen + Folge 28 als Vormerkung; Tarnmantel-/Karpaten-Arc 25–28, Folgen 29 und 31–36 nur dem Titel nach angekündigt.
-- [[wiki/serien/sherlock-holmes|Sherlock Holmes – Sonderermittler der Krone]] — seit 25.11.2022, Krimi, 22 Folgen + Folgen 23 (09.10.2026) und 24 (04.12.2026) als Vormerkung, plus 10 integrierte Re-Release-Folgen; Voodoo-Arc 21–22, Dracula-Rückkehr ab 23.
+- [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] — seit 2020, Horror, 27 Folgen + Folge 28 als Vormerkung (13.11.2026, 54 min); Tarnmantel-/Karpaten-Arc 25–28, Folgen 29 und 31–36 nur dem Titel nach angekündigt.
+- [[wiki/serien/sherlock-holmes|Sherlock Holmes – Sonderermittler der Krone]] — seit 25.11.2022, Krimi, 23 Folgen + Folge 24 (04.12.2026) als Vormerkung, plus 10 integrierte Re-Release-Folgen; Voodoo-Arc 21–22, Dracula-Rückkehr ab 23.
 
 ### Blitz Verlag — Spin-offs ab Ende 2024
 
 - [[wiki/serien/oscar-wilde-und-irene-adler|Oscar Wilde & Irene Adler – Sonderermittler der Krone]] — seit Ende 2024, 4-teilige Blitz-Mini-Serie; verdichtet die bereits laufende Wilde/Adler-Achse des Kosmos.
 - [[wiki/serien/tesla|Tesla]] — seit Ende 2024, Krimi, 9 Folgen, mit direktem Moriarty-/Zirkel-Anschluss.
 - [[wiki/serien/oscar-wilde-und-poe|Oscar Wilde & Edgar Allan Poe]] — Ende 2025/Anfang 2026, Krimi, 4 Folgen (Mini-Serie); Oscar Wilde und Edgar Allan Poe auf der Jagd nach den uralten Statuen der »Ewig Liebenden«, Zirkel ab Folge 3 direkt beteiligt; vollständig dokumentiert.
-- [[wiki/serien/wilde-mycroft-ungeloeste|Oscar Wilde – Die ungelösten Fälle des Mycroft Holmes]] — seit Januar 2026, Krimi, 4 Folgen + Folge 5 als Vormerkung (16.10.2026) + 3 angekündigte Titel; mit Folge 3 (Van Helsing, Fledermäuse) erstmals in Zirkel-Nähe, Folge 4 führt Professor Challenger ein.
-- [[wiki/serien/kapitaen-nemo|Die Abenteuer des Kapitän Nemo]] — seit 13.02.2026, Abenteuer, 4 Folgen + Folge 5 als Vormerkung (09.10.2026); nach dem Insel-Zweiteiler bilden die Folgen 3–4 einen Franklin-/Eismeer-Block — beide listen Oscar Wilde, Folge 5 besetzt ihn erneut.
+- [[wiki/serien/wilde-mycroft-ungeloeste|Oscar Wilde – Die ungelösten Fälle des Mycroft Holmes]] — seit Januar 2026, Krimi, 4 Folgen + Folge 5 als Vormerkung (16.10.2026, Termin durch Verlagsankündigung bestätigt) + 3 angekündigte Titel; mit Folge 3 (Van Helsing, Fledermäuse) erstmals in Zirkel-Nähe, Folge 4 führt Professor Challenger ein.
+- [[wiki/serien/kapitaen-nemo|Die Abenteuer des Kapitän Nemo]] — seit 13.02.2026, Abenteuer, 5 Folgen; nach dem Insel-Zweiteiler bilden die Folgen 3–4 einen Franklin-/Eismeer-Block — die Folgen 3–5 listen Oscar Wilde. Keine weitere Folge angekündigt.
 
 ### Weiterleitungen (Re-Releases — jetzt Sub-Sektionen ihrer Hauptserie)
 
@@ -105,7 +105,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/phileas-fogg-50-goetterdaemmerung|DNAPF 50 — Götterdämmerung]] (27.02.2026) — Die Kristalljagd endet in Indien in einem überlangen Finale.
 - [[wiki/folgen/phileas-fogg-51-der-blaue-lotus|DNAPF 51 — Der Blaue Lotus]] (01.05.2026) — Ein Brief holt den nach einem Trauerfall isolierten Fogg nach Hongkong.
 - [[wiki/folgen/phileas-fogg-52-im-tal-der-inkas|DNAPF 52 — Im Tal der Inkas]] (26.06.2026) — Ein Hilferuf führt Fogg mit der Archäologin Elena Vargas in die peruanischen Anden zur Suche nach Paititi.
-- [[wiki/folgen/phileas-fogg-53-der-verschollene-zug|DNAPF 53 — Der verschollene Zug]] (16.10.2026, geplant) — Ein Luxuszug verschwindet zwischen Paris und Istanbul, Passepartout an Bord; die Spur führt in die Karpaten. Watchlist, Einzelquelle.
+- [[wiki/folgen/phileas-fogg-53-der-verschollene-zug|DNAPF 53 — Der verschollene Zug]] (16.10.2026, geplant) — Ein Luxuszug verschwindet zwischen Paris und Istanbul, Passepartout an Bord; die Spur führt in die Karpaten. Watchlist; Titel doppelt belegt (Forum, DNB), Termin Einzelquelle.
 
 ### Irene Adler
 
@@ -171,8 +171,8 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/sherlock-holmes-20-verhaengnisvolles-meisterwerk|SH 20 — Verhängnisvolles Meisterwerk]] (24.04.2026) — Nach einem Rückschlag startet Holmes die Adrik-Recherche neu.
 - [[wiki/folgen/sherlock-holmes-21-eine-studie-in-blutrot|SH 21 — Eine Studie in Blutrot]] (19.06.2026) — Ein Ritualmord verbindet Holmes über Bastien Lavache direkt mit dem Tesla-Strang.
 - [[wiki/folgen/sherlock-holmes-22-der-zweite-blutfleck|SH 22 — Der zweite Blutfleck]] (14.08.2026) — Holmes, Watson und Lavache sind Gefangene der Voodoo-Gemeinde und erfahren Neues über ihren eigenen Fall.
-- [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho|SH 23 — Der Wiedergänger von Soho]] (09.10.2026, geplant) — Ein Priester wird von einem „Geist" angegriffen; alles deutet auf Draculas Befreiung. Watchlist.
-- [[wiki/folgen/sherlock-holmes-24-die-strassen-der-angst|SH 24 — Die Straßen der Angst]] (04.12.2026, geplant) — Holmes und Watson warten auf Nachricht aus Transsylvanien, während ein Buch über Aderlass gestohlen wird. Watchlist.
+- [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho|SH 23 — Der Wiedergänger von Soho]] (09.10.2026) — Pater Allison wird von einem Wiedergänger angegriffen; alles deutet auf Draculas Befreiung. Van Helsing und Harker an Holmes' Seite.
+- [[wiki/folgen/sherlock-holmes-24-die-strassen-der-angst|SH 24 — Die Straßen der Angst]] (04.12.2026, geplant) — Holmes und Watson warten auf Nachricht aus Transsylvanien, während ein Buch über Aderlass gestohlen wird. 58 min. Watchlist.
 
 ### Oscar Wilde – Die ungelösten Fälle des Mycroft Holmes
 
@@ -180,7 +180,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume|WMU 2 — Die Todesblume]] (10.04.2026) — Wilde prüft einen alten Todesfall aus Mycrofts Akten neu; Irene Adler ist als Figur gelistet.
 - [[wiki/folgen/wilde-mycroft-ungeloeste-03-das-fledermausamulett|WMU 3 — Das Fledermausamulett]] (19.06.2026) — Eine blutleere Leiche bei Glastonbury und Fledermäuse führen Wilde und Van Helsing in den Vampir-Komplex.
 - [[wiki/folgen/wilde-mycroft-ungeloeste-04-das-buch-des-grauens|WMU 4 — Das Buch des Grauens]] (14.08.2026) — Eine Karte aus den Fallakten weist zum „Buch des Grauens"; Wilde ermittelt mit Professor Challenger.
-- [[wiki/folgen/wilde-mycroft-ungeloeste-05-kalt-wie-eis|WMU 5 — Kalt wie Eis]] (16.10.2026, geplant) — Wilde rollt eine Serie tödlicher Kutschenüberfälle in der Kleinstadt Falcon neu auf. Watchlist.
+- [[wiki/folgen/wilde-mycroft-ungeloeste-05-kalt-wie-eis|WMU 5 — Kalt wie Eis]] (16.10.2026, geplant) — Wilde rollt eine Serie tödlicher Kutschenüberfälle in der Kleinstadt Falcon neu auf. Watchlist; Termin durch Apple Music und Verlagsankündigung belegt.
 
 ### Die Abenteuer des Kapitän Nemo
 
@@ -188,7 +188,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/kapitaen-nemo-02-das-geheimnis-der-insel|NEM 2 — Das Geheimnis der Insel]] (17.04.2026) — Entführung, Piratenangriff und unerwartete Hilfe treiben den Insel-Block weiter.
 - [[wiki/folgen/kapitaen-nemo-03-verschollen-im-eis|NEM 3 — Verschollen im Eis]] (12.06.2026) — Die Nautilus nimmt Schiffbrüchige auf und sucht im Eismeer die verschollenen Schiffe der Franklin-Expedition.
 - [[wiki/folgen/kapitaen-nemo-04-die-ueberlebenden-der-erebus|NEM 4 — Die Überlebenden der Erebus]] (07.08.2026) — Im Packeis stößt die Nautilus auf das Wrack der HMS Erebus — und Nemo und Dr. Adams sind dort nicht allein.
-- [[wiki/folgen/kapitaen-nemo-05-kopfgeld|NEM 5 — Kopfgeld]] (09.10.2026, geplant) — In fast jedem Hafen wird ein Anschlag auf Nemo verübt; in New York will er herausfinden, wer dahintersteckt. Watchlist.
+- [[wiki/folgen/kapitaen-nemo-05-kopfgeld|NEM 5 — Kopfgeld]] (09.10.2026) — In fast jedem Hafen wird ein Anschlag auf Nemo verübt; in New York will er herausfinden, wer dahintersteckt.
 
 ### Oscar Wilde & Irene Adler
 
@@ -334,7 +334,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/frankenstein-25-truegerische-hoffnung|FRANK 25 — Trügerische Hoffnung]] (22.05.2026) — Moriarty lässt Frankenstein und Lavache Tarnmäntel für alle Zirkelmitglieder entwickeln.
 - [[wiki/folgen/frankenstein-26-doppelte-tarnung|FRANK 26 — Doppelte Tarnung]] (13.07.2026) — Auf dem Weg zu Draculas Labor blockiert das Wetter die Karpaten-Reise; der Zirkel nimmt ein riskantes Angebot an.
 - [[wiki/folgen/frankenstein-27-finsteres-erbe|FRANK 27 — Finsteres Erbe]] (11.09.2026) — Draculas Labor ist leergeräumt; Merlins Buch und das Kalte Blut sind verschwunden.
-- [[wiki/folgen/frankenstein-28-gegen-jeden-widerstand|FRANK 28 — Gegen jeden Widerstand]] (13.11.2026, geplant) — Die Rückreise mit Draculas Truhen gerät in Schwierigkeiten, während Robur und Killjoy bereits wissen, dass die Beute wertlos ist. Watchlist.
+- [[wiki/folgen/frankenstein-28-gegen-jeden-widerstand|FRANK 28 — Gegen jeden Widerstand]] (13.11.2026, geplant) — Die Rückreise mit Draculas Truhen gerät in Schwierigkeiten, während Robur und Killjoy bereits wissen, dass die Beute wertlos ist. 54 min. Watchlist.
 
 ### Oscar Wilde & Mycroft Holmes
 
@@ -422,7 +422,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/figuren/adams|Dr. Adams]] — Forscher, sucht in NEM 3 die verschollenen Schiffe der Franklin-Expedition.
 - [[wiki/figuren/aleister-crowley|Aleister Crowley]] — Zirkel-Mitglied #6, Okkultist; Erstauftritt in OWMH 21.
 - [[wiki/figuren/alfons-grell|Dr. Alfons Grell]] — Wissenschaftler im Zirkel-Umfeld; Erstauftritt in OWMH 4.
-- [[wiki/figuren/allison|Father Allison]] — Geistlicher, in SH 23 nachts von einem „Geist" angegriffen.
+- [[wiki/figuren/allison|Pater Allison]] — Geistlicher, in SH 23 nachts von einem „Wiedergänger" angegriffen.
 - [[wiki/figuren/aouda|Aouda (Aouda Fogg)]] — Phileas Foggs Ehefrau und ständige Begleiterin in 20+ Episoden.
 - [[wiki/figuren/arsene-lupin|Arsène Lupin]] — Gentleman-Dieb; einer von drei Anwärtern auf den nach Morells Tod freien Zirkel-Platz (EAPAD 21–23).
 - [[wiki/figuren/auguste-dupin|Auguste Dupin]] — Co-Titelfigur von Edgar Allan Poe & Auguste Dupin, brillanter Detektiv.
@@ -450,7 +450,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/figuren/jonathan-harker|Jonathan Harker]] — von Dracula instrumentalisiert (DRAC 1), später selbst Verfolger; 2026 zurück in SH 23.
 - [[wiki/figuren/kapitaen-nemo|Kapitän Nemo]] — Verne-Frühfigur mit Kosmos-Erstauftritt in DNAPF 1, lange Rahmen- und Nebenfigur bei Phileas Fogg, seit 2026 Titelheld einer eigenen Blitz-Mini-Reihe.
 - [[wiki/figuren/killjoy|Killjoy]] — reihenübergreifender Dauergegner ohne eigene Serie, von IADK 1 (2019) bis Tesla 8 in fünf Reihen gelistet; engster Weggefährte Roburs. Klarname im Repo nicht belegt.
-- [[wiki/figuren/kirk|Miss Kirk]] — Haushälterin Father Allisons und Augenzeugin des „Wiedergängers" in SH 23.
+- [[wiki/figuren/kirk|Miss Kirk]] — Haushälterin Pater Allisons und Augenzeugin des „Wiedergängers" in SH 23.
 - [[wiki/figuren/lestrade|Inspektor Lestrade]] — Scotland-Yard-Inspektor; in SHC 48 vom Zirkel ermordet, Vorgänger Staffords.
 - [[wiki/figuren/mata-hari|Mata Hari]] — Spionin und Verbündete des Zirkels, häufig im Verbund mit Rasputin und Theodora Sachs.
 - [[wiki/figuren/mina-harker|Mina Harker]] — Draculas Erzfeindin und zeitweise seine Beschützerin; sucht ihren verschollenen Sohn Quentin.
@@ -473,6 +473,8 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 
 ## Quellen-Übersicht
 
+- [raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md](raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md) — Neue-Folgen-Scout vom 12.10.2026: SH 23 und NEM 5 erschienen; Verlagsankündigung WMU 5; DNB-Satz DNAPF 53; Titelankündigung DNAPF 54; YouTube-Komplettfolgen SH 5, MOR 7, DRAC 8.
+- [raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md](raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md) — Fanseite (Serienübersicht, Schlagzeilen, zwei Folgenseiten), fünf HolyShop-Produktseiten und DNB-Sätze, Stand 12.10.2026.
 - [raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md](raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md) — Neue-Folgen-Scout vom 03.10.2026: FRANK 27, MOR 27 und IADK 35 erschienen; neue Vormerkungen NEM 5, WMU 5, DNAPF 53; Titelankündigungen FRANK 29 und 31–36.
 - [raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md](raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md) — Fanseite (Serienübersicht, Schlagzeilen, drei Folgenseiten) und HolyShop-Releaseliste, Stand 03.10.2026.
 - [raw/Sonderermittler_Update_2026-08-17.md](raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update vom 17.08.2026: 11 neue Folgen, 2 Vormerkungen, neuer Arbeitsstand 316 offizielle Folgen.

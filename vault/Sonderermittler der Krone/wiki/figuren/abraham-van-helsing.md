@@ -37,7 +37,7 @@ Van Helsing ist die wichtigste Figur der Anti-Dracula-Front. Er wird in [[wiki/f
 | [[wiki/folgen/dracula-15-das-mal-der-frevler\|DRAC 15 — Das Mal der Frevler]] | reist mit Mina Harker Richtung Balkan, um Draculas Pläne zu vereiteln |
 | [[wiki/folgen/dracula-16-der-sohn-des-verderbens\|DRAC 16 — Der Sohn des Verderbens]] | versucht mit Mina Harker Dracula zu erreichen (Serienfinale) |
 | [[wiki/folgen/wilde-mycroft-ungeloeste-03-das-fledermausamulett\|WMU 3 — Das Fledermausamulett]] (19.06.2026) | untersucht mit [[wiki/figuren/oscar-wilde\|Oscar Wilde]] eine blutleere Leiche bei Glastonbury |
-| [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho\|SH 23 — Der Wiedergänger von Soho]] (geplant 09.10.2026) | erfährt von [[wiki/figuren/sherlock-holmes\|Holmes]] und [[wiki/figuren/john-watson\|Watson]] vom „Wiedergänger"; alles deutet auf Draculas Befreiung |
+| [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho\|SH 23 — Der Wiedergänger von Soho]] (09.10.2026) | erfährt von [[wiki/figuren/sherlock-holmes\|Holmes]] und [[wiki/figuren/john-watson\|Watson]] vom „Wiedergänger"; alles deutet auf Draculas Befreiung |
 
 ## Beziehungen
 

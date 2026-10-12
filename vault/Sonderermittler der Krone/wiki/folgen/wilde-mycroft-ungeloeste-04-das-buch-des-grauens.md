@@ -61,7 +61,7 @@ tags:
 ## Theorien & offene Fragen
 
 - **Datumskonflikt am 06.09.2026 aufgelöst:** Apple Music (collectionId 6787690925) und Deezer (UPC 4071498541159) bestätigen beide den **14.08.2026**, wie schon Storytel. Der Wert im Repo wurde von 18.08. auf 14.08.2026 korrigiert; die Fanseite ist hier die abweichende Einzelangabe. Ein CD-/Download-Split erklärt die Differenz nicht — alle drei Handelsangaben betreffen die Digitalausgabe. Details in [raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md](../../raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md).
-- **Verlagskonflikt (weiter offen):** Der Hörspieltalk-Sammelthread führt die gesamte WMU-Reihe unter „Maritim", Storytel und der Vault unter „Blitz Verlag". Die Deezer-UPC 4071498541159 liegt im selben Nummernkreis wie Tesla 9 (4071498747377, dort ausdrücklich „Blitz Verlag") — das stützt Blitz, ist aber kein Verlagsdokument. Vault-Stand unverändert.
+- **Verlagskonflikt (am 12.10.2026 zugunsten von Blitz Verlag entschieden, siehe [[wiki/serien/wilde-mycroft-ungeloeste|Serienseite]]):** Der Hörspieltalk-Sammelthread führt die gesamte WMU-Reihe unter „Maritim", Storytel und der Vault unter „Blitz Verlag". Die Deezer-UPC 4071498541159 liegt im selben Nummernkreis wie Tesla 9 (4071498747377, dort ausdrücklich „Blitz Verlag") — das stützt Blitz, ist aber kein Verlagsdokument. Vault-Stand unverändert.
 - Ein „Buch des Grauens" als Artefakt reiht sich in die Objektjagden des Kosmos ein (Merlins Buch, Fledermausamulett, Menorium). Ein Zusammenhang ist **nicht belegt**.
 
 ## Quellen
