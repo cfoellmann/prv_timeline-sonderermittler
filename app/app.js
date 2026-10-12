@@ -90,6 +90,9 @@
       const monate = ['Jan', 'Feb', 'März', 'Apr', 'Mai', 'Juni', 'Juli', 'Aug', 'Sept', 'Okt', 'Nov', 'Dez'];
       return `${monate[m - 1]} ${j}`;
     }
+    if (folge.story_praezision === 'geschaetzt') {
+      return `ca. ${j}`;   // abgeleitet, nicht belegt
+    }
     return String(j);
   }
 
