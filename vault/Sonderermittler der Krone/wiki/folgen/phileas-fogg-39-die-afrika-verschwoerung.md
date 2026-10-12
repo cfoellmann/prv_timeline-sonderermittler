@@ -45,7 +45,7 @@ tags:
 
 ## Handlung (grob)
 
-Victor Frankenstein begleitet in Afrika einen Zug gefangener Affenmenschen und hofft dabei auf Draculas Eingreifen. Gleichzeitig geraten Challenger und Hawthorn wegen ihrer Schiffsfahrt und der lokalen Vorgänge unter den Druck der Behörden. Währenddessen hat Phileas Fogg endlich die Spur der echten Harriet Malone gefunden und setzt nach. Die Folge verdichtet mehrere bisher lose Fährten zu einem offenen Verschwörungsplot.
+Victor Frankenstein begleitet in Afrika einen Zug gefangener Affenmenschen und hofft dabei auf Draculas Eingreifen. Gleichzeitig geraten [[wiki/figuren/professor-challenger|Challenger]] und Hawthorn wegen ihrer Schiffsfahrt und der lokalen Vorgänge unter den Druck der Behörden. Währenddessen hat Phileas Fogg endlich die Spur der echten Harriet Malone gefunden und setzt nach. Die Folge verdichtet mehrere bisher lose Fährten zu einem offenen Verschwörungsplot.
 
 ## Bezug zum Zirkel der Sieben
 

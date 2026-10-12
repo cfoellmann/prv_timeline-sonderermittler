@@ -7,7 +7,7 @@ erschienen: 2017-11-24
 verlag: Maritim
 autor: "Jonas Maas"
 spielzeit_min: 70
-zirkel: unklar
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -46,7 +46,7 @@ Nach einem erschreckenden Einbruch in ein abgelegenes Haus untersucht Oscar Wild
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — der offizielle Seitentext liefert keinen eindeutigen Zirkel-Bezug. Arbeitsnotiz: Mysteriöser Zirkel der Sieben wird direkt genannt.
+- **Direkt** — die offizielle Folgenseite nennt den Zirkel der Sieben ausdrücklich (Paraphrase in der Rohdatei: „Mysteriöser Zirkel der Sieben wird direkt genannt.“). Am 12.10.2026 von `unklar` auf `direkt` gesetzt (Lint 2026-10-12).
 
 ## Crossover & Querverweise
 

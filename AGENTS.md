@@ -111,6 +111,7 @@ spoiler_level: grob | voll | stub    # episodes only
 veroeffentlichungsstatus: geplant    # episodes only, watchlist entries
 folgen_count: <int>          # series only, released episodes (including episode 0)
 watchlist_count: <int>       # series only, additional planned episodes
+re_release_count: <int>      # series only, optional: episodes of the integrated "Aus den Archiven" line
 status: stub | entwurf | recherchiert | review | final
 quellen:
   - <pfad-oder-url>
@@ -225,6 +226,7 @@ If a new series is added, also add or update the relevant `serien[]` entry.
 Important consistency rules:
 
 - `id` is the key and must match the markdown slug
+- `story_praezision` values: `tag | monat | jahr | geschaetzt | unbekannt`; `geschaetzt` means `story_jahr` is derived, not sourced (explain in `story_anmerkung`)
 - `story_praezision: "unbekannt"` is valid and preferred over `null`
 - `zirkel: "unklar"` is the default unknown state
 - optional fields (`story_jahr`, `story_monat`, `story_tag`, `story_anmerkung`, `logline`, `spielzeit_min`, `anmerkung`) may be `null` **or omitted entirely** — both are equivalent for the app

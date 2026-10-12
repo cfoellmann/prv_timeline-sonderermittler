@@ -87,7 +87,7 @@ Quelle: [offizielle Serien-Übersicht](../../raw/maritim/2026-04-27_owmh_serien-
 | 35 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-35-zwielicht\|Zwielicht]] | 24.09.2021 | direkt | Zirkel übernimmt Regierung |
 | 36 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-36-am-ende-der-zeit\|Am Ende der Zeit]] | 26.11.2021 | direkt | **Phasen-Marker** Phase 4 → 5; Mycroft von Dracula entführt |
 | 37 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-37-das-herz-der-see\|Das Herz der See]] | 28.01.2022 |  | Gestohlenes Tagebuch; globale Jagd |
-| 38 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-38-ausser-kontrolle\|Außer Kontrolle]] | 25.03.2022 | direkt | Amazonas; Worte der Macht |
+| 38 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-38-ausser-kontrolle\|Außer Kontrolle]] | 25.03.2022 | unklar | Amazonas; Worte der Macht |
 | 39 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-39-der-pfad-der-toten\|Der Pfad der Toten]] | 27.05.2022 | direkt | Himalaya-Expedition um ein Artefakt der Worte der Macht |
 | 40 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-40-lockruf-des-untergangs\|Lockruf des Untergangs]] | 30.09.2022 |  | East-End-Mordserie |
 | 41 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung\|Auf Bewährung]] | 27.01.2023 |  | East-End-Mordserie; Sherlock unterstützt Wilde; Auftakt zu Folge 42 |

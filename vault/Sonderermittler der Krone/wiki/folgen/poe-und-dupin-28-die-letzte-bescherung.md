@@ -6,7 +6,7 @@ titel: Die letzte Bescherung
 erschienen: 2025-04-25
 verlag: Maritim
 spielzeit_min: 65
-zirkel: direkt
+zirkel: unklar
 spoiler_level: grob
 status: recherchiert
 quellen:
@@ -23,6 +23,7 @@ quellen:
 
 - **Nummer:** 28 | **Jahr:** 2025 | **Spielzeit:** 65 min
 - **Erscheinungsdatum:** 25.04.2025 (Apple Music und Deezer, Abruf 2026-09-06).
+- **Zirkel-Bezug:** unklar — weder Klappentext noch Figurenliste der Rohdatei nennen den Zirkel oder eines seiner Mitglieder. Die Sammelaussage der Rohdatei („Folgen 14–34: Folgen mit Zirkel-Bezug“) ist nicht folgenspezifisch und trägt keine Einstufung (Lint 2026-10-12).
 
 ## Hauptfiguren
 

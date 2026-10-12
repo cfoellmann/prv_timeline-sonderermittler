@@ -7,7 +7,7 @@ erschienen: 2026-03-27
 verlag: Maritim
 autor: "Silke Walter"
 spielzeit_min: 58
-zirkel: unklar
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -44,7 +44,7 @@ Irene Adler, Oscar Wilde und Sherlock Holmes ahnen nicht, dass Moriarty sie mit 
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — der offizielle Seitentext liefert keinen eindeutigen Zirkel-Bezug. Arbeitsnotiz: Zirkel explizit mit den Brandanschlägen verknüpft
+- **Direkt** — die offizielle Folgenseite nennt den Zirkel der Sieben ausdrücklich (Paraphrase in der Rohdatei: „Zirkel explizit mit den Brandanschlägen verknüpft“). Am 12.10.2026 von `unklar` auf `direkt` gesetzt (Lint 2026-10-12).
 
 ## Crossover & Querverweise
 

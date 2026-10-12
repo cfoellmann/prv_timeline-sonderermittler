@@ -5,7 +5,6 @@ nummer: 4
 titel: Die ewig Liebenden
 erschienen: 2026-01-16
 verlag: Blitz Verlag
-spielzeit: 53
 sprecher:
   - rolle: Oscar Wilde
     name: unbekannt

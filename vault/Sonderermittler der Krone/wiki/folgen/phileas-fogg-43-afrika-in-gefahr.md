@@ -44,7 +44,7 @@ tags:
 
 ## Handlung (grob)
 
-In Afrika steht die Revolution kurz bevor. Unter Tarzans Führung erkennen Challenger und Hawthorn endlich, wer hinter den Machenschaften steckt, doch geeignete Verbündete zu finden ist ebenso riskant wie notwendig. Während Nemo und Passepartout Frankenstein weiter verfolgen, bereiten Phileas und Aouda in London eine Falle vor. Der Plan bringt die Gruppe jedoch nicht aus der Gefahr heraus, sondern führt einige der Gefährten erst recht an den Rand des Todes.
+In Afrika steht die Revolution kurz bevor. Unter Tarzans Führung erkennen [[wiki/figuren/professor-challenger|Challenger]] und Hawthorn endlich, wer hinter den Machenschaften steckt, doch geeignete Verbündete zu finden ist ebenso riskant wie notwendig. Während Nemo und Passepartout Frankenstein weiter verfolgen, bereiten Phileas und Aouda in London eine Falle vor. Der Plan bringt die Gruppe jedoch nicht aus der Gefahr heraus, sondern führt einige der Gefährten erst recht an den Rand des Todes.
 
 ## Bezug zum Zirkel der Sieben
 

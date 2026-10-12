@@ -10,7 +10,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 
 - [[wiki/universum|Universum – Maritim-Kosmos]] — Zentrale Einstiegsseite mit allen Serien.
 - [[wiki/queries/quellenlage-und-kanonkarte|Quellenlage & Kanonkarte]] — Meta-Auswertung: welche Quelle wofür belastbar ist, Kanon-Beziehungskarte, bekannte Datenfehler der Primärquelle (seit 12.10.2026 inkl. Datumsdreher SH 23).
-- [[wiki/queries/lint-2026-10-12|Lint / Health-Check 2026-10-12]] — **aktueller** Vault-Gesundheitsbericht: 320 Folgen, 0 Divergenzen Wiki ↔ `folgen.json`; korrigiert wurden 153 Index-Datumsangaben (davon 56 falsche Jahre), 79 Datumszellen in Serien-Folgenlisten, 15 Laufzeiten auf den `raw/`-Fanseitenwert (1-Minuten-Versatz der Apple-Trackssumme), 4 defekte `raw/`-Links und die Zähltabelle in `universum.md`. Offen: 25 `Zirkel`-Abweichungen Serientabelle ↔ Folgenseite und sechs Rückfragen.
+- [[wiki/queries/lint-2026-10-12|Lint / Health-Check 2026-10-12]] — **aktueller** Vault-Gesundheitsbericht: 320 Folgen, 0 Divergenzen Wiki ↔ `folgen.json`; korrigiert wurden 153 Index-Datumsangaben (davon 56 falsche Jahre), 79 Datumszellen in Serien-Folgenlisten, 15 Laufzeiten auf den `raw/`-Fanseitenwert (1-Minuten-Versatz der Apple-Trackssumme), 4 defekte `raw/`-Links und die Zähltabelle in `universum.md`. Nachtrag: alle sechs Rückfragen umgesetzt — 25 `zirkel`-Werte gegen `raw/` geprüft (10 auf `direkt`, 10 auf `unklar`), `story_praezision: "geschaetzt"` dokumentiert (Schema 1.1.1), Altfelder bereinigt, Figurenseite Professor Challenger.
 - [[wiki/queries/lint-2026-09-06|Lint / Health-Check 2026-09-06]] — Vault-Gesundheitsbericht: 317 Folgen, 0 Divergenzen Wiki ↔ `folgen.json`, 0 verwaiste Seiten, alle Serienzählungen korrekt. Offen sind nur inhaltliche Punkte — allen voran die fehlenden Sprecher:innen (301 von 317) und die In-Universe-Zeitachse.
 - [[wiki/queries/lint-2026-08-17|Lint / Health-Check 2026-08-17]] — Vault-Gesundheitsbericht inkl. Abarbeitung: Umlaut-Rückkorrektur (2002 Stellen), 10 Datumsfehler in `folgen.json`, `zirkel`-Vereinheitlichung, Schema 1.1.0. Offen bleiben die zentralen Figuren-Stubs und die In-Universe-Zeitachse.
 
@@ -180,7 +180,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/wilde-mycroft-ungeloeste-01-der-riese-von-griffin|WMU 1 — Der Riese von Griffin]] (23.01.2026) — Wilde und Abel Hawthorn untersuchen in den Highlands die Rückkehr einer tödlichen Bestie.
 - [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume|WMU 2 — Die Todesblume]] (10.04.2026) — Wilde prüft einen alten Todesfall aus Mycrofts Akten neu; Irene Adler ist als Figur gelistet.
 - [[wiki/folgen/wilde-mycroft-ungeloeste-03-das-fledermausamulett|WMU 3 — Das Fledermausamulett]] (19.06.2026) — Eine blutleere Leiche bei Glastonbury und Fledermäuse führen Wilde und Van Helsing in den Vampir-Komplex.
-- [[wiki/folgen/wilde-mycroft-ungeloeste-04-das-buch-des-grauens|WMU 4 — Das Buch des Grauens]] (14.08.2026) — Eine Karte aus den Fallakten weist zum „Buch des Grauens"; Wilde ermittelt mit Professor Challenger.
+- [[wiki/folgen/wilde-mycroft-ungeloeste-04-das-buch-des-grauens|WMU 4 — Das Buch des Grauens]] (14.08.2026) — Eine Karte aus den Fallakten weist zum „Buch des Grauens"; Wilde ermittelt mit [[wiki/figuren/professor-challenger|Professor Challenger]].
 - [[wiki/folgen/wilde-mycroft-ungeloeste-05-kalt-wie-eis|WMU 5 — Kalt wie Eis]] (16.10.2026, geplant) — Wilde rollt eine Serie tödlicher Kutschenüberfälle in der Kleinstadt Falcon neu auf. Watchlist; Termin durch Apple Music und Verlagsankündigung belegt.
 
 ### Die Abenteuer des Kapitän Nemo
@@ -463,6 +463,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/figuren/passepartout|Passepartout]] — Phileas Foggs treuer Diener in 20+ Episoden, auch Crossover in IADK 6.
 - [[wiki/figuren/paul-hiller|Paul Hiller]] — Auftragsmörder im Dienst des Zirkels, mit eigener Bande.
 - [[wiki/figuren/phileas-fogg|Phileas Fogg]] — Titelheld der ältesten und mit 52 Folgen umfangreichsten Reihe des Kosmos; in seinen Abenteuern treten Nemo, Robur, Frankenstein, Poe und Dracula erstmals überhaupt auf.
+- [[wiki/figuren/professor-challenger|Professor Challenger]] — Wissenschaftler und Abenteurer; Mitspieler des Afrika-Blocks DNAPF 39–44 (mit Abel Hawthorn), 2026 Ratgeber Oscar Wildes in WMU 4 (Entwurf).
 - [[wiki/figuren/rasputin|Rasputin]] — Zirkel-Mitglied #5; Erstauftritt in IADK 4.
 - [[wiki/figuren/robur|Robur]] — früh eingeführter Erfinder und laut Konzeptseiten Zirkel-Mitglied.
 - [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] — Bruder Mycrofts und ab 2022 Titelheld einer eigenen Sonderermittler-Reihe; 18 seiner 41 belegten Auftritte liegen außerhalb dieser Reihe, was ihn zum Hauptverknüpfungsknoten des Universums macht.

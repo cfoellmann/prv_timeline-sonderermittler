@@ -7,7 +7,7 @@ erschienen: 2025-06-27
 verlag: Maritim
 autor: "Markus Duschek"
 spielzeit_min: 58
-zirkel: direkt
+zirkel: unklar
 spoiler_level: grob
 status: recherchiert
 quellen:
@@ -26,6 +26,7 @@ quellen:
 - **Nummer:** 29 | **Jahr:** 2025 | **Spielzeit:** 58 min
 - **Erscheinungsdatum:** 27.06.2025 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Zirkel-Bezug:** unklar — weder Klappentext noch Figurenliste der Rohdatei nennen den Zirkel oder eines seiner Mitglieder. Die Sammelaussage der Rohdatei („Folgen 14–34: Folgen mit Zirkel-Bezug“) ist nicht folgenspezifisch und trägt keine Einstufung (Lint 2026-10-12).
 
 ## Hauptfiguren
 

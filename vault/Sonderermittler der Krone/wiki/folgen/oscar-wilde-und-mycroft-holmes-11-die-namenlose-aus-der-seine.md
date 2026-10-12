@@ -7,7 +7,7 @@ erschienen: 2017-09-29
 verlag: Maritim
 autor: "Jonas Maas"
 spielzeit_min: 70
-zirkel: unklar
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -46,7 +46,7 @@ Oscar Wilde soll in Paris eine verwirrte junge Frau aufspüren und zu einem Nerv
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — der offizielle Seitentext liefert keinen eindeutigen Zirkel-Bezug. Arbeitsnotiz: Zirkel der Sieben wird direkt genannt und jagt ebenfalls die junge Frau.
+- **Direkt** — die offizielle Folgenseite nennt den Zirkel der Sieben ausdrücklich (Paraphrase in der Rohdatei: „Zirkel der Sieben wird direkt genannt und jagt ebenfalls die junge Frau.“). Am 12.10.2026 von `unklar` auf `direkt` gesetzt (Lint 2026-10-12).
 
 ## Crossover & Querverweise
 

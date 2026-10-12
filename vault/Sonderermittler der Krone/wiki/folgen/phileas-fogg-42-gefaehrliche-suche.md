@@ -48,7 +48,7 @@ tags:
 
 ## Handlung (grob)
 
-Gemeinsam mit Aouda und Oscar Wilde kümmert sich Phileas Fogg um eine wichtige Angelegenheit für Mycroft Holmes, die alle drei in Gefahr bringt. Gleichzeitig suchen Kapitän Nemo und Passepartout in Saint Noire nach einer Waffenlieferung, stoßen dort aber nur auf Schweigen und Widerstand. Challenger und Hawthorn sind Frankenstein fast auf den Fersen. Dieser scheint kurz davorzustehen, ein weiteres Geheimnis seines Afrika-Komplexes zu enthüllen.
+Gemeinsam mit Aouda und Oscar Wilde kümmert sich Phileas Fogg um eine wichtige Angelegenheit für Mycroft Holmes, die alle drei in Gefahr bringt. Gleichzeitig suchen Kapitän Nemo und Passepartout in Saint Noire nach einer Waffenlieferung, stoßen dort aber nur auf Schweigen und Widerstand. [[wiki/figuren/professor-challenger|Challenger]] und Hawthorn sind Frankenstein fast auf den Fersen. Dieser scheint kurz davorzustehen, ein weiteres Geheimnis seines Afrika-Komplexes zu enthüllen.
 
 ## Bezug zum Zirkel der Sieben
 

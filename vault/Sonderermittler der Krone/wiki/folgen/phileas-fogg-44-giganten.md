@@ -43,7 +43,7 @@ tags:
 
 ## Handlung (grob)
 
-Die Verbündeten um Challenger und Tarzan haben in Afrika eine entscheidende Schlacht geschlagen, doch die Jagd auf die eigentlichen Drahtzieher ist noch nicht beendet. Gleichzeitig entstehen in London neue Probleme: Victor Frankenstein hat ein Serum entwickelt, das harmlose Lebewesen in blutrünstige Wesen verwandelt. Bereits sein erster Versuch gerät außer Kontrolle. Dadurch werden Phileas Fogg und Aouda unmittelbar selbst zum Ziel der nächsten Katastrophe.
+Die Verbündeten um [[wiki/figuren/professor-challenger|Challenger]] und Tarzan haben in Afrika eine entscheidende Schlacht geschlagen, doch die Jagd auf die eigentlichen Drahtzieher ist noch nicht beendet. Gleichzeitig entstehen in London neue Probleme: Victor Frankenstein hat ein Serum entwickelt, das harmlose Lebewesen in blutrünstige Wesen verwandelt. Bereits sein erster Versuch gerät außer Kontrolle. Dadurch werden Phileas Fogg und Aouda unmittelbar selbst zum Ziel der nächsten Katastrophe.
 
 ## Bezug zum Zirkel der Sieben
 

@@ -7,7 +7,7 @@ erschienen: 2024-01-26
 verlag: Maritim
 autor: "Silke Walter"
 spielzeit_min: 59
-zirkel: unklar
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -45,7 +45,7 @@ Während Wilde und Sherlock weiter nach Harold Snyder suchen, wird aus einer Pri
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — der offizielle Seitentext liefert keinen eindeutigen Zirkel-Bezug. Arbeitsnotiz: Zirkel explizit als mögliche Urheber erwähnt
+- **Direkt** — die offizielle Folgenseite nennt den Zirkel der Sieben ausdrücklich (Paraphrase in der Rohdatei: „Zirkel explizit als mögliche Urheber erwähnt“). Am 12.10.2026 von `unklar` auf `direkt` gesetzt (Lint 2026-10-12).
 
 ## Crossover & Querverweise
 

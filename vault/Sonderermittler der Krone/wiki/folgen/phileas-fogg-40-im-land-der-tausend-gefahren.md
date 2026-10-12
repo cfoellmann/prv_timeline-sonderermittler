@@ -41,7 +41,7 @@ tags:
 
 ## Handlung (grob)
 
-Professor Challenger und Abel Hawthorn entkommen in Saint Noire nur knapp der Hinrichtung und werden anschließend weitergejagt. Gleichzeitig entschlüsseln Phileas Fogg und seine Gefährten endlich, was es mit Harriet Malone auf sich hat. Sie setzen auf ein riskantes Manöver, um die Lage zu drehen. Doch statt eines Erfolgs wartet erneut ein Hinterhalt.
+[[wiki/figuren/professor-challenger|Professor Challenger]] und [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] entkommen in Saint Noire nur knapp der Hinrichtung und werden anschließend weitergejagt. Gleichzeitig entschlüsseln Phileas Fogg und seine Gefährten endlich, was es mit Harriet Malone auf sich hat. Sie setzen auf ein riskantes Manöver, um die Lage zu drehen. Doch statt eines Erfolgs wartet erneut ein Hinterhalt.
 
 ## Bezug zum Zirkel der Sieben
 

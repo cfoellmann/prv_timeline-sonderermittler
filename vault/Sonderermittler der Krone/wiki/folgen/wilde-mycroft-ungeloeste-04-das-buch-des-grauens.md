@@ -40,12 +40,12 @@ tags:
 
 - [[wiki/figuren/oscar-wilde|Oscar Wilde]] — arbeitet die Akten der ungelösten Fälle auf und findet die Karte.
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — als Urheber der Fallakten offiziell gelistet; die Reihe lebt von seinem Nachlass.
-- Professor Challenger — Wildes Ratgeber in dieser Folge; erste Nennung im Repo, noch ohne eigene Seite.
+- [[wiki/figuren/professor-challenger|Professor Challenger]] — Wildes Ratgeber in dieser Folge; im Kosmos zuvor schon im Afrika-Block DNAPF 39–44 belegt.
 
 ## Handlung (grob)
 
 - **Setup:** Als Oscar Wilde wieder einmal die Akten der ungelösten Fälle durchgeht, fällt ihm eine Karte entgegen. Auf ihr ist vermerkt, dass sie den Weg zum „Buch des Grauens" weist.
-- **Aufhänger:** Wilde weiß nicht, um was für ein Schriftstück es sich handelt, und wendet sich Rat suchend an Professor Challenger. Auch Challenger hat noch nie davon gehört.
+- **Aufhänger:** Wilde weiß nicht, um was für ein Schriftstück es sich handelt, und wendet sich Rat suchend an [[wiki/figuren/professor-challenger|Professor Challenger]]. Auch Challenger hat noch nie davon gehört.
 - **Bogen:** Die beiden beschließen, dem Geheimnis gemeinsam auf den Grund zu gehen — ohne zu ahnen, dass sie sich damit in Lebensgefahr bringen.
 
 ## Bezug zum Zirkel der Sieben
@@ -56,7 +56,7 @@ tags:
 
 - **Serie:** [[wiki/serien/wilde-mycroft-ungeloeste|Oscar Wilde – Die ungelösten Fälle des Mycroft Holmes]].
 - **Spielt nach:** [[wiki/folgen/wilde-mycroft-ungeloeste-03-das-fledermausamulett|WMU 3 „Das Fledermausamulett“]].
-- **Figuren-Anschluss:** Professor Challenger ist eine Jules-Verne-ferne, aber genretypische Gastfigur — im Repo bislang ohne Vorkommen.
+- **Figuren-Anschluss:** [[wiki/figuren/professor-challenger|Professor Challenger]] tritt im Repo erstmals im Afrika-Block der Fogg-Reihe auf ([[wiki/folgen/phileas-fogg-39-die-afrika-verschwoerung|DNAPF 39]]–[[wiki/folgen/phileas-fogg-44-giganten|44]], 2024/25). Dass es dieselbe Figur ist, legt der identische Name nahe; ausdrücklich belegt ist es nicht. (Korrigiert im Lint 2026-10-12; vorher hieß es hier, die Figur komme im Repo sonst nicht vor.)
 
 ## Theorien & offene Fragen
 

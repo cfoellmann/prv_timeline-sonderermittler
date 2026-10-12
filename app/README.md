@@ -64,7 +64,7 @@ app/
 
 ```jsonc
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.1",
   "stand": "JJJJ-MM-TT",
   "epoche_min_jahr": 1875,
   "epoche_max_jahr": 1905,
@@ -88,7 +88,7 @@ app/
     "story_jahr": 1895,                  // null falls unbekannt
     "story_monat": 4,                    // 1–12, null falls nur Jahr
     "story_tag": null,                   // 1–31, null falls nur Monat
-    "story_praezision": "tag | monat | jahr | unbekannt",
+    "story_praezision": "tag | monat | jahr | geschaetzt | unbekannt",   // geschaetzt = Jahr abgeleitet, nicht belegt
     "story_anmerkung": "<Kontext-Stichworte>",
     "zirkel": "direkt | indirekt | unklar | kein",
     "spoiler_level": "grob | voll | stub",

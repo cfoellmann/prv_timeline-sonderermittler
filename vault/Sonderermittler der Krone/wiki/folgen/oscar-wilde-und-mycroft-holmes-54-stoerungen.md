@@ -7,7 +7,7 @@ erschienen: 2025-09-26
 verlag: Maritim
 autor: "Silke Walter"
 spielzeit_min: 58
-zirkel: unklar
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -44,7 +44,7 @@ Störungen bei Telegrafie und Telefonie erinnern die Sonderermittler an einen fr
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — der offizielle Seitentext liefert keinen eindeutigen Zirkel-Bezug. Arbeitsnotiz: Zirkel explizit als möglicher Urheber der Kommunikationssabotage
+- **Direkt** — die offizielle Folgenseite nennt den Zirkel der Sieben ausdrücklich (Paraphrase in der Rohdatei: „Zirkel explizit als möglicher Urheber der Kommunikationssabotage“). Am 12.10.2026 von `unklar` auf `direkt` gesetzt (Lint 2026-10-12).
 
 ## Crossover & Querverweise
 

@@ -23,6 +23,7 @@ quellen:
 
 - **Nummer:** 33 | **Erschienen:** 13.02.2026 | **Spielzeit:** 58 min
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Zirkel-Bezug:** unklar — weder Klappentext noch Figurenliste der Rohdatei nennen den Zirkel oder eines seiner Mitglieder. Die Sammelaussage der Rohdatei („Folgen 14–34: Folgen mit Zirkel-Bezug“) ist nicht folgenspezifisch und trägt keine Einstufung (Lint 2026-10-12).
 
 ## Hauptfiguren
 

@@ -5,7 +5,6 @@ nummer: 3
 titel: Nimmermehr
 erschienen: 2026-01-02
 verlag: Blitz Verlag
-spielzeit: 57
 sprecher:
   - rolle: Oscar Wilde
     name: unbekannt

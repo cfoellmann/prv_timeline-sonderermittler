@@ -7,7 +7,7 @@ erschienen: 2020-11-27
 verlag: Maritim
 autor: "Jonas Maas"
 spielzeit_min: 72
-zirkel: unklar
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -45,7 +45,7 @@ Der schwer verletzte Dr. Grell nutzt seine letzten Stunden, um Wilde brisante In
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — der offizielle Seitentext liefert keinen eindeutigen Zirkel-Bezug. Arbeitsnotiz: eines der größten Geheimnisse des Zirkels der Sieben wird offenbart
+- **Direkt** — die offizielle Folgenseite nennt den Zirkel der Sieben ausdrücklich (Paraphrase in der Rohdatei: „eines der größten Geheimnisse des Zirkels der Sieben wird offenbart“). Am 12.10.2026 von `unklar` auf `direkt` gesetzt (Lint 2026-10-12).
 
 ## Crossover & Querverweise
 

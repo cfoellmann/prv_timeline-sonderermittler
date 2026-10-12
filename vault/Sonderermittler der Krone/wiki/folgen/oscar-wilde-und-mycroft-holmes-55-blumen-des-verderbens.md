@@ -7,7 +7,7 @@ erschienen: 2026-01-30
 verlag: Maritim
 autor: "Silke Walter"
 spielzeit_min: 54
-zirkel: unklar
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -44,7 +44,7 @@ Bei einem missglückten Diebstahl im Bray-Museum werden auch Wilde, Sherlock und
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — der offizielle Seitentext liefert keinen eindeutigen Zirkel-Bezug. Arbeitsnotiz: Zirkel explizit als Verdacht hinter dem Anschlag
+- **Direkt** — die offizielle Folgenseite nennt den Zirkel der Sieben ausdrücklich (Paraphrase in der Rohdatei: „Zirkel explizit als Verdacht hinter dem Anschlag“). Am 12.10.2026 von `unklar` auf `direkt` gesetzt (Lint 2026-10-12).
 
 ## Crossover & Querverweise
 

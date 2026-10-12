@@ -46,7 +46,7 @@ tags:
 
 ## Handlung (grob)
 
-Phileas Fogg ist im Auftrag von Mycroft Holmes unterwegs, als er mit einer Gruppe Halunken aneinandergerät. Gleichzeitig schaffen es Kapitän Nemo und Passepartout endlich, Harriet Malone zu stellen, treffen jedoch auf schweren Widerstand durch Waffenschmuggler. Auch Challenger und Hawthorn bleiben in Bewegung und verfolgen französische Soldaten weiter. Über allem liegt ein aufziehender Sturm, der den Streit zwischen einem General und Frankenstein zum Kippen bringt.
+Phileas Fogg ist im Auftrag von Mycroft Holmes unterwegs, als er mit einer Gruppe Halunken aneinandergerät. Gleichzeitig schaffen es Kapitän Nemo und Passepartout endlich, Harriet Malone zu stellen, treffen jedoch auf schweren Widerstand durch Waffenschmuggler. Auch [[wiki/figuren/professor-challenger|Challenger]] und Hawthorn bleiben in Bewegung und verfolgen französische Soldaten weiter. Über allem liegt ein aufziehender Sturm, der den Streit zwischen einem General und Frankenstein zum Kippen bringt.
 
 ## Bezug zum Zirkel der Sieben
 

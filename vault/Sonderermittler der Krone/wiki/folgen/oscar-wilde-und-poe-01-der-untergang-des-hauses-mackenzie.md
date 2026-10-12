@@ -5,7 +5,6 @@ nummer: 1
 titel: Der Untergang des Hauses Mackenzie
 erschienen: 2025-12-05
 verlag: Blitz Verlag
-spielzeit: 56
 sprecher:
   - rolle: Oscar Wilde
     name: unbekannt

@@ -57,25 +57,25 @@ tags: []
 | 13 | [[wiki/folgen/poe-und-dupin-13-die-aufnahmepruefung\|Die Aufnahmeprüfung]] | 14.05.2021 | **direkt** |   | **Zirkel-Einstieg:** Gaston Morell wird 7. Mitglied |
 | 14 | [[wiki/folgen/poe-und-dupin-14-nachts-auf-der-seine\|Nachts auf der Seine]] | 13.08.2021 | direkt |   | Wunderdroge, Gaston Morell |
 | 15 | [[wiki/folgen/poe-und-dupin-15-der-schrei-der-bestie\|Der Schrei der Bestie]] | 01.10.2021 | direkt |   | Zirkel interessiert sich für Experimente |
-| 16 | [[wiki/folgen/poe-und-dupin-16-schlagzeilen\|Schlagzeilen]] | 03.12.2021 | indirekt | [[wiki/figuren/irene-adler\|Irene Adler]] | Fake-News-Verschwörung |
+| 16 | [[wiki/folgen/poe-und-dupin-16-schlagzeilen\|Schlagzeilen]] | 03.12.2021 | unklar | [[wiki/figuren/irene-adler\|Irene Adler]] | Fake-News-Verschwörung |
 | 17 | [[wiki/folgen/poe-und-dupin-17-entfesselter-wahn\|Entfesselter Wahn]] | 24.06.2022 | direkt |   | Gaston Morell, Prof. Deragon |
-| 18 | [[wiki/folgen/poe-und-dupin-18-die-rache-der-raubritter\|Die Rache der Raubritter]] | 09.09.2022 | indirekt |   | Bergdorf-Terror |
-| 19 | [[wiki/folgen/poe-und-dupin-19-hochverrat\|Hochverrat]] | 17.02.2023 | indirekt |   | Locked-Room-Mystery |
-| 20 | [[wiki/folgen/poe-und-dupin-20-trojaner\|Trojaner]] | 05.05.2023 | indirekt |   | Anschlag auf Eiffelturm |
+| 18 | [[wiki/folgen/poe-und-dupin-18-die-rache-der-raubritter\|Die Rache der Raubritter]] | 09.09.2022 | unklar |   | Bergdorf-Terror |
+| 19 | [[wiki/folgen/poe-und-dupin-19-hochverrat\|Hochverrat]] | 17.02.2023 | unklar |   | Locked-Room-Mystery |
+| 20 | [[wiki/folgen/poe-und-dupin-20-trojaner\|Trojaner]] | 05.05.2023 | unklar |   | Anschlag auf Eiffelturm |
 | 21 | [[wiki/folgen/poe-und-dupin-21-tod-eines-feindes\|Tod eines Feindes]] | 26.01.2024 | **direkt** |   | **Gaston Morell stirbt**, Zirkel-Kandidaten |
 | 22 | [[wiki/folgen/poe-und-dupin-22-der-plan-des-meisterdiebs\|Der Plan des Meisterdiebs]] | 05.04.2024 | direkt |   | Arsène Lupin, Houdini |
 | 23 | [[wiki/folgen/poe-und-dupin-23-der-falsche-saphir\|Der falsche Saphir]] | 07.06.2024 | direkt |   | Mata Hari, Lupin, Houdini |
 | 24 | [[wiki/folgen/poe-und-dupin-24-draculas-urteil\|Draculas Urteil]] | 12.07.2024 | **direkt** |   | **Entscheidung** über neues Zirkel-Mitglied |
-| 25 | [[wiki/folgen/poe-und-dupin-25-das-goldene-kalb\|Das goldene Kalb]] | 04.10.2024 | indirekt | [[wiki/figuren/irene-adler\|Irene Adler]] | Kult des goldenen Kalbs (Start) |
-| 26 | [[wiki/folgen/poe-und-dupin-26-babel\|Babel]] | 25.10.2024 | indirekt | [[wiki/figuren/irene-adler\|Irene Adler]] | Verschlüsselte Botschaften |
-| 27 | [[wiki/folgen/poe-und-dupin-27-sodom-und-gomorrha\|Sodom und Gomorrha]] | 28.02.2025 | indirekt |   | Kult eskaliert |
-| 28 | [[wiki/folgen/poe-und-dupin-28-die-letzte-bescherung\|Die letzte Bescherung]] | 25.04.2025 | indirekt |   | Kult-Ende (scheinbar) |
-| 29 | [[wiki/folgen/poe-und-dupin-29-nebelgasse\|Nebelgasse]] | 27.06.2025 | indirekt |   | Unheimlicher Nebel in Paris |
-| 30 | [[wiki/folgen/poe-und-dupin-30-der-schneider-des-todes\|Der Schneider des Todes]] | 29.08.2025 | indirekt |   | Mordserie unter Schneider-Kunden |
-| 31 | [[wiki/folgen/poe-und-dupin-31-der-blutbrunnen\|Der Blutbrunnen]] | 24.10.2025 | indirekt |   | Autor tot im Brunnen |
-| 32 | [[wiki/folgen/poe-und-dupin-32-die-schicksalsuhr\|Die Schicksalsuhr]] | 05.12.2025 | indirekt |   | Verfluchte Standuhr |
-| 33 | [[wiki/folgen/poe-und-dupin-33-der-letzte-tanz\|Der letzte Tanz]] | 13.02.2026 | indirekt |   | Tänzerin und Marktfrau ermordet |
-| 34 | [[wiki/folgen/poe-und-dupin-34-glorreiche-zeiten\|Glorreiche Zeiten]] | 10.04.2026 | indirekt |   | — |
+| 25 | [[wiki/folgen/poe-und-dupin-25-das-goldene-kalb\|Das goldene Kalb]] | 04.10.2024 | unklar | [[wiki/figuren/irene-adler\|Irene Adler]] | Kult des goldenen Kalbs (Start) |
+| 26 | [[wiki/folgen/poe-und-dupin-26-babel\|Babel]] | 25.10.2024 | unklar | [[wiki/figuren/irene-adler\|Irene Adler]] | Verschlüsselte Botschaften |
+| 27 | [[wiki/folgen/poe-und-dupin-27-sodom-und-gomorrha\|Sodom und Gomorrha]] | 28.02.2025 | unklar |   | Kult eskaliert |
+| 28 | [[wiki/folgen/poe-und-dupin-28-die-letzte-bescherung\|Die letzte Bescherung]] | 25.04.2025 | unklar |   | Kult-Ende (scheinbar) |
+| 29 | [[wiki/folgen/poe-und-dupin-29-nebelgasse\|Nebelgasse]] | 27.06.2025 | unklar |   | Unheimlicher Nebel in Paris |
+| 30 | [[wiki/folgen/poe-und-dupin-30-der-schneider-des-todes\|Der Schneider des Todes]] | 29.08.2025 | unklar |   | Mordserie unter Schneider-Kunden |
+| 31 | [[wiki/folgen/poe-und-dupin-31-der-blutbrunnen\|Der Blutbrunnen]] | 24.10.2025 | unklar |   | Autor tot im Brunnen |
+| 32 | [[wiki/folgen/poe-und-dupin-32-die-schicksalsuhr\|Die Schicksalsuhr]] | 05.12.2025 | unklar |   | Verfluchte Standuhr |
+| 33 | [[wiki/folgen/poe-und-dupin-33-der-letzte-tanz\|Der letzte Tanz]] | 13.02.2026 | unklar |   | Tänzerin und Marktfrau ermordet |
+| 34 | [[wiki/folgen/poe-und-dupin-34-glorreiche-zeiten\|Glorreiche Zeiten]] | 10.04.2026 | unklar |   | — |
 | 35 | [[wiki/folgen/poe-und-dupin-35-auf-der-jagd\|Auf der Jagd]] | 05.06.2026 | indirekt | [[wiki/serien/oscar-wilde-und-mycroft-holmes\|Oscar Wilde & Mycroft Holmes]] | Unterstützung durch die Sonderermittler und [[wiki/figuren/harry-houdini\|Harry Houdini]]; die Gegner planen einen Anschlag; 54 min |
 | 36 | [[wiki/folgen/poe-und-dupin-36-aufstieg-und-fall\|Aufstieg und Fall]] | 31.07.2026 | indirekt | [[wiki/serien/irene-adler\|Irene Adler]], [[wiki/serien/sherlock-holmes\|Sherlock Holmes]] | Grimoire-Suche und Entführungsfall in Saint Manon bei Paris; 57 min |
 

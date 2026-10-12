@@ -49,7 +49,7 @@ tags:
 | 01 | [[wiki/folgen/wilde-mycroft-ungeloeste-01-der-riese-von-griffin\|Der Riese von Griffin]] | 23.01.2026 | Highlands-Fall um eine riesenhafte Bestie; Abel Hawthorn begleitet Wilde |
 | 02 | [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume\|Die Todesblume]] | 10.04.2026 | alter Todesfall nahe London; Irene Adler auf offizieller Seite als Figur gelistet |
 | 03 | [[wiki/folgen/wilde-mycroft-ungeloeste-03-das-fledermausamulett\|Das Fledermausamulett]] | 19.06.2026 | blutleere Leiche bei Glastonbury, mysteriöse Fledermäuse; Wilde ermittelt mit Abraham Van Helsing; 52 min |
-| 04 | [[wiki/folgen/wilde-mycroft-ungeloeste-04-das-buch-des-grauens\|Das Buch des Grauens]] | 14.08.2026 | Karte aus den Fallakten weist zum „Buch des Grauens“; Wilde ermittelt mit Professor Challenger; 51 min |
+| 04 | [[wiki/folgen/wilde-mycroft-ungeloeste-04-das-buch-des-grauens\|Das Buch des Grauens]] | 14.08.2026 | Karte aus den Fallakten weist zum „Buch des Grauens“; Wilde ermittelt mit [[wiki/figuren/professor-challenger\|Professor Challenger]]; 51 min |
 | 05 | [[wiki/folgen/wilde-mycroft-ungeloeste-05-kalt-wie-eis\|Kalt wie Eis]] | 16.10.2026 (geplant) | tödliche Kutschenüberfälle in der Kleinstadt Falcon; der Verurteilte bestreitet eine der Taten; 53 min. Watchlist |
 
 ## Watchlist — angekündigte Folgen

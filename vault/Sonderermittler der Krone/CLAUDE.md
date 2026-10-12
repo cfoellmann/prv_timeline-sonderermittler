@@ -94,6 +94,7 @@ spoiler_level: grob | voll | stub   # nur bei type=folge
 veroeffentlichungsstatus: geplant   # nur bei type=folge, nur für Watchlist-Einträge
 folgen_count: <int>           # nur bei type=serie, erschienene Folgen (inkl. Folge 0)
 watchlist_count: <int>        # nur bei type=serie, zusätzlich geplante Folgen
+re_release_count: <int>       # nur bei type=serie, optional: Folgen der integrierten „Aus den Archiven"-Linie
 status: stub | entwurf | recherchiert | review | final
 quellen:                      # Pfade in raw/ oder URLs
   - <pfad-oder-url>
@@ -404,7 +405,7 @@ Wenn eine Folgen-Seite im Wiki angelegt oder geändert wird, **muss** der entspr
 
 ```jsonc
 {
-  "schema_version": "1.1.0",
+  "schema_version": "1.1.1",
   "stand": "JJJJ-MM-TT",
   "epoche_min_jahr": 1875,
   "epoche_max_jahr": 1905,
@@ -430,7 +431,7 @@ Wenn eine Folgen-Seite im Wiki angelegt oder geändert wird, **muss** der entspr
     "story_jahr": 1895 | null,
     "story_monat": 4 | null,               // 1–12
     "story_tag": null | 1..31,
-    "story_praezision": "tag | monat | jahr | unbekannt",
+    "story_praezision": "tag | monat | jahr | geschaetzt | unbekannt",
     "story_anmerkung": "<Kontext>",
     "zirkel": "direkt | indirekt | unklar | kein",
     "spoiler_level": "stub | grob | voll",
@@ -443,6 +444,7 @@ Wenn eine Folgen-Seite im Wiki angelegt oder geändert wird, **muss** der entspr
 ### Konsistenz-Regeln
 
 - **`id` ist der Schlüssel.** Slug-Konvention identisch zur Markdown-Datei.
+- **`story_praezision: "geschaetzt"`** bedeutet: `story_jahr` ist nicht belegt, sondern aus Nachbarfolgen oder Indizien abgeleitet; die Ableitung steht in `story_anmerkung`. Die App zeigt den Wert wie `jahr` (nur die Jahreszahl).
 - **`story_praezision: "unbekannt"`** ist explizit erlaubt — die App rendert solche Folgen in einer eigenen Sektion ans Ende.
 - **`zirkel: "unklar"`** ist der Default für Folgen ohne klare Recherche-Lage. Nicht mit `null` mischen.
 - **`wiki`-Pfade** sind relativ zur Repo-Wurzel und URL-encoded (`%20` für Leerzeichen).

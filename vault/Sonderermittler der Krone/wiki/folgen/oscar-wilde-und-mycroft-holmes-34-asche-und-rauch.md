@@ -7,7 +7,7 @@ erschienen: 2021-07-30
 verlag: Maritim
 autor: "Marc Freund"
 spielzeit_min: 61
-zirkel: unklar
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -45,7 +45,7 @@ Nach der Verwüstung der Stadt tasten sich Wilde und Irene Adler durch Misstraue
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — der offizielle Seitentext liefert keinen eindeutigen Zirkel-Bezug. Arbeitsnotiz: Dracula und der Zirkel der Sieben planen den nächsten Angriff auf England
+- **Direkt** — die offizielle Folgenseite nennt den Zirkel der Sieben ausdrücklich (Paraphrase in der Rohdatei: „Dracula und der Zirkel der Sieben planen den nächsten Angriff auf England“). Am 12.10.2026 von `unklar` auf `direkt` gesetzt (Lint 2026-10-12).
 
 ## Crossover & Querverweise
 

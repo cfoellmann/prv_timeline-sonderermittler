@@ -8,7 +8,7 @@ verlag: Maritim
 autor: ""
 sprecher: []
 spielzeit_min: 73
-zirkel: kein
+zirkel: unklar
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -45,7 +45,7 @@ Professor Arbogast misstraut plötzlich einem alten Freund und fürchtet, dass h
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen bis eher kein direkter Bezug** — weder Klappentext noch offizielle Figurenliste nennen einen ausdrücklichen Zirkel- oder Serienanschluss.
+- **Unklar** — weder Klappentext noch offizielle Figurenliste nennen einen ausdrücklichen Zirkel- oder Serienanschluss. Ein belegtes Nein liegt nicht vor; deshalb am 12.10.2026 von `kein` auf `unklar` gesetzt (Lint 2026-10-12).
 
 ## Crossover & Querverweise
 

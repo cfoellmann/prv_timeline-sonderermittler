@@ -7,7 +7,7 @@ erschienen: 2021-09-24
 verlag: Maritim
 autor: "Marc Freund"
 spielzeit_min: 62
-zirkel: unklar
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -45,7 +45,7 @@ Die Regierung ist gefallen und wichtige Ämter werden von Verschwörern besetzt,
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — der offizielle Seitentext liefert keinen eindeutigen Zirkel-Bezug. Arbeitsnotiz: direkte Unterwanderung Englands durch den Zirkel der Sieben
+- **Direkt** — die offizielle Folgenseite nennt den Zirkel der Sieben ausdrücklich (Paraphrase in der Rohdatei: „direkte Unterwanderung Englands durch den Zirkel der Sieben“). Am 12.10.2026 von `unklar` auf `direkt` gesetzt (Lint 2026-10-12).
 
 ## Crossover & Querverweise
 

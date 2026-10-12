@@ -61,7 +61,7 @@ Fogg ist in praktisch allen 52 Folgen seiner eigenen Reihe die Hauptfigur; eine 
 - [[wiki/figuren/dracula|Dracula]] — Gegner, dessen Kosmos-Erstauftritt (DNAPF 12) und mehrere Wiederauftritte (DNAPF 16, 27, 34, 39) an Fogg hängen.
 - [[wiki/figuren/irene-adler|Irene Adler]] — Verbündete im Orkney-Doppel IADK 7/8.
 - **Edmond Dantès** — Mitgefangener und Fluchtpartner in DNAPF 30. *Noch keine eigene Figuren-Seite.*
-- **Harriet Malone**, **Challenger und Hawthorn**, **Tarzan** — Mitspieler des Afrika-Blocks (DNAPF 39–44). *Teils ohne eigene Figuren-Seite.*
+- **Harriet Malone**, **[[wiki/figuren/professor-challenger|Challenger]] und Hawthorn**, **Tarzan** — Mitspieler des Afrika-Blocks (DNAPF 39–44). *Teils ohne eigene Figuren-Seite.*
 
 ## Bezug zum Zirkel der Sieben
 

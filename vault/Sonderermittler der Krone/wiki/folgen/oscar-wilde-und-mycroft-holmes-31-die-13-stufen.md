@@ -7,7 +7,7 @@ erschienen: 2021-01-29
 verlag: Maritim
 autor: "Marc Freund"
 spielzeit_min: 60
-zirkel: unklar
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -45,7 +45,7 @@ Mycroft schickt Wilde und Henry Wheeler an den Fuß des Ätna, wo sie einen Zuga
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — der offizielle Seitentext liefert keinen eindeutigen Zirkel-Bezug. Arbeitsnotiz: direkter Hinweis auf einen Schlupfwinkel des Zirkels der Sieben
+- **Direkt** — die offizielle Folgenseite nennt den Zirkel der Sieben ausdrücklich (Paraphrase in der Rohdatei: „direkter Hinweis auf einen Schlupfwinkel des Zirkels der Sieben“). Am 12.10.2026 von `unklar` auf `direkt` gesetzt (Lint 2026-10-12).
 
 ## Crossover & Querverweise
 

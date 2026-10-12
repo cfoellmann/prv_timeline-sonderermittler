@@ -45,7 +45,7 @@ Nahe einer Goldgräbersiedlung eskalieren rätselhafte Vorfälle unter Mensch un
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — der offizielle Seitentext liefert keinen eindeutigen Zirkel-Bezug. Arbeitsnotiz: Worte der Macht als klarer Arc-Hinweis; kein direkter Zirkelname
+- **Derzeit offen** — die offizielle Folgenseite nennt den Zirkel nicht beim Namen; die Rohdatei vermerkt nur „Worte der Macht als klarer Arc-Hinweis; kein direkter Zirkelname“. Bleibt `unklar`, Serientabelle am 12.10.2026 angeglichen (Lint 2026-10-12).
 
 ## Crossover & Querverweise
 

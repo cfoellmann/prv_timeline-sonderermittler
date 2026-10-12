@@ -7,7 +7,7 @@ erschienen: 2021-12-03
 verlag: Maritim
 autor: "Markus Duschek"
 spielzeit_min: 57
-zirkel: direkt
+zirkel: unklar
 crossover_mit:
   - irene-adler
 spoiler_level: grob
@@ -35,6 +35,7 @@ tags:
 - **Erscheinungsdatum:** 03.12.2021 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 57 min
 - **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Zirkel-Bezug:** unklar — weder Klappentext noch Figurenliste der Rohdatei nennen den Zirkel oder eines seiner Mitglieder. Die Sammelaussage der Rohdatei („Folgen 14–34: Folgen mit Zirkel-Bezug“) ist nicht folgenspezifisch und trägt keine Einstufung (Lint 2026-10-12).
 - **Crossover:** [[wiki/figuren/irene-adler|Irene Adler]]
 
 ## Handlung

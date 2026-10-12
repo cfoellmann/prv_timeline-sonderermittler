@@ -26,6 +26,7 @@ quellen:
 - **Nummer:** 32 | **Jahr:** 2025 | **Spielzeit:** 70 min
 - **Erscheinungsdatum:** 05.12.2025 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Zirkel-Bezug:** unklar — weder Klappentext noch Figurenliste der Rohdatei nennen den Zirkel oder eines seiner Mitglieder. Die Sammelaussage der Rohdatei („Folgen 14–34: Folgen mit Zirkel-Bezug“) ist nicht folgenspezifisch und trägt keine Einstufung (Lint 2026-10-12).
 
 ## Hauptfiguren
 

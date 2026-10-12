@@ -5,7 +5,6 @@ nummer: 2
 titel: Atemlos
 erschienen: 2025-12-19
 verlag: Blitz Verlag
-spielzeit: 56
 sprecher:
   - rolle: Oscar Wilde
     name: unbekannt

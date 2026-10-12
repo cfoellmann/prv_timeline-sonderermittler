@@ -8,7 +8,6 @@ verlag: Maritim
 autor: "Jonas Maas"
 spielzeit_min: 79
 zirkel: indirekt
-in_universe_jahr: 1895
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
