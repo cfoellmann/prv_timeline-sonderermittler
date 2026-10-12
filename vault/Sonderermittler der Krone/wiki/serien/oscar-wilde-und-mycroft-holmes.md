@@ -43,6 +43,7 @@ tags:
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — Auftraggeber der Krone.
 - [[wiki/figuren/henry-wheeler|Henry Wheeler]] (Holger Löwenberg) — Umfeld.
 - [[wiki/figuren/benjamin-payton|Dr. Benjamin Payton]] (Leonhard Mahlich) — zunächst Verbündeter, später Verräter (siehe Folge 18).
+- [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] (Jaron Löwenberg) — Jäger, wiederkehrender Begleiter Wildes; Erstauftritt Folge 2, laut Fandom-Besetzung in elf Folgen bis Folge 26.
 
 ## Folgenliste
 

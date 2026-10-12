@@ -418,7 +418,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 
 ## Figuren
 
-- [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] — Nebenfigur der frühen OWMH-Phase; Erstauftritt in OWMH 2.
+- [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] — Jäger, Begleiter Oscar Wildes (Sprecher Jaron Löwenberg); Erstauftritt OWMH 2, laut Fandom in elf OWMH-Folgen bis 26, vermutlich (Annahme) auch Challengers Begleiter in DNAPF 39–43 und Wildes in WMU 1 (Entwurf).
 - [[wiki/figuren/abraham-van-helsing|Abraham Van Helsing]] — Vampirjäger und Draculas ärgster Feind; tragend in der Dracula-Reihe, 2026 zurück in WMU 3 und SH 23.
 - [[wiki/figuren/adams|Dr. Adams]] — Forscher, sucht in NEM 3 die verschollenen Schiffe der Franklin-Expedition.
 - [[wiki/figuren/aleister-crowley|Aleister Crowley]] — Zirkel-Mitglied #6, Okkultist; Erstauftritt in OWMH 21.
@@ -463,7 +463,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/figuren/passepartout|Passepartout]] — Phileas Foggs treuer Diener in 20+ Episoden, auch Crossover in IADK 6.
 - [[wiki/figuren/paul-hiller|Paul Hiller]] — Auftragsmörder im Dienst des Zirkels, mit eigener Bande.
 - [[wiki/figuren/phileas-fogg|Phileas Fogg]] — Titelheld der ältesten und mit 52 Folgen umfangreichsten Reihe des Kosmos; in seinen Abenteuern treten Nemo, Robur, Frankenstein, Poe und Dracula erstmals überhaupt auf.
-- [[wiki/figuren/professor-challenger|Professor Challenger]] — Wissenschaftler und Abenteurer; Mitspieler des Afrika-Blocks DNAPF 39–44 (mit Abel Hawthorn), 2026 Ratgeber Oscar Wildes in WMU 4 (Entwurf).
+- [[wiki/figuren/professor-challenger|Professor Challenger]] — Wissenschaftler und Abenteurer; Mitspieler des Afrika-Blocks DNAPF 38–44 (ab 39 mit Abel Hawthorn), 2026 Ratgeber Oscar Wildes in WMU 4 (Entwurf).
 - [[wiki/figuren/rasputin|Rasputin]] — Zirkel-Mitglied #5; Erstauftritt in IADK 4.
 - [[wiki/figuren/robur|Robur]] — früh eingeführter Erfinder und laut Konzeptseiten Zirkel-Mitglied.
 - [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] — Bruder Mycrofts und ab 2022 Titelheld einer eigenen Sonderermittler-Reihe; 18 seiner 41 belegten Auftritte liegen außerhalb dieser Reihe, was ihn zum Hauptverknüpfungsknoten des Universums macht.

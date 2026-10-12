@@ -15,6 +15,7 @@ quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge24-der-knochenhaendler/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
 tags:
   - sonderermittler
 ---
@@ -38,10 +39,11 @@ tags:
 
 - [[wiki/figuren/oscar-wilde|Oscar Wilde]] — Titelheld und operative Hauptfigur des Falls.
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — strategischer Auftraggeber der Krone im Hintergrund.
+- [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] — hilft Wilde, die Spur des Leichenhandels zu verfolgen; offizieller Klappentext schreibt „Abel Hawthorne“ (Sprecher Jaron Löwenberg laut Fandom).
 
 ## Handlung (grob)
 
-Als an der Londoner Universität der Kopf einer jungen Frau untersucht werden soll, zeigt sich, dass hinter dem Fall ein grauenhaftes Verbrechen steckt. Wilde verfolgt mit Abel Hawthorne eine Spur ins East End und gerät einem wahnsinnigen Täter in die Hände.
+Als an der Londoner Universität der Kopf einer jungen Frau untersucht werden soll, zeigt sich, dass hinter dem Fall ein grauenhaftes Verbrechen steckt. Wilde verfolgt mit [[wiki/figuren/abel-hawthorn|Abel Hawthorne]] eine Spur ins East End und gerät einem wahnsinnigen Täter in die Hände.
 
 ## Bezug zum Zirkel der Sieben
 
@@ -57,6 +59,7 @@ Als an der Londoner Universität der Kopf einer jungen Frau untersucht werden so
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge24-der-knochenhaendler/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+- [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Abel-Hawthorn-Recherche 12.10.2026 (Fanseite-Volltextsuche, Fandom-Besetzung, Audible-Sprecherlisten).
 
 
 

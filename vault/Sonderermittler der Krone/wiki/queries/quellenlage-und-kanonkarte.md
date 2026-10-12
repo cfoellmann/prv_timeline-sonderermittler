@@ -4,6 +4,7 @@ titel: Quellenlage & Kanonkarte
 status: recherchiert
 quellen:
   - raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md
+  - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
   - raw/deep-research-report.md
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
@@ -60,6 +61,17 @@ Ergebnis der Quellen-Scout-Recherche vom 06.09.2026. Alle drei sind **maschinenl
 > - **Unzulässig:** „Folge A erschien vor Folge B", wenn der Abstand unter etwa einer Woche liegt. Dort entscheidet bei den neu datierten Folgen der Distributionszeitpunkt, nicht der Handelstermin; ein Fehler von wenigen Tagen kippt das Paar.
 >
 > Die Timeline-App sortiert bei gleichem Datum deterministisch nach `serie` und `nummer` (`compareFolgen` in `app/app.js`) — die Anzeige ist damit stabil, stellt aber ausdrücklich **keine** belegte Reihenfolge dar.
+
+## Neu bewertete Quellen (2026-10-12)
+
+Aus der Prüfung, ob der Hawthorn des Fogg-Afrika-Blocks der [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] aus OWMH ist ([Rohdaten](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md)).
+
+| Quelle | Stark für | Schwach / Lücken |
+|---|---|---|
+| **Fandom-Wiki sherlockholmes.fandom.com/de über die MediaWiki-API** (`api.php?action=query&prop=revisions`, ohne Zugangsschlüssel) | **Rollengenaue Besetzung** (Tabelle Rolle → Sprecher) für **alle** OWMH-Folgen 1–44; maschinenlesbar, wiederholbar, Volltextsuche über `list=search`. Bislang einzige Repo-Quelle, die Sprecher **einer Rolle** zuordnet | Nur OWMH 1–44 (ab 45 keine Einzelseiten), keine Seiten zu DNAPF 37 ff. und WMU. **Inkonsistent:** „Kalter Fels" (OWMH 5) nennt den „ersten Auftritt" Hawthorns, obwohl die eigene Seite zu OWMH 2 ihn schon besetzt; Schreibweise der Rolle wechselt (Hawthorn/Hawthorne). Erscheinungsdaten teils nur Jahr, Laufzeiten gerundet („ca. 60" für 79 min). Der Suchindex ist unvollständig — vollständige Prüfung nur über den Seitenabruf, nicht über `list=search` |
+| **Audible.de-Produktseiten** (Feld `narrators` bzw. „Sprecher beinhaltet …") | **Vollständige Sprecherliste je Folge**, auch für DNAPF und WMU; per `curl` mit Browser-User-Agent abrufbar (Python-`urllib` wird mit HTTP 503 abgewiesen) | **Keine Rollenzuordnung** — taugt nur als Indiz („Sprecher X ist besetzt"), nicht als Beleg für eine Rolle. `releaseDate` ist ein Plattformdatum und weicht teils ab (DNAPF 42: 29.10.2024 statt 18.10.2024, WMU 1: 09.02.2026 statt 23.01.2026) |
+
+**Merksatz Sprecher:** Rolle ↔ Sprecher nur aus Fandom (OWMH 1–44) oder einer Besetzungsliste mit Rollen; Audible-Listen ohne Rollen allein reichen nicht. Namensgleiche Sprecher auseinanderhalten — **Jaron** Löwenberg (Hawthorn) und **Holger** Löwenberg (Henry Wheeler).
 
 ## Korpus-Stand laut Report
 
@@ -149,3 +161,4 @@ Der Report enthält darüber hinaus **Handels-/Katalogmetadaten** (EAN/ISBN, Lau
 ## Quellen
 
 - [raw/deep-research-report.md](../../raw/deep-research-report.md)
+- [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Fandom-API- und Audible-Bewertung (12.10.2026)

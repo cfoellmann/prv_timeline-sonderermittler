@@ -20,6 +20,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
 tags:
   - oscar-wilde
   - saint-noire
@@ -45,10 +46,12 @@ tags:
 - [[wiki/figuren/aouda|Aouda]] — an Foggs Seite bei der Angelegenheit für Mycroft Holmes.
 - [[wiki/figuren/kapitaen-nemo|Kapitän Nemo]] — sucht mit Passepartout in Saint Noire nach einer Waffenlieferung (zweiter Handlungsstrang).
 - [[wiki/figuren/passepartout|Passepartout]] — ermittelt gemeinsam mit Nemo in Saint Noire.
+- [[wiki/figuren/professor-challenger|Professor Challenger]] — ist mit Hawthorn Frankenstein dicht auf den Fersen.
+- [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] — „Hawthorn“ an Challengers Seite; dass es der Hawthorn aus OWMH ist, ist eine gut gestützte **Annahme** (gleicher Name, Beruf Jäger, Sprecher Jaron Löwenberg in der Audible-Besetzung), siehe Figurenseite.
 
 ## Handlung (grob)
 
-Gemeinsam mit Aouda und Oscar Wilde kümmert sich Phileas Fogg um eine wichtige Angelegenheit für Mycroft Holmes, die alle drei in Gefahr bringt. Gleichzeitig suchen Kapitän Nemo und Passepartout in Saint Noire nach einer Waffenlieferung, stoßen dort aber nur auf Schweigen und Widerstand. [[wiki/figuren/professor-challenger|Challenger]] und Hawthorn sind Frankenstein fast auf den Fersen. Dieser scheint kurz davorzustehen, ein weiteres Geheimnis seines Afrika-Komplexes zu enthüllen.
+Gemeinsam mit Aouda und Oscar Wilde kümmert sich Phileas Fogg um eine wichtige Angelegenheit für Mycroft Holmes, die alle drei in Gefahr bringt. Gleichzeitig suchen Kapitän Nemo und Passepartout in Saint Noire nach einer Waffenlieferung, stoßen dort aber nur auf Schweigen und Widerstand. [[wiki/figuren/professor-challenger|Challenger]] und [[wiki/figuren/abel-hawthorn|Hawthorn]] sind Frankenstein fast auf den Fersen. Dieser scheint kurz davorzustehen, ein weiteres Geheimnis seines Afrika-Komplexes zu enthüllen.
 
 ## Bezug zum Zirkel der Sieben
 
@@ -58,3 +61,4 @@ Gemeinsam mit Aouda und Oscar Wilde kümmert sich Phileas Fogg um eine wichtige 
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge42-gefaehrliche-suche/>
+- [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Abel-Hawthorn-Recherche 12.10.2026 (Fanseite-Volltextsuche, Fandom-Besetzung, Audible-Sprecherlisten).

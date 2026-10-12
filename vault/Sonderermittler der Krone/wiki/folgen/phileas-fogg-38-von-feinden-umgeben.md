@@ -19,6 +19,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
 tags:
   - afrika
   - sabotage
@@ -41,6 +42,7 @@ tags:
 
 - [[wiki/figuren/phileas-fogg|Phileas Fogg]] — verfolgt eine zentrale Spur des Afrika-Komplexes.
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — kämpft parallel mit Sabotage am neuen Hauptquartier.
+- [[wiki/figuren/professor-challenger|Professor Challenger]] — gerät laut offiziellem Klappentext auf der Schiffspassage Richtung Kongo mit gefährlichen Männern aneinander (frühester Klappentext-Beleg im Afrika-Block).
 
 ## Handlung (grob)
 
@@ -54,3 +56,4 @@ Phileas Fogg und seine Begleiter suchen nach einer mysteriösen Mörderin, die o
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge38-von-feinden-umgeben/>
+- [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Abel-Hawthorn-Recherche 12.10.2026 (Fanseite-Volltextsuche, Fandom-Besetzung, Audible-Sprecherlisten).

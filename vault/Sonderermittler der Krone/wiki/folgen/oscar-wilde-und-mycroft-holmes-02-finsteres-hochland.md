@@ -15,6 +15,7 @@ quellen:
   - raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
 tags:
   - schottland
   - erstauftritt
@@ -41,7 +42,7 @@ tags:
 
 - [[wiki/figuren/oscar-wilde|Oscar Wilde]] — übernimmt seinen nächsten Krone-Auftrag und reist widerwillig in die Highlands.
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — bleibt Auftraggeber im Hintergrund.
-- [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] — **Erstauftritt** laut Löchel-Chronologie; genaue Rolle innerhalb des Falls beim weiteren Ingest präzisieren.
+- [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] — **Erstauftritt** laut Löchel-Chronologie, in der Fandom-Besetzung mit Sprecher Jaron Löwenberg; im Klappentext nicht namentlich genannt (dort nur „eine kleine Gruppe von Ermittlern“). Später als Jäger bzw. Großwildjäger beschrieben und wiederkehrend bis OWMH 26, vermutlich auch in DNAPF 39–43 und WMU 1 (siehe Figurenseite).
 
 ## Handlung (grob)
 
@@ -65,7 +66,7 @@ tags:
 
 ## Theorien & offene Fragen
 
-- **Wer genau ist [[wiki/figuren/abel-hawthorn|Abel Hawthorn]]?** Der Erstauftritt ist belegt, die Funktion im Plot aber noch nicht sauber dokumentiert.
+- **Welche Funktion hat [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] in diesem Fall?** Erstauftritt und Sprecher sind belegt, seine Rolle im Plot nicht; spätere Klappentexte nennen ihn Jäger bzw. Großwildjäger.
 - **Welche Natur hat die Bedrohung in den Highlands?** Klappentext lässt Tier, Räuber oder etwas Drittes offen.
 - **Wie eng hängt der Fall schon mit der später klar benannten Zirkel-Struktur zusammen?** Dafür fehlt bislang ein direkter Repo-Beleg.
 
@@ -75,6 +76,7 @@ tags:
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Erscheinungsdatum, In-Universe-Jahr, Erstauftritt Abel Hawthorn.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge02-finsteres-hochland/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+- [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Abel-Hawthorn-Recherche 12.10.2026 (Fanseite-Volltextsuche, Fandom-Besetzung, Audible-Sprecherlisten).
 
 
 

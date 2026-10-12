@@ -17,6 +17,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
 tags:
   - saint-noire
   - afrika
@@ -38,6 +39,8 @@ tags:
 ## Hauptfiguren
 
 - [[wiki/figuren/phileas-fogg|Phileas Fogg]] — ist hinter Harriet Malones Geheimnis her.
+- [[wiki/figuren/professor-challenger|Professor Challenger]] — steht mit Hawthorn in Saint Noire dem Henker gegenüber und entkommt knapp.
+- [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] — an Challengers Seite, hier als einzige DNAPF-Folge mit Vornamen genannt; dass es der Hawthorn aus OWMH ist, ist eine gut gestützte **Annahme** (gleicher Name, Beruf Jäger, Sprecher Jaron Löwenberg in der Audible-Besetzung), siehe Figurenseite.
 
 ## Handlung (grob)
 
@@ -51,3 +54,4 @@ tags:
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge40-im-land-der-tausend-gefahren/>
+- [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Abel-Hawthorn-Recherche 12.10.2026 (Fanseite-Volltextsuche, Fandom-Besetzung, Audible-Sprecherlisten).

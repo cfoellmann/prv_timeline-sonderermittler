@@ -20,6 +20,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
 tags:
   - mycroft-holmes
   - kapitaen-nemo
@@ -43,10 +44,12 @@ tags:
 - [[wiki/figuren/phileas-fogg|Phileas Fogg]] — ist für Mycroft Holmes im Einsatz.
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — sendet Fogg in den nächsten Konflikt.
 - [[wiki/figuren/kapitaen-nemo|Kapitän Nemo]] — verfolgt mit Passepartout Harriet Malone.
+- [[wiki/figuren/professor-challenger|Professor Challenger]] — findet mit Hawthorn das Dorf der Affenmenschen zerstört und verfolgt die französischen Soldaten.
+- [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] — „Hawthorn“ an Challengers Seite; dass es der Hawthorn aus OWMH ist, ist eine gut gestützte **Annahme** (gleicher Name, Beruf Jäger, Sprecher Jaron Löwenberg in der Audible-Besetzung), siehe Figurenseite.
 
 ## Handlung (grob)
 
-Phileas Fogg ist im Auftrag von Mycroft Holmes unterwegs, als er mit einer Gruppe Halunken aneinandergerät. Gleichzeitig schaffen es Kapitän Nemo und Passepartout endlich, Harriet Malone zu stellen, treffen jedoch auf schweren Widerstand durch Waffenschmuggler. Auch [[wiki/figuren/professor-challenger|Challenger]] und Hawthorn bleiben in Bewegung und verfolgen französische Soldaten weiter. Über allem liegt ein aufziehender Sturm, der den Streit zwischen einem General und Frankenstein zum Kippen bringt.
+Phileas Fogg ist im Auftrag von Mycroft Holmes unterwegs, als er mit einer Gruppe Halunken aneinandergerät. Gleichzeitig schaffen es Kapitän Nemo und Passepartout endlich, Harriet Malone zu stellen, treffen jedoch auf schweren Widerstand durch Waffenschmuggler. Auch [[wiki/figuren/professor-challenger|Challenger]] und [[wiki/figuren/abel-hawthorn|Hawthorn]] bleiben in Bewegung und verfolgen französische Soldaten weiter. Über allem liegt ein aufziehender Sturm, der den Streit zwischen einem General und Frankenstein zum Kippen bringt.
 
 ## Bezug zum Zirkel der Sieben
 
@@ -56,3 +59,4 @@ Phileas Fogg ist im Auftrag von Mycroft Holmes unterwegs, als er mit einer Grupp
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge41-aufbruch/>
+- [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Abel-Hawthorn-Recherche 12.10.2026 (Fanseite-Volltextsuche, Fandom-Besetzung, Audible-Sprecherlisten).
