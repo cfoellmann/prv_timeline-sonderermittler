@@ -658,3 +658,44 @@ Das Fandom war am 06.09.2026 nicht erreichbar (HTTP 402, auch über die MediaWik
 - **SH 16** von 08.08.2025 auf **25.07.2025** korrigiert (Apple, Deezer, Audible, Raute-CD, Hörspieltalk „Freutag VÖ"); Folgenseite, Index, Serientabelle, 3 Figurenseiten, `folgen.json`.
 - **Kanonkarte:** HolyShop-Muster „vorverlegte Termine nicht nachgezogen", unzuverlässige Datums-URL der MOR-25-Schlagzeile.
 - `raw/`-Bestand, App-Code, Schema und `changelog.md` unverändert; 1 neue Raw-Datei.
+
+## [2026-10-12] ingest | Sprecher OWMH 1–44 und Sherlock Holmes & Co.: Fandom-Rollentabellen, DNB, Audible
+- Neue Rohdatei `raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md`: wörtliche Fandom-Besetzungstabellen (MediaWiki-API) für OWMH 1–44 und SHC 26/27, 41/42, 45, 48, 53, 55; Gegenprobe mit DNB-Katalogsätzen (Digitalausgabe: Sprecherlisten, CD: MARC 245 $c) und Audible-Serienseiten; Klappentexte OWMH 42–44.
+- `sprecher` auf 52 Folgenseiten eingetragen (OWMH 0 → 44 von 44, 701 Einträge; SHC 3 → 11 von 11, +65 Einträge), Eckdaten-Zeile „Sprecher“ und Quellen ergänzt. Rollen aus Fandom; OWMH 44 Aleister Crowley – Daniel Zillmann als abgeleitet gekennzeichnet.
+- Offen: OWMH 42/43 Mycroft Holmes – Reent Reins (Fandom) gegen DNB/Audible (Reins nicht in der Liste), nicht eingetragen. SHC 26/27 Nebenrollen nicht teilgenau zuordenbar. Nebenbefunde: SHC 26/27 Autor (DNB-CD und Fandom: Jonas Maas), SHC 53 Datum (Fandom 08.05.2020).
+- Sprechernamen vereinheitlicht (Fritzsche, K. Dieter Klebsch, Deuster, Schülert, Tams, André Beyer, Zalamea). folgen.json unverändert.
+
+## [2026-10-12] ingest | Sprecher DNAPF, WMU, OWIA: 61 Folgenseiten besetzt (Rollenlisten DNAPF 1/7/8, WMU 3/4; DNB-Rollenangaben; Rest abgeleitet)
+- Neue Quelle: [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — DNB (MARC 245 $c der CDs, 700 nrt der Digitalausgaben), Audible, Hörspieltalk, Hoerspiel-Freunde (Verlagsmitteilung 2015, Rollenlisten „Captain Blitz"), hoernews.de, Raute Media, Fanseiten-Figurenseiten.
+- `sprecher` DNAPF 1 → 53 von 53, WMU 0 → 5 von 5, OWIA 0 → 4 von 4. Rollenlisten: DNAPF 1, 7, 8, WMU 3, 4. DNB-Rollenangabe der CD: Erzähler (Brückner) DNAPF 1–7, 9–18; Phileas Fogg (Draeger) DNAPF 51, 52; Oscar Wilde (Rotermund) WMU 1–4. Übrige Hauptrollen nach der Ableitungsregel (OWMH 45–57) und gekennzeichnet; Aouda über die Verlagsmitteilung 2015, Abel Hawthorn über die Fandom-Tabellen OWMH (Identität weiter Annahme).
+- Offen: Erzähler DNAPF 19–50, Professor Challenger DNAPF 38–44 (Graudus laut WMU 4), Robur DNAPF 3 (Neugebauer, Staffel 1), WMU 2 ohne veröffentlichte Besetzung.
+- folgen.json unverändert.
+
+## [2026-10-12] ingest | Sprecher IADK und EAPAD: Rollenlisten IADK 0–15 (Fandom), Hauptrollen IADK 16–36 und EAPAD 1–36 abgeleitet
+- Besetzung für 72 Folgenseiten eingetragen (IADK 0–34, 36; EAPAD 1–36); sprecher-Abdeckung IADK 1 → 37/37, EAPAD 0 → 36/36.
+- IADK 0–15: Rollentabellen des Fandom-Wikis (252 Rollen; Nebenrollen Einzelquelle), Namen gegen Raute Media (CD) und Audible geprüft; Fandom-Schreibfehler normalisiert.
+- IADK 16–34, 36 und EAPAD 2–36: Hauptrollen nach der Ableitungsregel (Figurenliste/Klappentext + Stammsprecher der Fanseiten-Figurenseite + Sprecherliste der Folge), auf den Seiten als abgeleitet gekennzeichnet. EAPAD: Erzähler Douglas Welbat laut Serienseite der Fanseite; EAPAD 1 Rollen zusätzlich durch LovelyBooks-Rezension belegt.
+- Offen: IADK 5 – Mycroft/Reent Reins nur Fandom, Raute-Liste ohne Reins. Raute Media IADK 6–8 tragen die Liste von IADK 5 (unbrauchbar).
+- Rohdaten: [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md). folgen.json unverändert.
+
+## [2026-10-12] ingest | Sprecher MOR, FRANK: Besetzung Moriarty 0–27 und Frankenstein 1–27
+- Neue Quelle: [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — DNB-Katalogsätze (Feld 700, alle 55 Folgen), Raute Media (MOR/FRANK 1–24), Audible (54 Produktseiten), Fandom-Rollentabellen (MOR 0–8), Hörspieltalk (Folgen- und Sammelthreads), Fanseiten-Figurenlisten und -Figurenseiten.
+- **Rollenlisten:** MOR 0–8 (Fandom; MOR 1 und 2 zusätzlich Verlagsvorschau im Hörspieltalk, MOR 0 nur 4 Rollen + Ansage), FRANK 1 (Amazon-Vorschau, Einzelquelle für die Rollen).
+- **Abgeleitet** (Figurenliste der Fanseite + Stammsprecher der Fanseiten-Figurenseite + Sprecher:in in allen vollständigen Listen der Folge): MOR 9–27 und FRANK 2–27, je 1–7 Hauptrollen, gekennzeichnet; vollständige Namensliste in den Eckdaten. Folgenseiten MOR/FRANK mit `sprecher`: 1 → 56.
+- **Widersprüche dokumentiert, nicht aufgelöst:** MOR 18 (Welsh vs. Keßler), FRANK 8 (zwei Nebensprecher), FRANK 10 (Welsh fehlt bei Raute), FRANK 12 (DNB/Audible führen die Liste von FRANK 9, Raute eine abweichende) — betroffene Hauptrollen nicht zugeordnet.
+- **Geändert:** 55 Folgenseiten (nur `sprecher`, Eckdaten-Zeile, `quellen`/Quellenabschnitt), 1 neue Raw-Datei. `app/data/folgen.json`, Figuren-, Serien-, Konzeptseiten, Kanonkarte, `raw/`-Bestand und `changelog.md` unverändert.
+
+## [2026-10-12] ingest | Sprecher SH, DRAC, TES, NEM: Besetzung für 50 Folgenseiten
+- Beleg: [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md). Quellen: Raute Media (volle CD-Listen SH 1–20, TES 1–8), DNB-Download-Datensätze (MARC 700, volle Listen DRAC 1–16), DNB 245 $c, Audible, Hörspieltalk, Fandom-API, Fanseite.
+- **Rollenlisten:** SH 1–2 (Fandom „Dunkle Kräfte“, über die Raute-Listen auf die Teile verteilt), NEM 2–4 (Hörspieltalk; NEM 3 ergänzt um Nemo – Klebsch laut DNB/Audible).
+- **Abgeleitet** nach der OWMH-45–57-Regel (Klappentext/Figurenliste + Stammsprecher Fanseite bzw. Fandom-Rollentabelle + Sprecherliste): SH 3–22, DRAC 1–16, TES 1–8, NEM 1; auf den Seiten gekennzeichnet, volle Namenslisten im Eckdaten-Text. Folgenseiten mit `sprecher`-Namen in den vier Reihen: 4 → 54 (266 neue Einträge).
+- **Offen:** Inspektor Cross in SH 1/2 (Fandom ja, keine Liste), Fanseiten-Figurenliste SH 8 vermutlich kopiert, Rolle von Felix Strüven in DRAC 1, SH-22-Liste bei Hörspieltalk gleich der von SH 21, TES 9 Tesla-Sprecher (DNB Winczewski gegen Vault Turba).
+- **Geändert:** 1 neue Raw-Datei, 50 Folgenseiten (nur `sprecher`, Sprecher-Zeile der Eckdaten, Quellen). `app/data/folgen.json`, `raw/`-Bestand, Schema und `changelog.md` unverändert.
+
+## [2026-10-12] wiki | Sprecher-Konsolidierung: Schreibweisen, 31 Figurenseiten, Kanonkarte, Lint-Nachtrag 6
+- **Schreibweise** „K. Dieter Klebsch“ (DNB/Audible) vereinheitlicht: 25 Stellen „Klaus Dieter Klebsch“/„K.Dieter Klebsch“ in 14 Folgenseiten, dazu 9 Erläuterungsvermerke OWMH angepasst; die Fanseiten-Schreibung „Klaus-Dieter Klebsch“ steht nur noch als Hinweis auf [[wiki/figuren/kapitaen-nemo|Kapitän Nemo]]. Keßler und Braunmiller-Jest waren im Wiki bereits einheitlich.
+- **Figurenseiten:** Stammsprecher auf 27 Seiten neu (`sprecher:` im Frontmatter, Eckdaten-Zeile mit Beleg, Raw-Quellen), Vermerke auf 4 weiteren aktualisiert; Sprecherwechsel [[wiki/figuren/james-moriarty|Moriarty]] (Till Hagen → Andreas Fröhlich ab SHC 55) und [[wiki/figuren/robur|Robur]] (Hartmut Neugebauer → Milton Welsh); [[wiki/figuren/abel-hawthorn|Abel Hawthorn]]: Löwenberg in SHC 26/27 als Inspektor Masterson. Überholte Vorbehalte erledigt (u. a. Wu, Fogg, Poe, Sherlock Holmes, Nemo, Challenger, van Dusen, SHC 45, Konzeptseite SHC).
+- **Folgenseiten:** Professor Challenger – Konstantin Graudus in DNAPF 38–44 abgeleitet nachgetragen (Ableitungsregel erfüllt); FRANK 28 um „Wirt – Tobias Lelle“ ergänzt (Hörspieltalk 31775/32021).
+- **Kanonkarte:** Quellenbewertungen der fünf Teilrecherchen zusammengeführt (je Quelle eine Zeile: Fandom, Audible, DNB-Digitalausgabe, DNB 245 $c, Raute Media, Hörspieltalk, Fanseite; neu Hoerspiel-Freunde, hoernews, LovelyBooks, Rezensionsseiten, YouTube); Merksätze zu Ableitungsregel, DNB-Digital = Audible und DNB 245 $c ergänzt.
+- **Lint:** [[wiki/queries/lint-2026-10-12|Lint 2026-10-12]], Nachtrag 6 — Abdeckung je Reihe (30 → 320 von 320 Folgenseiten, davon 316 mit echtem Namen — OWEP 1–4 nur „unbekannt“; 174 → 2207 Einträge), Quellenlage, acht offene Entscheidungen, weitere offene Punkte. Index aktualisiert.
+- `raw/`, App-Code, `folgen.json`, Schema und `changelog.md` unverändert.

@@ -6,7 +6,11 @@ titel: Blutsfeinde
 erschienen: 2020-12-11
 verlag: Maritim
 autor: "Marc Freund"
-sprecher: []
+sprecher:
+  - rolle: Dracula
+    name: Torsten Michaelis
+  - rolle: Dr. Victor Frankenstein
+    name: Dietmar Wunder
 spielzeit_min: 71
 zirkel: direkt
 crossover_mit:
@@ -19,6 +23,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - dracula
   - zirkel-der-sieben
@@ -36,6 +41,7 @@ tags:
 - **Erscheinungsdatum:** 11.12.2020 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 71 Minuten
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Dracula – Torsten Michaelis, Dr. Victor Frankenstein – Dietmar Wunder. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Torsten Michaelis, Dietmar Wunder, Martin Sabel, Victoria Sturm, Douglas Welbat, Marc Schülert, Arianne Borbach, Liane Rudolph, Jens Wendland, Peter Kirchberger, Marcel Mann, Stefan Krause, Jean Coppong, André Teuber, Lutz Mackensy (DNB, Datensatz der Download-Ausgabe; Audible nennt eine gekürzte Teilmenge).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/dracula/folge02-blutsfeinde/>
 - **YouTube:** <https://www.youtube.com/watch?v=cYSIp4JobSA>
@@ -57,3 +63,4 @@ Die Folge zeigt die Zusammenarbeit zwischen zwei Zirkel-Mitgliedern, Dracula und
 
 - [raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md](../../raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/dracula/folge02-blutsfeinde/>
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).

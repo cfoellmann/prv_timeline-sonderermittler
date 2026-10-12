@@ -7,7 +7,45 @@ erschienen: 2020-02-14
 verlag: Maritim
 autor: "Marc-Oliver Bischoff"
 
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Mister Wu
+    name: Michael Pan
+  - rolle: Mister Killjoy
+    name: Matti Klemm
+  - rolle: Musa Khan
+    name: Gordon Piedesack
+  - rolle: Nikolai Chagayev
+    name: Marcel Collé
+  - rolle: Wilhelm Gödecke
+    name: Torsten Michaelis
+  - rolle: Grigori Jefimowitsch Rasputin
+    name: Tetje Mierendorf
+  - rolle: Funker
+    name: Peter Lontzek
+  - rolle: Lautsprecher
+    name: Peter Weis
+  - rolle: Schaffner
+    name: Eckart Dux
+  - rolle: Passagierin
+    name: Arianne Borbach
+  - rolle: Kellner
+    name: Wolfgang Bahro
+  - rolle: Passagiere
+    name: Patrick Holtheuer
+  - rolle: Passagiere
+    name: Benjamin Oechsle
+  - rolle: Passagiere
+    name: Dagmar Dreke
+  - rolle: Helfer
+    name: Holger Löwenberg
+  - rolle: Butler James
+    name: Peter Kirchberger
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 70
 zirkel: direkt
 crossover_mit: []
@@ -20,6 +58,7 @@ quellen:
   - https://music.apple.com/ch/album/sonderermittlerin-der-krone-folge-4-sankt-petersburg/1473120342
   - https://books.apple.com/dk/audiobook/irene-adler-sonderermittlerin-der-krone-folge-4-sankt/id1482977298?l=da
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - sonderermittler
   - irene-adler
@@ -37,6 +76,7 @@ tags:
 - **Autor:in:** Marc-Oliver Bischoff (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** Marc-Oliver Bischoff.
+- **Sprecher:** Irene Adler – Yvonne Greitzke, Mycroft Holmes – Reent Reins, Mister Wu – Michael Pan, Mister Killjoy – Matti Klemm, Musa Khan – Gordon Piedesack, Nikolai Chagayev – Marcel Collé, Wilhelm Gödecke – Torsten Michaelis, Grigori Jefimowitsch Rasputin – Tetje Mierendorf, Funker – Peter Lontzek, Lautsprecher – Peter Weis, Schaffner – Eckart Dux, Passagierin – Arianne Borbach, Kellner – Wolfgang Bahro, Passagiere – Patrick Holtheuer, Passagiere – Benjamin Oechsle, Passagiere – Dagmar Dreke, Helfer – Holger Löwenberg, Butler James – Peter Kirchberger, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (sherlockholmes.fandom.com/de; für die Nebenrollen Einzelquelle, die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Alle Namen durch Raute Media (CD) und Audible bestätigt (außer der Ansage, Lutz Mackensy). Zusätzlich ohne Rolle in der Raute-Media-Liste: Rüdiger Schulzki.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge04-sankt-petersburg-express/>
 - **Datumsnotiz:** Die lokale Repo-Chronologie nennt derzeit `15.02.2020`; der exakte Store-Beleg weist auf `14.02.2020`.
 
@@ -68,3 +108,4 @@ Ein Teil des Goldschatzes des Zarenhofs soll als Sicherheit für einen Kredit de
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge04-sankt-petersburg-express/>
 - Apple Music: <https://music.apple.com/ch/album/sonderermittlerin-der-krone-folge-4-sankt-petersburg/1473120342>
 - Apple Books: <https://books.apple.com/dk/audiobook/irene-adler-sonderermittlerin-der-krone-folge-4-sankt/id1482977298?l=da>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

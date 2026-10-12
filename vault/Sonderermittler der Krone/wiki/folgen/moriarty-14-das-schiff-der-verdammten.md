@@ -6,7 +6,11 @@ titel: Das Schiff der Verdammten
 erschienen: 2024-07-26
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Nikola Tesla
+    name: Patrick Winczewski
 spielzeit_min: 67
 zirkel: indirekt
 crossover_mit:
@@ -17,6 +21,7 @@ quellen:
   - raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge14-das-schiff-der-verdammten/
   - https://shop.holysoft.de/produkte/moriarty-14-das-schiff-der-verdammten-4646/
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - moriarty
   - maritim
@@ -32,6 +37,7 @@ tags:
 - **Erscheinungsdatum:** 26.07.2024.
 - **Spielzeit:** 67 Minuten.
 - **Verlag:** Maritim.
+- **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich, Nikola Tesla – Patrick Winczewski. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Patrick Winczewski, Marion Gretchen Schmitz, Engelbert von Nordhausen, Wanja Gerick, Joachim Tennstedt, Sebastian Winkler, Reinhard Scheunemann, Julia Casper, Tobias Lelle, Hennes Bender, Marc Schülert, Maria Koschny, Patrick Holtheuer, Jean Coppong, Lutz Mackensy (DNB; identisch bei Raute Media; Audible gekürzt).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge14-das-schiff-der-verdammten/>
 
 ## Hauptfiguren
@@ -59,3 +65,4 @@ Moriarty reist zusammen mit dem Erfinder Nikola Tesla nach Genua, wo sie hoffen,
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](../../raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge14-das-schiff-der-verdammten/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-14-das-schiff-der-verdammten-4646/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

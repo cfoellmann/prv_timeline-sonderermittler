@@ -6,7 +6,39 @@ titel: Die Beale-Papiere
 erschienen: 2021-02-26
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Geoffrey Stafford
+    name: Björn Schalla
+  - rolle: Ernest Filmore
+    name: Uwe Büschken
+  - rolle: Thomas J. Beale
+    name: Peter Kirchberger
+  - rolle: Robert Morris
+    name: Tobias Lelle
+  - rolle: Alberta Morris
+    name: Uschi Hugo
+  - rolle: Thornton Dandridge
+    name: Bodo Wolf
+  - rolle: Polly Danbridge
+    name: Sina Zadra
+  - rolle: Rodney Sherman
+    name: Helmut Gauß
+  - rolle: Mark Braxton
+    name: Sebastian Winkler
+  - rolle: George Ross
+    name: Volker Brandt
+  - rolle: Herbert Bradshaw
+    name: Tom Solo
+  - rolle: Peter Webster
+    name: Tammo Kaulbarsch
+  - rolle: Sargträger
+    name: Patrick Holtheuer
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 68
 zirkel: indirekt
 crossover_mit: []
@@ -16,6 +48,7 @@ quellen:
   - raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge03-die-beale-papiere/
   - https://shop.holysoft.de/produkte/moriarty-3-die-beale-papiere-3039/
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - moriarty
   - maritim
@@ -30,6 +63,7 @@ tags:
 - **Erscheinungsdatum:** 26.02.2021.
 - **Spielzeit:** 68 Minuten.
 - **Verlag:** Maritim.
+- **Sprecher:** James Moriarty – Andreas Fröhlich, Theodora Sachs – Gabrielle Pietermann, Geoffrey Stafford – Björn Schalla, Ernest Filmore – Uwe Büschken, Thomas J. Beale – Peter Kirchberger, Robert Morris – Tobias Lelle, Alberta Morris – Uschi Hugo, Thornton Dandridge – Bodo Wolf, Polly Danbridge – Sina Zadra, Rodney Sherman – Helmut Gauß, Mark Braxton – Sebastian Winkler, George Ross – Volker Brandt, Herbert Bradshaw – Tom Solo, Peter Webster – Tammo Kaulbarsch, Sargträger – Patrick Holtheuer, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (Artikel „Die Beale-Papiere“; für die Rollen Einzelquelle); die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten. Alle Namen zusätzlich durch DNB und Raute Media bestätigt. Schreibweisen Peter Kirchberger (DNB, Audible; Fandom „Kirchärger“, Raute Media „Kircherger“) und Helmut Gauß (Fandom, Raute Media; DNB „Hauß“).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge03-die-beale-papiere/>
 
 ## Hauptfiguren
@@ -56,3 +90,4 @@ Ein geheimnisvoller Fremder hinterlässt einen Koffer in einem kleinen Landhotel
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](../../raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge03-die-beale-papiere/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-3-die-beale-papiere-3039/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

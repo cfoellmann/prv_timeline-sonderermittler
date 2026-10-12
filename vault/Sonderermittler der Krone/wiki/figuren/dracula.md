@@ -1,12 +1,19 @@
 ---
 type: figur
 titel: Dracula
+sprecher: Torsten Michaelis
 fraktion: antagonistisch
 status: entwurf
 quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - zirkel-mitglied
   - antagonist
@@ -21,6 +28,7 @@ tags:
 - **Zentrale Reihe:** [[wiki/serien/dracula|Dracula und der Zirkel der Sieben]].
 - **Rolle im Kosmos:** Anführer des Zirkels, Scharnierfigur zwischen frühen Abenteuerreihen und späteren Krimi- und Horrorlinien.
 - **Erstauftritt im aktuellen Repo-Stand:** [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|DNAPF 12 - Entscheidung in den Karpaten]] am 10.11.2017.
+- **Sprecher:** Torsten Michaelis — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen OWMH 20, 21, 25–27, 31–36, IADK 6–9, 12, 13, 15 und MOR 2 sowie in der Rollenliste FRANK 1; in DRAC 1–16, DNAPF 16, 27, 34 und weiteren Folgen nach der Ableitungsregel. **Offen:** Die Einzelrezension der Poldi-Hörspielseite zu DRAC 1 nennt Felix Strüven als Dracula (Box-Rezension derselben Seite, Traumwelt und Fanseite: Michaelis) — welche Rolle Strüven in DRAC 1 spricht, ist ungeklärt. Michaelis steht außerdem in den Sprecherlisten EAPAD 2, 11, 14–18 und 20–24; als Dracula abgeleitet ist er dort nur in 21, 22 und 24 (Klappentext), ob er in den frühen EAPAD-Folgen eine andere Rolle spricht, ist offen.
 
 ## Auftritte im aktuellen Repo-Stand
 
@@ -96,3 +104,9 @@ Alle 48 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - [raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md](../../raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md)
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md)
 - [raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md](../../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md)
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK und EAPAD: Fandom-Rollentabellen IADK 0–15, Fanseite, Raute Media, Audible (12.10.2026)
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR und FRANK: DNB, Raute Media, Fandom MOR 0–8, Hörspieltalk (12.10.2026)
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA: Verlagsmitteilung zur Stammbesetzung 2015, Rollenlisten, DNB 245 $c (12.10.2026)

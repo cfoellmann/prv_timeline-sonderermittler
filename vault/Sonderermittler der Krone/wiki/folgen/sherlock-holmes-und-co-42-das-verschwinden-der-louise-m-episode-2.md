@@ -6,7 +6,41 @@ titel: Das Verschwinden der Louise M., Episode 2
 erschienen: 2018-11-23
 verlag: Maritim
 autor: Willis Grandt
-sprecher: []
+sprecher:
+  - rolle: Sherlock Holmes
+    name: Charles Rettinghaus
+  - rolle: Dr. John Watson
+    name: Florian Halm
+  - rolle: Geoffrey Copper
+    name: Norman Matt
+  - rolle: Anne Mulligan
+    name: Katja Brügger
+  - rolle: Louise Mulligan
+    name: Christina Ann Zalamea
+  - rolle: Lord Alistair Cromwell
+    name: Kasper Eichel
+  - rolle: Lady Joanna
+    name: Arianne Borbach
+  - rolle: Stuart Douglas
+    name: Michael Pan
+  - rolle: Mr. Hamilton
+    name: Peter Flechtner
+  - rolle: Rodney, die Ratte
+    name: Stefan Krause
+  - rolle: Fiona
+    name: Luisa Wietzorek
+  - rolle: Edmund Foster
+    name: Douglas Welbat
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
+  - rolle: Schuldeneintreiber
+    name: Oliver Stritzel
+  - rolle: Rezeptionist
+    name: Robin Brosch
+  - rolle: Wirt
+    name: Helmut Krauss
+  - rolle: Ansage
+    name: Lutz Mackensy
 zirkel: unklar
 crossover_mit:
   - phileas-fogg
@@ -15,6 +49,7 @@ status: entwurf
 quellen:
   - raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md
   - raw/notes/2026-09-06_shc-ingest_klappentexte-und-kanonpruefung.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - vorgaengerreihe
   - crossover
@@ -30,6 +65,7 @@ tags:
 - **Nummer:** 42 (zweiter Teil, Fortsetzung von Folge 41).
 - **Erscheinungsdatum:** 23.11.2018 — sechs Wochen nach Teil 1.
 - **Autor:** Willis Grandt (DNB).
+- **Sprecher:** Sherlock Holmes – Charles Rettinghaus; Dr. John Watson – Florian Halm; Geoffrey Copper – Norman Matt; Anne Mulligan – Katja Brügger; Louise Mulligan – Christina Ann Zalamea; Lord Alistair Cromwell – Kasper Eichel; Lady Joanna – Arianne Borbach; Stuart Douglas – Michael Pan; Mr. Hamilton – Peter Flechtner; Rodney, die Ratte – Stefan Krause; Fiona – Luisa Wietzorek; Edmund Foster – Douglas Welbat; Phileas Fogg – Sascha Draeger; Schuldeneintreiber – Oliver Stritzel; Rezeptionist – Robin Brosch; Wirt – Helmut Krauss; Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (für die Rollen Einzelquelle; **eine** Tabelle für beide Teile — ob jede Nebenrolle in beiden Teilen auftritt, ist nicht belegt); alle 17 Namen stehen im DNB-Katalogsatz dieser Episode (Digitalausgabe), Sherlock Holmes – Charles Rettinghaus zusätzlich im DNB-Satz der CD. Schreibung nach DNB/Audible: „Christina Ann Zalamea“ (Fandom: „Christina Ann Zalame“). Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Ermittler der Folge:** Sherlock Holmes.
 - **Format:** keine Wiederveröffentlichung in einer Archivlinie.
 
@@ -71,3 +107,4 @@ Merkmal **(B) Kanon-Ereignis** — identisch zu Folge 41, weil der Fogg-Auftritt
 - [raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md](../../raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md)
 - [raw/notes/2026-09-06_shc-ingest_klappentexte-und-kanonpruefung.md](../../raw/notes/2026-09-06_shc-ingest_klappentexte-und-kanonpruefung.md)
 - Händlerlistings mit Klappentext und Sprecherliste: BookBeat, Audiolibrix, HolyShop, allscore, Amazon.
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).

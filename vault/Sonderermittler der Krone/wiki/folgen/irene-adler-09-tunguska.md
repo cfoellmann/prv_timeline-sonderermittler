@@ -7,7 +7,37 @@ erschienen: 2021-04-23
 verlag: Maritim
 autor: "Marc-Oliver Bischoff"
 
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mister Wu
+    name: Michael Pan
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Dracula
+    name: Torsten Michaelis
+  - rolle: Frankenstein
+    name: Dietmar Wunder
+  - rolle: Robur
+    name: Milton Welsh
+  - rolle: Mister Killjoy
+    name: Matti Klemm
+  - rolle: Iordanov
+    name: Kim Hasper
+  - rolle: Tschubak
+    name: Tammo Kaulbarsch
+  - rolle: Baytok
+    name: Werner Wilkening
+  - rolle: Madina
+    name: Deborah Mock
+  - rolle: Whistler
+    name: Dirc Simpson
+  - rolle: Mitschell
+    name: Janis Zaurins
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 71
 zirkel: direkt
 crossover_mit:
@@ -21,6 +51,7 @@ quellen:
   - https://music.apple.com/de/album/sonderermittlerin-der-krone-folge-9-tunguska/1561783767
   - https://books.apple.com/at/audiobook/irene-adler-sonderermittlerin-der-krone-folge-9-tunguska/id1561801805
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - sonderermittler
   - irene-adler
@@ -38,6 +69,7 @@ tags:
 - **Autor:in:** Marc-Oliver Bischoff (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** Marc-Oliver Bischoff.
+- **Sprecher:** Irene Adler – Yvonne Greitzke, Mister Wu – Michael Pan, Mycroft Holmes – Reent Reins, Theodora Sachs – Gabrielle Pietermann, Dracula – Torsten Michaelis, Frankenstein – Dietmar Wunder, Robur – Milton Welsh, Mister Killjoy – Matti Klemm, Iordanov – Kim Hasper, Tschubak – Tammo Kaulbarsch, Baytok – Werner Wilkening, Madina – Deborah Mock, Whistler – Dirc Simpson, Mitschell – Janis Zaurins, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (sherlockholmes.fandom.com/de; für die Nebenrollen Einzelquelle, die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Alle Namen durch Raute Media (CD) und Audible bestätigt.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge09-tunguska/>
 
 ## Hauptfiguren
@@ -68,3 +100,4 @@ Mycroft Holmes entsendet Irene Adler nach Sibirien, wo sie in der Tunguska-Regio
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge09-tunguska/>
 - Apple Music: <https://music.apple.com/de/album/sonderermittlerin-der-krone-folge-9-tunguska/1561783767>
 - Apple Books: <https://books.apple.com/at/audiobook/irene-adler-sonderermittlerin-der-krone-folge-9-tunguska/id1561801805>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

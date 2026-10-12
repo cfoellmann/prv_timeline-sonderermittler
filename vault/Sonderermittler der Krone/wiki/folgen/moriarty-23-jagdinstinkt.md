@@ -6,7 +6,19 @@ titel: Jagdinstinkt
 erschienen: 2026-02-06
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: Nikola Tesla
+    name: Patrick Winczewski
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Mata Hari
+    name: Katja Keßler
 spielzeit_min: 67
 zirkel: direkt
 crossover_mit:
@@ -18,6 +30,7 @@ quellen:
   - raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge23-jagdinstinkt/
   - https://shop.holysoft.de/produkte/moriarty-23-jagdinstinkt-5511/
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - moriarty
   - maritim
@@ -33,6 +46,7 @@ tags:
 - **Erscheinungsdatum:** 06.02.2026.
 - **Spielzeit:** 67 Minuten.
 - **Verlag:** Maritim.
+- **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich, Theodora Sachs – Gabrielle Pietermann, Aleister Crowley – Daniel Zillmann, Nikola Tesla – Patrick Winczewski, Victor Frankenstein – Dietmar Wunder, Mata Hari – Katja Keßler. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Gabrielle Pietermann, Daniel Zillmann, Patrick Winczewski, Dietmar Wunder, Katja Keßler, Mario Klischies, Kaspar Eichel, Jessica Neumann, Erich Räuker, Florian Clyde, Uwe Büschken, Julia Fölster, Ilona Otto, Patrick Holtheuer (DNB; identisch bei Raute Media und Hörspieltalk; Audible gekürzt).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge23-jagdinstinkt/>
 
 ## Hauptfiguren
@@ -64,3 +78,4 @@ Um die zerstörerische Erfindung Dr. Paynes - eine Waffe, die Elektrizität in t
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](../../raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge23-jagdinstinkt/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-23-jagdinstinkt-5511/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

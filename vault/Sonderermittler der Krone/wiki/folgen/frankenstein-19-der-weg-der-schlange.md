@@ -6,7 +6,17 @@ titel: Der Weg der Schlange
 erschienen: 2025-05-23
 verlag: Maritim
 autor: "Silke Walter"
-sprecher: []
+sprecher:
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Robur
+    name: Milton Welsh
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: Mr. Killjoy
+    name: Matti Klemm
 spielzeit_min: 57
 zirkel: direkt
 crossover_mit: []
@@ -18,6 +28,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -36,6 +47,7 @@ tags:
 - **Erscheinungsdatum:** 23.05.2025 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 57 Minuten
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Victor Frankenstein – Dietmar Wunder, Robur – Milton Welsh, Theodora Sachs – Gabrielle Pietermann, Aleister Crowley – Daniel Zillmann, Mr. Killjoy – Matti Klemm. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Dietmar Wunder, Milton Welsh, Gabrielle Pietermann, Daniel Zillmann, Matti Klemm, Sebastian Fitzner, Sönke Städtler, Dirk Hardegen, Katja Brügger, Janis Zaurins, Robert Louis Griesbach, Tim Knauer, Tanya Kahana, Detlef Tams, Marc Schülert, Lutz Mackensy (DNB; identisch bei Raute Media). Audible ohne Lutz Mackensy, Marc Schülert.
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge19-der-weg-der-schlange/>
 
@@ -65,3 +77,4 @@ Die Aufzeichnungen von Bradford Moss bringen Victor Frankenstein, Theodora Sachs
 
 - [raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md](../../raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge19-der-weg-der-schlange/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

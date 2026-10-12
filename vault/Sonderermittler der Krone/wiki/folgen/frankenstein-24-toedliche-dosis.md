@@ -6,7 +6,19 @@ titel: Tödliche Dosis
 erschienen: 2026-03-27
 verlag: Maritim
 autor: "Silke Walter"
-sprecher: []
+sprecher:
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Mata Hari
+    name: Katja Keßler
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Sherlock Holmes
+    name: Charles Rettinghaus
+  - rolle: Dr. John Watson
+    name: Florian Halm
 spielzeit_min: 52
 zirkel: direkt
 crossover_mit:
@@ -18,6 +30,7 @@ quellen:
   - raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/frankenstein/folge24-toedliche-dosis/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -35,6 +48,7 @@ tags:
 - **Erscheinungsdatum:** 27. März 2026
 - **Spielzeit:** 52 Minuten
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Victor Frankenstein – Dietmar Wunder, Theodora Sachs – Gabrielle Pietermann, Mata Hari – Katja Keßler, James Moriarty – Andreas Fröhlich, Sherlock Holmes – Charles Rettinghaus, Dr. John Watson – Florian Halm. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Dietmar Wunder, Gabrielle Pietermann, Katja Keßler, Andreas Fröhlich, Charles Rettinghaus, Florian Halm, Tobias Lelle, Tilmar Kuhn, Kim Hasper, Sönke Städtler, Janis Zaurins, Patrick Holtheuer (DNB; identisch bei Raute Media, Audible und Hörspieltalk).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge24-toedliche-dosis/>
 
@@ -66,3 +80,4 @@ Nach den Ereignissen an Bord des Schiffes ist Frankenstein froh, wieder in seine
 
 - [raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md](../../raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge24-toedliche-dosis/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

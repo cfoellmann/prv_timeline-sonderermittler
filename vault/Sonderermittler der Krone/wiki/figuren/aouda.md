@@ -3,12 +3,14 @@ type: figur
 titel: Aouda
 aliase:
   - Aouda Fogg
+sprecher: Annina Braunmiller-Jest
 fraktion: helden
 status: entwurf
 quellen:
   - raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md
   - raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md
   - raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - heldin
   - phileas-fogg-begleiterin
@@ -24,6 +26,7 @@ tags:
 - **Rolle:** Phileas Foggs Ehefrau und Begleiterin
 - **Fraktion:** Helden
 - **Hauptserie:** [[wiki/serien/phileas-fogg|Jules Verne – Die neuen Abenteuer des Phileas Fogg]]
+- **Sprecherin:** Annina Braunmiller-Jest — laut Verlagsmitteilung zur Stammbesetzung der Fogg-Reihe (2015, „Aouda Fogg“) und den Rollenlisten DNAPF 1, 7, 8. Die DNB schreibt bis DNAPF 8 „Annina Braunmiller“, ab DNAPF 9 „Annina Braunmiller-Jest“ (dieselbe Sprecherin, im Vault einheitlich mit Doppelnamen). Eine Fanseiten-Figurenseite gibt es nicht; die abgeleiteten Einträge in DNAPF 2–50 stützen sich deshalb auf die Verlagsmitteilung statt auf eine Figurenseite — Regel-Ausnahme, Bestätigung offen ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 6]]).
 
 ## Charakterisierung
 
@@ -67,3 +70,4 @@ In späteren Folgen wird Aoudas Vergangenheit zum zentralen Handlungselement, be
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md)
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md)
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md)
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA: Verlagsmitteilung zur Stammbesetzung 2015, Rollenlisten, DNB 245 $c (12.10.2026)

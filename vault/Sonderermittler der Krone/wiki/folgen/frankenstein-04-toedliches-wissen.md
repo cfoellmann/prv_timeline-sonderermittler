@@ -6,7 +6,19 @@ titel: Tödliches Wissen
 erschienen: 2021-06-18
 verlag: Maritim
 autor: "Marc Freund"
-sprecher: []
+sprecher:
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Dracula
+    name: Torsten Michaelis
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
 spielzeit_min: 71
 zirkel: direkt
 crossover_mit:
@@ -19,6 +31,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -36,6 +49,7 @@ tags:
 - **Erscheinungsdatum:** 18.06.2021 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 71 Minuten
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Victor Frankenstein – Dietmar Wunder, Dracula – Torsten Michaelis, Theodora Sachs – Gabrielle Pietermann, Aleister Crowley – Daniel Zillmann, Mycroft Holmes – Reent Reins, Oscar Wilde – Sascha Rotermund. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Dietmar Wunder, Sarah Alles, Sebastian Winkler, Marcel Collé, Felix Strüven, Magdalena Höfner, Udo Schenk, Dagmar Dreke, Tobias Kluckert, Dirc Simpson, Volker Brandt, Peter Kirchberger, Torsten Michaelis, Gabrielle Pietermann, Daniel Zillmann, Reent Reins, Sascha Rotermund, Lutz Mackensy (DNB; identisch bei Raute Media; Audible gekürzt).
 - **Verlag:** Maritim
 - **YouTube:** <https://www.youtube.com/watch?v=e2kNcRHq1gc>
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge04-toedliches-wissen/>
@@ -67,3 +81,4 @@ Victor Frankenstein ist noch immer auf der Jagd nach seiner Kreatur Alessia. Sie
 
 - [raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md](../../raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge04-toedliches-wissen/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

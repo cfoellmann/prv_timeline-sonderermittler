@@ -6,7 +6,17 @@ titel: Aufstieg und Fall
 erschienen: 2026-07-31
 verlag: Maritim
 autor: "Silke Walter"
-sprecher: []
+sprecher:
+  - rolle: Erzähler
+    name: Douglas Welbat
+  - rolle: Edgar Allan Poe
+    name: Uve Teschner
+  - rolle: Auguste Dupin
+    name: Manfred Lehmann
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Sherlock Holmes
+    name: Charles Rettinghaus
 spielzeit_min: 57
 zirkel: indirekt
 crossover_mit:
@@ -19,6 +29,7 @@ quellen:
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - https://www.sonderermittler-der-krone.de/serien/poe-und-dupin/folge36-aufstieg-und-fall/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - poe-und-dupin
   - maritim
@@ -36,6 +47,7 @@ tags:
 - **Spielzeit:** 57 Minuten.
 - **Verlag:** Maritim (Produktion Holysoft).
 - **Autor:in:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Erzähler – Douglas Welbat, Edgar Allan Poe – Uve Teschner, Auguste Dupin – Manfred Lehmann, Irene Adler – Yvonne Greitzke, Sherlock Holmes – Charles Rettinghaus. Erzähler laut Serienseite der Fanseite. *Übrige Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite bzw. im Klappentext, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Douglas Welbat, Uve Teschner, Manfred Lehmann, Markus Pfeiffer, Yvonne Greitzke, Charles Rettinghaus, Gabrielle Pietermann, Tetje Mierendorf, Daniel Zillmann, Stefan Brönneke, Ilona Otto, Uwe Büschken, Florian Clyde, Dirc Simpson (Audible, Liste ggf. gekürzt).
 - **Schauplatz:** Paris und das Dorf Saint Manon.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/poe-und-dupin/folge36-aufstieg-und-fall/>
 
@@ -72,3 +84,4 @@ tags:
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/poe-und-dupin/folge36-aufstieg-und-fall/>
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche-Notiz.
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update (Datum, Spielzeit).
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

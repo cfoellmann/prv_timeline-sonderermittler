@@ -6,7 +6,11 @@ titel: Bilder für die Ewigkeit
 erschienen: 2024-09-20
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Nikola Tesla
+    name: Patrick Winczewski
 spielzeit_min: 72
 zirkel: indirekt
 crossover_mit:
@@ -17,6 +21,7 @@ quellen:
   - raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge15-bilder-fuer-die-ewigkeit/
   - https://shop.holysoft.de/produkte/moriarty-15-bilder-fuer-die-ewigkeit-4705/
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - moriarty
   - maritim
@@ -32,6 +37,7 @@ tags:
 - **Erscheinungsdatum:** 20.09.2024.
 - **Spielzeit:** 72 Minuten.
 - **Verlag:** Maritim.
+- **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich, Nikola Tesla – Patrick Winczewski. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Patrick Winczewski, Marion Gretchen Schmitz, Engelbert von Nordhausen, Wanja Gerick, Joachim Tennstedt, Sebastian Winkler, Reinhard Scheunemann, Julia Casper, Tobias Lelle, Hennes Bender, Maria Koschny, Patrick Holtheuer, Peter Kirchberger, Christin Marquitan, Detlef Tams, Lutz Mackensy (DNB; identisch bei Raute Media; Audible gekürzt).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge15-bilder-fuer-die-ewigkeit/>
 
 ## Hauptfiguren
@@ -59,3 +65,4 @@ Auf dem Schiff der Verdammten im Hafen von Genua kommt es zu gefährlichen Ausei
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](../../raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge15-bilder-fuer-die-ewigkeit/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-15-bilder-fuer-die-ewigkeit-4705/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

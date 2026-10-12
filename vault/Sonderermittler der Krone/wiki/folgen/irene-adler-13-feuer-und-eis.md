@@ -7,7 +7,37 @@ erschienen: 2022-05-06
 verlag: Maritim
 autor: "Marc Freund"
 
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mister Wu
+    name: Michael Pan
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Dracula
+    name: Torsten Michaelis
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: Phillip Callahan
+    name: Alexander Turrek
+  - rolle: James Birdland
+    name: Tim Knauer
+  - rolle: Roger Ellis
+    name: Kaspar Eichel
+  - rolle: Sybil Robin
+    name: Katja Keßler
+  - rolle: Nigel Bray
+    name: Sebastian Fitzner
+  - rolle: Kutscher
+    name: Dirc Simpson
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Schaulustiger
+    name: Jean Coppong
+  - rolle: Passant
+    name: Patrick Holtheuer
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 65
 zirkel: direkt
 crossover_mit: []
@@ -18,6 +48,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge13-feuer-und-eis/
   - https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-13-feuer-und-eis-2587/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - irene-adler
   - maritim
@@ -37,6 +68,7 @@ tags:
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher:** Irene Adler – Yvonne Greitzke, Mister Wu – Michael Pan, Mycroft Holmes – Reent Reins, Dracula – Torsten Michaelis, Aleister Crowley – Daniel Zillmann, Phillip Callahan – Alexander Turrek, James Birdland – Tim Knauer, Roger Ellis – Kaspar Eichel, Sybil Robin – Katja Keßler, Nigel Bray – Sebastian Fitzner, Kutscher – Dirc Simpson, James Moriarty – Andreas Fröhlich, Schaulustiger – Jean Coppong, Passant – Patrick Holtheuer, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (sherlockholmes.fandom.com/de; für die Nebenrollen Einzelquelle, die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Alle Namen durch Raute Media (CD) und Audible bestätigt.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge13-feuer-und-eis/>
 
 ## Hauptfiguren
@@ -67,3 +99,4 @@ Ein mysteriöser Todesfall und eine bis zur Unkenntlichkeit verkohlte Leiche ala
 - [raw/maritim/2026-04-30_irene-adler_folgen-11-bis-21.md](../../raw/maritim/2026-04-30_irene-adler_folgen-11-bis-21.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge13-feuer-und-eis/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-13-feuer-und-eis-2587/>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

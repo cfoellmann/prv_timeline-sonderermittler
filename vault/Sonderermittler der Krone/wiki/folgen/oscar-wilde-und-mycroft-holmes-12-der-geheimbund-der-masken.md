@@ -6,6 +6,31 @@ titel: Der Geheimbund der Masken
 erschienen: 2017-11-24
 verlag: Maritim
 autor: "Jonas Maas"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Philby Merzheimer
+    name: Bodo Wolf
+  - rolle: Zack Borrows
+    name: Achim Schülke
+  - rolle: Lord Gerald Ginsmere
+    name: Jochen Schröder
+  - rolle: Lady Nora Ginsmere
+    name: Rita Engelmann
+  - rolle: Gilbert
+    name: Alexander Turrek
+  - rolle: Edmund
+    name: Mark Bremer
+  - rolle: George Grumby
+    name: Klaus Dittmann
+  - rolle: Eleonor Grumby
+    name: Julia Casper
+  - rolle: Stud Henchley
+    name: Robert Missler
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 70
 zirkel: direkt
 crossover_mit: []
@@ -15,6 +40,7 @@ quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge12-der-geheimbund-der-masken/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - sonderermittler
 ---
@@ -30,6 +56,7 @@ tags:
 - **Erscheinungsjahr (offizielle Seite):** 2017.
 - **Spielzeit:** 70 Minuten.
 - **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Philby Merzheimer – Bodo Wolf, Zack Borrows – Achim Schülke, Lord Gerald Ginsmere – Jochen Schröder, Lady Nora Ginsmere – Rita Engelmann, Gilbert – Alexander Turrek, Edmund – Mark Bremer, George Grumby – Klaus Dittmann, Eleonor Grumby – Julia Casper, Stud Henchley – Robert Missler, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (für die Rollen Einzelquelle; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD, die übrigen Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). 11 der 12 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe, inhaltlich gleich Audible; dort auf 11 Namen gekürzt). Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge12-der-geheimbund-der-masken/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=XA-sYE9QDb4>
@@ -58,6 +85,7 @@ Nach einem erschreckenden Einbruch in ein abgelegenes Haus untersucht Oscar Wild
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge12-der-geheimbund-der-masken/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 
 
 

@@ -1,12 +1,17 @@
 ---
 type: figur
 titel: Mata Hari
+sprecher: Katja Keßler
 fraktion: antagonistisch
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md
   - raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md
   - raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - zirkel-verbuendete
   - antagonist
@@ -22,6 +27,7 @@ tags:
 - **Fraktion:** [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] (Verbündete)
 - **Erstauftritt im Kosmos:** [[wiki/folgen/moriarty-17-dem-tod-entrissen|Moriarty 17 – Dem Tod entrissen]] (31.01.2025) — auf der offiziellen Seite als Figur gelistet
 - **Rolle:** Spionin, Femme Fatale, operative Zirkel-Kraft
+- **Sprecher:** Katja Keßler — Stammsprecherin laut Fanseiten-Figurenseite (dort „Katja Kessler“; Audible, Raute Media und DNB schreiben „Keßler“, im Vault einheitlich so); in MOR, FRANK und IADK nach der Ableitungsregel eingetragen. In MOR 18 steht sie nur bei Raute Media und Hörspieltalk, DNB/Audible führen an derselben Stelle Milton Welsh (offen).
 
 ## Charakterisierung
 
@@ -87,3 +93,7 @@ Mata Hari wird im Maritim-Kosmos als exotische Femme Fatale und geschickte Spion
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](../../raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md)
 - [raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md](../../raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md)
 - [raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md](../../raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md)
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR und FRANK: DNB, Raute Media, Fandom MOR 0–8, Hörspieltalk (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK und EAPAD: Fandom-Rollentabellen IADK 0–15, Fanseite, Raute Media, Audible (12.10.2026)
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)

@@ -6,6 +6,39 @@ titel: Blutzoll
 erschienen: 2019-03-29
 verlag: Maritim
 autor: "Jonas Maas"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Abel Hawthorn
+    name: Jaron Löwenberg
+  - rolle: Bram Stoker
+    name: Hans-Georg Panczak
+  - rolle: Henry Wheeler
+    name: Holger Löwenberg
+  - rolle: Lord Shelby
+    name: Udo Schenk
+  - rolle: Irina Dimitrescu
+    name: Annina Braunmiller-Jest
+  - rolle: Anthony Wade
+    name: Uve Teschner
+  - rolle: Mr. Fuller
+    name: Douglas Welbat
+  - rolle: Dracula
+    name: Torsten Michaelis
+  - rolle: Wächter
+    name: Boris Tessmann
+  - rolle: Wärter
+    name: Andreas Borcherding
+  - rolle: Vampir
+    name: Marius Clarén
+  - rolle: Vampirin
+    name: Arianne Borbach
+  - rolle: Passant
+    name: Patrick Holtheuer
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 68
 zirkel: direkt
 crossover_mit: []
@@ -16,6 +49,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge20-blutzoll/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - sonderermittler
   - zirkel
@@ -32,6 +66,7 @@ tags:
 - **Erscheinungsjahr (offizielle Seite):** 2019.
 - **Spielzeit:** 68 Minuten.
 - **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Abel Hawthorn – Jaron Löwenberg, Bram Stoker – Hans-Georg Panczak, Henry Wheeler – Holger Löwenberg, Lord Shelby – Udo Schenk, Irina Dimitrescu – Annina Braunmiller-Jest, Anthony Wade – Uve Teschner, Mr. Fuller – Douglas Welbat, Dracula – Torsten Michaelis, Wächter – Boris Tessmann, Wärter – Andreas Borcherding, Vampir – Marius Clarén, Vampirin – Arianne Borbach, Passant – Patrick Holtheuer, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (für die Rollen Einzelquelle; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD, die übrigen Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). 11 der 16 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe, inhaltlich gleich Audible; dort auf 11 Namen gekürzt). Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge20-blutzoll/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-20-blutzoll.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-20-blutzoll.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-20.jpg>)*
@@ -62,6 +97,7 @@ Nach seiner Flucht vor dem Tod in Whitby wird Oscar Wilde in London sofort mit e
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge20-blutzoll/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Abel-Hawthorn-Recherche 12.10.2026 (Fanseite-Volltextsuche, Fandom-Besetzung, Audible-Sprecherlisten).
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 
 
 

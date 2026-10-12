@@ -17,6 +17,9 @@ quellen:
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - hauptfigur
   - sonderermittler
@@ -144,12 +147,12 @@ Alle 58 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 
 ## Theorien & offene Fragen
 
-- **Sprecherin nur sekundär belegt:** `Yvonne Greitzke` steht in der Zauberspiegel-Chronologie zu OWMH 16. Eine Primärquelle (Booklet, offizielle Figurenseite) liegt im Repo nicht vor; die Angabe ist entsprechend als vorläufig zu behandeln.
+- **Sprecherin (geklärt 12.10.2026):** Yvonne Greitzke ist nicht mehr nur sekundär (Zauberspiegel-Chronologie zu OWMH 16) belegt, sondern durch die Fanseiten-Figurenseite, die Fandom-Besetzungstabellen OWMH 16, 32–36, SHC 45 und IADK 0–15 sowie alle Sprecherlisten der Reihe. Der frühere Vorbehalt ist erledigt.
 - **Chronologie-Spannung:** In [[wiki/folgen/oscar-wilde-und-mycroft-holmes-58-alleingang|OWMH 58]] (10.07.2026) gilt Adler als verschwunden, während sie in [[wiki/folgen/irene-adler-33-ein-altes-problem|IADK 33]] (12.06.2026) und [[wiki/folgen/irene-adler-34-kuenstlicher-feind|IADK 34]] (07.08.2026) parallel am Eva-Strang arbeitet — und Wilde in IADK 33 sogar mitgelistet ist. Dass die beiden Stränge ineinandergreifen, ist die naheliegende Lesart, **aber nicht belegt**.
 - **Eva und Frankenstein:** [[wiki/konzepte/menorium|Menorium]] wurde bereits in [[wiki/folgen/frankenstein-11-gefangene-der-finsternis|FRANK 11]] als Grundstoff für Frankensteins künstliche Menschen eingeführt — in derselben Folge, in der Adler und Wu erstmals im Frankenstein-Zweig auftreten. Ein Zusammenhang zwischen Eva und Frankensteins Programm liegt nahe, ist aber **Lesart, nicht belegt**. Woher Eva stammt und warum IADK 33 sie als „altes Problem" behandelt, ist im Repo nicht identifiziert.
 - **Verhältnis zur literarischen Vorlage offen:** Weder die Anbindung an Doyles Irene Adler noch etwaige Pseudonyme oder Beinamen sind im Repo belegt; das `aliase`-Feld bleibt deshalb leer.
 - **Folge 12 als Bruchstelle:** Was aus ihrer Kündigung bei Mycroft folgt und wie das Verhältnis wiederhergestellt wird, ist bewusst nicht recherchiert (Spoiler-Stufe „grob"). Offene Frage für den Hördurchgang.
-- **Quellenlücken:** Autor:innen sind für die Folgen ab `11` nicht belastbar nachgezogen, Sprecherlisten fehlen fast durchgehend. Die offizielle Folgen-Seite von OWIA 3 wiederholt zudem offenbar den Klappentext von OWIA 2 — Adlers Rolle in dieser Folge bleibt darum unscharf.
+- **Quellenlücken:** Autor:innen sind für die Folgen ab `11` nicht belastbar nachgezogen, Sprecherlisten liegen seit dem 12.10.2026 für alle IADK-Folgen vor (Fandom IADK 0–15, Raute Media, Audible). Die offizielle Folgen-Seite von OWIA 3 wiederholt zudem offenbar den Klappentext von OWIA 2 — Adlers Rolle in dieser Folge bleibt darum unscharf.
 - **Nur gelistet, nicht erschlossen:** Für SH 6, SH 8, SH 12, TESLA 2, WMU 2 sowie EAPAD 25 und 26 ist ihre Präsenz auf offizieller Figurenebene belegt, eine konkrete Rolle im jeweiligen Fall aber nicht.
 
 ## Quellen
@@ -164,3 +167,6 @@ Alle 58 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche zu IADK 33/34, EAPAD 36 und OWMH 57/58.
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Debüt in OWMH 16, Sprecherinnen-Angabe, Erstzusammenarbeiten zu IADK 6.
 - [raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md](../../raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md) — SHC 45 als Grundstein der Eigenreihe.
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK und EAPAD: Fandom-Rollentabellen IADK 0–15, Fanseite, Raute Media, Audible (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)

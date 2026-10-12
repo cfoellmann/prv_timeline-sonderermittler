@@ -4,12 +4,15 @@ titel: Inspector Cross
 aliase:
   - Inspektor Cross
   - Cross
+sprecher: Rainer Fritzsche
 status: entwurf
 zirkel: unklar
 quellen:
   - raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md
   - raw/notes/2026-09-06_shc-ingest_klappentexte-und-kanonpruefung.md
   - raw/notes/2026-09-06_neue-folgen-scout_september-2026.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - nebenfigur
   - scotland-yard
@@ -20,6 +23,10 @@ tags:
 # Inspector Cross
 
 > Inspektor bei Scotland Yard: im Scotland-Yard-Strang der Vorgängerreihe [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes & Co.]] Vorgesetzter [[wiki/figuren/geoffrey-stafford|Geoffrey Staffords]], in der Reihe [[wiki/serien/sherlock-holmes|Sherlock Holmes – Sonderermittler der Krone]] derjenige, der Holmes und Watson Fälle zuträgt.
+
+## Eckdaten
+
+- **Sprecher:** Rainer Fritzsche — rollengenau in den Fandom-Besetzungstabellen SHC 48, 53 und SH 1/2 („Dunkle Kräfte“, „Inspektor Cross“); in SH 13 und 21 nach der Ableitungsregel eingetragen. **Offen:** In SH 1/2 steht Fritzsche in keiner Sprecherliste (Raute Media, Audible), die Rolle ist dort deshalb nicht eingetragen.
 
 ## Namensformen
 
@@ -61,3 +68,5 @@ Die SHC-Klappentexte und die DNB-Besetzungen schreiben **„Inspektor Cross“**
 - [raw/notes/2026-09-06_shc-ingest_klappentexte-und-kanonpruefung.md](../../raw/notes/2026-09-06_shc-ingest_klappentexte-und-kanonpruefung.md) — Klappentexte SHC 58, 64, 68, 76, 84, 88.
 - [raw/notes/2026-09-06_neue-folgen-scout_september-2026.md](../../raw/notes/2026-09-06_neue-folgen-scout_september-2026.md) — Sprecherliste SH 24.
 - Folgenseiten SH 13 und SH 21 im Vault (Klappentext der offiziellen Folgenseiten).
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)

@@ -7,7 +7,17 @@ erschienen: 2023-06-23
 verlag: Maritim
 autor: "Silke Walter"
 
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Mister Wu
+    name: Michael Pan
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
 spielzeit_min: 55
 zirkel: direkt
 crossover_mit: []
@@ -18,6 +28,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge17-menschen-der-erde/
   - https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-17-menschen-der-erde-4219/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - irene-adler
   - maritim
@@ -37,6 +48,7 @@ tags:
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Irene Adler – Yvonne Greitzke, Mycroft Holmes – Reent Reins, Mister Wu – Michael Pan, Aleister Crowley – Daniel Zillmann, Theodora Sachs – Gabrielle Pietermann. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Yvonne Greitzke, Reent Reins, Michael Pan, Gabrielle Pietermann, Daniel Zillmann, Uwe Büschken, Christian Dabeler, Thomas Schmuckert, Mario Klischies, Uschi Hugo, Erich Räuker, Jean Coppong, Peter Weis, Lutz Mackensy (Raute Media, CD; Audible).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge17-menschen-der-erde/>
 
 ## Hauptfiguren
@@ -66,3 +78,4 @@ Professor Nevio Zelado bittet Mycroft Holmes um Hilfe, nachdem mehrere Einbrüch
 - [raw/maritim/2026-04-30_irene-adler_folgen-11-bis-21.md](../../raw/maritim/2026-04-30_irene-adler_folgen-11-bis-21.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge17-menschen-der-erde/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-17-menschen-der-erde-4219/>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

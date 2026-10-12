@@ -6,6 +6,15 @@ titel: Der schwarze Spiegel
 erschienen: 2025-09-05
 verlag: Maritim
 autor: "Marc Freund"
+sprecher:
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Sherlock Holmes
+    name: Charles Rettinghaus
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
 spielzeit_min: 62
 zirkel: direkt
 crossover_mit:
@@ -20,6 +29,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - frankreich
   - isais
@@ -36,6 +46,7 @@ tags:
 - **Erscheinungsdatum:** 05.09.2025 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 62 Minuten.
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Phileas Fogg – Sascha Draeger, Oscar Wilde – Sascha Rotermund, Sherlock Holmes – Charles Rettinghaus, Irene Adler – Yvonne Greitzke. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Charles Rettinghaus, Sascha Rotermund, Yvonne Greitzke, Sebastian Winkler, Maria Koschny, Stefan Brönneke, Oliver Stritzel, Dirc Simpson, Patrick Holtheuer (DNB-Katalog der Digitalausgabe, Audible, Hörspieltalk-Thread 28340).
 - **Verlag:** Maritim.
 
 ## Hauptfiguren
@@ -55,3 +66,4 @@ Eine rätselhafte Karte führt Phileas Fogg und seine Freunde nach Frankreich, w
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge47-der-schwarze-spiegel/>
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

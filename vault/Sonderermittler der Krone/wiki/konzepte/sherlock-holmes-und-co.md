@@ -155,7 +155,7 @@ Rollenaufgelöst aus den Besetzungstabellen der Fandom-Einzelartikel, gegengepr�
 | Inspektor Lestrade | Andreas Conrad | 9, 22 |
 | Mrs. Hudson | Sylvie Nogler, Petra Mott | 3, 9, 15, 22 |
 
-Damit sind zwei bisher offene Vault-Fragen belegt: **Wu = Michael Pan** (bisher nur aus einer Audible-Sammelliste ohne Rollen-Mapping abgeleitet, siehe [[wiki/figuren/wu|Wu]]) und **Mycroft = Reent Reins** (bisher nur aus einem Fandom-Serienauszug, siehe [[wiki/figuren/mycroft-holmes|Mycroft Holmes]]). Beide stehen jetzt in einer rollenaufgelösten Besetzungstabelle.
+Damit sind zwei bisher offene Vault-Fragen belegt: **Wu = Michael Pan** (bisher nur aus einer Audible-Sammelliste ohne Rollen-Mapping abgeleitet, siehe [[wiki/figuren/wu|Erstauftritt Mister Wu (Sprecher Michael Pan, seit 12.10.2026 rollengenau belegt, s. [[wiki/figuren/wu|Wu]]) und **Mycroft = Reent Reins** (bisher nur aus einem Fandom-Serienauszug, siehe [[wiki/figuren/mycroft-holmes|Mycroft Holmes]]). Beide stehen jetzt in einer rollenaufgelösten Besetzungstabelle.
 
 Für die Re-Release-Fassungen ist damit auch die Sprecherfrage entschieden: Charles Rettinghaus spricht Holmes **bereits im SHC-Original**, die „Aus den Archiven"-Fassungen wurden also nicht neu vertont. Die frühere Vermutung, es könne sich um eine Neuvertonung handeln, ist ausgeräumt.
 
@@ -169,7 +169,7 @@ Für die Re-Release-Fassungen ist damit auch die Sprecherfrage entschieden: Char
 | [[wiki/folgen/sherlock-holmes-und-co-27-der-schrei-der-banshee-episode-2\|27 „Der Schrei der Banshee, Episode 2"]] | 02.09.2016 | Zweiter Teil; Re-Release als Archiv-SH 7 |
 | [[wiki/folgen/sherlock-holmes-und-co-41-das-verschwinden-der-louise-m-episode-1\|41 „Das Verschwinden der Louise M., Episode 1"]] | 12.10.2018 | Auftritt [[wiki/figuren/phileas-fogg\|Phileas Fogg]] (Sprecher Sascha Draeger, rollenaufgelöst nur einfach belegt) |
 | [[wiki/folgen/sherlock-holmes-und-co-42-das-verschwinden-der-louise-m-episode-2\|42 „Das Verschwinden der Louise M., Episode 2"]] | 23.11.2018 | zweiter Teil; DNB führt Draeger auch hier |
-| [[wiki/folgen/sherlock-holmes-und-co-45-hinter-den-kulissen\|45 „Hinter den Kulissen"]] | 07.06.2019 | Erstauftritt Mister Wu (Sprecher unbelegt, s. [[wiki/figuren/wu\|Wu]]); legt Grundstein für IADK |
+| [[wiki/folgen/sherlock-holmes-und-co-45-hinter-den-kulissen\|45 „Hinter den Kulissen"]] | 07.06.2019 | Erstauftritt Mister Wu (Sprecher Michael Pan, seit 12.10.2026 rollengenau belegt, s. [[wiki/figuren/wu\|Wu]]); legt Grundstein für IADK |
 | [[wiki/folgen/sherlock-holmes-und-co-48-das-ende-des-inspektors\|48 „Das Ende des Inspektors"]] | 11.10.2019 | Erstauftritt Geoffrey Stafford; Inspektor Lestrade vom Zirkel ermordet |
 | [[wiki/folgen/sherlock-holmes-und-co-53-die-rueckkehr-der-angst\|53 „Die Rückkehr der Angst"]] | 03.07.2020 | Gegner mit Vorgeschichte „in Frankreich" — laut Löchel-Chronologie Dracula als „Sapriel" in London; der Klappentext selbst nennt beide Namen nicht (siehe offene Fragen) |
 | [[wiki/folgen/sherlock-holmes-und-co-58-unheilvolle-beute\|58 „Unheilvolle Beute"]] | 29.01.2021 | **Klappentext nennt den Zirkel der Sieben wörtlich**: Fracht im überfallenen Zug; Mycroft als Staffords Informant |

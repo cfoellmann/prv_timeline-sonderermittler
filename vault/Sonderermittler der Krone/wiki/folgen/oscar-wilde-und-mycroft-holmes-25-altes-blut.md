@@ -6,6 +6,39 @@ titel: Altes Blut
 erschienen: 2020-01-31
 verlag: Maritim
 autor: "Jonas Maas"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Abel Hawthorne
+    name: Jaron Löwenberg
+  - rolle: Dracula
+    name: Torsten Michaelis
+  - rolle: Bram Stoker
+    name: Hans-Georg Panczak
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Sir Kililan Goodall
+    name: Matti Klemm
+  - rolle: Virgina Goodall
+    name: Manja Doering
+  - rolle: Julian Pierce
+    name: Stefan Krause
+  - rolle: Zirkelagent
+    name: Patrick Holtheuer
+  - rolle: Hotelangestellter
+    name: Bodo Wolf
+  - rolle: Anwar
+    name: Alexander Turrek
+  - rolle: Alter Mann in Kairo
+    name: Eckart Dux
+  - rolle: Diebe
+    name: Benjamin Oechsle
+  - rolle: Diebe
+    name: Martin Sabel
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 73
 zirkel: direkt
 crossover_mit: []
@@ -16,6 +49,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge25-altes-blut/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - sonderermittler
   - zirkel
@@ -32,6 +66,7 @@ tags:
 - **Erscheinungsjahr (offizielle Seite):** 2020.
 - **Spielzeit:** 73 Minuten.
 - **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Abel Hawthorne – Jaron Löwenberg, Dracula – Torsten Michaelis, Bram Stoker – Hans-Georg Panczak, Theodora Sachs – Gabrielle Pietermann, Sir Kililan Goodall – Matti Klemm, Virgina Goodall – Manja Doering, Julian Pierce – Stefan Krause, Zirkelagent – Patrick Holtheuer, Hotelangestellter – Bodo Wolf, Anwar – Alexander Turrek, Alter Mann in Kairo – Eckart Dux, Diebe – Benjamin Oechsle, Diebe – Martin Sabel, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (für die Rollen Einzelquelle; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD, die übrigen Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Alle 16 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe, inhaltlich gleich Audible). DNB/Audible schreiben abweichend „Gabriele Pietermann“, „Hans-Georg Panzcak“; übernommen ist die Schreibung von Fandom und Vault. Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge25-altes-blut/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-25-altes-blut.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-25-altes-blut.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-25.jpg>)*
@@ -62,6 +97,7 @@ Ein Anschlag auf den Suezkanal kann in letzter Sekunde verhindert werden, doch u
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge25-altes-blut/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Abel-Hawthorn-Recherche 12.10.2026 (Fanseite-Volltextsuche, Fandom-Besetzung, Audible-Sprecherlisten).
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 
 
 

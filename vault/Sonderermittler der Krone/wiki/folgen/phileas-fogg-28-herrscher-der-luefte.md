@@ -6,6 +6,13 @@ titel: Herrscher der Lüfte
 erschienen: 2021-07-02
 verlag: Maritim
 autor: "Marc Freund"
+sprecher:
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
+  - rolle: Aouda
+    name: Annina Braunmiller-Jest
+  - rolle: Passepartout
+    name: Marius Clarén
 spielzeit_min: 67
 zirkel: kein
 crossover_mit: []
@@ -17,6 +24,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - atlantik
   - luftfahrt
@@ -33,6 +41,7 @@ tags:
 - **Erscheinungsdatum:** 02.07.2021 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 67 Minuten.
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Passepartout – Marius Clarén. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Dietmar Wunder, Matti Klemm, Peter Lontzek, Hans-Jürgen Dittberner, Luisa Wietzorek, Douglas Welbat, Wolfgang Bahro, Rainer Fritzsche, Michael Pan (DNB-Katalog der Digitalausgabe, Audible).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge28-herrscher-der-luefte/>
 
@@ -57,3 +66,4 @@ Die Foggs und Passepartout befinden sich mit dem Schiff `Medusa` auf dem Rückwe
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge28-herrscher-der-luefte/>
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

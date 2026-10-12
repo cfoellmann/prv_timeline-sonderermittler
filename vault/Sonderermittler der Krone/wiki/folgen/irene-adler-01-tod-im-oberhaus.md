@@ -7,7 +7,39 @@ erschienen: 2019-06-14
 verlag: Maritim
 autor: "Marc-Oliver Bischoff"
 
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Mister Wu
+    name: Michael Pan
+  - rolle: Sherlock Holmes
+    name: Charles Rettinghaus
+  - rolle: Dr. Watson
+    name: Florian Halm
+  - rolle: Cora Spencer
+    name: Andrea Aust
+  - rolle: Maddie
+    name: Florentine Draeger
+  - rolle: Sir John Conroy
+    name: Rüdiger Schulzki
+  - rolle: Sebastian Conroy
+    name: Timo Kinzel
+  - rolle: Mister Killjoy
+    name: Matti Klemm
+  - rolle: Inspektor McMullan
+    name: Thomas Nero Wolff
+  - rolle: Tom Rattle
+    name: Tom Raczko
+  - rolle: Winston
+    name: Peter Kirchberger
+  - rolle: Geoffrey
+    name: Hans-Jürgen Dittberner
+  - rolle: Hauswirtin
+    name: Elga Schütz
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 69
 zirkel: indirekt
 crossover_mit: []
@@ -20,6 +52,7 @@ quellen:
   - https://music.apple.com/at/album/sonderermittlerin-der-krone-folge-1-tod-im-oberhaus/1464160856
   - https://books.apple.com/at/audiobook/irene-adler-sonderermittlerin-der-krone-folge-1-tod/id1482995317
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - sonderermittler
   - irene-adler
@@ -36,6 +69,7 @@ tags:
 - **Autor:in:** Marc-Oliver Bischoff (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** Arthur Conan Doyle; Marc-Oliver Bischoff.
+- **Sprecher:** Irene Adler – Yvonne Greitzke, Mycroft Holmes – Reent Reins, Mister Wu – Michael Pan, Sherlock Holmes – Charles Rettinghaus, Dr. Watson – Florian Halm, Cora Spencer – Andrea Aust, Maddie – Florentine Draeger, Sir John Conroy – Rüdiger Schulzki, Sebastian Conroy – Timo Kinzel, Mister Killjoy – Matti Klemm, Inspektor McMullan – Thomas Nero Wolff, Tom Rattle – Tom Raczko, Winston – Peter Kirchberger, Geoffrey – Hans-Jürgen Dittberner, Hauswirtin – Elga Schütz, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (sherlockholmes.fandom.com/de; für die Nebenrollen Einzelquelle, die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Alle Namen durch Raute Media (CD) und Audible bestätigt (außer der Ansage, Lutz Mackensy).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge01-tod-im-oberhaus/>
 - **Datumsnotiz:** Die lokale Repo-Chronologie nennt derzeit `28.06.2019`; für diese Seite wird wegen des exakten Apple-Belegs `14.06.2019` verwendet.
 
@@ -69,3 +103,4 @@ Lord Blackfield, ein prominenter Kritiker der Bank of England, wird auf seinem A
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge01-tod-im-oberhaus/>
 - Apple Music: <https://music.apple.com/at/album/sonderermittlerin-der-krone-folge-1-tod-im-oberhaus/1464160856>
 - Apple Books: <https://books.apple.com/at/audiobook/irene-adler-sonderermittlerin-der-krone-folge-1-tod/id1482995317>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

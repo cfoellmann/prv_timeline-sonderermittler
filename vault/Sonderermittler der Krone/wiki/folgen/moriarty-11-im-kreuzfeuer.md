@@ -6,7 +6,9 @@ titel: Im Kreuzfeuer
 erschienen: 2023-11-10
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
 spielzeit_min: 64
 zirkel: indirekt
 crossover_mit: []
@@ -16,6 +18,7 @@ quellen:
   - raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge11-im-kreuzfeuer/
   - https://shop.holysoft.de/produkte/moriarty-11-im-kreuzfeuer-4407/
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - moriarty
   - maritim
@@ -30,6 +33,7 @@ tags:
 - **Erscheinungsdatum:** 10.11.2023.
 - **Spielzeit:** 64 Minuten.
 - **Verlag:** Maritim.
+- **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Martin Keßler, Engelbert von Nordhausen, Maria Koschny, Friedel Morgenstern, Tilmar Kuhn, Jörg Pintsch, Marcel Mann, Brian Sommer, Kaspar Eichel, Robert Louis Griesbach, Mario Klischies, Christin Marquitan, Reinhard Scheunemann, Lutz Mackensy (DNB; identisch bei Raute Media; Audible gekürzt).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge11-im-kreuzfeuer/>
 
 ## Hauptfiguren
@@ -55,3 +59,4 @@ James Moriarty ist zwischen die Fronten einer erbitterten Familienfehde geraten.
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](../../raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge11-im-kreuzfeuer/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-11-im-kreuzfeuer-4407/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

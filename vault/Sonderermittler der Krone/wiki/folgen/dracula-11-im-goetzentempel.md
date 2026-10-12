@@ -6,7 +6,11 @@ titel: Im Götzentempel
 erschienen: 2023-11-17
 verlag: Maritim
 autor: "Marc Freund"
-sprecher: []
+sprecher:
+  - rolle: Dracula
+    name: Torsten Michaelis
+  - rolle: Bastien Lavache
+    name: Peter Lontzek
 spielzeit_min: 57
 zirkel: direkt
 crossover_mit: []
@@ -18,6 +22,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - dracula
   - zirkel-der-sieben
@@ -35,6 +40,7 @@ tags:
 - **Erscheinungsdatum:** 17.11.2023 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 57 Minuten
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Dracula – Torsten Michaelis, Bastien Lavache – Peter Lontzek. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Torsten Michaelis, Gabrielle Pietermann, Peter Lontzek, Douglas Welbat, Victoria Sturm, Martin Sabel, Hans-Georg Panczak, Robert Louis Griesbach, Friedel Morgenstern, Peter Sura, Engelbert von Nordhausen, Brian Sommer, Erich Räuker, Lutz Mackensy (DNB, Datensatz der Download-Ausgabe; Audible nennt eine gekürzte Teilmenge).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/dracula/folge11-im-goetzentempel/>
 
@@ -55,3 +61,4 @@ Der Schlangentempel und das Wesen "der weiße Wurm" erweitern die Mythologie des
 
 - [raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md](../../raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/dracula/folge11-im-goetzentempel/>
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).

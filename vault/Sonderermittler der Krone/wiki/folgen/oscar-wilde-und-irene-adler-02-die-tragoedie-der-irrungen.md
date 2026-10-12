@@ -6,7 +6,17 @@ titel: Die Tragödie der Irrungen
 erschienen: 2024-11-01
 verlag: Blitz Verlag
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Rasputin
+    name: Tetje Mierendorf
 spielzeit_min: 54
 zirkel: direkt
 crossover_mit:
@@ -17,6 +27,7 @@ status: entwurf
 quellen:
   - raw/maritim/2026-04-29_wilde-und-adler_folgen-01-bis-04.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-adler/folge02-die-tragoedie-der-irrungen/
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - sonderermittler
   - blitz
@@ -33,6 +44,7 @@ tags:
 - **Spielzeit:** 54 Minuten.
 - **Verlag:** Blitz Verlag.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Oscar Wilde – Sascha Rotermund, Irene Adler – Yvonne Greitzke, Aleister Crowley – Daniel Zillmann, Theodora Sachs – Gabrielle Pietermann, Rasputin – Tetje Mierendorf. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Sprecherliste der Folge (Audible): Sascha Rotermund, Yvonne Greitzke (beide nur im Autorenfeld), Gabrielle Pietermann, Tetje Mierendorf, Daniel Zillmann, Manuel Straube, Lutz Mackensy. Gesamtliste der CD-Box 1–4 ohne Rollen: Yvonne Greitzke, Sascha Rotermund, Gabrielle Pietermann, Tetje Mierendorf, Daniel Zillmann, Matti Klemm, Gosta Liptow, Stephan Chrzescinski, Tanja Fornaro, Detlef Tams, Lutz Riedel, Peter Weis, Jessica Neumann, Reinhard Scheunemann, Janis Zaurins, Sönke Städtler, Manuel Straube, Katja Brügger, Dirk Hardegen, Peter Kirchberger, Brian Sommer, Sina Zadra, Tanya Kahana, Marc Schülert, Lutz Mackensy u. v. a. (Hörspieltalk-Threads 25728–25731, Raute Media).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-adler/folge02-die-tragoedie-der-irrungen/>
 
 ## Hauptfiguren
@@ -61,3 +73,4 @@ Wilde und Adler erfahren, dass William Shakespeare möglicherweise eine unbekann
 
 - [raw/maritim/2026-04-29_wilde-und-adler_folgen-01-bis-04.md](../../raw/maritim/2026-04-29_wilde-und-adler_folgen-01-bis-04.md) — paraphrasierte Arbeitsnotiz aus den offiziellen Serien- und Folgen-Seiten.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-adler/folge02-die-tragoedie-der-irrungen/>
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

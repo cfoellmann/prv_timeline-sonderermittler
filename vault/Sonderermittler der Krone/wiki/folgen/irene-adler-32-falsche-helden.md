@@ -6,7 +6,19 @@ titel: Falsche Helden
 erschienen: 2026-04-24
 verlag: Maritim
 autor: "Silke Walter"
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mister Wu
+    name: Michael Pan
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mata Hari
+    name: Katja Keßler
+  - rolle: Nikola Tesla
+    name: Patrick Winczewski
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
 spielzeit_min: 55
 zirkel: direkt
 crossover_mit:
@@ -19,6 +31,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge32-falsche-helden/
   - https://shop.holysoft.de/releases/text/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - sonderermittler
   - maritim
@@ -37,6 +50,7 @@ tags:
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Irene Adler – Yvonne Greitzke, Mister Wu – Michael Pan, Oscar Wilde – Sascha Rotermund, Mata Hari – Katja Keßler, Nikola Tesla – Patrick Winczewski, Theodora Sachs – Gabrielle Pietermann. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Yvonne Greitzke, Michael Pan, Sascha Rotermund, Manuel Straube, Katja Keßler, Patrick Winczewski, Gabrielle Pietermann, Uwe Büschken, Janis Zaurins (Raute Media, CD; Audible).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge32-falsche-helden/>
 - **Datumsbeleg:** offizielle Folgenseite; HolyShop-Releaseliste bestätigt den Termin.
 
@@ -68,3 +82,4 @@ Irene Adler und Wu erkennen, dass sie sich aus eigener Kraft nicht aus dem Moor 
 - [raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md](../../raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge32-falsche-helden/>
 - HolyShop-Releaseliste (Datumsbeleg): <https://shop.holysoft.de/releases/text/>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

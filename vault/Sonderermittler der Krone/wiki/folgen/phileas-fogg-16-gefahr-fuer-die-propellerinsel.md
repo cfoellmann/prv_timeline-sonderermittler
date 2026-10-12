@@ -6,6 +6,13 @@ titel: Gefahr für die Propellerinsel
 erschienen: 2018-10-12
 verlag: Maritim
 autor: "Marc Freund"
+sprecher:
+  - rolle: Erzähler (Jules Verne)
+    name: Christian Brückner
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
+  - rolle: Dracula
+    name: Torsten Michaelis
 spielzeit_min: 72
 zirkel: direkt
 crossover_mit:
@@ -18,6 +25,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - propellerinsel
   - dracula
@@ -34,6 +42,7 @@ tags:
 - **Erscheinungsdatum:** 12.10.2018 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 72 Minuten.
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Dracula – Torsten Michaelis. *Erzähler (Jules Verne) laut DNB-Katalogeintrag der CD (Titelangabe, IDN 116608082X), keine weitere Rollenliste.* *Übrige Rollen abgeleitet:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Torsten Michaelis, Martin Sabel, Robert Missler, Achim Schülke, Tommi Piper, Mia Diekow, Markus Pfeiffer, Alexandra Lange, Jürgen Thormann, Detlef Tams, K. Dieter Klebsch (DNB-Katalog der Digitalausgabe, Audible).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge16-gefahr-fuer-die-propellerinsel/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=Az3bOpGZ4mM>
@@ -61,3 +70,4 @@ Ein schwerer Sturm und ein Sabotageakt zerbrechen die Insel der Milliardäre in 
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge16-gefahr-fuer-die-propellerinsel/>
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

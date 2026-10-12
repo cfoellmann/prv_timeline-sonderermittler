@@ -8,7 +8,7 @@ verlag: Blitz Verlag
 autor: Marc Freund
 sprecher:
   - rolle: Kapitän Nemo
-    name: Klaus Dieter Klebsch
+    name: K. Dieter Klebsch
   - rolle: Kapitän Nemo (jung)
     name: Peter Sura
   - rolle: Oscar Wilde
@@ -53,7 +53,7 @@ tags:
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/kapitaen-nemo/folge05-kopfgeld/> — gelistete Figuren: Nemo, Oscar Wilde.
 - **Verlag:** Blitz Verlag (Reihenzuordnung im Vault; Deezer und der Verlagsbeitrag nennen Blitz, Apple Music den Distributor All Ears GmbH, wie schon bei Folge 4).
 - **Autor:** Marc Freund — Angabe der Hörspieltalk-Ankündigung, deckt sich mit der Handelszuschreibung bei [[wiki/folgen/kapitaen-nemo-04-die-ueberlebenden-der-erebus|NEM 4]].
-- **Sprecher (Ankündigung, Auswahl):** Klaus Dieter Klebsch (Nemo), Peter Sura (Nemo, jung), Sascha Rotermund (Oscar Wilde), Mathias Renneisen, Felix Strüven, Sarah Alles, Manuel Straube, Till Hagen; dazu Tobias Schmitz, Jean Coppong und Janis Zaurins in kleinen Rollen.
+- **Sprecher (Ankündigung, Auswahl):** K. Dieter Klebsch (Nemo), Peter Sura (Nemo, jung), Sascha Rotermund (Oscar Wilde), Mathias Renneisen, Felix Strüven, Sarah Alles, Manuel Straube, Till Hagen; dazu Tobias Schmitz, Jean Coppong und Janis Zaurins in kleinen Rollen.
 - **Schauplatz:** verschiedene Häfen, dann New York City.
 
 ## Hauptfiguren

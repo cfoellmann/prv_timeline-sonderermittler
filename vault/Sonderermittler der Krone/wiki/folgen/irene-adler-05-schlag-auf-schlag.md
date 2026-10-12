@@ -7,7 +7,41 @@ erschienen: 2020-08-28
 verlag: Maritim
 autor: "Marc-Oliver Bischoff"
 
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Mister Wu
+    name: Michael Pan
+  - rolle: Cora Spencer
+    name: Andrea Aust
+  - rolle: Eva
+    name: Magdalena Höfner
+  - rolle: Adam Bergman
+    name: Tammo Kaulbarsch
+  - rolle: Inspektor McMullan
+    name: Thomas Nero Wolff
+  - rolle: Danny Doyle
+    name: Sebastian Fitzner
+  - rolle: Amanda Doyle
+    name: Dorothea Lott
+  - rolle: Rupert Pearson
+    name: André Beyer
+  - rolle: Guiseppe Pagani
+    name: Volker Brandt
+  - rolle: George Turner
+    name: Dirc Simpson
+  - rolle: Johnny Briggs
+    name: Felix Strüven
+  - rolle: Montgomery Harding
+    name: Detlef Tams
+  - rolle: Rosie
+    name: Sina Zadra
+  - rolle: Barnes
+    name: Alexander Turrek
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 67
 zirkel: indirekt
 crossover_mit: []
@@ -18,6 +52,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge05-schlag-auf-schlag/
   - https://books.apple.com/de/audiobook/irene-adler-sonderermittlerin-der-krone-folge-5-schlag/id1525905418
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - sonderermittler
   - irene-adler
@@ -34,6 +69,7 @@ tags:
 - **Autor:in:** Marc-Oliver Bischoff (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** Marc-Oliver Bischoff.
+- **Sprecher:** Irene Adler – Yvonne Greitzke, Mycroft Holmes – Reent Reins, Mister Wu – Michael Pan, Cora Spencer – Andrea Aust, Eva – Magdalena Höfner, Adam Bergman – Tammo Kaulbarsch, Inspektor McMullan – Thomas Nero Wolff, Danny Doyle – Sebastian Fitzner, Amanda Doyle – Dorothea Lott, Rupert Pearson – André Beyer, Guiseppe Pagani – Volker Brandt, George Turner – Dirc Simpson, Johnny Briggs – Felix Strüven, Montgomery Harding – Detlef Tams, Rosie – Sina Zadra, Barnes – Alexander Turrek, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (sherlockholmes.fandom.com/de; für die Nebenrollen Einzelquelle, die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Namen durch Raute Media (CD) bestätigt — **außer Reent Reins**: Die Raute-Liste (16 Namen) führt ihn nicht, Audible nennt für diese Folge keine Sprecher. Mycroft Holmes – Reent Reins ist damit nur durch Fandom belegt; Widerspruch offen.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge05-schlag-auf-schlag/>
 
 ## Hauptfiguren
@@ -61,3 +97,4 @@ Im Covent Garden Theater kommt ein Bühnenarbeiter bei einem Stromschlag ums Leb
 - [raw/maritim/2026-04-30_irene-adler_folgen-00-bis-10.md](../../raw/maritim/2026-04-30_irene-adler_folgen-00-bis-10.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge05-schlag-auf-schlag/>
 - Apple Books: <https://books.apple.com/de/audiobook/irene-adler-sonderermittlerin-der-krone-folge-5-schlag/id1525905418>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

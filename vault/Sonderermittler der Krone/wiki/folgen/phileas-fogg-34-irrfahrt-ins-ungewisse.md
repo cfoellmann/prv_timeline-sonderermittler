@@ -6,6 +6,17 @@ titel: Irrfahrt ins Ungewisse
 erschienen: 2022-12-16
 verlag: Maritim
 autor: "Marc Freund"
+sprecher:
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
+  - rolle: Aouda
+    name: Annina Braunmiller-Jest
+  - rolle: Passepartout
+    name: Marius Clarén
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Dracula
+    name: Torsten Michaelis
 spielzeit_min: 62
 zirkel: direkt
 crossover_mit:
@@ -19,6 +30,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - mond
   - frankenstein
@@ -35,6 +47,7 @@ tags:
 - **Erscheinungsdatum:** 16.12.2022 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 62 Minuten.
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Passepartout – Marius Clarén, Victor Frankenstein – Dietmar Wunder, Dracula – Torsten Michaelis. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Torsten Michaelis, Dietmar Wunder, Gabrielle Pietermann, Uwe Büschken, Torsten Münchow, Werner Wilkening, Sarah Alles, André Teuber (DNB-Katalog der Digitalausgabe, Audible).
 - **Verlag:** Maritim.
 
 ## Hauptfiguren
@@ -55,3 +68,4 @@ Als Phileas Fogg wieder zu sich kommt, erwartet ihn gleich eine doppelte Schockl
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge34-irrfahrt-ins-ungewisse/>
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

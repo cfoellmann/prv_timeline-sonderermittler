@@ -6,6 +6,47 @@ titel: Der Austausch
 erschienen: 2018-07-27
 verlag: Maritim
 autor: "Markus Topf & Dominik Ahrens"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Jarmila Veselá
+    name: Julia Casper
+  - rolle: Miloš Němec
+    name: Bodo Wolf
+  - rolle: Tomas Zeman
+    name: Jürgen Thormann
+  - rolle: Sir Robin Sutherland
+    name: Till Hagen
+  - rolle: Peter Marlowe
+    name: Constantin von Westphalen
+  - rolle: Otto Graf von Reichsberg
+    name: Jochen Schröder
+  - rolle: Johannes Freiherr zu Ratherstal
+    name: Jens Wendland
+  - rolle: Wilhelm Reiter
+    name: Martin Sabel
+  - rolle: Marek Kučera
+    name: Marius Clarén
+  - rolle: Ober
+    name: Robert Missler
+  - rolle: Barkeeper
+    name: Wolfgang Bahro
+  - rolle: Bühnenarbeiter 1
+    name: Rüdiger Schulzki
+  - rolle: Bühnenarbeiter 2
+    name: Mark Bremer
+  - rolle: Sänger
+    name: Rainer Fritzsche
+  - rolle: Sängerin
+    name: Ulrike Stürzbecher
+  - rolle: Wache
+    name: Christian Zeiger
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 64
 zirkel: direkt
 crossover_mit: []
@@ -15,6 +56,7 @@ quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge16-der-austausch/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - sonderermittler
   - zirkel
@@ -31,6 +73,7 @@ tags:
 - **Erscheinungsjahr (offizielle Seite):** 2018.
 - **Spielzeit:** 64 Minuten.
 - **Autor:in:** Markus Topf & Dominik Ahrens (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Irene Adler – Yvonne Greitzke, Jarmila Veselá – Julia Casper, Miloš Němec – Bodo Wolf, Tomas Zeman – Jürgen Thormann, Sir Robin Sutherland – Till Hagen, Peter Marlowe – Constantin von Westphalen, Otto Graf von Reichsberg – Jochen Schröder, Johannes Freiherr zu Ratherstal – Jens Wendland, Wilhelm Reiter – Martin Sabel, Marek Kučera – Marius Clarén, Ober – Robert Missler, Barkeeper – Wolfgang Bahro, Bühnenarbeiter 1 – Rüdiger Schulzki, Bühnenarbeiter 2 – Mark Bremer, Sänger – Rainer Fritzsche, Sängerin – Ulrike Stürzbecher, Wache – Christian Zeiger, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (für die Rollen Einzelquelle; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD, die übrigen Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Alle 20 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe, inhaltlich gleich Audible). Schreibung nach DNB/Audible bzw. den übrigen Fandom-Tabellen: „Rainer Fritzsche“ (Fandom hier: „Rainer Fritsche“). Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge16-der-austausch/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=IoHohziTA1U>
@@ -60,6 +103,7 @@ Eine heikle Mission der britischen Krone gerät in Prag ins Wanken, als eine blu
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge16-der-austausch/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 
 
 

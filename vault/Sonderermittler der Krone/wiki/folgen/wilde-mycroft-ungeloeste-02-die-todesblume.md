@@ -6,7 +6,9 @@ titel: Die Todesblume
 erschienen: 2026-04-10
 verlag: Blitz Verlag
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
 spielzeit_min: 54
 zirkel: unklar
 crossover_mit:
@@ -16,6 +18,7 @@ status: entwurf
 quellen:
   - raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md
   - https://www.sonderermittler-der-krone.de/serien/wilde/folge02-die-todesblume/
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - sonderermittler
   - blitz
@@ -31,6 +34,7 @@ tags:
 - **Spielzeit:** 54 Minuten.
 - **Verlag:** Blitz Verlag.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Oscar Wilde – Sascha Rotermund. *Oscar Wilde laut DNB-Katalogeintrag der CD (Titelangabe, IDN 139498815X).* Vollständige Liste ohne Rollen: Sascha Rotermund (DNB; Audible führt Rotermund nur im Autorenfeld, sonst keine Sprecher). Weitere Sprecher:innen sind nicht veröffentlicht; Irene Adler und Mycroft Holmes (Figurenliste der Fanseite) daher ohne Sprecherangabe.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde/folge02-die-todesblume/>
 - **Cover:** <https://www.sonderermittler-der-krone.de/cover/wilde/cover-xl-wilde-2.jpg> *(noch nicht lokal abgelegt)*
 
@@ -58,3 +62,4 @@ Ein älterer Brief eines Inspectors aus einer Kleinstadt nahe London macht Oscar
 
 - [raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md](../../raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md) — paraphrasierte Arbeitsnotiz aus den offiziellen Folgen-Seiten.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde/folge02-die-todesblume/>
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

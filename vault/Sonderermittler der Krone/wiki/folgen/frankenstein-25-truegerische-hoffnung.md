@@ -6,7 +6,19 @@ titel: Trügerische Hoffnung
 erschienen: 2026-05-22
 verlag: Maritim
 autor: Silke Walter
-sprecher: []
+sprecher:
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: Robur
+    name: Milton Welsh
+  - rolle: Mr. Killjoy
+    name: Matti Klemm
 spielzeit_min: 56
 zirkel: direkt
 crossover_mit:
@@ -18,6 +30,7 @@ quellen:
   - raw/Sonderermittler_Update_2026-08-17.md
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - https://www.sonderermittler-der-krone.de/serien/frankenstein/folge25-truegerische-hoffnung/
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - frankenstein
   - maritim
@@ -35,6 +48,7 @@ tags:
 - **Spielzeit:** 56 Minuten (Handelsangabe teilweise 55:45).
 - **Verlag:** Maritim (Produktion Holysoft).
 - **Autor:in:** Silke Walter (Handelsmetadaten).
+- **Sprecher (Auswahl):** Victor Frankenstein – Dietmar Wunder, Theodora Sachs – Gabrielle Pietermann, James Moriarty – Andreas Fröhlich, Aleister Crowley – Daniel Zillmann, Robur – Milton Welsh, Mr. Killjoy – Matti Klemm. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Dietmar Wunder, Gabrielle Pietermann, Andreas Fröhlich, Daniel Zillmann, Peter Lontzek, Milton Welsh, Matti Klemm, Marion Gretchen Schmitz, Joachim Tennstedt, Jean Coppong (DNB; identisch bei Audible). Bastien Lavache hat keine Fanseiten-Figurenseite und ist deshalb nicht zugeordnet (Peter Lontzek steht in der Liste).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge25-truegerische-hoffnung/>
 
 ## Hauptfiguren
@@ -75,3 +89,4 @@ tags:
 - Handelsmetadaten (Autor:in, Laufzeit): <https://www.audiolibrix.de/de/Directory/Book/147800/Hoerbuch-Frankenstein-und-der-Zirkel-der-Sieben-Folge-25-Trugerische-Hoffnung-Silke-Walter>
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche-Notiz zur Vault-Lücke.
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update (nennt Folge 25 nicht, Anlass der Nachrecherche).
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

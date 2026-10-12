@@ -6,6 +6,13 @@ titel: Der Schrei der Bestie
 erschienen: 2021-10-01
 verlag: Maritim
 autor: "Markus Duschek"
+sprecher:
+  - rolle: Erzähler
+    name: Douglas Welbat
+  - rolle: Edgar Allan Poe
+    name: Uve Teschner
+  - rolle: Auguste Dupin
+    name: Manfred Lehmann
 spielzeit_min: 58
 zirkel: direkt
 spoiler_level: grob
@@ -15,6 +22,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - zirkel-der-sieben
   - wissenschaft
@@ -32,6 +40,7 @@ tags:
 - **Erscheinungsdatum:** 01.10.2021 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 58 min
 - **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Erzähler – Douglas Welbat, Edgar Allan Poe – Uve Teschner, Auguste Dupin – Manfred Lehmann. Erzähler laut Serienseite der Fanseite. *Übrige Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Douglas Welbat, Manfred Lehmann, Uve Teschner, Joachim Tennstedt, Torsten Michaelis, Wolfgang Condrus, Hans-Eckart Eckhardt, Werner Wilkening, Dietmar Wunder, Sandra Schwittau, Ingo Abel, Alexander Kruuse Mettin, Lutz Mackensy (Raute Media, CD; Audible).
 - **Zirkel-Bezug:** Direkt
 
 ## Handlung
@@ -47,3 +56,4 @@ Dr. Francois Valera ist ein angesehener Wissenschaftler, dem auf einem Kongress 
 
 - [raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md](../../raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md)
 - Offizielle Seite: <https://www.sonderermittler-der-krone.de/serien/poe-und-dupin/folge15-der-schrei-der-bestie/>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

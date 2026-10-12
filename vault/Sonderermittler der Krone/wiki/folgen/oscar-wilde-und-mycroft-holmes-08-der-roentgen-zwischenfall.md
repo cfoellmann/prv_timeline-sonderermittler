@@ -6,6 +6,41 @@ titel: Der Röntgen-Zwischenfall
 erschienen: 2017-03-17
 verlag: Maritim
 autor: "Jonas Maas"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Henry Wheeler
+    name: Holger Löwenberg
+  - rolle: Dr. Alfons Grell
+    name: K. Dieter Klebsch
+  - rolle: Andrew Webbercott
+    name: Tobias Lelle
+  - rolle: Wilhelm Conrad Röntgen
+    name: Joachim Tennstedt
+  - rolle: Yves Duroi
+    name: Rainer Fritzsche
+  - rolle: Emil Duroi
+    name: Peter Lontzek
+  - rolle: Claude Liedermann
+    name: Jan-David Rönfeldt
+  - rolle: Philipp Regner
+    name: Nils Rieke
+  - rolle: David Burden
+    name: Patrick Bach
+  - rolle: Ludwig Terbrack
+    name: Bernd Rumpf
+  - rolle: Unbekannt
+    name: Sven Dahlem
+  - rolle: Wache
+    name: André Beyer
+  - rolle: Ober
+    name: Alexander Turrek
+  - rolle: Dorfbewohner
+    name: Jürgen Kluckert
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 71
 zirkel: unklar
 crossover_mit: []
@@ -16,6 +51,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge08-der-roentgen-zwischenfall/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - sonderermittler
 ---
@@ -31,6 +67,7 @@ tags:
 - **Erscheinungsjahr (offizielle Seite):** 2017.
 - **Spielzeit:** 71 Minuten.
 - **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Henry Wheeler – Holger Löwenberg, Dr. Alfons Grell – K. Dieter Klebsch, Andrew Webbercott – Tobias Lelle, Wilhelm Conrad Röntgen – Joachim Tennstedt, Yves Duroi – Rainer Fritzsche, Emil Duroi – Peter Lontzek, Claude Liedermann – Jan-David Rönfeldt, Philipp Regner – Nils Rieke, David Burden – Patrick Bach, Ludwig Terbrack – Bernd Rumpf, Unbekannt – Sven Dahlem, Wache – André Beyer, Ober – Alexander Turrek, Dorfbewohner – Jürgen Kluckert, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (für die Rollen Einzelquelle; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD, die übrigen Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). DNB (Digitalausgabe) und Audible führen für OWMH 1–8 einheitlich dieselben fünf Namen (Sascha Rotermund, Reent Reins, Holger Löwenberg, Leonhard Mahlich, Jaron Löwenberg) — eine Serienangabe, keine Folgenbesetzung; die übrigen Namen sind daher nur über Fandom belegt. Schreibung nach DNB/Audible bzw. den übrigen Fandom-Tabellen: „André Beyer“ (Fandom hier: „Andrè Beyer“); „K. Dieter Klebsch“ (Fandom hier ohne Leerzeichen nach „K.“); „Rainer Fritzsche“ (Fandom hier: „Rainer Fritsche“). Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge08-der-roentgen-zwischenfall/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=Ct6O91WVtbI>
@@ -60,6 +97,7 @@ Ein Entführer hat es auf Wilhelm Conrad Röntgen und seine bahnbrechende Entdec
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge08-der-roentgen-zwischenfall/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 
 
 

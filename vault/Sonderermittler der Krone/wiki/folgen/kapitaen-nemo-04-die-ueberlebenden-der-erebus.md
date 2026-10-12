@@ -6,7 +6,31 @@ titel: Die Überlebenden der Erebus
 erschienen: 2026-08-07
 verlag: Blitz Verlag
 autor: Marc Freund
-sprecher: []
+sprecher:
+  - rolle: Kapitän Nemo
+    name: K. Dieter Klebsch
+  - rolle: Kapitän Nemo (jung)
+    name: Peter Sura
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Professor Challenger
+    name: Konstantin Graudus
+  - rolle: Navin
+    name: Brian Sommer
+  - rolle: Dr. Melvin Adams
+    name: Lutz Riedel
+  - rolle: Jessica Fell
+    name: Tanja Lipinski
+  - rolle: Colby Morris
+    name: Sebastian Fitzner
+  - rolle: Claude Lagasse
+    name: Robert Louis Griesbach
+  - rolle: Winston Lake
+    name: Dirc Simpson
+  - rolle: Ian Munro
+    name: Uwe Büschken
+  - rolle: April
+    name: Julia Fölster
 spielzeit_min: 65
 zirkel: unklar
 crossover_mit:
@@ -17,6 +41,7 @@ quellen:
   - raw/notes/2026-09-06_neue-folgen-scout_september-2026.md
   - raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md
   - https://www.sonderermittler-der-krone.de/serien/kapitaen-nemo/folge04-die-ueberlebenden-der-erebus/
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - blitz
   - abenteuer
@@ -34,7 +59,7 @@ tags:
 - **Verlag:** Blitz Verlag.
 - **Autor:** Marc Freund nach Jules Verne — ⚠️ **Handelsmetadatum** (Thalia, Kobo, Audiolibrix); die offizielle Folgenseite nennt keinen Autor. Gleiche Zuschreibungslage wie bei [[wiki/folgen/kapitaen-nemo-03-verschollen-im-eis|NEM 3]].
 - **Format:** MP3-Download, ungekürzt, Altersempfehlung ab 12 Jahren; ISBN 9783862127856.
-- **Sprecher (Handelsangabe, ohne Rollenzuordnung):** Klaus Dieter Klebsch, Sascha Rotermund, Peter Sura, Konstantin Graudus, Brian Sommer.
+- **Sprecher:** Kapitän Nemo – K. Dieter Klebsch, Kapitän Nemo (jung) – Peter Sura, Oscar Wilde – Sascha Rotermund, Professor Challenger – Konstantin Graudus, Navin – Brian Sommer, Dr. Melvin Adams – Lutz Riedel, Jessica Fell – Tanja Lipinski, Colby Morris – Sebastian Fitzner, Claude Lagasse – Robert Louis Griesbach, Winston Lake – Dirc Simpson, Ian Munro – Uwe Büschken, April – Julia Fölster. Rollen laut Verlagsvorschau im Hörspieltalk-Thread 29996 (für die Rollen Einzelquelle); Kapitän Nemo – K. Dieter Klebsch zusätzlich durch DNB (MARC 245 $c), die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten. Audible führt die Namen ohne Rollen im Feld „Autor“ (K. Dieter Klebsch, Sascha Rotermund, Peter Sura, Konstantin Graudus, Brian Sommer).
 - **Schauplatz:** Packeis des Nordatlantiks, an Bord der HMS Erebus.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/kapitaen-nemo/folge04-die-ueberlebenden-der-erebus/>
 
@@ -73,3 +98,4 @@ tags:
 - Thalia (Datum, Laufzeit, Sprecher): <https://www.thalia.de/shop/home/artikeldetails/A1080771648>
 - Kobo: <https://www.kobo.com/at/de/audiobook/die-abenteuer-des-kapitan-nemo-folge-4-die-uberlebenden-der-erebus>
 - Audiolibrix: <https://www.audiolibrix.de/de/Directory/Book/161933/Hoerbuch-Die-Abenteuer-des-Kapitan-Nemo-Folge-4-Die-Uberlebenden-der-Erebus-Jules-Verne-Marc-Freund>
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).

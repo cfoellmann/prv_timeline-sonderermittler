@@ -6,6 +6,31 @@ titel: Das Herz der See
 erschienen: 2022-04-01
 verlag: Maritim
 autor: "Jonas Maas"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Violet Ishiguro
+    name: Mia Diekow
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: Professor van Dusen
+    name: Martin Keßler
+  - rolle: Doktor Patrick Howls
+    name: Tim Knauer
+  - rolle: Abt Francis Obrey
+    name: Volker Brandt
+  - rolle: Einbrecher
+    name: Janis Zaurins
+  - rolle: Entführer
+    name: Alexander Kruuse Mettin
+  - rolle: Entführer
+    name: Jean Coppong
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 64
 zirkel: unklar
 crossover_mit: []
@@ -16,6 +41,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge37-das-herz-der-see/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - sonderermittler
 ---
@@ -31,6 +57,7 @@ tags:
 - **Erscheinungsjahr (offizielle Seite):** 2022.
 - **Spielzeit:** 64 Minuten.
 - **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Theodora Sachs – Gabrielle Pietermann, Violet Ishiguro – Mia Diekow, Aleister Crowley – Daniel Zillmann, Professor van Dusen – Martin Keßler, Doktor Patrick Howls – Tim Knauer, Abt Francis Obrey – Volker Brandt, Einbrecher – Janis Zaurins, Entführer – Alexander Kruuse Mettin, Entführer – Jean Coppong, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (für die Rollen Einzelquelle; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD, die übrigen Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Alle 12 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe, inhaltlich gleich Audible). Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge37-das-herz-der-see/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-37-das-herz-der-see.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-37-das-herz-der-see.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-37.jpg>)*
@@ -59,6 +86,7 @@ Nach dem Massaker an Mönchen und dem Tod eines Kryptologen nehmen Mycroft Holme
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge37-das-herz-der-see/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 
 
 

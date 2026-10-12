@@ -6,7 +6,15 @@ titel: Doppelter Verrat
 erschienen: 2025-08-29
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Robur
+    name: Milton Welsh
 spielzeit_min: 66
 zirkel: direkt
 crossover_mit:
@@ -17,6 +25,7 @@ quellen:
   - raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge20-doppelter-verrat/
   - https://shop.holysoft.de/produkte/moriarty-20-doppelter-verrat-5211/
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - moriarty
   - maritim
@@ -31,6 +40,7 @@ tags:
 - **Erscheinungsdatum:** 29.08.2025.
 - **Spielzeit:** 66 Minuten.
 - **Verlag:** Maritim.
+- **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich, Victor Frankenstein – Dietmar Wunder, Theodora Sachs – Gabrielle Pietermann, Robur – Milton Welsh. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Dietmar Wunder, Gabrielle Pietermann, Milton Welsh, Sina Zadra, Peter Sura, Gosta Liptow, Kim Hasper, Uwe Büschken, Jean Coppong, Romanus Fuhrmann (DNB; identisch bei Raute Media, Audible und Hörspieltalk).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge20-doppelter-verrat/>
 
 ## Hauptfiguren
@@ -60,3 +70,4 @@ Moriarty ist auf der Suche nach Elaine Lightman, der Tochter eines bekannten For
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](../../raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge20-doppelter-verrat/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-20-doppelter-verrat-5211/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

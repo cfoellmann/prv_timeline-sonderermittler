@@ -6,6 +6,11 @@ titel: Angst im East End
 erschienen: 2023-04-07
 verlag: Maritim
 autor: "Silke Walter"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 57
 zirkel: unklar
 crossover_mit: []
@@ -17,6 +22,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge42-angst-im-east-end/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - sonderermittler
 ---
@@ -32,6 +38,7 @@ tags:
 - **Fandom-Abgleich (2026-04-30):** Fandom-Einzelseite markiert Folge 42 weiterhin als „angekündigt" (veraltet).
 - **Spielzeit:** 57 Minuten.
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Oscar Wilde – Sascha Rotermund, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle, die für diese Folge nur Oscar Wilde, Mycroft Holmes und die Ansage führt; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD. ⚠️ **Widerspruch:** Fandom nennt Mycroft Holmes – Reent Reins, die vollständige Sprecherliste der DNB (Digitalausgabe, endet mit der Ansage) und Audible führen Reent Reins nicht. Mycroft ist deshalb nicht eingetragen — offen, Entscheidung Christian. Vollständige Liste ohne Rollen: Sascha Rotermund, Charles Rettinghaus, Tetje Mierendorf, Björn Schalla, Stefan Krause, Tilmar Kuhn, Mathias Renneisen, Arianne Borbach, Julia Fölster, Luisa Wietzorek, Stephan Chrzescinski, Lutz Mackensy (DNB; Audible identisch). Weitere Stammsprecher:innen in der Liste — Charles Rettinghaus (Sherlock Holmes), Tetje Mierendorf (Rasputin), Björn Schalla (Geoffrey Stafford) — sind keiner Rolle zugeordnet, weil diese Figuren weder im offiziellen Klappentext noch in der Figurenliste der Fanseite stehen.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge42-angst-im-east-end/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-42-angst-im-east-end.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-42-angst-im-east-end.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-42.jpg>)*
@@ -61,3 +68,4 @@ Nachdem die Mordserie nicht aufgeklärt werden konnte, geschieht eine neue Tat m
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Abgleich: Folge 42 auf Fandom noch als „angekündigt" markiert.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge42-angst-im-east-end/>
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).

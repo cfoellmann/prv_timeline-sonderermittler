@@ -6,6 +6,13 @@ titel: Im Land der tausend Gefahren
 erschienen: 2024-04-05
 verlag: Maritim
 autor: "Hajo Bremer"
+sprecher:
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
+  - rolle: Abel Hawthorn
+    name: Jaron Löwenberg
+  - rolle: Professor Challenger
+    name: Konstantin Graudus
 spielzeit_min: 58
 zirkel: kein
 crossover_mit: []
@@ -18,6 +25,7 @@ quellen:
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - saint-noire
   - afrika
@@ -34,6 +42,7 @@ tags:
 - **Erscheinungsdatum:** 05.04.2024 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 58 Minuten.
 - **Autor:in:** Hajo Bremer (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Phileas Fogg – Sascha Draeger, Abel Hawthorn – Jaron Löwenberg, Professor Challenger – Konstantin Graudus. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Abel Hawthorn: Stammsprecher laut Fandom-Besetzungstabellen OWMH 2–26; dass es dieselbe Figur ist, ist eine Annahme, siehe [[wiki/figuren/abel-hawthorn|Abel Hawthorn]]). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Reent Reins, Sascha Rotermund, K. Dieter Klebsch, Yvonne Greitzke, Konstantin Graudus, Jaron Löwenberg, Jörg Pintsch, Peter Kirchberger, Janis Zaurins, Ilona Otto, Stephan Chrzescinski, Bernd Egger, Engelbert von Nordhausen, Jean Coppong, Patrick Holtheuer (DNB-Katalog der Digitalausgabe, Audible). Professor Challenger – Konstantin Graudus nachgetragen am 12.10.2026: Challenger steht im offiziellen Klappentext, Graudus spricht ihn laut den Rollenlisten zu WMU 4 und NEM 3/4 (siehe [[wiki/figuren/professor-challenger|Professor Challenger]]) und steht in allen Sprecherlisten DNAPF 38–44; ebenfalls abgeleitet.
 - **Verlag:** Maritim.
 
 ## Hauptfiguren
@@ -55,3 +64,4 @@ tags:
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge40-im-land-der-tausend-gefahren/>
 - [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Abel-Hawthorn-Recherche 12.10.2026 (Fanseite-Volltextsuche, Fandom-Besetzung, Audible-Sprecherlisten).
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

@@ -6,7 +6,31 @@ titel: Hinter den Kulissen
 erschienen: 2019-11-22
 verlag: Maritim
 
-sprecher: []
+sprecher:
+  - rolle: Sherlock Holmes
+    name: Charles Rettinghaus
+  - rolle: Dr. John Watson
+    name: Florian Halm
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mister Wu
+    name: Michael Pan
+  - rolle: Cora Spencer
+    name: Andrea Aust
+  - rolle: Maddie
+    name: Florentine Draeger
+  - rolle: Sir John Conroy
+    name: Rüdiger Schulzki
+  - rolle: Sebastian Conroy
+    name: Timo Kinzel
+  - rolle: Mister Killjoy
+    name: Matti Klemm
+  - rolle: Inspektor McMullan
+    name: Thomas Nero Wolff
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 77
 zirkel: indirekt
 crossover_mit: []
@@ -18,6 +42,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge00-hinter-den-kulissen/
   - https://music.apple.com/de/album/sonderermittlerin-der-krone-folge-0-hinter-den-kulissen/1484949142
   - https://www.thalia.de/shop/home/artikeldetails/A1056665761
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - sonderermittler
   - irene-adler
@@ -38,6 +63,7 @@ tags:
 - **Spielzeit:** 77 Minuten.
 - **Verlag:** Maritim.
 - **Autor:** Marc-Oliver Bischoff.
+- **Sprecher:** Sherlock Holmes – Charles Rettinghaus, Dr. John Watson – Florian Halm, Mycroft Holmes – Reent Reins, Irene Adler – Yvonne Greitzke, Mister Wu – Michael Pan, Cora Spencer – Andrea Aust, Maddie – Florentine Draeger, Sir John Conroy – Rüdiger Schulzki, Sebastian Conroy – Timo Kinzel, Mister Killjoy – Matti Klemm, Inspektor McMullan – Thomas Nero Wolff, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (sherlockholmes.fandom.com/de; für die Nebenrollen Einzelquelle, die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Die Fandom-Seite gilt [[wiki/folgen/sherlock-holmes-und-co-45-hinter-den-kulissen|SHC 45]]; laut Fandom ist Folge 0 dessen Digitalausgabe. Ohne Rollenangabe bei Fandom: Joachim Tennstedt, Luisa Wietzorek, Uve Teschner, Wolf Frass, Tom Raczko, Rainer Fritzsche, Peter Kirchberger, Gordon Piedesack, Jaron Löwenberg, Patrick Holtheuer, Benjamin Oechsle. Audible bestätigt nur die ersten sechs Namen.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge00-hinter-den-kulissen/>
 
 ## Hauptfiguren
@@ -66,3 +92,4 @@ Während der Londoner Premiere von `Satanella` wird der Startenor Giuseppe Frezz
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge00-hinter-den-kulissen/>
 - Apple Music: <https://music.apple.com/de/album/sonderermittlerin-der-krone-folge-0-hinter-den-kulissen/1484949142>
 - Thalia: <https://www.thalia.de/shop/home/artikeldetails/A1056665761>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

@@ -6,6 +6,33 @@ titel: Die Namenlose aus der Seine
 erschienen: 2017-09-29
 verlag: Maritim
 autor: "Jonas Maas"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Dr. Benjamin Payton
+    name: Leonhard Mahlich
+  - rolle: Henry Wheeler
+    name: Holger Löwenberg
+  - rolle: Madeleine
+    name: Julia Fölster
+  - rolle: Professor Dr. Serge Arronait
+    name: Till Hagen
+  - rolle: Gilbert
+    name: Alexander Turrek
+  - rolle: Emile Zola
+    name: Mathieu Carriére
+  - rolle: Fabienne
+    name: Annina Braunmiller-Jest
+  - rolle: Anatol Brassac
+    name: Torsten Sense
+  - rolle: Maurice
+    name: Detlef Tams
+  - rolle: Mitarbeiter des Leichenschauhauses
+    name: Jens Wendland
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 70
 zirkel: direkt
 crossover_mit: []
@@ -15,6 +42,7 @@ quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge11-die-namenlose-aus-der-seine/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - sonderermittler
 ---
@@ -30,6 +58,7 @@ tags:
 - **Erscheinungsjahr (offizielle Seite):** 2017.
 - **Spielzeit:** 70 Minuten.
 - **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Dr. Benjamin Payton – Leonhard Mahlich, Henry Wheeler – Holger Löwenberg, Madeleine – Julia Fölster, Professor Dr. Serge Arronait – Till Hagen, Gilbert – Alexander Turrek, Emile Zola – Mathieu Carriére, Fabienne – Annina Braunmiller-Jest, Anatol Brassac – Torsten Sense, Maurice – Detlef Tams, Mitarbeiter des Leichenschauhauses – Jens Wendland, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (für die Rollen Einzelquelle; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD, die übrigen Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). 8 der 13 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe, inhaltlich gleich Audible; dort auf 8 Namen gekürzt). Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge11-die-namenlose-aus-der-seine/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=Caunuji8aHE>
@@ -58,6 +87,7 @@ Oscar Wilde soll in Paris eine verwirrte junge Frau aufspüren und zu einem Nerv
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge11-die-namenlose-aus-der-seine/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 
 
 

@@ -6,7 +6,15 @@ titel: Unter falschem Verdacht
 erschienen: 2023-06-30
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: Sherlock Holmes
+    name: Charles Rettinghaus
+  - rolle: Dr. John H. Watson
+    name: Florian Halm
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
 spielzeit_min: 77
 zirkel: indirekt
 crossover_mit:
@@ -18,6 +26,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge04-unter-falschem-verdacht/
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - sherlock-holmes
   - maritim
@@ -35,6 +44,7 @@ tags:
 - **Spielzeit:** 77 Minuten.
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Sherlock Holmes – Charles Rettinghaus, Dr. John H. Watson – Florian Halm, Mycroft Holmes – Reent Reins, James Moriarty – Andreas Fröhlich. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Charles Rettinghaus, Florian Halm, Reent Reins, Andreas Fröhlich, Christian Dabeler, Julia Fölster, Sebastian Fitzner, Lutz Riedel, Jürgen Thormann, Mathias Renneisen, Julia Casper, Kaspar Eichel, Lutz Mackensy (Raute Media, CD-Ausgabe; Audible nennt keine weiteren Namen).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge04-unter-falschem-verdacht/>
 
 ## Hauptfiguren
@@ -62,3 +72,4 @@ Drohbriefe versetzen die Londoner High Society in Angst und Schrecken, bis das e
 
 - [raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md](../../raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge04-unter-falschem-verdacht/>
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).

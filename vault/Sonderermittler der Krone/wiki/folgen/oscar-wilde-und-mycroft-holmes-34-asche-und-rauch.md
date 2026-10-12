@@ -6,6 +6,45 @@ titel: Asche und Rauch
 erschienen: 2021-08-06
 verlag: Maritim
 autor: "Marc Freund"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Dracula
+    name: Torsten Michaelis
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Robur
+    name: Milton Welsh
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: Gaston Morel
+    name: Wolfgang Condrus
+  - rolle: Rasputin
+    name: Tetje Mierendorf
+  - rolle: Maharadscha
+    name: Daniel Welbat
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Geoffrey Stafford
+    name: Björn Schalla
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Mina Harker
+    name: Victoria Sturm
+  - rolle: Mr. Koontz
+    name: Wolfgang Bahro
+  - rolle: Ewan Slater
+    name: Tammo Kaulbarsch
+  - rolle: Digby Leech
+    name: Kim Hasper
+  - rolle: Bobby
+    name: Alexander Kruuse Mettin
+  - rolle: Kutscher
+    name: Kevin Kasper
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 61
 zirkel: direkt
 crossover_mit: []
@@ -16,6 +55,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge34-asche-und-rauch/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - sonderermittler
 ---
@@ -31,6 +71,7 @@ tags:
 - **Erscheinungsjahr (offizielle Seite):** 2021.
 - **Spielzeit:** 61 Minuten.
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Dracula – Torsten Michaelis, Victor Frankenstein – Dietmar Wunder, Robur – Milton Welsh, Aleister Crowley – Daniel Zillmann, Gaston Morel – Wolfgang Condrus, Rasputin – Tetje Mierendorf, Maharadscha – Daniel Welbat, Irene Adler – Yvonne Greitzke, Geoffrey Stafford – Björn Schalla, Theodora Sachs – Gabrielle Pietermann, Mina Harker – Victoria Sturm, Mr. Koontz – Wolfgang Bahro, Ewan Slater – Tammo Kaulbarsch, Digby Leech – Kim Hasper, Bobby – Alexander Kruuse Mettin, Kutscher – Kevin Kasper, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (für die Rollen Einzelquelle; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD, die übrigen Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Alle 19 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe, inhaltlich gleich Audible). Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge34-asche-und-rauch/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-34-asche-und-rauch.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-34-asche-und-rauch.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-34.jpg>)*
@@ -59,6 +100,7 @@ Nach der Verwüstung der Stadt tasten sich Wilde und Irene Adler durch Misstraue
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge34-asche-und-rauch/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 
 
 

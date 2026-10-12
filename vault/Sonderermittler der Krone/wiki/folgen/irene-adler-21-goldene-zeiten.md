@@ -7,7 +7,11 @@ erschienen: 2024-06-21
 verlag: Maritim
 autor: "Silke Walter"
 
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mister Wu
+    name: Michael Pan
 spielzeit_min: 57
 zirkel: direkt
 crossover_mit: []
@@ -18,6 +22,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge21-goldene-zeiten/
   - https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-21-goldene-zeiten-4579/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - irene-adler
   - maritim
@@ -37,6 +42,7 @@ tags:
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Irene Adler – Yvonne Greitzke, Mister Wu – Michael Pan. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Yvonne Greitzke, Michael Pan, Sven Plate, Simona Pahl, Kim Hasper, Tanya Kahana, Dirk Hardegen, Detlef Tams, Lutz Mackensy (Raute Media, CD; Audible).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge21-goldene-zeiten/>
 
 ## Hauptfiguren
@@ -63,3 +69,4 @@ Auf einer Feier des New Yorker Millionärs Ralph Drake erfährt Irene Adler von 
 - [raw/maritim/2026-04-30_irene-adler_folgen-11-bis-21.md](../../raw/maritim/2026-04-30_irene-adler_folgen-11-bis-21.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge21-goldene-zeiten/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-21-goldene-zeiten-4579/>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

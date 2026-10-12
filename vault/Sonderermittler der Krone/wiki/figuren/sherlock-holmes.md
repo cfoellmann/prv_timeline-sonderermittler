@@ -1,6 +1,7 @@
 ---
 type: figur
 titel: Sherlock Holmes
+sprecher: Charles Rettinghaus
 status: entwurf
 zirkel: true
 quellen:
@@ -10,6 +11,10 @@ quellen:
   - raw/reviews/2026-04-27_re-releases_recherche-notiz.md
   - wiki/serien/sherlock-holmes.md
   - wiki/konzepte/sherlock-holmes-und-co.md
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - sonderermittler
   - detective
@@ -19,6 +24,10 @@ tags:
 # Sherlock Holmes
 
 > Die am breitesten vernetzte Ermittlerfigur des Kosmos: eigene Reihe seit 2022, Dauergast bei Irene Adler, Gegenpol zu Moriarty — und schon in der Vorgänger-Reihe der Scharnierpunkt, an dem Oscar Wilde zum ersten Mal andockt.
+
+## Eckdaten
+
+- **Sprecher:** Charles Rettinghaus — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen OWMH 41, SHC 26/27, 41/42, 45, 55, SH 1/2 („Dunkle Kräfte“), IADK 0, 1 und MOR 1; die DNB-Titelangabe (245 $c) der SHC-CDs (Banshee, Louise M., 45, 55) nennt „Sherlock Holmes – Charles Rettinghaus“ als zweite, von Fandom unabhängige Rollenquelle. In SH 3–22 nach der Ableitungsregel eingetragen.
 
 ## Rolle im Kosmos
 
@@ -121,7 +130,7 @@ Historisch reicht die Figur hinter die Sonderermittler-Reihen zurück: In der Vo
 
 ## Theorien & offene Fragen
 
-- **Sprecher unbelegt.** Für die Hauptlinie „Sherlock Holmes – Sonderermittler der Krone" nennt das Repo **keinen** Holmes-Sprecher. Belegt ist nur: **Charles Rettinghaus** in der Re-Release-Linie „Aus den Archiven", **Christian Rode** in der älteren, *nicht* zum Kosmos gehörenden Maritim-Holmes-Reihe. Ob Rettinghaus auch die Hauptlinie oder die SHC-Originale spricht, ist **offen** und laut Repo „beim Hören zu klären".
+- **Sprecher (geklärt 12.10.2026):** Charles Rettinghaus spricht Holmes auch in der Hauptlinie und in den SHC-Originalen (siehe Eckdaten); der frühere Vermerk „Sprecher unbelegt … beim Hören zu klären“ ist überholt. **Christian Rode** gehört weiterhin nur zur älteren, *nicht* zum Kosmos gehörenden Maritim-Holmes-Reihe.
 - **Autor:innen der eigenen Reihe.** Nur für SH 22 ist eine Autorenangabe belegt (**Silke Walter**, laut Handel). Für alle übrigen Folgen der Hauptlinie steht `autor` im Repo leer.
 - **Wer ist der „alte Feind" in SH 13?** Der Klappentext spricht davon, dass Holmes einem alten Feind entgegentreten kann, nennt ihn aber nicht. Die Figurenliste der Folge legt Robur nahe — **Annahme, nicht belegt.**
 - **Holmes' Rolle im Los-Angeles-Block (IADK 25–28) ist nur grob greifbar.** Die Folgen-Seiten führen ihn als Ermittlungspartner, sagen aber nichts über eigene Handlungsmotive. Beim Hören schärfen.
@@ -137,3 +146,7 @@ Historisch reicht die Figur hinter die Sonderermittler-Reihen zurück: In der Vo
 - [raw/reviews/2026-04-27_re-releases_recherche-notiz.md](../../raw/reviews/2026-04-27_re-releases_recherche-notiz.md) — Sprecherlage der Re-Release-Linie, Abgrenzung der beiden Holmes-Reihen.
 - [wiki/serien/sherlock-holmes.md](../serien/sherlock-holmes.md) — Folgenliste, Handlungsbögen, Re-Release-Sektion.
 - [wiki/konzepte/sherlock-holmes-und-co.md](../konzepte/sherlock-holmes-und-co.md) — Vorgänger-Reihe und ihre Schaltpunkte ins Universum.
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR und FRANK: DNB, Raute Media, Fandom MOR 0–8, Hörspieltalk (12.10.2026)

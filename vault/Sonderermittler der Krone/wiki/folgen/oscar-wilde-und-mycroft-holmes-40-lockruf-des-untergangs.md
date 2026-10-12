@@ -6,6 +6,37 @@ titel: Lockruf des Untergangs
 erschienen: 2022-09-30
 verlag: Maritim
 autor: "Marc Freund"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Violet Ishiguro
+    name: Mia Diekow
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: Doktor Patrick Howls
+    name: Tim Knauer
+  - rolle: Merigo de Cavalcanti
+    name: Volker Brandt
+  - rolle: Albino Greco
+    name: Oliver Stritzel
+  - rolle: Amalia Romano
+    name: Friedel Morgenstern
+  - rolle: Pierina Schiavone
+    name: Sina Zadra
+  - rolle: Facino Monaldo
+    name: Sebastian Fitzner
+  - rolle: Leonardo Falliero
+    name: Wanja Gerick
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Betrunkener
+    name: Patrick Holtheuer
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 70
 zirkel: direkt
 crossover_mit: []
@@ -18,6 +49,7 @@ quellen:
   - https://www.isbn.de/hoerbuch/9783785784259/oscar-wilde-mycroft-holmes-folge-40
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - sonderermittler
 ---
@@ -33,6 +65,7 @@ tags:
 - **Fandom-Abgleich (2026-04-30):** Folge 40 hat auf Fandom eine verlinkte Einzelseite.
 - **Spielzeit:** 70 Minuten.
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Theodora Sachs – Gabrielle Pietermann, Violet Ishiguro – Mia Diekow, Aleister Crowley – Daniel Zillmann, Doktor Patrick Howls – Tim Knauer, Merigo de Cavalcanti – Volker Brandt, Albino Greco – Oliver Stritzel, Amalia Romano – Friedel Morgenstern, Pierina Schiavone – Sina Zadra, Facino Monaldo – Sebastian Fitzner, Leonardo Falliero – Wanja Gerick, James Moriarty – Andreas Fröhlich, Betrunkener – Patrick Holtheuer, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (für die Rollen Einzelquelle; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD, die übrigen Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Alle 15 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe, inhaltlich gleich Audible). Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Verlag:** Maritim.
 - **Autor:** Marc Freund.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge40-lockruf-des-untergangs/>
@@ -66,5 +99,6 @@ Eine rätselhafte Mordserie an jungen Männern führt Oscar Wilde und Violet Ish
 - ISBN.de: <https://www.isbn.de/hoerbuch/9783785784259/oscar-wilde-mycroft-holmes-folge-40>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md](../../raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md) — Datumsprüfung gegen HolyShop (Raute Media, Hörspieltalk; 12.10.2026).
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 
 

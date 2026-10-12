@@ -6,6 +6,11 @@ titel: Roburs Rache
 erschienen: 2023-04-20
 verlag: Maritim
 autor: "Marc Freund"
+sprecher:
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
+  - rolle: Robur
+    name: Milton Welsh
 spielzeit_min: 61
 zirkel: direkt
 crossover_mit:
@@ -18,6 +23,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - pazifik
   - robur
@@ -34,6 +40,7 @@ tags:
 - **Erscheinungsdatum:** 20.04.2023 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 61 Minuten.
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Phileas Fogg – Sascha Draeger, Robur – Milton Welsh. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Torsten Michaelis, Dietmar Wunder, Gabrielle Pietermann, Milton Welsh, Uwe Büschken, Torsten Münchow, Till Hagen, Peter Kirchberger, Tobias Kluckert, Patrick Holtheuer, Rüdiger Schulzki (DNB-Katalog der Digitalausgabe, Audible).
 - **Verlag:** Maritim.
 
 ## Hauptfiguren
@@ -53,3 +60,4 @@ Im Pazifik beobachtet die Besatzung eines Forschungsschiffs, wie ein unbekanntes
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge35-roburs-rache/>
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

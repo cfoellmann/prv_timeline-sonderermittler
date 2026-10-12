@@ -6,6 +6,13 @@ titel: Verschwörung auf dem Atlantik
 erschienen: 2020-03-27
 verlag: Maritim
 autor: "Marc Freund"
+sprecher:
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
+  - rolle: Aouda
+    name: Annina Braunmiller-Jest
+  - rolle: Passepartout
+    name: Marius Clarén
 spielzeit_min: 67
 zirkel: kein
 crossover_mit: []
@@ -17,6 +24,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - atlantik
   - seefahrt
@@ -33,6 +41,7 @@ tags:
 - **Erscheinungsdatum:** 27.03.2020 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 67 Minuten.
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Passepartout – Marius Clarén. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Dietmar Wunder, Thomas Nero Wolff, Hans-Georg Panczak, Jaron Löwenberg, Daniel Welbat, Kerstin Draeger, Joachim Tennstedt, Norman Matt, Daniel Zillmann, Alexander Turrek, Timo Kinzel (DNB-Katalog der Digitalausgabe, Audible).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge23-verschwoerung-auf-dem-atlantik/>
 
@@ -57,3 +66,4 @@ Während seiner Reise über den Atlantik wird Phileas Fogg Opfer einer Verschwö
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge23-verschwoerung-auf-dem-atlantik/>
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

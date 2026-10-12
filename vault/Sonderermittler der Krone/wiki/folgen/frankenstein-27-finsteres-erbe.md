@@ -6,7 +6,13 @@ titel: Finsteres Erbe
 erschienen: 2026-09-11
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
 spielzeit_min: 53
 zirkel: direkt
 crossover_mit:
@@ -21,6 +27,7 @@ quellen:
   - raw/maritim/2026-10-03_sonderermittler-der-krone_de_holyshop_folgen-sept-okt-2026.md
   - raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md
   - https://www.sonderermittler-der-krone.de/serien/frankenstein/folge27-finsteres-erbe/
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - frankenstein
   - maritim
@@ -39,6 +46,7 @@ tags:
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge27-finsteres-erbe/>
 - **Verlag:** Maritim (Produktion Holysoft).
 - **Autor:in:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Victor Frankenstein – Dietmar Wunder, Theodora Sachs – Gabrielle Pietermann, Aleister Crowley – Daniel Zillmann. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Dietmar Wunder, Gabrielle Pietermann, Daniel Zillmann, Peter Lontzek, Sönke Städtler, Tanja Lipinski, Janis Zaurins, Marcel Mann, Tilmar Kuhn, Kim Hasper, Jean Coppong, Patrick Holtheuer (DNB; identisch bei Audible und Hörspieltalk). Bastien Lavache hat keine Fanseiten-Figurenseite und ist deshalb nicht zugeordnet (Peter Lontzek steht in der Liste).
 - **Schauplatz:** Draculas ehemaliges Labor in den Karpaten.
 
 ## Hauptfiguren
@@ -81,3 +89,4 @@ tags:
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche-Notiz.
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update (Datum, Spielzeit).
 - HolyShop-Serienseite: <https://shop.holysoft.de/serien/frankenstein-und-der-zirkel-der-sieben/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

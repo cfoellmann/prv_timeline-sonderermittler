@@ -6,7 +6,33 @@ titel: Böses Erwachen
 erschienen: 2022-05-27
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Arthur Janssen
+    name: Dirc Simpson
+  - rolle: Antoine Labrosse
+    name: Christian Rudolf
+  - rolle: Emile Wouters
+    name: Oliver Stritzel
+  - rolle: Yves Merceau
+    name: Tammo Kaulbarsch
+  - rolle: Madame Claire Goossens
+    name: Dagmar Dempe
+  - rolle: Jakob
+    name: Peter Sura
+  - rolle: Pater Renard
+    name: Volker Brandt
+  - rolle: Pierre
+    name: Mario Klischies
+  - rolle: Maurice
+    name: Manuel Straube
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 60
 zirkel: indirekt
 crossover_mit:
@@ -17,6 +43,7 @@ quellen:
   - raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge06-boeses-erwachen/
   - https://shop.holysoft.de/produkte/moriarty-6-boeses-erwachen-3043/
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - moriarty
   - maritim
@@ -32,6 +59,7 @@ tags:
 - **Erscheinungsdatum:** 27.05.2022.
 - **Spielzeit:** 60 Minuten.
 - **Verlag:** Maritim.
+- **Sprecher:** James Moriarty – Andreas Fröhlich, Theodora Sachs – Gabrielle Pietermann, Oscar Wilde – Sascha Rotermund, Arthur Janssen – Dirc Simpson, Antoine Labrosse – Christian Rudolf, Emile Wouters – Oliver Stritzel, Yves Merceau – Tammo Kaulbarsch, Madame Claire Goossens – Dagmar Dempe, Jakob – Peter Sura, Pater Renard – Volker Brandt, Pierre – Mario Klischies, Maurice – Manuel Straube, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (Artikel „Böses Erwachen“; für die Rollen Einzelquelle); die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten. Alle Namen zusätzlich durch DNB und Raute Media bestätigt.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge06-boeses-erwachen/>
 
 ## Hauptfiguren
@@ -60,3 +88,4 @@ James Moriarty und Theodora Sachs forschen in Calais nach zwei Flüchtigen. Bald
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](../../raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge06-boeses-erwachen/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-6-boeses-erwachen-3043/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

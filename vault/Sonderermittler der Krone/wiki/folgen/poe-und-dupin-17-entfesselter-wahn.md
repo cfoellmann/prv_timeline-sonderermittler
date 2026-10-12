@@ -6,6 +6,13 @@ titel: Entfesselter Wahn
 erschienen: 2022-06-24
 verlag: Maritim
 autor: "Markus Duschek"
+sprecher:
+  - rolle: Erzähler
+    name: Douglas Welbat
+  - rolle: Edgar Allan Poe
+    name: Uve Teschner
+  - rolle: Auguste Dupin
+    name: Manfred Lehmann
 spielzeit_min: 60
 zirkel: direkt
 spoiler_level: grob
@@ -15,6 +22,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - gaston-morell
   - massenvernichtungswaffe
@@ -32,6 +40,7 @@ tags:
 - **Erscheinungsdatum:** 24.06.2022 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 60 min
 - **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Erzähler – Douglas Welbat, Edgar Allan Poe – Uve Teschner, Auguste Dupin – Manfred Lehmann. Erzähler laut Serienseite der Fanseite. *Übrige Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Douglas Welbat, Manfred Lehmann, Uve Teschner, Markus Pfeiffer, Hans-Jürgen Dittberner, Torsten Michaelis, Wolfgang Condrus, Robert Louis Griesbach Sebastian Winkler, Oliver Stritzel, Sarah Alles, Christian Rudolf, Tanja Fornaro, Friedel Morgenstern, Rainer Fritzsche, Detlef Tams, Lutz Mackensy, Sebastian Winkler (Raute Media, CD; Audible).
 - **Zirkel-Bezug:** Direkt
 
 ## Handlung
@@ -48,3 +57,4 @@ Noch ist der wahnsinnige Professor Deragon in einer abgelegenen Anstalt eingespe
 
 - [raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md](../../raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md)
 - Offizielle Seite: <https://www.sonderermittler-der-krone.de/serien/poe-und-dupin/folge17-entfesselter-wahn/>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

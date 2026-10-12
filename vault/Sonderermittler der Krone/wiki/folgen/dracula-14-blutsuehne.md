@@ -6,7 +6,15 @@ titel: Blutsühne
 erschienen: 2024-08-30
 verlag: Maritim
 autor: "Marc Freund"
-sprecher: []
+sprecher:
+  - rolle: Dracula
+    name: Torsten Michaelis
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: Dr. Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Bastien Lavache
+    name: Peter Lontzek
 spielzeit_min: 72
 zirkel: direkt
 crossover_mit:
@@ -19,6 +27,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - dracula
   - zirkel-der-sieben
@@ -37,6 +46,7 @@ tags:
 - **Erscheinungsdatum:** 30.08.2024 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 72 Minuten
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Dracula – Torsten Michaelis, Aleister Crowley – Daniel Zillmann, Dr. Victor Frankenstein – Dietmar Wunder, Bastien Lavache – Peter Lontzek. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Torsten Michaelis, Dietmar Wunder, Gabrielle Pietermann, Daniel Zillmann, Peter Lontzek, Reent Reins, Douglas Welbat, Victoria Sturm, Martin Sabel, Joachim Tennstedt, Sebastian Winkler, Magdalena Höfner, Marcel Collé, Reinhard Scheunemann, Julia Casper, Lutz Mackensy (DNB, Datensatz der Download-Ausgabe; Audible nennt eine gekürzte Teilmenge).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/dracula/folge14-blutsuehne/>
 
@@ -59,3 +69,4 @@ Die Folge zeigt die Zusammenarbeit mehrerer Zirkel-Mitglieder (Dracula, Frankens
 
 - [raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md](../../raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/dracula/folge14-blutsuehne/>
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).

@@ -6,7 +6,29 @@ titel: Am Abgrund der Nacht
 erschienen: 2020-10-09
 verlag: Maritim
 autor: "Marc Freund"
-sprecher: []
+sprecher:
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Robur
+    name: Milton Welsh
+  - rolle: Dracula
+    name: Torsten Michaelis
+  - rolle: Baron Carol Frankenstein
+    name: Jürgen Thormann
+  - rolle: Baronin Selina Frankenstein
+    name: Liane Rudolph
+  - rolle: Alessia
+    name: Magdalena Höfner
+  - rolle: Melina Gottweil
+    name: Sarah Alles
+  - rolle: Lorena
+    name: Maria Koschny
+  - rolle: Herman
+    name: Werner Wilkening
+  - rolle: Dario
+    name: Detlef Tams
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 78
 zirkel: direkt
 crossover_mit: []
@@ -18,6 +40,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -34,6 +57,7 @@ tags:
 - **Erscheinungsdatum:** 09.10.2020 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 78 Minuten
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Victor Frankenstein – Dietmar Wunder, Robur – Milton Welsh, Dracula – Torsten Michaelis, Baron Carol Frankenstein – Jürgen Thormann, Baronin Selina Frankenstein – Liane Rudolph, Alessia – Magdalena Höfner, Melina Gottweil – Sarah Alles, Lorena – Maria Koschny, Herman – Werner Wilkening, Dario – Detlef Tams, Ansage – Lutz Mackensy. Rollen laut Amazon-Vorschau, zitiert im Hörspieltalk-Sammelthread 19728 (für die Rollen Einzelquelle; die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Alle elf Namen zusätzlich durch DNB und Raute Media bestätigt (dort Magdalena Höfner, Maria Koschny, Werner Wilkening statt der Schreibweisen im Zitat).
 - **Verlag:** Maritim
 - **YouTube:** <https://www.youtube.com/watch?v=Yc8P2I3UoTE>
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge01-am-abgrund-der-nacht/>
@@ -61,3 +85,4 @@ Der begabte Arzt und Wissenschaftler Victor Frankenstein erhält einen Brief, de
 
 - [raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md](../../raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge01-am-abgrund-der-nacht/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

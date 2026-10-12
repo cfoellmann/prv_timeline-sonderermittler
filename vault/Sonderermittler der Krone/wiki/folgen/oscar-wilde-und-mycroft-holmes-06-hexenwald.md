@@ -6,6 +6,29 @@ titel: Hexenwald
 erschienen: 2016-11-11
 verlag: Maritim
 autor: "Jonas Maas"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Abel Hawthorn
+    name: Jaron Löwenberg
+  - rolle: Konrad Wagner
+    name: Michael Pan
+  - rolle: Roland Fuchs
+    name: Bernd Stephan
+  - rolle: Eugen Wiesner
+    name: Sven Dahlem
+  - rolle: Wachtmeister Riek
+    name: Patrick Bach
+  - rolle: Anna Salzinger
+    name: Anita Hopt
+  - rolle: Wirt
+    name: Jürgen Kluckert
+  - rolle: Bestie
+    name: Patrick Holtheuer
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 74
 zirkel: direkt
 crossover_mit: []
@@ -17,6 +40,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - sonderermittler
   - zirkel
@@ -33,6 +57,7 @@ tags:
 - **Erscheinungsjahr (offizielle Seite):** 2016.
 - **Spielzeit:** 74 Minuten.
 - **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Abel Hawthorn – Jaron Löwenberg, Konrad Wagner – Michael Pan, Roland Fuchs – Bernd Stephan, Eugen Wiesner – Sven Dahlem, Wachtmeister Riek – Patrick Bach, Anna Salzinger – Anita Hopt, Wirt – Jürgen Kluckert, Bestie – Patrick Holtheuer, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (für die Rollen Einzelquelle; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD, die übrigen Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). DNB (Digitalausgabe) und Audible führen für OWMH 1–8 einheitlich dieselben fünf Namen (Sascha Rotermund, Reent Reins, Holger Löwenberg, Leonhard Mahlich, Jaron Löwenberg) — eine Serienangabe, keine Folgenbesetzung; die übrigen Namen sind daher nur über Fandom belegt. Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge06-hexenwald/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=gNxc5L1NBXg>
@@ -65,6 +90,7 @@ Als im Schwarzwald mehrere junge Frauen verschwinden, greifen Angst und Aberglau
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Abel-Hawthorn-Recherche 12.10.2026 (Fanseite-Volltextsuche, Fandom-Besetzung, Audible-Sprecherlisten).
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 
 
 

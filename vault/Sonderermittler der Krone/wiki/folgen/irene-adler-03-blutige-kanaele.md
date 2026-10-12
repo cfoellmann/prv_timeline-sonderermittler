@@ -7,7 +7,39 @@ erschienen: 2019-11-15
 verlag: Maritim
 autor: "Marc Freund"
 
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Mister Killjoy
+    name: Matti Klemm
+  - rolle: Adolpho Francese
+    name: Hans-Jürgen Dittberner
+  - rolle: Lorenzo Lando
+    name: Daniel Zillmann
+  - rolle: Pietro Polani
+    name: Udo Schenk
+  - rolle: Marco Celsi
+    name: Martin Sabel
+  - rolle: Tommaso Moro
+    name: Stefan Krause
+  - rolle: Dexter Osborne
+    name: Timo Kinzel
+  - rolle: Marina Contare
+    name: Mia Diekow
+  - rolle: Enrico Morosini
+    name: Volker Brandt
+  - rolle: Antonio Barbarigo
+    name: Oliver Stritzel
+  - rolle: Barista
+    name: Benjamin Oechsle
+  - rolle: Frauen
+    name: Ilona Otto
+  - rolle: Frauen
+    name: Uschi Hugo
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 67
 zirkel: indirekt
 crossover_mit: []
@@ -19,6 +51,7 @@ quellen:
   - https://music.apple.com/at/album/sonderermittlerin-der-krone-folge-3-blutige-kan%C3%A4le/1472521238
   - https://books.apple.com/at/audiobook/irene-adler-sonderermittlerin-der-krone-folge-3-blutige/id1482977858
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - sonderermittler
   - irene-adler
@@ -35,6 +68,7 @@ tags:
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** Arthur Conan Doyle; Marc Freund.
+- **Sprecher:** Irene Adler – Yvonne Greitzke, Mycroft Holmes – Reent Reins, Mister Killjoy – Matti Klemm, Adolpho Francese – Hans-Jürgen Dittberner, Lorenzo Lando – Daniel Zillmann, Pietro Polani – Udo Schenk, Marco Celsi – Martin Sabel, Tommaso Moro – Stefan Krause, Dexter Osborne – Timo Kinzel, Marina Contare – Mia Diekow, Enrico Morosini – Volker Brandt, Antonio Barbarigo – Oliver Stritzel, Barista – Benjamin Oechsle, Frauen – Ilona Otto, Frauen – Uschi Hugo, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (sherlockholmes.fandom.com/de; für die Nebenrollen Einzelquelle, die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Alle Namen durch Raute Media (CD) und Audible bestätigt (außer der Ansage, Lutz Mackensy).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge03-blutige-kanaele/>
 
 ## Hauptfiguren
@@ -63,3 +97,4 @@ In Venedig bittet der reiche Don Francese um Hilfe, weil sein Sohn verschwunden 
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge03-blutige-kanaele/>
 - Apple Music: <https://music.apple.com/at/album/sonderermittlerin-der-krone-folge-3-blutige-kan%C3%A4le/1472521238>
 - Apple Books: <https://books.apple.com/at/audiobook/irene-adler-sonderermittlerin-der-krone-folge-3-blutige/id1482977858>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

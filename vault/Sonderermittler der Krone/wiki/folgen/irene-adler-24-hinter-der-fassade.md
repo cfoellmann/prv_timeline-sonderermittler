@@ -6,7 +6,17 @@ titel: Hinter der Fassade
 erschienen: 2024-10-18
 verlag: Maritim
 autor: "Silke Walter"
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mister Wu
+    name: Michael Pan
+  - rolle: Rasputin
+    name: Tetje Mierendorf
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
 spielzeit_min: 59
 zirkel: direkt
 crossover_mit: []
@@ -17,6 +27,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge24-hinter-der-fassade/
   - https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-24-hinter-der-fassade-4719/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - sonderermittler
   - maritim
@@ -34,6 +45,7 @@ tags:
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Irene Adler – Yvonne Greitzke, Mister Wu – Michael Pan, Rasputin – Tetje Mierendorf, Aleister Crowley – Daniel Zillmann, Theodora Sachs – Gabrielle Pietermann. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Yvonne Greitzke, Michael Pan, Tetje Mierendorf, Daniel Zillmann, Gabrielle Pietermann, Lutz Riedel, Ilona Otto, Dirc Simpson, Marcel Mann, Gosta Liptow, Marc Schülert, Sönke Städtler, Reinhard Scheunemann, Tim Knauer, Lutz Mackensy (Raute Media, CD).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge24-hinter-der-fassade/>
 - **Datumsbeleg:** HolyShop-Produktseite; die offizielle Folgenseite nennt nur das Jahr `2024`.
 
@@ -62,3 +74,4 @@ Kaum aus Southampton zurück, wird Irene Adler in die Bank of England gebeten. D
 - [raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md](../../raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge24-hinter-der-fassade/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-24-hinter-der-fassade-4719/>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

@@ -1,6 +1,7 @@
 ---
 type: figur
 titel: Edgar Allan Poe
+sprecher: Uve Teschner
 fraktion: held
 status: entwurf
 quellen:
@@ -10,6 +11,9 @@ quellen:
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - raw/Sonderermittler_Update_2026-08-17.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - hauptfigur
   - crossover
@@ -20,6 +24,10 @@ tags:
 # Edgar Allan Poe
 
 > Schauerautor, Chronist seines Detektivs — und in der Praxis regelmäßig selbst der Köder. Poe ist das Scharnier, über das der Pariser Ermittler-Strang am restlichen Kosmos hängt.
+
+## Eckdaten
+
+- **Sprecher:** Uve Teschner — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen OWMH 32, 33, 35, 36 und IADK 6; für EAPAD 1 zusätzlich durch eine LovelyBooks-Rezension belegt („Uve Teschner als Edgar Allan Poe“). **Erzähler** der Maritim-Reihe ist Douglas Welbat (Fanseiten-Serienseite).
 
 ## Rolle im Kosmos
 
@@ -121,7 +129,7 @@ Alle 41 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - **Story-Chronologie fehlt komplett:** Keine einzige Poe-Folge hat in `app/data/folgen.json` ein Story-Jahr (`story_praezision: unbekannt` durchgängig). Wann Poes Fälle relativ zu den Londoner Linien spielen, ist offen — auch das Verhältnis von DNAPF 5 (2016 erschienen) zum Serienstart 2018.
 - **„Eine alte Bekannte von Edgar Allan Poe"** in [[wiki/folgen/poe-und-dupin-15-der-schrei-der-bestie|EAPAD 15]] ist im Repo nicht identifiziert. Ob es Sandrine aus Archiv-Folge 10 ist, ist **reine Spekulation**.
 - **Poes „alter Intimfeind"** aus [[wiki/folgen/poe-und-dupin-10-die-strasse-der-drei-gesichter|EAPAD 10]] und der „alte Feind" aus [[wiki/folgen/poe-und-dupin-11-die-daemonen-des-auguste-dupin|EAPAD 11]] werden in den Klappentexten nicht benannt. Ob dahinter Gaston Morell steht, ist offen.
-- **Sprecher unbelegt:** Für Poe ist im Repo keine Sprecherbesetzung erfasst; die Blitz-Folgen führen ihn ausdrücklich mit „unbekannt". Belegt ist nur Douglas Welbat als **Erzähler** der Maritim-Reihe — nicht als Poes Stimme.
+- **Sprecher (aktualisiert 12.10.2026):** Gesprochen von Uve Teschner (Fanseiten-Figurenseite, Fandom, Rezension EAPAD 1), siehe Eckdaten; Douglas Welbat ist Erzähler der Maritim-Reihe. Für die Blitz-Folgen bleibt der Poe-Sprecher unbekannt.
 - **Wilde-&-Poe-Einordnung:** Wie sich die Blitz-Mini-Serie zur Maritim-Hauptreihe verhält (parallel, davor, danach), ist im Repo nicht belegt.
 
 ## Quellen
@@ -132,3 +140,6 @@ Alle 41 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — EAPAD 35 und 36 (Daten, Spielzeiten, Klappentext-Kerne).
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Folgenstand 36 für die Hauptreihe, 4 für die Blitz-Mini-Serie.
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Erstauftritt in DNAPF 5 (12.08.2016) und erste Zusammenarbeit Adler × Poe/Dupin in IADK 6.
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK und EAPAD: Fandom-Rollentabellen IADK 0–15, Fanseite, Raute Media, Audible (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)

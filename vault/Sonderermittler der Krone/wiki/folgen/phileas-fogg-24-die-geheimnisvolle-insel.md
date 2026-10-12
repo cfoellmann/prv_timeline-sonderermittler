@@ -6,6 +6,11 @@ titel: Die geheimnisvolle Insel
 erschienen: 2020-05-08
 verlag: Maritim
 autor: "Marc Freund"
+sprecher:
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
+  - rolle: Aouda
+    name: Annina Braunmiller-Jest
 spielzeit_min: 67
 zirkel: direkt
 crossover_mit:
@@ -19,6 +24,7 @@ quellen:
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
   - https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge24-die-geheimnisvolle-insel/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - ankerfolge
   - insel
@@ -35,6 +41,7 @@ tags:
 - **Erscheinungsjahr laut offizieller Seite:** 2020.
 - **Spielzeit:** 67 Minuten.
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Dietmar Wunder, Torsten Michaelis, Thomas Nero Wolff, Kerstin Draeger, Daniel Zillmann, Alexander Turrek, Timo Kinzel, Tommi Piper, Julian Deuster, Patrick Holtheuer (DNB-Katalog der Digitalausgabe, Audible).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge24-die-geheimnisvolle-insel/>
 - **Timeline-Notiz:** Zweikampf Frankenstein vs. Dracula.
@@ -59,3 +66,4 @@ Nach einer dramatischen Reise über die Weltmeere zwingt ein Unwetter Phileas Fo
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md)
 - [raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md](../../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge24-die-geheimnisvolle-insel/>
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

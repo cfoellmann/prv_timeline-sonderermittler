@@ -6,7 +6,13 @@ titel: Der Teufel von Cat Rock
 erschienen: 2026-07-31
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Mata Hari
+    name: Katja Keßler
 spielzeit_min: 64
 zirkel: direkt
 crossover_mit:
@@ -17,6 +23,7 @@ quellen:
   - raw/Sonderermittler_Update_2026-08-17.md
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge26-der-teufel-von-cat-rock/
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - moriarty
   - maritim
@@ -33,6 +40,7 @@ tags:
 - **Spielzeit:** 64 Minuten.
 - **Verlag:** Maritim (Produktion Holysoft).
 - **Autor:in:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich, Victor Frankenstein – Dietmar Wunder, Mata Hari – Katja Keßler. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Dietmar Wunder, Katja Keßler, Kim Hasper, Daniela Hoffmann, Florian Clyde, Mario Klischies, Marc Schülert, Robert Louis Griesbach, Marcel Collé, Lea Kalbhenn, Detlef Tams, Maria Koschny, Felix Strüven, Oliver Stritzel (DNB; identisch bei Hörspieltalk; Audible gekürzt).
 - **Schauplatz:** Atlantik und die Insel Cat Rock.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge26-der-teufel-von-cat-rock/>
 
@@ -68,3 +76,4 @@ tags:
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge26-der-teufel-von-cat-rock/>
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche-Notiz.
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update (Datum, Spielzeit).
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

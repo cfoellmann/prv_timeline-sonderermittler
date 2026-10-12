@@ -3,10 +3,13 @@ type: figur
 titel: Jonathan Harker
 aliase:
   - Jonathan
+sprecher: Martin Sabel
 status: entwurf
 quellen:
   - raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - dracula-gegner
   - wiederkehrende-figur
@@ -15,6 +18,10 @@ tags:
 # Jonathan Harker
 
 > Von [[wiki/figuren/dracula|Dracula]] manipulierter Auslöser der Dracula-Reihe, der später selbst zum Vampirjäger wird.
+
+## Eckdaten
+
+- **Sprecher:** Martin Sabel — rollengenau in den Fandom-Besetzungstabellen OWMH 32, 33, 35, 36; die Traumwelt-Rezension zur DRAC-Box 1 bestätigt ihn.
 
 ## Rolle im Kosmos
 
@@ -47,3 +54,5 @@ Harker ist die Figur, über die Dracula in [[wiki/folgen/dracula-01-erbe-des-boe
 
 - [raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md](../../raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md) — offizielle Folgen-Seiten der Dracula-Reihe.
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Auftritt in SH 23.
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)

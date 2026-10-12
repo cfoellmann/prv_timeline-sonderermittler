@@ -1,10 +1,13 @@
 ---
 type: figur
 titel: Gaston Morell
+sprecher: Wolfgang Condrus
 fraktion: antagonistisch
 status: entwurf
 quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - zirkel-mitglied
   - antagonist
@@ -21,6 +24,7 @@ tags:
 - **Aufnahme in den Zirkel:** EAPAD 13 "Aufnahmeprüfung"
 - **Fraktion:** [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]]
 - **Schreibweise:** Gaston **Morell** mit Doppel-l (laut Löchel-Kommentar)
+- **Sprecher:** Wolfgang Condrus — rollengenau in den Fandom-Besetzungstabellen OWMH 31, 33–36 (Fandom schreibt „Gaston Morel“).
 
 ## Charakterisierung
 
@@ -59,3 +63,5 @@ In manchen Quellen taucht die Schreibweise "Gaston Morel" (mit einem l) auf. Lau
 ## Quellen
 
 - [raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md](../../raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md)
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)

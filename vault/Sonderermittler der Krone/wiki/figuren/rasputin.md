@@ -1,11 +1,16 @@
 ---
 type: figur
 titel: Rasputin
+sprecher: Tetje Mierendorf
 fraktion: antagonistisch
 status: entwurf
 quellen:
   - raw/maritim/2026-04-30_irene-adler_folgen-00-bis-10.md
   - raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - zirkel-mitglied
   - antagonist
@@ -22,6 +27,7 @@ tags:
 - **Erstauftritt:** [[wiki/folgen/irene-adler-04-sankt-petersburg-express|Irene Adler 4 – Sankt Petersburg Express]] (14.02.2020)
 - **Fraktion:** [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]]
 - **Rolle:** Okkultist, Intrigant gegen die Krone
+- **Sprecher:** Tetje Mierendorf — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen OWMH 29, 31–36, 41 und IADK 4; in den übrigen Reihen nach der Ableitungsregel eingetragen.
 
 ## Charakterisierung
 
@@ -71,3 +77,7 @@ Rasputin wird im Kosmos als mystische und politisch gefährliche Figur dargestel
 
 - [raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md](../../raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md)
 - [raw/maritim/2026-04-30_irene-adler_folgen-00-bis-10.md](../../raw/maritim/2026-04-30_irene-adler_folgen-00-bis-10.md)
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK und EAPAD: Fandom-Rollentabellen IADK 0–15, Fanseite, Raute Media, Audible (12.10.2026)
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)

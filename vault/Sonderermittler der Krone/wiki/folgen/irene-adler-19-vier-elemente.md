@@ -7,7 +7,17 @@ erschienen: 2024-01-19
 verlag: Maritim
 autor: "Silke Walter"
 
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mister Wu
+    name: Michael Pan
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Mister Killjoy
+    name: Matti Klemm
 spielzeit_min: 59
 zirkel: direkt
 crossover_mit: []
@@ -19,6 +29,7 @@ quellen:
   - https://www.rautemedia.de/produkt/irene-adler-sonderermittlerin-der-krone-19-vier-elemente/
   - https://books.apple.com/au/audiobook/irene-adler-sonderermittlerin-der-krone-folge-19-vier/id1718510432
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - irene-adler
   - maritim
@@ -39,6 +50,7 @@ tags:
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Irene Adler – Yvonne Greitzke, Mister Wu – Michael Pan, Aleister Crowley – Daniel Zillmann, Theodora Sachs – Gabrielle Pietermann, Mister Killjoy – Matti Klemm. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Yvonne Greitzke, Michael Pan, Gabrielle Pietermann, Daniel Zillmann, Matti Klemm, Stefan Krause, Reinhard Scheunemann, Arianne Borbach, Till Hagen, Dagmar Dreke, Engelbert von Nordhausen, Jean Coppong, Patrick Holtheuer, Liane Rudolph, Lutz Mackensy (Raute Media, CD; Audible).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge19-vier-elemente/>
 
 ## Hauptfiguren
@@ -69,3 +81,4 @@ Nach der Rückkehr aus Chile warten in London sofort neue Aufgaben auf Irene Adl
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge19-vier-elemente/>
 - Raute Media (Datumsbeleg): <https://www.rautemedia.de/produkt/irene-adler-sonderermittlerin-der-krone-19-vier-elemente/>
 - Apple Books (Datumsbeleg): <https://books.apple.com/au/audiobook/irene-adler-sonderermittlerin-der-krone-folge-19-vier/id1718510432>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

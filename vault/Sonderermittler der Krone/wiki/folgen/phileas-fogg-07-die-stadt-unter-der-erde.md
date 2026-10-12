@@ -6,6 +6,33 @@ titel: Die Stadt unter der Erde
 erschienen: 2016-11-25
 verlag: Maritim
 autor: "Marc Freund"
+sprecher:
+  - rolle: Erzähler (Jules Verne)
+    name: Christian Brückner
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
+  - rolle: Aouda
+    name: Annina Braunmiller-Jest
+  - rolle: Passepartout
+    name: Marius Clarén
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Simon Ford
+    name: Bernd Stephan
+  - rolle: Harry Ford
+    name: Rainer Fritzsche
+  - rolle: James Starr
+    name: Joachim Tennstedt
+  - rolle: Silfax
+    name: Peter Weis
+  - rolle: Nell
+    name: Florentine Draeger
+  - rolle: Jack Ryan
+    name: Wolfgang Bahro
+  - rolle: Reisende
+    name: Patrick Holtheuer
+  - rolle: Reisende
+    name: Nils Rieke
 spielzeit_min: 70
 zirkel: kein
 crossover_mit: []
@@ -17,6 +44,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - schottland
   - mine
@@ -33,6 +61,7 @@ tags:
 - **Erscheinungsdatum:** 25.11.2016 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 70 Minuten.
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Passepartout – Marius Clarén, Victor Frankenstein – Dietmar Wunder, Simon Ford – Bernd Stephan, Harry Ford – Rainer Fritzsche, James Starr – Joachim Tennstedt, Silfax – Peter Weis, Nell – Florentine Draeger, Jack Ryan – Wolfgang Bahro, Reisende – Patrick Holtheuer, Reisende – Nils Rieke. Rollen laut Hoerspiel-Freunde.de, Beitrag #189 von „Captain Blitz" (All Ears GmbH), 27.11.2016 — für die übrigen Rollen Einzelquelle; Erzähler, Phileas Fogg, Aouda und Passepartout decken sich mit der Verlagsmitteilung zur Stammbesetzung (2015), der Erzähler zusätzlich mit dem DNB-Katalogeintrag der CD. Die Handelslisten nennen nur Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest (DNB-Katalog der Digitalausgabe, Audible).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge07-die-stadt-unter-der-erde/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=FUDr8EAgrHg>
@@ -58,3 +87,4 @@ Im schottischen Stirling glaubt der alte Minenarbeiter Simon Ford weiter an ein 
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge07-die-stadt-unter-der-erde/>
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

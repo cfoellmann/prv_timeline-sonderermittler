@@ -6,7 +6,11 @@ titel: Die sieben Leben des Carter Roth
 erschienen: 2024-06-21
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: Sherlock Holmes
+    name: Charles Rettinghaus
+  - rolle: Dr. John H. Watson
+    name: Florian Halm
 spielzeit_min: 60
 zirkel: direkt
 crossover_mit:
@@ -18,6 +22,7 @@ quellen:
   - raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md
   - https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge08-die-sieben-leben-des-carter-roth/
   - https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-8-die-sieben-leben-des-carter-roth-4577/
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - sherlock-holmes
   - maritim
@@ -35,6 +40,7 @@ tags:
 - **Spielzeit:** 60 Minuten.
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Sherlock Holmes – Charles Rettinghaus, Dr. John H. Watson – Florian Halm. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Charles Rettinghaus, Florian Halm, Uschi Hugo, Brian Sommer, Katja Keßler, Robert Louis Griesbach, Tilmar Kuhn, Stephan Chrzescinski, Stefan Krause, Arianne Borbach, Lutz Mackensy (Raute Media, CD-Ausgabe; Audible nennt keine weiteren Namen).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge08-die-sieben-leben-des-carter-roth/>
 
 ## Hauptfiguren
@@ -63,3 +69,4 @@ Carter Roth wird nach einem Sturz schwer verletzt ins Krankenhaus eingeliefert, 
 - [raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md](../../raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge08-die-sieben-leben-des-carter-roth/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-8-die-sieben-leben-des-carter-roth-4577/>
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).

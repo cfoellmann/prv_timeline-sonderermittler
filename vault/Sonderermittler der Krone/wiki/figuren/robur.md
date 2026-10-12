@@ -1,11 +1,17 @@
 ---
 type: figur
 titel: Robur
+sprecher: Milton Welsh
 fraktion: antagonistisch
 status: entwurf
 quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - zirkel-mitglied
   - antagonist
@@ -21,6 +27,7 @@ tags:
 - **Erstauftritt im aktuellen Repo-Stand:** [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken|DNAPF 3 - Krieg in den Wolken]] am 26.02.2016.
 - **Rolle im Kosmos:** technischer Gegenspieler, später wiederkehrender Zirkel-Akteur.
 - **Auffälligkeit:** Laut Chronologie stirbt Robur früh in DNAPF 4, kehrt aber in [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette|DNAPF 26]] in einem neuen Körper zurück.
+- **Sprecher:** Milton Welsh — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen OWMH 30, 31, 33, 34 und IADK 6, 9, 10, 12 sowie in der Rollenliste FRANK 1. **Sprecherwechsel:** In der ersten Staffel der Fogg-Reihe sprach laut Verlagsmitteilung zur Stammbesetzung (2015) **Hartmut Neugebauer** den Robur; [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken|DNAPF 3]] bleibt deshalb ohne Zuordnung (Neugebauer fehlt in der Sprecherliste). Ab DNAPF 35/36 steht Milton Welsh in den Listen. Nicht zugeordnet wegen widersprüchlicher Listen: MOR 18 (DNB/Audible Welsh, Raute Media/Hörspieltalk an derselben Stelle Katja Keßler) und FRANK 10 (Welsh fehlt bei Raute Media).
 
 ## Auftritte im aktuellen Repo-Stand
 
@@ -77,3 +84,8 @@ Alle 30 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 
 - [raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md](../../raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md)
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md)
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA: Verlagsmitteilung zur Stammbesetzung 2015, Rollenlisten, DNB 245 $c (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK und EAPAD: Fandom-Rollentabellen IADK 0–15, Fanseite, Raute Media, Audible (12.10.2026)
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR und FRANK: DNB, Raute Media, Fandom MOR 0–8, Hörspieltalk (12.10.2026)

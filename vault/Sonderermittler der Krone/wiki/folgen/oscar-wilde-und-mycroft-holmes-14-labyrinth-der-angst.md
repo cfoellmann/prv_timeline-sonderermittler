@@ -6,6 +6,31 @@ titel: Labyrinth der Angst
 erschienen: 2018-03-30
 verlag: Maritim
 autor: "Jonas Maas"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Henry Wheeler
+    name: Holger Löwenberg
+  - rolle: Violet Ishiguro
+    name: Mia Diekow
+  - rolle: Mr. Mink
+    name: Peter Kirchberger
+  - rolle: Captain Wendell
+    name: Tobias Schmidt
+  - rolle: McNair
+    name: Lutz Riedel
+  - rolle: Herbert "Herbie" Pollock
+    name: Christian Zeiger
+  - rolle: Ning
+    name: Sven Plate
+  - rolle: Archer
+    name: Wolf Frass
+  - rolle: Quentin Peacock
+    name: Norbert Langer
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 70
 zirkel: direkt
 crossover_mit: []
@@ -16,6 +41,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge14-labyrinth-der-angst/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - sonderermittler
   - zirkel
@@ -32,6 +58,7 @@ tags:
 - **Erscheinungsjahr (offizielle Seite):** 2018.
 - **Spielzeit:** 70 Minuten.
 - **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Henry Wheeler – Holger Löwenberg, Violet Ishiguro – Mia Diekow, Mr. Mink – Peter Kirchberger, Captain Wendell – Tobias Schmidt, McNair – Lutz Riedel, Herbert "Herbie" Pollock – Christian Zeiger, Ning – Sven Plate, Archer – Wolf Frass, Quentin Peacock – Norbert Langer, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (für die Rollen Einzelquelle; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD, die übrigen Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). 9 der 12 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe, inhaltlich gleich Audible; dort auf 9 Namen gekürzt). Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge14-labyrinth-der-angst/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=YBsmsz-ys-0>
@@ -62,6 +89,7 @@ Ein Entführer zwingt Oscar Wilde und seine Verbündeten, binnen 48 Stunden an g
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge14-labyrinth-der-angst/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 
 
 

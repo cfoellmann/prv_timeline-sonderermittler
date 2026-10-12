@@ -6,7 +6,9 @@ titel: Familienbande
 erschienen: 2023-09-01
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
 spielzeit_min: 62
 zirkel: indirekt
 crossover_mit: []
@@ -16,6 +18,7 @@ quellen:
   - raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge10-familienbande/
   - https://shop.holysoft.de/produkte/moriarty-10-familienbande-4269/
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - moriarty
   - maritim
@@ -30,6 +33,7 @@ tags:
 - **Erscheinungsdatum:** 01.09.2023.
 - **Spielzeit:** 62 Minuten.
 - **Verlag:** Maritim.
+- **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Martin Keßler, Engelbert von Nordhausen, Maria Koschny, Friedel Morgenstern, Jörg Pintsch, Susanne Meikl, Marcel Mann, Dagmar Dempe, Brian Sommer, Kaspar Eichel, Christian Rudolf, Magdalena Höfner, Lutz Riedel, Lutz Mackensy (DNB; identisch bei Raute Media; Audible gekürzt).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge10-familienbande/>
 
 ## Hauptfiguren
@@ -55,3 +59,4 @@ James Moriarty ist in den Vereinigten Staaten von Amerika im Hause der Familie L
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](../../raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge10-familienbande/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-10-familienbande-4269/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

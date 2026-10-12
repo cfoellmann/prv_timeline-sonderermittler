@@ -6,6 +6,9 @@ titel: Das Erbe der Isais
 erschienen: 2025-06-06
 verlag: Maritim
 autor: "Marc Freund"
+sprecher:
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
 spielzeit_min: 71
 zirkel: kein
 crossover_mit: []
@@ -17,6 +20,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - isais
   - britisches-museum
@@ -33,6 +37,7 @@ tags:
 - **Erscheinungsdatum:** 06.06.2025 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 71 Minuten.
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Phileas Fogg – Sascha Draeger. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Charles Rettinghaus, Sebastian Winkler, Maria Koschny, Dirc Simpson, Uwe Büschken, Robert Louis Griesbach, Mario Klischies, Lutz Riedel, Till Hagen (DNB-Katalog der Digitalausgabe, Hörspieltalk-Thread 26946).
 - **Verlag:** Maritim.
 
 ## Hauptfiguren
@@ -51,3 +56,4 @@ Bei einem Einbruch ins Britische Museum wird der schwarze Spiegel des Magiers Jo
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge45-das-erbe-der-isais/>
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

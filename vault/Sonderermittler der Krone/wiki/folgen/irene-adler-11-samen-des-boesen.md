@@ -7,7 +7,41 @@ erschienen: 2021-12-10
 verlag: Maritim
 autor: "Marc-Oliver Bischoff"
 
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Mister Wu
+    name: Michael Pan
+  - rolle: Mister Killjoy
+    name: Matti Klemm
+  - rolle: Grace
+    name: Florentine Draeger
+  - rolle: Lord Sowerby
+    name: Hans-Eckart Eckhardt
+  - rolle: Dr. Joseph Banks
+    name: Marc Schülert
+  - rolle: Antônio José Júnior
+    name: Marcel Mann
+  - rolle: Jacaré
+    name: Felix Strüven
+  - rolle: Mandioca
+    name: Sina Zadra
+  - rolle: Sepé
+    name: Stefan Krause
+  - rolle: Cortes
+    name: Alexander Turrek
+  - rolle: Pedro Valdez
+    name: Tom Solo
+  - rolle: Alvarado
+    name: Wolfgang Bahro
+  - rolle: Xingu
+    name: Alexander Kruuse Mettin
+  - rolle: Xingu
+    name: Patrick Holtheuer
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 72
 zirkel: unklar
 crossover_mit: []
@@ -18,6 +52,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge11-samen-des-boesen/
   - https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-11-samen-des-boesen-2585/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - irene-adler
   - maritim
@@ -36,6 +71,7 @@ tags:
 - **Autor:in:** Marc-Oliver Bischoff (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher:** Irene Adler – Yvonne Greitzke, Mycroft Holmes – Reent Reins, Mister Wu – Michael Pan, Mister Killjoy – Matti Klemm, Grace – Florentine Draeger, Lord Sowerby – Hans-Eckart Eckhardt, Dr. Joseph Banks – Marc Schülert, Antônio José Júnior – Marcel Mann, Jacaré – Felix Strüven, Mandioca – Sina Zadra, Sepé – Stefan Krause, Cortes – Alexander Turrek, Pedro Valdez – Tom Solo, Alvarado – Wolfgang Bahro, Xingu – Alexander Kruuse Mettin, Xingu – Patrick Holtheuer, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (sherlockholmes.fandom.com/de; für die Nebenrollen Einzelquelle, die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Alle Namen durch Raute Media (CD) und Audible bestätigt.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge11-samen-des-boesen/>
 
 ## Hauptfiguren
@@ -63,3 +99,4 @@ Im Amazonasbecken ist ein Forscher der Royal Botanic Society verschwunden, der f
 - [raw/maritim/2026-04-30_irene-adler_folgen-11-bis-21.md](../../raw/maritim/2026-04-30_irene-adler_folgen-11-bis-21.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge11-samen-des-boesen/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-11-samen-des-boesen-2585/>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

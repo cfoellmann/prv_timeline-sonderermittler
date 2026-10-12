@@ -6,6 +6,39 @@ titel: Zeitenwechsel
 erschienen: 2016-03-11
 verlag: Maritim
 autor: "Jonas Maas"
+sprecher:
+  - rolle: Intro
+    name: Lutz Mackensy
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Henry Wheeler
+    name: Holger Löwenberg
+  - rolle: Dr. Benjamin Payton
+    name: Leonhard Mahlich
+  - rolle: Albert Henslow
+    name: Konrad Bösherz
+  - rolle: Ronald Fester
+    name: Hartmut Neugebauer
+  - rolle: Quentin Gowan-Trellows 2. Earl of Sussex
+    name: Lutz Schnell
+  - rolle: Lady Margret Gowan-Trellows
+    name: Annina Braunmiller-Jest
+  - rolle: Gifford, Butler der Familie Trellows
+    name: Bodo Wolf
+  - rolle: Der Reisende zwischen den Welten, Antonio Gravon
+    name: Frank Felicetti
+  - rolle: Diener
+    name: Wolfgang Bahro
+  - rolle: Constable
+    name: Gerald Paradies
+  - rolle: Kutscher Poole
+    name: Alexander Turrek
+  - rolle: Mann 1
+    name: Patrick Holtheuer
+  - rolle: Mann 2
+    name: Martin Sabel
 spielzeit_min: 79
 zirkel: indirekt
 crossover_mit: []
@@ -15,6 +48,7 @@ quellen:
   - raw/maritim/2026-04-27_owmh_serien-und-folge-01.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - pilot
   - sonderermittler
@@ -33,6 +67,7 @@ tags:
 - **Erscheinungsdatum:** 11. März 2016.
 - **Spielzeit:** 79 Minuten.
 - **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Intro – Lutz Mackensy; Oscar Wilde – Sascha Rotermund; Mycroft Holmes – Reent Reins; Henry Wheeler – Holger Löwenberg; Dr. Benjamin Payton – Leonhard Mahlich; Albert Henslow – Konrad Bösherz; Ronald Fester – Hartmut Neugebauer; Quentin Gowan-Trellows 2. Earl of Sussex – Lutz Schnell; Lady Margret Gowan-Trellows – Annina Braunmiller-Jest; Gifford, Butler der Familie Trellows – Bodo Wolf; Der Reisende zwischen den Welten, Antonio Gravon – Frank Felicetti; Diener – Wolfgang Bahro; Constable – Gerald Paradies; Kutscher Poole – Alexander Turrek; Mann 1 – Patrick Holtheuer; Mann 2 – Martin Sabel. Rollen laut Besetzungstabelle des Fandom-Wikis (für die Rollen Einzelquelle; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD, die übrigen Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). DNB (Digitalausgabe) und Audible führen für OWMH 1–8 einheitlich dieselben fünf Namen (Sascha Rotermund, Reent Reins, Holger Löwenberg, Leonhard Mahlich, Jaron Löwenberg) — eine Serienangabe, keine Folgenbesetzung; die übrigen Namen sind daher nur über Fandom belegt. Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Verlag:** Maritim.
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=ROTni_-1ay8>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-01.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-01.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-01.jpg>)*
@@ -75,6 +110,7 @@ tags:
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Sprecher-Erstauftritte, In-Universe-Jahr.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge01-zeitenwechsel/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 
 
 

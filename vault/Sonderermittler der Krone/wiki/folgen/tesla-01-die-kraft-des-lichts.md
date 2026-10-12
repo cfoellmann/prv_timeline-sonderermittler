@@ -6,7 +6,15 @@ titel: Die Kraft des Lichts
 erschienen: 2024-12-13
 verlag: Blitz Verlag
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: Nikola Tesla
+    name: Patrick Winczewski
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Robur
+    name: Milton Welsh
 spielzeit_min: 55
 zirkel: direkt
 crossover_mit:
@@ -17,6 +25,7 @@ quellen:
   - raw/maritim/2026-04-28_tesla_folgen-01-08.md
   - raw/deep-research-report.md
   - https://www.sonderermittler-der-krone.de/serien/tesla/folge01-im-spannungsfeld/
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - sonderermittler
   - blitz
@@ -36,6 +45,7 @@ tags:
 - **Spielzeit:** 55 Minuten.
 - **Verlag:** Blitz Verlag.
 - **Autor:** Silke Walter (laut Thalia).
+- **Sprecher (Auswahl):** Nikola Tesla – Patrick Winczewski, James Moriarty – Andreas Fröhlich, Theodora Sachs – Gabrielle Pietermann, Robur – Milton Welsh. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Patrick Winczewski, Andreas Fröhlich, Gabrielle Pietermann, Milton Welsh, Detlef Tams, Marc Schülert, Dirc Simpson, Gosta Liptow, Uschi Hugo, Sina Zadra (Raute Media, CD-Ausgabe; Audible nennt keine weiteren Namen).
 - **EAN:** 9783689842109 (Thalia).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/tesla/folge01-im-spannungsfeld/> (Slug trotz Titelfehler unverändert)
 
@@ -65,3 +75,4 @@ Nikola Tesla bereitet einen Versuch zur Übertragung von Licht vor, den er der B
 - [raw/maritim/2026-04-28_tesla_folgen-01-08.md](../../raw/maritim/2026-04-28_tesla_folgen-01-08.md)
 - [raw/deep-research-report.md](../../raw/deep-research-report.md) — Titel-Korrektur, EAN, Autor, Handelsdaten.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/tesla/folge01-im-spannungsfeld/>
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).

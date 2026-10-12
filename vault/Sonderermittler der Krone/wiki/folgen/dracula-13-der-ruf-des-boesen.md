@@ -6,7 +6,9 @@ titel: Der Ruf des Bösen
 erschienen: 2024-06-21
 verlag: Maritim
 autor: "Marc Freund"
-sprecher: []
+sprecher:
+  - rolle: Dracula
+    name: Torsten Michaelis
 spielzeit_min: 56
 zirkel: direkt
 crossover_mit: []
@@ -18,6 +20,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - dracula
   - zirkel-der-sieben
@@ -35,6 +38,7 @@ tags:
 - **Erscheinungsdatum:** 21.06.2024 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 56 Minuten
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Dracula – Torsten Michaelis. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Torsten Michaelis, Dietmar Wunder, Daniel Zillmann, Jörg Pintsch, Marcel Mann, Peter Kirchberger, Hans-Jürgen Dittberner, Ulrike Möckel, Florentine Draeger, Stephan Chrzescinski, Dagmar Dreke, Lutz Mackensy (DNB, Datensatz der Download-Ausgabe; Audible nennt eine gekürzte Teilmenge).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/dracula/folge13-der-ruf-des-boesen/>
 
@@ -54,3 +58,4 @@ Die Folge zeigt eine existenzielle Bedrohung für Dracula und den gesamten Zirke
 
 - [raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md](../../raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/dracula/folge13-der-ruf-des-boesen/>
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).

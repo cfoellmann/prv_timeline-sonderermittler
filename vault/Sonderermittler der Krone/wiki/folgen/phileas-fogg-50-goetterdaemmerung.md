@@ -6,6 +6,11 @@ titel: Götterdämmerung
 erschienen: 2026-02-27
 verlag: Maritim
 autor: "Marc Freund"
+sprecher:
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
+  - rolle: Aouda
+    name: Annina Braunmiller-Jest
 spielzeit_min: 139
 zirkel: kein
 crossover_mit: []
@@ -15,6 +20,7 @@ quellen:
   - raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md
   - https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge50-goetterdaemmerung/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - indien
   - isais
@@ -30,6 +36,7 @@ tags:
 - **Erscheinungsdatum:** 27.02.2026.
 - **Spielzeit:** 139 Minuten.
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Konstantin Graudus, Maria Koschny, Stefan Brönneke, Uwe Büschken, Florian Clyde, Dirc Simpson, Markus Pfeiffer, Romanus Fuhrmann, Lea Kalbhenn, Oliver Stritzel (DNB-Katalog der Digitalausgabe, Hörspieltalk-Thread 30072).
 - **Verlag:** Maritim.
 
 ## Hauptfiguren
@@ -48,3 +55,4 @@ Phileas Fogg und seine Gefährten folgen den Spuren eines lange vergessenen Temp
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge50-goetterdaemmerung/>
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

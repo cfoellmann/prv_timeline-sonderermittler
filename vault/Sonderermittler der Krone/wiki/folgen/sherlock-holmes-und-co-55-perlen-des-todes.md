@@ -6,6 +6,17 @@ titel: Perlen des Todes
 erschienen: 2020-09-25
 verlag: Maritim
 autor: "Marc Freund"
+sprecher:
+  - rolle: Sherlock Holmes
+    name: Charles Rettinghaus
+  - rolle: Dr. John Watson
+    name: Florian Halm
+  - rolle: Geoffrey Stafford
+    name: Björn Schalla
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 66
 zirkel: indirekt
 spoiler_level: grob
@@ -16,6 +27,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - vorgaengerreihe
   - grundstein-moriarty
@@ -38,6 +50,7 @@ tags:
 - **Titel:** Perlen des Todes
 - **Verlag:** Maritim
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Sherlock Holmes – Charles Rettinghaus, Dr. John Watson – Florian Halm, Geoffrey Stafford – Björn Schalla, James Moriarty – Andreas Fröhlich, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (für die Rollen Einzelquelle; die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten), Sherlock Holmes – Charles Rettinghaus zusätzlich im DNB-Katalogsatz der CD. Alle 18 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe); Audible nennt die ersten 6 Namen in derselben Reihenfolge. Ohne Rollenangabe in der Fandom-Tabelle: Udo Schenk, Torsten Münchow, Arianne Borbach, Stefan Krause, Jörg Pintsch, Sina Zadra, Janis Zaurins, Tom Solo, Ilona Otto, Bodo Wolf, Alexander Turrek, Patrick Holtheuer, André Teuber. Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Zirkel-Bezug:** Indirekt (am 06.09.2026 von `direkt` angeglichen, siehe unten)
 
 ## Hauptfiguren
@@ -57,3 +70,4 @@ tags:
 - [raw/reviews/2026-04-27_re-releases_recherche-notiz.md](../../raw/reviews/2026-04-27_re-releases_recherche-notiz.md)
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md)
 - [raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md](../../raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md) — DNB-Beleg für die Identität mit MOR 00; Erscheinungsdatum doppelt belegt (Apple Music, Deezer).
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).

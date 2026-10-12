@@ -6,7 +6,9 @@ titel: Der Blaue Lotus
 erschienen: 2026-05-01
 verlag: Maritim
 autor: "Marc Freund"
-sprecher: []
+sprecher:
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
 spielzeit_min: 73
 zirkel: kein
 crossover_mit: []
@@ -17,6 +19,7 @@ quellen:
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge51-der-blaue-lotus/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - phileas-fogg
   - maritim
@@ -33,6 +36,7 @@ tags:
 - **Spielzeit:** 73 Minuten.
 - **Verlag:** Maritim (Produktion Holysoft).
 - **Autor:in:** noch nicht im Repo verifiziert (Stoffgeber: Jules Verne).
+- **Sprecher (Auswahl):** Phileas Fogg – Sascha Draeger. *Phileas Fogg laut DNB-Katalogeintrag der CD (Titelangabe, IDN 1397812303), keine weitere Rollenliste.* Vollständige Liste ohne Rollen: Sascha Draeger, Sascha Rotermund, Yvonne Greitzke, Julia Casper, Patrick Holtheuer, Wanja Gerick, Ilona Otto, Kerstin Draeger, Kim Hasper, Erich Räuker, Tobias Lelle, Gordon Piedesack (DNB-Katalog der Digitalausgabe, Audible, Hörspieltalk-Thread 29986).
 - **Schauplatz:** London und Hongkong.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge51-der-blaue-lotus/>
 
@@ -65,3 +69,4 @@ tags:
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge51-der-blaue-lotus/>
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche-Notiz zur Vault-Lücke.
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update (nennt Folge 51 nicht, Anlass der Nachrecherche).
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

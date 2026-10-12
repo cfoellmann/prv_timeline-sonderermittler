@@ -6,6 +6,15 @@ titel: Die Rückkehr der Angst
 erschienen: 2020-07-03
 verlag: Maritim
 autor: "Markus Duschek"
+sprecher:
+  - rolle: Geoffrey Stafford
+    name: Björn Schalla
+  - rolle: Inspektor Cross
+    name: Rainer Fritzsche
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 57
 zirkel: unklar
 spoiler_level: stub
@@ -15,6 +24,7 @@ quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - vorgaengerreihe
   - sapriel-these
@@ -32,6 +42,7 @@ tags:
 - **Erschienen:** 2020-07-03 (doppelt belegt)
 - **Verlag:** Maritim
 - **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Geoffrey Stafford – Björn Schalla, Inspektor Cross – Rainer Fritzsche, Mycroft Holmes – Reent Reins, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (für die Rollen Einzelquelle; die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten), Geoffrey Stafford – Björn Schalla zusätzlich im DNB-Katalogsatz der CD. Alle 12 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe); Audible nennt die ersten 6 Namen in derselben Reihenfolge. Ohne Rollenangabe in der Fandom-Tabelle: Torsten Michaelis, Victoria Sturm, Wolfgang Bahro, Gordon Piedesack, Eckart Dux, Rüdiger Schulzki, Stefan Krause, Benjamin Oechsle. Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Zirkel-Bezug:** `unklar` — siehe unten. Bis zum 06.09.2026 stand hier `direkt`; das stützte sich allein auf die Löchel-Chronologie.
 
 ## Inhalt laut Klappentext
@@ -67,3 +78,4 @@ Der Verweis des Klappentextes auf **frühere, gescheiterte Ermittlungen in Frank
 - [raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md](../../raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md) — Klappentext, Besetzung, Vier-Quellen-Gegenprüfung
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Ursprung der Sapriel-Deutung (Sekundärquelle)
 - [raw/reviews/2026-04-27_re-releases_recherche-notiz.md](../../raw/reviews/2026-04-27_re-releases_recherche-notiz.md)
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).

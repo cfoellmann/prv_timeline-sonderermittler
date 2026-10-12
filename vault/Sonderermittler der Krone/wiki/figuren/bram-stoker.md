@@ -3,11 +3,14 @@ type: figur
 titel: Bram Stoker
 aliase:
   - Stoker
+sprecher: Hans-Georg Panczak
 status: entwurf
 quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - dracula-gegner
   - historische-figur
@@ -17,6 +20,10 @@ tags:
 # Bram Stoker
 
 > Reale historische Figur des Kosmos, eingeführt im Whitby-/Demeter-Strang der Hauptserie — und später fester Teil der Jagd auf [[wiki/figuren/dracula|Dracula]].
+
+## Eckdaten
+
+- **Sprecher:** Hans-Georg Panczak — rollengenau in den Fandom-Besetzungstabellen OWMH 19, 20, 25, 35, 36 (DNB und Audible schreiben „Panzcak“); die Poldi-Rezensionen zu DRAC 3 und 11 bestätigen ihn.
 
 ## Rolle im Kosmos
 
@@ -55,3 +62,5 @@ In der Dracula-Reihe gehört er dann zur festen Gegenspieler-Gruppe um [[wiki/fi
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — Erstauftritt in OWMH 19.
 - [raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md](../../raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md) — Auftritte in DRAC 5, 10, 15.
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Datum und Anker für OWMH 19.
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)

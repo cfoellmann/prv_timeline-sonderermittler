@@ -6,6 +6,41 @@ titel: Der Knochenhändler
 erschienen: 2019-11-27
 verlag: Maritim
 autor: "Henner Hildebrandt & Thomas Balfour"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Abel Hawthorne
+    name: Jaron Löwenberg
+  - rolle: Professor Benjamn Short
+    name: Volker Brandt
+  - rolle: H. W. Warden
+    name: Markus Pfeiffer
+  - rolle: Clara Youg
+    name: Julia Fölster
+  - rolle: Dr. James Morland
+    name: Udo Schenk
+  - rolle: Tilda
+    name: Christina Ann Zalamea
+  - rolle: Inspektor Morse
+    name: Michael Pan
+  - rolle: Butler
+    name: Peter Kirchberger
+  - rolle: Student 1
+    name: Julian Deuster
+  - rolle: Student 2
+    name: Janis Zaurins
+  - rolle: Straßenkind 1
+    name: Timo Kinzel
+  - rolle: Straßenkind 2
+    name: Luisa Wietzorek
+  - rolle: Schaffner
+    name: Peter Weis
+  - rolle: Kutscher
+    name: Marko Peter Bachmann
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 69
 zirkel: unklar
 crossover_mit: []
@@ -17,6 +52,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - sonderermittler
 ---
@@ -32,6 +68,7 @@ tags:
 - **Erscheinungsjahr (offizielle Seite):** 2019.
 - **Spielzeit:** 69 Minuten.
 - **Autor:in:** Henner Hildebrandt & Thomas Balfour (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Abel Hawthorne – Jaron Löwenberg, Professor Benjamn Short – Volker Brandt, H. W. Warden – Markus Pfeiffer, Clara Youg – Julia Fölster, Dr. James Morland – Udo Schenk, Tilda – Christina Ann Zalamea, Inspektor Morse – Michael Pan, Butler – Peter Kirchberger, Student 1 – Julian Deuster, Student 2 – Janis Zaurins, Straßenkind 1 – Timo Kinzel, Straßenkind 2 – Luisa Wietzorek, Schaffner – Peter Weis, Kutscher – Marko Peter Bachmann, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (für die Rollen Einzelquelle; die übrigen Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Alle 17 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe, inhaltlich gleich Audible). Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge24-der-knochenhaendler/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-24-der-knochenhaendler.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-24-der-knochenhaendler.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-24.jpg>)*
@@ -62,6 +99,7 @@ Als an der Londoner Universität der Kopf einer jungen Frau untersucht werden so
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Abel-Hawthorn-Recherche 12.10.2026 (Fanseite-Volltextsuche, Fandom-Besetzung, Audible-Sprecherlisten).
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 
 
 

@@ -7,7 +7,41 @@ erschienen: 2021-02-12
 verlag: Maritim
 autor: "Marc Freund"
 
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mister Wu
+    name: Michael Pan
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
+  - rolle: Dracula
+    name: Torsten Michaelis
+  - rolle: Frankenstein
+    name: Dietmar Wunder
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Jonathan Healey
+    name: André Beyer
+  - rolle: Huntley Irving
+    name: Sebastian Winkler
+  - rolle: Andrew Dodd
+    name: Ingo Abel
+  - rolle: Pete
+    name: Detlef Tams
+  - rolle: Dempsey
+    name: Kevin Kasper
+  - rolle: Gordon
+    name: Marc Schülert
+  - rolle: Dr. Jacob Mahler
+    name: Peter Kirchberger
+  - rolle: Gernot Hildebrandt
+    name: Romanus Fuhrmann
+  - rolle: Milton
+    name: Alexander Turrek
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 74
 zirkel: direkt
 crossover_mit:
@@ -22,6 +56,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge08-sog-des-verderbens/
   - https://books.apple.com/de/audiobook/irene-adler-sonderermittlerin-der-krone-folge-8-sog/id1551304635
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - sonderermittler
   - irene-adler
@@ -40,6 +75,7 @@ tags:
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** Marc Freund.
+- **Sprecher:** Irene Adler – Yvonne Greitzke, Mister Wu – Michael Pan, Oscar Wilde – Sascha Rotermund, Phileas Fogg – Sascha Draeger, Dracula – Torsten Michaelis, Frankenstein – Dietmar Wunder, Theodora Sachs – Gabrielle Pietermann, Jonathan Healey – André Beyer, Huntley Irving – Sebastian Winkler, Andrew Dodd – Ingo Abel, Pete – Detlef Tams, Dempsey – Kevin Kasper, Gordon – Marc Schülert, Dr. Jacob Mahler – Peter Kirchberger, Gernot Hildebrandt – Romanus Fuhrmann, Milton – Alexander Turrek, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (sherlockholmes.fandom.com/de; für die Nebenrollen Einzelquelle, die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Audible nennt nur sechs Namen, die Raute-Media-Seite trägt irrtümlich die Sprecherliste von Folge 5; die Nebenrollen sind daher nur durch Fandom belegt.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge08-sog-des-verderbens/>
 
 ## Hauptfiguren
@@ -69,3 +105,4 @@ Irene Adler und Phileas Fogg sind auf den Orkney-Inseln in einen Hinterhalt gera
 - [raw/maritim/2026-04-30_irene-adler_folgen-00-bis-10.md](../../raw/maritim/2026-04-30_irene-adler_folgen-00-bis-10.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge08-sog-des-verderbens/>
 - Apple Books: <https://books.apple.com/de/audiobook/irene-adler-sonderermittlerin-der-krone-folge-8-sog/id1551304635>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

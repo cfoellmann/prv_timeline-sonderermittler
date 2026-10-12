@@ -4,6 +4,7 @@ titel: Wu
 aliase:
   - Mister Wu
   - Mr. Wu
+sprecher: Michael Pan
 seite_ermittler: krone
 fraktion: held-umfeld
 zirkel: false
@@ -19,6 +20,10 @@ quellen:
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/deep-research-report.md
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - nebenfigur
   - irene-adler
@@ -29,6 +34,10 @@ tags:
 # Wu
 
 > Der ständige Partner [[wiki/figuren/irene-adler|Irene Adlers]] — offiziell in fast jeder Folge ihrer Reihe gelistet und dennoch die Figur, über die das Repo am wenigsten weiß. Nicht einmal ein Vorname ist belegt.
+
+## Eckdaten
+
+- **Sprecher:** Michael Pan — Stammsprecher laut Fanseiten-Figurenseite; rollengenau („Mister Wu“) in den Fandom-Besetzungstabellen zu [[wiki/folgen/sherlock-holmes-und-co-45-hinter-den-kulissen|SHC 45]], OWMH 35 und 36 sowie IADK 0–14 (außer 3 und 6); steht außerdem in allen Sprecherlisten von FRANK 11, 15, 16 und 20.
 
 ## Rolle im Kosmos
 
@@ -88,7 +97,7 @@ Besonders erwähnenswerte, bislang unverlinkte Stationen:
 ## Theorien & offene Fragen
 
 - **Klarname ungeklärt — offene Hauptfrage.** In keiner Quelle im Repo erscheint mehr als „Wu", „Mr. Wu" oder „Mister Wu". Die offiziellen Figurenlisten schreiben durchgängig nur `Wu`, die Klappentexte `Mr. Wu`. Ein Vorname ist **nicht belegt**, und ob „Wu" Familien- oder Rufname ist, ist ebenfalls offen. Die Seite bleibt deshalb auf `titel: Wu` mit „Mister Wu"/„Mr. Wu" als Aliase; die Vergabe eines Klarnamens wäre reine Erfindung. Der Dateiname `wu.md` weicht damit von der Konvention `<vorname-nachname>.md` ab — nicht aus Nachlässigkeit, sondern weil kein zweiter Namensteil existiert.
-- **Sprecher unsicher.** Die Folgen-Seite zu [[wiki/folgen/sherlock-holmes-und-co-45-hinter-den-kulissen|SHC 45]] und die Konzept-Seite [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes & Co.]] nennen **Michael Pan** als Sprecher. Im Rohmaterial ist Michael Pan zwar in einer Audible-Sprecherliste zur Adler-Reihe enthalten, aber **ohne Rollen-Mapping**; `raw/deep-research-report.md` hält ausdrücklich fest, dass das Rollenmapping ohne offene Credits „nur teilweise belastbar" ist. Die Zuordnung Michael Pan → Wu ist damit im Repo **nicht sauber belegt** und wird hier bewusst nicht ins Frontmatter übernommen. Beim Hören oder über Booklet-Credits prüfen.
+- **Sprecher — Vorbehalt erledigt (12.10.2026).** Bis dahin stand Michael Pan nur in einer Audible-Sprecherliste ohne Rollen-Mapping, die Zuordnung galt deshalb als nicht sauber belegt. Inzwischen ordnen die Fandom-Besetzungstabellen „Mister Wu – Michael Pan“ rollengenau zu (SHC 45, OWMH 35, 36, IADK 0–14), und die Fanseiten-Figurenseite nennt ihn als Stammsprecher. Seitdem im Frontmatter, siehe Eckdaten.
 - **Herkunft, Beruf, Vorgeschichte:** vollständig unbelegt. Der Name legt eine chinesische oder ostasiatische Herkunft nahe, aber keine Quelle im Repo sagt das — deshalb steht hier keine Aussage dazu.
 - **Wie kam Wu zu Irene Adler?** Sein Erstauftritt in SHC 45 liegt vor dem Reihenstart, aber welche Funktion er dort hat und wie die Partnerschaft entsteht, ist im Repo nicht erschlossen. Die SHC-45-Seite steht selbst noch auf `status: stub`.
 - **Der 25–28-Block:** In diesen vier aufeinanderfolgenden Folgen fehlt Wu in den offiziellen Figurenlisten, während Sherlock Holmes an Irenes Seite geführt wird. Ob das eine erzählerische Abwesenheit ist oder nur unvollständige Metadaten auf der Verlagsseite, ist **offen** — auffällig ist, dass es genau der Block direkt vor seinem Verschwinden in IADK 29 ist. Beim Hören klären, ausdrücklich **keine belegte Verbindung**.
@@ -106,3 +115,7 @@ Besonders erwähnenswerte, bislang unverlinkte Stationen:
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — OWMH 51 und 52 mit „Irene Adler und Mr. Wu" im offiziellen Handlungstext.
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Beleg für den Erstauftritt in SHC 45.
 - [raw/deep-research-report.md](../../raw/deep-research-report.md) — Wu als serienübergreifend relevante Figur; Vorbehalt zum Rollenmapping der Sprecher.
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK und EAPAD: Fandom-Rollentabellen IADK 0–15, Fanseite, Raute Media, Audible (12.10.2026)
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR und FRANK: DNB, Raute Media, Fandom MOR 0–8, Hörspieltalk (12.10.2026)

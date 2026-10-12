@@ -5,6 +5,7 @@ aliase:
   - Mr. Killjoy
   - Mister Killjoy
   - Mister Killroy
+sprecher: Matti Klemm
 seite_ermittler: zirkel
 fraktion: zirkel-umfeld
 zirkel: true
@@ -20,6 +21,9 @@ quellen:
   - raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md
   - raw/notes/2026-09-06_shc-ingest_klappentexte-und-kanonpruefung.md
   - raw/deep-research-report.md
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - antagonist
   - zirkel-umfeld
@@ -30,6 +34,10 @@ tags:
 # Killjoy
 
 > Der reihenübergreifende Dauergegner ohne eigene Serie: seit der ersten Irene-Adler-Folge dabei, in fünf Reihen offiziell gelistet — und im Repo ohne belegten Klarnamen.
+
+## Eckdaten
+
+- **Sprecher:** Matti Klemm — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen IADK 9–12 („Mister Killjoy“) sowie IADK 0–4 und [[wiki/folgen/sherlock-holmes-und-co-45-hinter-den-kulissen|SHC 45]], wo Fandom „Mister Killroy“ schreibt. Die IADK-Folgenseiten führen die Rolle als „Mister Killjoy“, SHC 45 wörtlich als „Mister Killroy“ — die Vereinheitlichung ist offen ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 6]]).
 
 ## Rolle im Kosmos
 
@@ -127,3 +135,6 @@ Vollständig nach den offiziellen Figurenlisten im Repo-Stand. Wo der Klappentex
 - [raw/maritim/2026-04-29_wilde-und-adler_folgen-01-bis-04.md](../../raw/maritim/2026-04-29_wilde-und-adler_folgen-01-bis-04.md) — Figurenlisten W&A 3 und 4.
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Figurenliste FRANK 25.
 - [raw/deep-research-report.md](../../raw/deep-research-report.md) — Black-Stone-Chronologie: erster Auftritt von „Mister Killjoy" und Sir John Conroy im Irene-Adler-Kanon.
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK und EAPAD: Fandom-Rollentabellen IADK 0–15, Fanseite, Raute Media, Audible (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)

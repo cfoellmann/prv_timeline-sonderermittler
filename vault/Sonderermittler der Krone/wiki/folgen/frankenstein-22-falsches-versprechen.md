@@ -6,7 +6,15 @@ titel: Falsches Versprechen
 erschienen: 2025-11-28
 verlag: Maritim
 autor: "Silke Walter"
-sprecher: []
+sprecher:
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Mata Hari
+    name: Katja Keßler
 spielzeit_min: 55
 zirkel: direkt
 crossover_mit:
@@ -19,6 +27,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -37,6 +46,7 @@ tags:
 - **Erscheinungsdatum:** 28.11.2025 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 55 Minuten
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Victor Frankenstein – Dietmar Wunder, Theodora Sachs – Gabrielle Pietermann, James Moriarty – Andreas Fröhlich, Mata Hari – Katja Keßler. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Dietmar Wunder, Gabrielle Pietermann, Andreas Fröhlich, Katja Keßler, Gosta Liptow, Felix Strüven, Julia Fölster, Joachim Tennstedt, Sina Zadra (DNB; identisch bei Raute Media, Audible und Hörspieltalk).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge22-falsches-versprechen/>
 
@@ -66,3 +76,4 @@ Gemeinsam mit Theodora Sachs und Mata Hari macht sich Victor Frankenstein auf de
 
 - [raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md](../../raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge22-falsches-versprechen/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

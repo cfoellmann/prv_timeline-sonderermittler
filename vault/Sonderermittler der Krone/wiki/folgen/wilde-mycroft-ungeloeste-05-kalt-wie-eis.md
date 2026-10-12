@@ -6,7 +6,9 @@ titel: Kalt wie Eis
 erschienen: 2026-10-16
 verlag: Blitz Verlag
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
 spielzeit_min: 53
 zirkel: unklar
 crossover_mit: []
@@ -18,6 +20,7 @@ quellen:
   - https://www.xn--hrspieltalk-rfb.de/forum/thread/31505-oscar-wilde-die-ungel%C3%B6sten-f%C3%A4lle-des-mycroft-holmes-05-kalt-wie-eis/
   - raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md
   - https://www.xn--hrspieltalk-rfb.de/forum/thread/30975-oscar-wilde-die-ungel%C3%B6sten-f%C3%A4lle-maritim/
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - sonderermittler
   - blitz
@@ -40,7 +43,7 @@ tags:
 - **Spielzeit:** 53 Minuten (Ankündigung; Apple-Music-Trackssumme 53,5 min).
 - **Verlag:** Blitz Verlag (Apple Music: ℗ 2026 Blitz Verlag; der Verlagsbeitrag trägt `#blitzverlag`).
 - **Autor:in:** noch nicht im Repo verifiziert.
-- **Sprecher:** noch nicht bekannt.
+- **Sprecher (Auswahl):** Oscar Wilde – Sascha Rotermund. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Sascha Rotermund, Björn Schalla, Dirc Simpson, Tobias Schmitz, Christin Marquitan (Audible, Vorbestellseite). Klappentext laut Verlagsvorschau (Hörspieltalk-Thread 31505); eine Fanseiten-Folgenseite gab es am 12.10.2026 noch nicht.
 - **Schauplatz:** die Kleinstadt Falcon.
 
 ## Hauptfiguren
@@ -75,3 +78,4 @@ tags:
 - Ankündigung mit Klappentext und Spielzeit: <https://www.xn--hrspieltalk-rfb.de/forum/thread/31505-oscar-wilde-die-ungel%C3%B6sten-f%C3%A4lle-des-mycroft-holmes-05-kalt-wie-eis/>
 - Apple Music (iTunes Lookup API, Artist 2765844): 2026-10-16, collectionId 6813822873.
 - [raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md](../../raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md) — Recherche vom 12.10.2026: Verlagsankündigung „Am Freitag geht's los" (Screenshot im Sammelthread https://www.xn--hrspieltalk-rfb.de/forum/thread/30975-oscar-wilde-die-ungel%C3%B6sten-f%C3%A4lle-maritim/).
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

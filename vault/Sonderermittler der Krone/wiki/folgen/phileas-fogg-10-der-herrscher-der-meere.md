@@ -6,6 +6,15 @@ titel: Der Herrscher der Meere
 erschienen: 2017-06-16
 verlag: Maritim
 autor: "Markus Topf & Dominik Ahrens"
+sprecher:
+  - rolle: Erzähler (Jules Verne)
+    name: Christian Brückner
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
+  - rolle: Aouda
+    name: Annina Braunmiller-Jest
+  - rolle: Passepartout
+    name: Marius Clarén
 spielzeit_min: 62
 zirkel: direkt
 crossover_mit:
@@ -16,6 +25,7 @@ quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - ankerfolge
   - crossover
@@ -29,6 +39,7 @@ tags:
 
 - **Erscheinungsdatum:** 16.06.2017.
 - **Autor:in:** Markus Topf & Dominik Ahrens (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Passepartout – Marius Clarén. *Erzähler (Jules Verne) laut DNB-Katalogeintrag der CD (Titelangabe, IDN 116607935X), keine weitere Rollenliste.* *Übrige Rollen abgeleitet:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Gudo Hoegel (DNB-Katalog der Digitalausgabe, Audible). Im Klappentext genannt, Stammsprecher:in aber nicht in der Liste, Rolle daher offen: Oscar Wilde (Sascha Rotermund), Mycroft Holmes (Reent Reins).
 - **Verlag:** Maritim.
 - **Arbeitsstand:** Aktuell nur als Crossover-Anker der Chronologie erschlossen.
 - **Timeline-Notiz:** Erste Zusammenarbeit Fogg x Wilde (Doppelfolge mit DNAPF 11).
@@ -55,3 +66,4 @@ tags:
 
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md)
 - [raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md](../../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md)
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

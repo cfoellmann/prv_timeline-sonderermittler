@@ -6,7 +6,11 @@ titel: Mörderjagd
 erschienen: 2022-06-03
 verlag: Maritim
 autor: "Marc Freund"
-sprecher: []
+sprecher:
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Dracula
+    name: Torsten Michaelis
 spielzeit_min: 62
 zirkel: direkt
 crossover_mit: []
@@ -18,6 +22,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -34,6 +39,7 @@ tags:
 - **Erscheinungsdatum:** 03.06.2022 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 62 Minuten
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Victor Frankenstein – Dietmar Wunder, Dracula – Torsten Michaelis. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Dietmar Wunder, Torsten Michaelis, Friedel Morgenstern, Sebastian Fitzner, Brian Sommer, Marc Schülert, Manja Doering, Kaspar Eichel, Andrea Aust, Janis Zaurins, Peter Sura, Lutz Mackensy (DNB; identisch bei Raute Media und Audible).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge06-moerderjagd/>
 
@@ -59,3 +65,4 @@ Auf den Orkney-Inseln hat Frankenstein zwei Ermordete durch eine waghalsige Oper
 
 - [raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md](../../raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge06-moerderjagd/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

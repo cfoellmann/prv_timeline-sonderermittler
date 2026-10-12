@@ -6,7 +6,17 @@ titel: Doppelter Verlust
 erschienen: 2026-02-06
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: Sherlock Holmes
+    name: Charles Rettinghaus
+  - rolle: Dr. John H. Watson
+    name: Florian Halm
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: Rasputin
+    name: Tetje Mierendorf
 spielzeit_min: 55
 zirkel: direkt
 crossover_mit: []
@@ -16,6 +26,7 @@ quellen:
   - raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md
   - https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge19-doppelter-verlust/
   - https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-19-doppelter-verlust-5510/
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - sherlock-holmes
   - maritim
@@ -32,6 +43,7 @@ tags:
 - **Spielzeit:** 55 Minuten.
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Sherlock Holmes – Charles Rettinghaus, Dr. John H. Watson – Florian Halm, Theodora Sachs – Gabrielle Pietermann, Aleister Crowley – Daniel Zillmann, Rasputin – Tetje Mierendorf. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Charles Rettinghaus, Florian Halm, Tetje Mierendorf, Daniel Zillmann, Gabrielle Pietermann, David Hörning, Oliver Stritzel, Jessica Neumann, Mathias Renneisen, Karen Schulz-Vobach, Lutz Riedel, Jean Coppong, Patrick Holtheuer (Raute Media, CD-Ausgabe; Audible nennt keine weiteren Namen).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge19-doppelter-verlust/>
 
 ## Hauptfiguren
@@ -61,3 +73,4 @@ Holmes und Watson machen sich auf die Suche nach dem geheimen Buch des verstorbe
 - [raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md](../../raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge19-doppelter-verlust/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-19-doppelter-verlust-5510/>
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).

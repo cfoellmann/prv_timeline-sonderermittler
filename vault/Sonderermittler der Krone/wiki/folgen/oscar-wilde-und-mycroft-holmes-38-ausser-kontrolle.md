@@ -6,6 +6,37 @@ titel: Außer Kontrolle
 erschienen: 2022-06-10
 verlag: Maritim
 autor: "Jonas Maas"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Violet Ishiguro
+    name: Mia Diekow
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: Doktor Patrick Howls
+    name: Tim Knauer
+  - rolle: Cruz
+    name: Wanja Gerick
+  - rolle: Navarro
+    name: Marc Schülert
+  - rolle: Kapitän Gutierrez
+    name: Detlef Tams
+  - rolle: Edgar von Hallenbach
+    name: Stefan Krause
+  - rolle: Perreira
+    name: Dirc Simpson
+  - rolle: Wan-ta Nek
+    name: Marcel Collé
+  - rolle: Jorge
+    name: André Teuber
+  - rolle: Angreifer
+    name: Jean Coppong
+  - rolle: Gefolgsmann
+    name: Patrick Holtheuer
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 62
 zirkel: unklar
 crossover_mit: []
@@ -16,6 +47,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge38-au%C3%9Fer-kontrolle/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - sonderermittler
 ---
@@ -31,6 +63,7 @@ tags:
 - **Erscheinungsjahr (offizielle Seite):** 2022.
 - **Spielzeit:** 62 Minuten.
 - **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Violet Ishiguro – Mia Diekow, Aleister Crowley – Daniel Zillmann, Doktor Patrick Howls – Tim Knauer, Cruz – Wanja Gerick, Navarro – Marc Schülert, Kapitän Gutierrez – Detlef Tams, Edgar von Hallenbach – Stefan Krause, Perreira – Dirc Simpson, Wan-ta Nek – Marcel Collé, Jorge – André Teuber, Angreifer – Jean Coppong, Gefolgsmann – Patrick Holtheuer, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (für die Rollen Einzelquelle; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD, die übrigen Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Alle 15 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe, inhaltlich gleich Audible). Schreibung nach DNB/Audible bzw. den übrigen Fandom-Tabellen: „Detlef Tams“ (Fandom hier: „Detlef Tam“); „Marc Schülert“ (Fandom hier: „Marc Schüler“). Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge38-au%C3%9Fer-kontrolle/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-38-ausser-kontrolle.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-38-ausser-kontrolle.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-38.jpg>)*
@@ -59,6 +92,7 @@ Nahe einer Goldgräbersiedlung eskalieren rätselhafte Vorfälle unter Mensch un
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge38-au%C3%9Fer-kontrolle/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 
 
 

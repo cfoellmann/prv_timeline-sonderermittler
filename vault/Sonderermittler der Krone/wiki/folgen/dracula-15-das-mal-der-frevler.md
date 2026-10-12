@@ -6,7 +6,19 @@ titel: Das Mal der Frevler
 erschienen: 2024-10-11
 verlag: Maritim
 autor: "Marc Freund"
-sprecher: []
+sprecher:
+  - rolle: Dracula
+    name: Torsten Michaelis
+  - rolle: Dr. Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Abraham Van Helsing
+    name: Douglas Welbat
+  - rolle: Jonathan Harker
+    name: Martin Sabel
+  - rolle: Mina Harker
+    name: Victoria Sturm
+  - rolle: Bram Stoker
+    name: Hans-Georg Panczak
 spielzeit_min: 63
 zirkel: direkt
 crossover_mit:
@@ -19,6 +31,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - dracula
   - zirkel-der-sieben
@@ -37,6 +50,7 @@ tags:
 - **Erscheinungsdatum:** 11.10.2024 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 63 Minuten
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Dracula – Torsten Michaelis, Dr. Victor Frankenstein – Dietmar Wunder, Abraham Van Helsing – Douglas Welbat, Jonathan Harker – Martin Sabel, Mina Harker – Victoria Sturm, Bram Stoker – Hans-Georg Panczak. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Torsten Michaelis, Dietmar Wunder, Gabrielle Pietermann, Daniel Zillmann, Douglas Welbat, Victoria Sturm, Martin Sabel, Hans-Georg Panczak, Andreas Fröhlich, Sebastian Winkler, Magdalena Höfner, Reinhard Scheunemann, Anke Reitzenstein, Jean Coppong, Stephan Chrzescinski, Tilmar Kuhn, Holger Löwenberg, Lutz Mackensy (DNB, Datensatz der Download-Ausgabe; bei Audible nicht als Einzelfolge gelistet).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/dracula/folge15-das-mal-der-frevler/>
 
@@ -59,3 +73,4 @@ Die Folge zeigt eine Krise im Zirkel der Sieben selbst. Draculas Plan ist so ext
 
 - [raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md](../../raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/dracula/folge15-das-mal-der-frevler/>
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).

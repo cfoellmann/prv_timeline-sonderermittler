@@ -6,6 +6,9 @@ titel: Die sieben Seelen des Anubis
 erschienen: 2019-10-18
 verlag: Maritim
 autor: "Marc Freund"
+sprecher:
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
 spielzeit_min: 59
 zirkel: direkt
 crossover_mit:
@@ -18,6 +21,7 @@ quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge21-die-sieben-seelen-des-anubis/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - ankerfolge
   - aegypten
@@ -34,6 +38,7 @@ tags:
 - **Erscheinungsjahr laut offizieller Seite:** 2019.
 - **Spielzeit:** 59 Minuten.
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Phileas Fogg – Sascha Draeger. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Dietmar Wunder, Janis Zaurins, Torsten Michaelis, Helmut Krauss, Robin Brosch, Norbert Langer, Andreas Borcherding, Till Hagen, Alexander Turrek, Julian Deuster, Patrick Holtheuer (DNB-Katalog der Digitalausgabe, Audible).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge21-die-sieben-seelen-des-anubis/>
 - **Titel-Hinweis:** Die offizielle Folgenseite nennt `Die sieben Seelen des Anubis`, während die bisherige Löchel-Chronologie im Repo `Die sieben Steine des Anubis` notiert. Für den Crawl wird der offizielle Folgentitel als primärer Titel geführt; die Chronologienotiz bleibt als abweichender Beleg erhalten.
@@ -64,3 +69,4 @@ In Kairo wird ein Antiquitätenhändler ermordet, und Phileas Fogg wird in die E
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md)
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge21-die-sieben-seelen-des-anubis/>
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

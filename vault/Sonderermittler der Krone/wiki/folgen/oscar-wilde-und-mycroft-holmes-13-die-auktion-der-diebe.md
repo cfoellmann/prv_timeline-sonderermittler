@@ -6,6 +6,37 @@ titel: Die Auktion der Diebe
 erschienen: 2018-01-26
 verlag: Maritim
 autor: "Jonas Maas"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Abel Hawthorn
+    name: Jaron Löwenberg
+  - rolle: Dr. Alfons Grell
+    name: K. Dieter Klebsch
+  - rolle: Andrew Webbercott
+    name: Tobias Lelle
+  - rolle: Felix Perrin
+    name: Tommi Piper
+  - rolle: Der Schatten
+    name: Markus Pfeiffer
+  - rolle: Dr. Gerald Pembroke
+    name: Holger Mahlich
+  - rolle: Riewa
+    name: Michael Pan
+  - rolle: Lord Fuller
+    name: Friedrich Georg Beckhaus
+  - rolle: Hassan
+    name: Rüdiger Schulzki
+  - rolle: Inspektor Finch
+    name: Otto Strecker
+  - rolle: Wachhabender
+    name: Detlef Tams
+  - rolle: Polizist
+    name: Constantin von Westphalen
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 73
 zirkel: unklar
 crossover_mit: []
@@ -16,6 +47,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge13-die-auktion-der-diebe/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - sonderermittler
 ---
@@ -31,6 +63,7 @@ tags:
 - **Erscheinungsjahr (offizielle Seite):** 2018.
 - **Spielzeit:** 73 Minuten.
 - **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Abel Hawthorn – Jaron Löwenberg, Dr. Alfons Grell – K. Dieter Klebsch, Andrew Webbercott – Tobias Lelle, Felix Perrin – Tommi Piper, Der Schatten – Markus Pfeiffer, Dr. Gerald Pembroke – Holger Mahlich, Riewa – Michael Pan, Lord Fuller – Friedrich Georg Beckhaus, Hassan – Rüdiger Schulzki, Inspektor Finch – Otto Strecker, Wachhabender – Detlef Tams, Polizist – Constantin von Westphalen, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (für die Rollen Einzelquelle; die übrigen Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). 9 der 15 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe, inhaltlich gleich Audible; dort auf 9 Namen gekürzt). Schreibung nach DNB/Audible bzw. den übrigen Fandom-Tabellen: „K. Dieter Klebsch“ (Fandom hier ohne Leerzeichen nach „K.“). Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge13-die-auktion-der-diebe/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=CWBQ1vqlj5Y>
@@ -61,6 +94,7 @@ Ein gefasster Meisterdieb verspricht den Behörden Zugang zu einer berüchtigten
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge13-die-auktion-der-diebe/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Abel-Hawthorn-Recherche 12.10.2026 (Fanseite-Volltextsuche, Fandom-Besetzung, Audible-Sprecherlisten).
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 
 
 

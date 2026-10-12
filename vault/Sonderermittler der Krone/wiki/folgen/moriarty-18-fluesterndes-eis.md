@@ -6,7 +6,13 @@ titel: Flüsterndes Eis
 erschienen: 2025-04-11
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
 spielzeit_min: 67
 zirkel: direkt
 crossover_mit:
@@ -17,6 +23,7 @@ quellen:
   - raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge18-fluesterndes-eis/
   - https://shop.holysoft.de/produkte/moriarty-18-fluesterndes-eis-5039/
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - moriarty
   - maritim
@@ -31,6 +38,7 @@ tags:
 - **Erscheinungsdatum:** 11.04.2025.
 - **Spielzeit:** 67 Minuten.
 - **Verlag:** Maritim.
+- **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich, Victor Frankenstein – Dietmar Wunder, Theodora Sachs – Gabrielle Pietermann. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Dietmar Wunder, Gabrielle Pietermann, Milton Welsh, Joachim Tennstedt, Sina Zadra, Peter Sura, Sönke Städtler, Uwe Büschken (DNB; identisch bei Audible). **Abweichung:** Raute Media und Hörspieltalk nennen statt Milton Welsh Katja Keßler; Robur (Figurenliste der Fanseite) ist deshalb nicht zugeordnet. Schreibweise Sönke Städtler nach DNB und Audible (Raute Media, Hörspieltalk: „Städler“).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge18-fluesterndes-eis/>
 
 ## Hauptfiguren
@@ -60,3 +68,4 @@ Moriarty ist mit dem Wissenschaftler Jason Lightman einen gefährlichen Pakt ein
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](../../raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge18-fluesterndes-eis/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-18-fluesterndes-eis-5039/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

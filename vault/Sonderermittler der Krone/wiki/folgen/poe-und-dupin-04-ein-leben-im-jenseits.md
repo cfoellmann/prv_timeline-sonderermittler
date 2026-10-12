@@ -6,6 +6,13 @@ titel: Ein Leben im Jenseits
 erschienen: 2018-12-21
 verlag: Maritim
 autor: "Markus Duschek"
+sprecher:
+  - rolle: Erzähler
+    name: Douglas Welbat
+  - rolle: Edgar Allan Poe
+    name: Uve Teschner
+  - rolle: Auguste Dupin
+    name: Manfred Lehmann
 spielzeit_min: 69
 zirkel: indirekt
 spoiler_level: grob
@@ -15,6 +22,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - scheintod
   - lebendig-begraben
@@ -34,6 +42,7 @@ tags:
 - **Erscheinungsdatum:** 21.12.2018 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 69 min
 - **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Erzähler – Douglas Welbat, Edgar Allan Poe – Uve Teschner, Auguste Dupin – Manfred Lehmann. Erzähler laut Serienseite der Fanseite. *Übrige Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Douglas Welbat, Manfred Lehmann, Uve Teschner, Helmut Krauss, Wolfgang Condrus, Joachim Tennstedt (Audible, Liste ggf. gekürzt).
 - **Verlag:** Maritim
 - **Zirkel-Bezug:** Indirekt (vor dem Zirkel-Einstieg)
 - **YouTube:** [Komplettes Hörspiel](https://www.youtube.com/watch?v=W_5L4WV9Myg)
@@ -51,3 +60,4 @@ Schock für Dupin = Poe und Monsieur G. werden gleichzeitig in einen scheintoten
 
 - [raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md](../../raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md)
 - Offizielle Seite: <https://www.sonderermittler-der-krone.de/serien/poe-und-dupin/folge04-ein-leben-im-jenseits/>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

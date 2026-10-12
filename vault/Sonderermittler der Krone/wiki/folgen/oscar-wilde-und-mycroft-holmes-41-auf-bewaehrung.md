@@ -6,6 +6,39 @@ titel: Auf Bewährung
 erschienen: 2022-12-02
 verlag: Maritim
 autor: Silke Walter
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Sherlock Holmes
+    name: Charles Rettinghaus
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Rasputin
+    name: Tetje Mierendorf
+  - rolle: Dr. Hoffman
+    name: Hans-Jürgen Dittberner
+  - rolle: Geoffrey Stafford
+    name: Björn Schalla
+  - rolle: Allen Howard
+    name: Patrick Holtheuer
+  - rolle: Henrietta Barber
+    name: Uschi Hugo
+  - rolle: Sean Rader
+    name: Christian Dabeler
+  - rolle: Joe Cannon
+    name: Mario Klischies
+  - rolle: Frau
+    name: Katja Keßler
+  - rolle: Ben Wilkerson
+    name: Till Hagen
+  - rolle: George Stokes
+    name: Brian Sommer
+  - rolle: Thomas Molly
+    name: Stefan Krause
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 58
 zirkel: unklar
 crossover_mit: []
@@ -17,6 +50,7 @@ quellen:
   - https://bastei-luebbe.de/Audio/Krimis-Thriller/Oscar-Wilde-Mycroft-Holmes-Folge-41/9783785784624
   - https://www.buchtips.net/rez11306-folge-41-auf-bewaehrung.htm
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - sonderermittler
 ---
@@ -33,6 +67,7 @@ tags:
 - **Spielzeit:** 58 Minuten.
 - **Verlag:** Maritim.
 - **Autorin:** Silke Walter.
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Sherlock Holmes – Charles Rettinghaus, Theodora Sachs – Gabrielle Pietermann, Rasputin – Tetje Mierendorf, Dr. Hoffman – Hans-Jürgen Dittberner, Geoffrey Stafford – Björn Schalla, Allen Howard – Patrick Holtheuer, Henrietta Barber – Uschi Hugo, Sean Rader – Christian Dabeler, Joe Cannon – Mario Klischies, Frau – Katja Keßler, Ben Wilkerson – Till Hagen, George Stokes – Brian Sommer, Thomas Molly – Stefan Krause, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (für die Rollen Einzelquelle; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD, die übrigen Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Alle 16 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe, inhaltlich gleich Audible). Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge41-auf-bewaehrung/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-41.jpg>)*
 - **Prüfnotiz:** Offizielle Fan-Seite und Bastei-Lübbe-Klappentext stimmen hier überein; sekundäre Rezensionen ergänzen, dass Sherlock Holmes Oscar in den Fall zieht und die Folge wie ein Auftakt zu Folge 42 funktioniert.
@@ -64,6 +99,7 @@ Im Londoner East End werden in mehreren Nächten entstellte Leichen gefunden, wa
 - Buchtips-Rezension: <https://www.buchtips.net/rez11306-folge-41-auf-bewaehrung.htm>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 
 
 

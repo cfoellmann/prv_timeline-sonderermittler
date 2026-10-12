@@ -6,7 +6,17 @@ titel: Schall und Rausch
 erschienen: 2025-08-29
 verlag: Maritim
 autor: "Silke Walter"
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Sherlock Holmes
+    name: Charles Rettinghaus
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: Rasputin
+    name: Tetje Mierendorf
 spielzeit_min: 55
 zirkel: direkt
 crossover_mit:
@@ -18,6 +28,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge28-schall-und-rausch/
   - https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-28-schall-und-rausch-5358/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - sonderermittler
   - maritim
@@ -36,6 +47,7 @@ tags:
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Irene Adler – Yvonne Greitzke, Sherlock Holmes – Charles Rettinghaus, Theodora Sachs – Gabrielle Pietermann, Aleister Crowley – Daniel Zillmann, Rasputin – Tetje Mierendorf. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Yvonne Greitzke, Charles Rettinghaus, Manuel Straube, Gabrielle Pietermann, Daniel Zillmann, Tetje Mierendorf, Jessica Neumann, Detlef Tams, Gosta Liptow, Sönke Städtler, Romanus Fuhrmann, Janis Zaurins, Julia Fölster, Patrick Holtheuer, Lutz Mackensy (Raute Media, CD; Audible).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge28-schall-und-rausch/>
 - **Datumsbeleg:** HolyShop-Produktseite; die offizielle Folgenseite nennt nur das Jahr `2025`.
 
@@ -66,3 +78,4 @@ Nachdem sie sich im letzten Moment retten konnten, setzen Irene Adler und Sherlo
 - [raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md](../../raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge28-schall-und-rausch/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-28-schall-und-rausch-5358/>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

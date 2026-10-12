@@ -6,7 +6,17 @@ titel: Erweckung
 erschienen: 2024-02-02
 verlag: Maritim
 autor: "Silke Walter"
-sprecher: []
+sprecher:
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Robur
+    name: Milton Welsh
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mr. Killjoy
+    name: Matti Klemm
 spielzeit_min: 62
 zirkel: direkt
 crossover_mit:
@@ -21,6 +31,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -38,6 +49,7 @@ tags:
 - **Erscheinungsdatum:** 02.02.2024 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 62 Minuten
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Victor Frankenstein – Dietmar Wunder, Robur – Milton Welsh, Theodora Sachs – Gabrielle Pietermann, Oscar Wilde – Sascha Rotermund, Mr. Killjoy – Matti Klemm. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Dietmar Wunder, Gabrielle Pietermann, Milton Welsh, Sascha Rotermund, Douglas Welbat, Hans-Jürgen Dittberner, Andrea Aust, Janis Zaurins, Matti Klemm, Dagmar Dempe, Manuel Straube, Reinhard Scheunemann, Jörg Pintsch, Lutz Mackensy (DNB; identisch bei Audible). **Widerspruch:** DNB und Audible führen für diese Folge exakt die Liste von FRANK 9; Raute Media nennt stattdessen: Dietmar Wunder, Milton Welsh, Gabrielle Pietermann, Torsten Michaelis, Yvonne Greitzke, Michael Pan, Sascha Rotermund, Douglas Welbat, Matti Klemm, Andreas Fröhlich, Sebastian Winkler, Kaspar Eichel, Christian Rudolf, Christian Dabeler, Till Hagen, Lutz Mackensy. Dracula, Irene Adler, Mr. Wu und James Moriarty (Figurenliste der Fanseite) sind deshalb nicht zugeordnet.
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge12-erweckung/>
 
@@ -74,3 +86,4 @@ Victor Frankenstein trifft in seinem neuen Labor in den Walliser Alpen alle Vorb
 
 - [raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md](../../raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge12-erweckung/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

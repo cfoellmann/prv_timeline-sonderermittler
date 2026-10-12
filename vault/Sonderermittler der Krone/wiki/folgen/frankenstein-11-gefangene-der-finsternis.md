@@ -6,7 +6,17 @@ titel: Gefangene der Finsternis
 erschienen: 2023-10-27
 verlag: Maritim
 autor: "Silke Walter"
-sprecher: []
+sprecher:
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Robur
+    name: Milton Welsh
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mr. Wu
+    name: Michael Pan
 spielzeit_min: 61
 zirkel: direkt
 crossover_mit:
@@ -19,6 +29,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -36,6 +47,7 @@ tags:
 - **Erscheinungsdatum:** 27.10.2023 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 61 Minuten
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Victor Frankenstein – Dietmar Wunder, Robur – Milton Welsh, Theodora Sachs – Gabrielle Pietermann, Irene Adler – Yvonne Greitzke, Mr. Wu – Michael Pan. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Dietmar Wunder, Milton Welsh, Gabrielle Pietermann, Yvonne Greitzke, Michael Pan, Sebastian Winkler, Kaspar Eichel, Mario Klischies, Brian Sommer, Erich Räuker, Lutz Mackensy (DNB; identisch bei Raute Media und Audible).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge11-gefangene-der-finsternis/>
 
@@ -65,3 +77,4 @@ In seinem Labor in den Schweizer Alpen kommt Victor Frankenstein seinem Ziel, de
 
 - [raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md](../../raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge11-gefangene-der-finsternis/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

@@ -6,7 +6,21 @@ titel: Ewiges Leid
 erschienen: 2025-07-25
 verlag: Maritim
 autor: "Silke Walter"
-sprecher: []
+sprecher:
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Robur
+    name: Milton Welsh
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: Mr. Killjoy
+    name: Matti Klemm
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mr. Wu
+    name: Michael Pan
 spielzeit_min: 54
 zirkel: direkt
 crossover_mit:
@@ -20,6 +34,7 @@ quellen:
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -38,6 +53,7 @@ tags:
 - **Erscheinungsdatum:** 25.07.2025 (Apple Music und Deezer, Abruf 2026-09-06; zusätzlich Audible, CD bei Raute Media und Hörspieltalk „Freutag VÖ“ am 25.07.2025). HolyShop nennt den ursprünglich angekündigten 08.08.2025 — geprüft 12.10.2026, Vault-Wert bestätigt ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 5]]).
 - **Spielzeit:** 54 Minuten
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Victor Frankenstein – Dietmar Wunder, Robur – Milton Welsh, Theodora Sachs – Gabrielle Pietermann, Aleister Crowley – Daniel Zillmann, Mr. Killjoy – Matti Klemm, Irene Adler – Yvonne Greitzke, Mr. Wu – Michael Pan. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Dietmar Wunder, Milton Welsh, Gabrielle Pietermann, Daniel Zillmann, Matti Klemm, Yvonne Greitzke, Michael Pan, Robert Louis Griesbach, Tim Knauer, Tanya Kahana, Detlef Tams, Marc Schülert, Brian Sommer, Tilmar Kuhn, Jörg Pintsch, Lutz Mackensy (DNB; identisch bei Raute Media und Hörspieltalk; Audible gekürzt).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge20-ewiges-leid/>
 
@@ -70,3 +86,4 @@ Victor Frankenstein, Theodora Sachs und Aleister Crowley gelingt es, Bruder Ares
 - [raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md](../../raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge20-ewiges-leid/>
 - [raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md](../../raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md) — Datumsprüfung gegen HolyShop (Raute Media, Hörspieltalk; 12.10.2026).
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

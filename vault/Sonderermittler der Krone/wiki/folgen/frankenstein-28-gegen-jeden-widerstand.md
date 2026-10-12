@@ -29,6 +29,8 @@ sprecher:
     name: Tanja Lipinski
   - rolle: Eugen Marin
     name: Joachim Tennstedt
+  - rolle: Wirt
+    name: Tobias Lelle
 spielzeit_min: 54
 zirkel: direkt
 crossover_mit:
@@ -46,6 +48,7 @@ quellen:
   - https://www.xn--hrspieltalk-rfb.de/forum/thread/32021-frankenstein-und-der-zirkel-der-sieben-28-gegen-jeden-widerstand/
   - raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md
   - raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - frankenstein
   - maritim
@@ -71,6 +74,7 @@ tags:
 - **Verlag:** Maritim (HolyShop: Label Maritim, Altersempfehlung 14 Jahre).
 - **Autor:in:** noch nicht im Repo verifiziert.
 - **Schauplatz:** Rückreise von den Karpaten nach London.
+- **Sprecher (Ergänzung 12.10.2026):** Die Rollenliste der Verlagsvorschau (Hörspieltalk-Threads 31775 und 32021) endet mit **Wirt – Tobias Lelle**; die Rolle war bis dahin nicht eingetragen ([Rohdaten](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md), Abschnitt 4.2).
 
 ## Hauptfiguren
 
@@ -111,6 +115,7 @@ tags:
 - [raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md](../../raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md) — Apple-Music-Trackssumme und Deezer-Abgleich, 12.10.2026.
 - [raw/notes/2026-09-06_neue-folgen-scout_september-2026.md](../../raw/notes/2026-09-06_neue-folgen-scout_september-2026.md) — Recherchenotiz mit Klappentext und Sprecherliste.
 - [raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md](../../raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md) — Auflösung des Datumswiderspruchs.
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Nebenbefund: Rolle Wirt – Tobias Lelle (Hörspieltalk 31775/32021), 12.10.2026.
 - [raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md](../../raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md) — Apple Music: 2026-11-13.
 - [raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md](../../raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md) — Deezer: 2026-11-13, UPC 199109388673.
 - Ankündigung mit Klappentext und Besetzung: <https://www.xn--hrspieltalk-rfb.de/forum/thread/32021-frankenstein-und-der-zirkel-der-sieben-28-gegen-jeden-widerstand/>

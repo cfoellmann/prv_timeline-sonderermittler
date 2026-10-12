@@ -3,6 +3,7 @@ type: figur
 titel: Kapitän Nemo
 aliase:
   - Nemo
+sprecher: K. Dieter Klebsch
 fraktion: held
 status: entwurf
 zirkel: unklar
@@ -14,6 +15,10 @@ quellen:
   - raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md
   - raw/Sonderermittler_Update_2026-08-17.md
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - hauptfigur
   - abenteuer
@@ -24,6 +29,11 @@ tags:
 # Kapitän Nemo
 
 > Zehn Jahre lang Gast in einer fremden Reihe, dann plötzlich Titelheld: Nemo ist die Figur des Kosmos, die am längsten am Rand stand — und die erst 2026 eine eigene Linie bekam.
+
+## Eckdaten
+
+- **Sprecher:** K. Dieter Klebsch — Verlagsmitteilung zur Stammbesetzung der Fogg-Reihe (2015), Rollenliste DNAPF 1 (hoernews.de), Rollenlisten NEM 2 und 4 (Hörspieltalk), DNB 245 $c der CDs NEM 1 und 3 („Kapitän Nemo K. Dieter Klebsch“), Stammsprecher laut Fanseiten-Figurenseite. **Junger Nemo:** Peter Sura (Fanseiten-Figurenseite, Rollenlisten NEM 2–4).
+- **Schreibweise des Sprechers:** DNB und Audible schreiben „K. Dieter Klebsch“ (im Vault einheitlich so). Die Fanseite und das Fandom-Lemma schreiben „Klaus-Dieter Klebsch“, die Verlagsmitteilung 2015 und die Fandom-Tabellen „K.Dieter Klebsch“ — dieselbe Person. In OWMH spricht er laut Fandom außerdem Dr. Alfons Grell.
 
 ## Rolle im Kosmos
 
@@ -76,7 +86,7 @@ Die Liste ist beim aktuellen Repo-Stand **vollständig** — es sind alle Folgen
 - **Was Nemo im Afrika-Block antreibt, ist unbelegt.** Die Klappentexte zeigen ihn handelnd (Verfolgung, Waffenlieferung, Frankenstein-Jagd), nennen aber kein Motiv und keine Auftraggeber. Ob er dort für Mycroft arbeitet wie Fogg, ist **Annahme, nicht belegt**.
 - **Die Nautilus ist erst ab NEM 3 im Repo belegt.** Für die früheren Auftritte sagt keine Quelle, ob und mit welchem Schiff Nemo unterwegs ist.
 - **Verhältnis zur Romanvorlage bewusst offen gelassen.** Die Repo-Quellen beschreiben Nemo als Abenteuerfigur der Verne-Achse; Herkunft, Vorgeschichte und Charakterzeichnung aus Jules Vernes Romanen sind hier **nicht** als Kanon übernommen.
-- **Sprecher nur für DNAPF 1 belegt** (K. Dieter Klebsch). Für die Folgen der Eigenreihe liegen im Repo keine Sprecherlisten vor.
+- **Sprecher (aktualisiert 12.10.2026):** K. Dieter Klebsch ist nicht mehr nur für DNAPF 1 belegt, sondern auch für die Eigenreihe (Rollenlisten NEM 2–4, DNB 245 $c NEM 1 und 3) und als Stammsprecher der Fogg-Reihe (Verlagsmitteilung 2015); siehe Eckdaten. In DNAPF 2 bleibt die Rolle offen, weil die Sprecherliste der Folge nur drei Namen nennt.
 
 ## Quellen
 
@@ -87,3 +97,7 @@ Die Liste ist beim aktuellen Repo-Stand **vollständig** — es sind alle Folgen
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md) — Nemos eigener Handlungsstrang in DNAPF 41 bis 43.
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update: NEM 3 mit Kurzinhalt, Datum und Metadaten.
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche: Figurenliste NEM 3 (Nemo und Oscar Wilde, nicht Fogg), Spielzeit, fehlende Autorenangabe.
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA: Verlagsmitteilung zur Stammbesetzung 2015, Rollenlisten, DNB 245 $c (12.10.2026)
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)

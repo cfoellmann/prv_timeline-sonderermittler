@@ -6,7 +6,15 @@ titel: Der zweite Blutfleck
 erschienen: 2026-08-14
 verlag: Maritim
 autor: Silke Walter
-sprecher: []
+sprecher:
+  - rolle: Sherlock Holmes
+    name: Charles Rettinghaus
+  - rolle: Dr. John H. Watson
+    name: Florian Halm
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Bastien Lavache
+    name: Peter Lontzek
 spielzeit_min: 59
 zirkel: direkt
 crossover_mit:
@@ -17,6 +25,7 @@ quellen:
   - raw/Sonderermittler_Update_2026-08-17.md
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge22-der-zweite-blutfleck/
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - sherlock-holmes
   - maritim
@@ -33,6 +42,7 @@ tags:
 - **Spielzeit:** 59 Minuten.
 - **Verlag:** Maritim (Produktion Holysoft).
 - **Autor:in:** Silke Walter (Handelsmetadaten, ISBN 4260507214751).
+- **Sprecher (Auswahl):** Sherlock Holmes – Charles Rettinghaus, Dr. John H. Watson – Florian Halm, Theodora Sachs – Gabrielle Pietermann, Bastien Lavache – Peter Lontzek. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Charles Rettinghaus, Florian Halm, Gabrielle Pietermann, Peter Lontzek, Rainer Fritzsche, Mario Klischies, Tobias Lelle, Anke Reitzenstein, Jessica Neumann, Wanja Gerick, Ilona Otto, Patrick Holtheuer, Jean Coppong (Audible; der Hörspieltalk-Thread 31019 nennt abweichend weitgehend die Liste von SH 21 — vermutlich übernommen, Details in den Rohdaten).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge22-der-zweite-blutfleck/>
 - **Titel-Hinweis:** Der Titel greift Doyles *The Adventure of the Second Stain* auf; inhaltlich handelt es sich laut Klappentext **nicht** um eine Adaption, sondern um die Fortsetzung des Voodoo-Strangs.
 
@@ -71,3 +81,4 @@ tags:
 - Handelsmetadaten (Autor:in): <https://nextory.com/de/book/sherlock-holmes-sonderermittler-der-krone-folge-22-der-zweite-blutfleck-ungekurzt-6671889>
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche-Notiz.
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update (Datum, Spielzeit).
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).

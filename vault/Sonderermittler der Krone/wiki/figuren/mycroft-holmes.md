@@ -22,6 +22,9 @@ quellen:
   - raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - hauptfigur
   - auftraggeber
@@ -180,7 +183,7 @@ Alle 92 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 
 ## Theorien & offene Fragen
 
-- **Sprecher-Belegstärke:** „Reent Reins" stammt aus dem Fandom-Wiki-Auszug, nicht von einer offiziellen Maritim-Seite. Beim nächsten Ingest offizieller Sprecherlisten gegenprüfen. **Annahme, nicht amtlich bestätigt.**
+- **Sprecher-Belegstärke (aktualisiert 12.10.2026):** „Reent Reins“ ist inzwischen mehrfach belegt — Fanseiten-Figurenseite, Fandom-Besetzungstabellen OWMH 1–44, Rollenlisten der Verlagsvorschau zu WMU 3, 4 und MOR 2. Offen ist nur, ob er in OWMH 42/43 und IADK 5 besetzt ist: Fandom nennt ihn, die vollständigen DNB- bzw. Raute-Media-Listen nicht ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 6]]).
 - **Amtsbezeichnung:** Der Vault führt drei Formulierungen parallel — „Leiter der Sonderermittler der Krone" (Frankenstein-Reihe), „britischer Regierungsbeamter" (Oscar Wilde & Poe) und „Auftraggeber der Krone" (OWMH). Eine offizielle Dienstbezeichnung oder Behörde ist **nicht belegt**; ob es sich um Whitehall, den Secret Service oder eine eigene Krone-Einrichtung handelt, ist offen.
 - **Indien-Zeit:** OWMH 17 verweist auf einen Gegner aus einer früheren Indien-Phase Mycrofts. Diese Vorgeschichte ist im Repo nirgends ausgeführt — **offene Lücke**, potenziell eigener Biografie-Abschnitt, sobald die Folge gehört ist.
 - **Hauptquartier:** Ab dem Fogg-Bogen 37–38 gibt es ein „neues Hauptquartier" der Sonderermittler. Wo es liegt und was mit dem vorherigen geschah, ist unbelegt. Lohnt möglicherweise eine eigene Konzept-Seite.
@@ -201,3 +204,6 @@ Alle 92 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Eva-Verlegung (IADK 33), Metadaten-Nachrecherche.
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Löchel-Chronologie: Erstauftritte, Sherlocks Unwissen, OWMH 28.
 - Offizielle Figurenseite: <https://www.sonderermittler-der-krone.de/figuren/mycroft-holmes/>
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA: Verlagsmitteilung zur Stammbesetzung 2015, Rollenlisten, DNB 245 $c (12.10.2026)

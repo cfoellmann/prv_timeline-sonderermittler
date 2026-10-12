@@ -6,7 +6,13 @@ titel: Verdacht und Zweifel
 erschienen: 2025-12-12
 verlag: Maritim
 autor: "Silke Walter"
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mister Wu
+    name: Michael Pan
+  - rolle: Mata Hari
+    name: Katja Keßler
 spielzeit_min: 58
 zirkel: direkt
 crossover_mit: []
@@ -17,6 +23,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge30-verdacht-und-zweifel/
   - https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-30-verdacht-und-zweifel-5473/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - sonderermittler
   - maritim
@@ -34,6 +41,7 @@ tags:
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Irene Adler – Yvonne Greitzke, Mister Wu – Michael Pan, Mata Hari – Katja Keßler. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Yvonne Greitzke, Michael Pan, Manuel Straube, Katja Keßler, Tilmar Kuhn, Stefan Brönneke, Marcel Mann, Wanja Gerick, Sönke Städtler, Deborah Mock, Tobias Lelle (Raute Media, CD; Audible).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge30-verdacht-und-zweifel/>
 - **Datumsbeleg:** HolyShop-Produktseite; die offizielle Folgenseite nennt nur das Jahr `2025`.
 
@@ -62,3 +70,4 @@ Als Irene Adler und Wu erfahren, dass es bei Ausgrabungen nahe Exeter einen Tote
 - [raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md](../../raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge30-verdacht-und-zweifel/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-30-verdacht-und-zweifel-5473/>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

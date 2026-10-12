@@ -6,7 +6,11 @@ titel: Engel und Sünder
 erschienen: 2025-01-24
 verlag: Maritim
 autor: "Silke Walter"
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Sherlock Holmes
+    name: Charles Rettinghaus
 spielzeit_min: 56
 zirkel: unklar
 crossover_mit:
@@ -18,6 +22,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge25-engel-und-suender/
   - https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-25-engel-und-suender-4943/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - sonderermittler
   - maritim
@@ -36,6 +41,7 @@ tags:
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Irene Adler – Yvonne Greitzke, Sherlock Holmes – Charles Rettinghaus. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Yvonne Greitzke, Charles Rettinghaus, Manuel Straube, Peter Kirchberger, Jessica Neumann, Jörg Pintsch, Tilmar Kuhn, Patrick Holtheuer, Detlef Tams, Julia Casper, Sina Zadra, Marion Gretchen Schmitz, Lutz Mackensy (Raute Media, CD; Audible).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge25-engel-und-suender/>
 - **Datumsbeleg:** HolyShop-Produktseite; die offizielle Folgenseite nennt nur das Jahr `2025`.
 
@@ -64,3 +70,4 @@ Irene Adler befindet sich in Los Angeles und hat die Hauptrolle in einem moderne
 - [raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md](../../raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge25-engel-und-suender/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-25-engel-und-suender-4943/>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

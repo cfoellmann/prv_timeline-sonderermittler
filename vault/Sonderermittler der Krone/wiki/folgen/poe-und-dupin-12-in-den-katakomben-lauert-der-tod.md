@@ -6,6 +6,13 @@ titel: In den Katakomben lauert der Tod
 erschienen: 2021-01-29
 verlag: Maritim
 autor: "Markus Duschek"
+sprecher:
+  - rolle: Erzähler
+    name: Douglas Welbat
+  - rolle: Edgar Allan Poe
+    name: Uve Teschner
+  - rolle: Auguste Dupin
+    name: Manfred Lehmann
 spielzeit_min: 63
 zirkel: indirekt
 spoiler_level: grob
@@ -14,6 +21,7 @@ quellen:
   - raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - katakomben
   - paris
@@ -33,6 +41,7 @@ tags:
 - **Erscheinungsdatum:** 29.01.2021 (Apple Music, Abruf 2026-09-06).
 - **Spielzeit:** 63 min
 - **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Erzähler – Douglas Welbat, Edgar Allan Poe – Uve Teschner, Auguste Dupin – Manfred Lehmann. Erzähler laut Serienseite der Fanseite. *Übrige Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Douglas Welbat, Manfred Lehmann, Uve Teschner, Joachim Tennstedt, Helmut Krauss, Torsten Michaelis, Wolfgang Condrus, Milton Welsh, Victoria Sturm, Timo Kinzel, Hans-Georg Panczak, Gordon Piedesack, Hans-Jürgen Dittberner, Peter Lontzek, Oliver Stritzel, Lutz Mackensy (Raute Media, CD).
 - **Verlag:** Maritim
 - **Zirkel-Bezug:** Indirekt (vor dem Zirkel-Einstieg)
 
@@ -49,3 +58,4 @@ Das städtische Beinhaus von Paris beherbergt die sterblichen Überreste von üb
 
 - [raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md](../../raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md)
 - Offizielle Seite: <https://www.sonderermittler-der-krone.de/serien/poe-und-dupin/folge12-in-den-katakomben-lauert-der-tod/>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

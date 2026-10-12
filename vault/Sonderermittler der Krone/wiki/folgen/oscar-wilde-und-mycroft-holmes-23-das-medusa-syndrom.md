@@ -6,6 +6,39 @@ titel: Das Medusa-Syndrom
 erschienen: 2019-09-30
 verlag: Maritim
 autor: "Jonas Maas"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Abel Hawthorn
+    name: Jaron Löwenberg
+  - rolle: Edward Maunde Thompson
+    name: Douglas Welbat
+  - rolle: Gavin Spart-Hornton
+    name: Norman Matt
+  - rolle: Jeremiah Spart-Thornton
+    name: Till Hagen
+  - rolle: Jack Adams
+    name: Uve Teschner
+  - rolle: Carl Moffat
+    name: Andreas Borcherding
+  - rolle: Brune
+    name: Oliver Stritzel
+  - rolle: Stygerson
+    name: Tommi Piper
+  - rolle: Dr. Cappelli
+    name: Stefan Krause
+  - rolle: David
+    name: Rainer Fritzsche
+  - rolle: Ruben
+    name: Robin Brosch
+  - rolle: Bootsmann
+    name: Alexander Turrek
+  - rolle: Mann
+    name: Patrick Holtheuer
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 72
 zirkel: direkt
 crossover_mit: []
@@ -16,6 +49,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge23-das-medusa-syndrom/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - sonderermittler
   - zirkel
@@ -32,6 +66,7 @@ tags:
 - **Erscheinungsjahr (offizielle Seite):** 2019.
 - **Spielzeit:** 72 Minuten.
 - **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Abel Hawthorn – Jaron Löwenberg, Edward Maunde Thompson – Douglas Welbat, Gavin Spart-Hornton – Norman Matt, Jeremiah Spart-Thornton – Till Hagen, Jack Adams – Uve Teschner, Carl Moffat – Andreas Borcherding, Brune – Oliver Stritzel, Stygerson – Tommi Piper, Dr. Cappelli – Stefan Krause, David – Rainer Fritzsche, Ruben – Robin Brosch, Bootsmann – Alexander Turrek, Mann – Patrick Holtheuer, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (für die Rollen Einzelquelle; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD, die übrigen Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Alle 16 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe, inhaltlich gleich Audible). Schreibung nach DNB/Audible bzw. den übrigen Fandom-Tabellen: „Rainer Fritzsche“ (Fandom hier: „Rainer Fritsche“). Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge23-das-medusa-syndrom/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-23-das-medusa-syndrom.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-23-das-medusa-syndrom.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-23.jpg>)*
@@ -62,6 +97,7 @@ Ein sensationeller Fund nahe dem Polarkreis könnte die Geschichte der Menschhei
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge23-das-medusa-syndrom/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Abel-Hawthorn-Recherche 12.10.2026 (Fanseite-Volltextsuche, Fandom-Besetzung, Audible-Sprecherlisten).
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 
 
 

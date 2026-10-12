@@ -6,7 +6,11 @@ titel: Ein seltsamer Freund
 erschienen: 2024-06-14
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Nikola Tesla
+    name: Patrick Winczewski
 spielzeit_min: 69
 zirkel: indirekt
 crossover_mit:
@@ -17,6 +21,7 @@ quellen:
   - raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge13-ein-seltsamer-freund/
   - https://shop.holysoft.de/produkte/moriarty-13-ein-seltsamer-freund-4571/
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - moriarty
   - maritim
@@ -32,6 +37,7 @@ tags:
 - **Erscheinungsdatum:** 14.06.2024.
 - **Spielzeit:** 69 Minuten.
 - **Verlag:** Maritim.
+- **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich, Nikola Tesla – Patrick Winczewski. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Patrick Winczewski, Marion Gretchen Schmitz, Tilmar Kuhn, Florentine Draeger, Uwe Büschken, Romanus Fuhrmann, Mathias Renneisen, Stephan Chrzescinski, Holger Löwenberg, Jean Coppong, Lutz Mackensy (DNB; identisch bei Raute Media und Audible).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge13-ein-seltsamer-freund/>
 
 ## Hauptfiguren
@@ -59,3 +65,4 @@ In Genf trifft James Moriarty auf den Erfinder Nikola Tesla. Die Begegnung ist n
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](../../raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge13-ein-seltsamer-freund/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-13-ein-seltsamer-freund-4571/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

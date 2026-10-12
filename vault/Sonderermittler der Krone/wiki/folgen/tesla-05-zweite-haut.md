@@ -6,7 +6,17 @@ titel: Zweite Haut
 erschienen: 2025-09-26
 verlag: Blitz Verlag
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: Nikola Tesla
+    name: Patrick Winczewski
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: Bastien Lavache
+    name: Peter Lontzek
 spielzeit_min: 55
 zirkel: direkt
 crossover_mit:
@@ -16,6 +26,7 @@ status: entwurf
 quellen:
   - raw/maritim/2026-04-28_tesla_folgen-01-08.md
   - https://www.sonderermittler-der-krone.de/serien/tesla/folge05-zweite-haut/
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - sonderermittler
   - blitz
@@ -32,6 +43,7 @@ tags:
 - **Spielzeit:** 55 Minuten.
 - **Verlag:** Blitz Verlag.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Nikola Tesla – Patrick Winczewski, James Moriarty – Andreas Fröhlich, Theodora Sachs – Gabrielle Pietermann, Aleister Crowley – Daniel Zillmann, Bastien Lavache – Peter Lontzek. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Patrick Winczewski, Andreas Fröhlich, Gabrielle Pietermann, Daniel Zillmann, Peter Lontzek, Tobias Lelle, Mario Klischies, Peter Sura, Tim Knauer, Sönke Städtler, Janis Zaurins (Raute Media, CD-Ausgabe; Audible nennt keine weiteren Namen).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/tesla/folge05-zweite-haut/>
 
 ## Hauptfiguren
@@ -59,3 +71,4 @@ Tesla weiß, dass er Moriartys Gunst nicht verlieren darf, und sucht deshalb nac
 
 - [raw/maritim/2026-04-28_tesla_folgen-01-08.md](../../raw/maritim/2026-04-28_tesla_folgen-01-08.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/tesla/folge05-zweite-haut/>
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).

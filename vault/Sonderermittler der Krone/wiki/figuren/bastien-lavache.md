@@ -2,9 +2,13 @@
 type: figur
 titel: Bastien Lavache
 aliase: []
+sprecher: Peter Lontzek
 status: stub
 quellen:
   - raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - nebenfigur
   - sherlock-holmes
@@ -18,6 +22,7 @@ tags:
 
 - **Erstauftritt:** [[wiki/folgen/sherlock-holmes-21-eine-studie-in-blutrot|Sherlock Holmes 21 — Eine Studie in Blutrot]].
 - **Funktion:** Verbindendes Element zwischen Sherlock-Holmes- und Tesla-Handlungsstrang.
+- **Sprecher:** Peter Lontzek — rollengenau in den Fandom-Besetzungstabellen OWMH 21, 29, 35, 36 und in der Rollenliste FRANK 28; steht in den Sprecherlisten DRAC 11, 14, SH 21, 22, TES 5, 8 und FRANK 25–27. Eine Fanseiten-Figurenseite gibt es nicht.
 
 ## Auftritte
 
@@ -40,3 +45,6 @@ Alle 6 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersche
 ## Quellen
 
 - [raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md](../../raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md)
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR und FRANK: DNB, Raute Media, Fandom MOR 0–8, Hörspieltalk (12.10.2026)

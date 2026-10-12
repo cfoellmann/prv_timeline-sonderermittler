@@ -6,7 +6,15 @@ titel: Ein Hauch von Ewigkeit
 erschienen: 2026-06-05
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Mata Hari
+    name: Katja Keßler
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
 spielzeit_min: 68
 zirkel: direkt
 crossover_mit:
@@ -18,6 +26,7 @@ quellen:
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge25-ein-hauch-von-ewigkeit/
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - moriarty
   - maritim
@@ -34,6 +43,7 @@ tags:
 - **Spielzeit:** 68 Minuten.
 - **Verlag:** Maritim (Produktion Holysoft).
 - **Autor:in:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich, Victor Frankenstein – Dietmar Wunder, Mata Hari – Katja Keßler, Aleister Crowley – Daniel Zillmann. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Dietmar Wunder, Katja Keßler, Daniel Zillmann, Kim Hasper, Daniela Hoffmann, Florian Clyde, Ulrike Möckel, Sarah Alles, Dirk Hardegen, Mathias Renneisen, Dirc Simpson (DNB; identisch bei Audible und Hörspieltalk).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge25-ein-hauch-von-ewigkeit/>
 - **Hinweis:** Die offizielle Folgenseite nennt den 06.05.2026 (ein Mittwoch) — Tag/Monat-Dreher wie bei [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho|SH 23]]. Der Vault führte diesen Wert bis 12.10.2026 (korrigiert, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 4]]).
 
@@ -73,3 +83,4 @@ tags:
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche-Notiz zur Vault-Lücke.
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update (nennt Folge 25 nicht, Anlass der Nachrecherche).
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

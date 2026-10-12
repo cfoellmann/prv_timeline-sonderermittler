@@ -6,7 +6,17 @@ titel: Schatten des Ruhmes
 erschienen: 2025-03-21
 verlag: Maritim
 autor: "Silke Walter"
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Sherlock Holmes
+    name: Charles Rettinghaus
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: Rasputin
+    name: Tetje Mierendorf
 spielzeit_min: 54
 zirkel: direkt
 crossover_mit:
@@ -18,6 +28,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge26-schatten-des-ruhmes/
   - https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-26-schatten-des-ruhmes-4973/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - sonderermittler
   - maritim
@@ -36,6 +47,7 @@ tags:
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Irene Adler – Yvonne Greitzke, Sherlock Holmes – Charles Rettinghaus, Theodora Sachs – Gabrielle Pietermann, Aleister Crowley – Daniel Zillmann, Rasputin – Tetje Mierendorf. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Yvonne Greitzke, Charles Rettinghaus, Manuel Straube, Gabrielle Pietermann, Daniel Zillmann, Tetje Mierendorf, Jessica Neumann, Jörg Pintsch, Tilmar Kuhn, Victoria Sturm, Ulrike Möckel, Lutz Mackensy (Raute Media, CD; Audible).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge26-schatten-des-ruhmes/>
 - **Datumsbeleg:** HolyShop-Produktseite; die offizielle Folgenseite nennt nur das Jahr `2025`.
 
@@ -66,3 +78,4 @@ Die Hinweise gegen den Bühnentechniker Will Jacobs verdichten sich, doch Irene 
 - [raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md](../../raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge26-schatten-des-ruhmes/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-26-schatten-des-ruhmes-4973/>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

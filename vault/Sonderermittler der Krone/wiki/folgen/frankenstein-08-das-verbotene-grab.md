@@ -6,7 +6,11 @@ titel: Das verbotene Grab
 erschienen: 2023-02-24
 verlag: Maritim
 autor: "Marc Freund"
-sprecher: []
+sprecher:
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Dracula
+    name: Torsten Michaelis
 spielzeit_min: 71
 zirkel: direkt
 crossover_mit: []
@@ -18,6 +22,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -35,6 +40,7 @@ tags:
 - **Erscheinungsdatum:** 24.02.2023 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 71 Minuten
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Victor Frankenstein – Dietmar Wunder, Dracula – Torsten Michaelis. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Dietmar Wunder, Torsten Michaelis, Marc Schülert, Manja Doering, Mario Klischies, Tilmar Kuhn, Peter Kirchberger, Engelbert von Nordhausen, Marcel Mann, Stefan Krause, Lutz Mackensy (DNB; identisch bei Audible). **Abweichung:** Raute Media nennt statt Tilmar Kuhn und Engelbert von Nordhausen Tobias Lelle und Holger Löwenberg.
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge08-das-verbotene-grab/>
 
@@ -60,3 +66,4 @@ Victor Frankenstein reist zusammen mit Graf Dracula in die schottischen Highland
 
 - [raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md](../../raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge08-das-verbotene-grab/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

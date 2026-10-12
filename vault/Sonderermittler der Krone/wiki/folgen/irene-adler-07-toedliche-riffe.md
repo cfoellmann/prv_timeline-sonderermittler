@@ -7,7 +7,45 @@ erschienen: 2020-11-27
 verlag: Maritim
 autor: "Marc Freund"
 
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Mister Wu
+    name: Michael Pan
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
+  - rolle: Dracula
+    name: Torsten Michaelis
+  - rolle: Frankenstein
+    name: Dietmar Wunder
+  - rolle: Chester Bixan
+    name: Tom Solo
+  - rolle: Jonathan Healey
+    name: André Beyer
+  - rolle: Huntley Irving
+    name: Sebastian Winkler
+  - rolle: Todd Johnson
+    name: Dirc Simpson
+  - rolle: Noah Marsden
+    name: Hans-Eckart Eckhardt
+  - rolle: Andrew Dodd
+    name: Ingo Abel
+  - rolle: Jay Parsons
+    name: Jens Wendland
+  - rolle: Harry Goodwyn
+    name: Bodo Wolf
+  - rolle: Pete
+    name: Detlef Tams
+  - rolle: Dempsey
+    name: Kevin Kasper
+  - rolle: Gordon
+    name: Marc Schülert
+  - rolle: Pirat
+    name: Patrick Holtheuer
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 76
 zirkel: direkt
 crossover_mit:
@@ -22,6 +60,7 @@ quellen:
   - https://music.apple.com/ch/album/sonderermittlerin-der-krone-folge-7-t%C3%B6dliche-riffe/1539151859
   - https://books.apple.com/at/audiobook/irene-adler-sonderermittlerin-der-krone-folge-7-t%C3%B6dliche/id1539165842
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - sonderermittler
   - irene-adler
@@ -39,6 +78,7 @@ tags:
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** Marc Freund.
+- **Sprecher:** Irene Adler – Yvonne Greitzke, Mycroft Holmes – Reent Reins, Mister Wu – Michael Pan, Phileas Fogg – Sascha Draeger, Dracula – Torsten Michaelis, Frankenstein – Dietmar Wunder, Chester Bixan – Tom Solo, Jonathan Healey – André Beyer, Huntley Irving – Sebastian Winkler, Todd Johnson – Dirc Simpson, Noah Marsden – Hans-Eckart Eckhardt, Andrew Dodd – Ingo Abel, Jay Parsons – Jens Wendland, Harry Goodwyn – Bodo Wolf, Pete – Detlef Tams, Dempsey – Kevin Kasper, Gordon – Marc Schülert, Pirat – Patrick Holtheuer, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (sherlockholmes.fandom.com/de; für die Nebenrollen Einzelquelle, die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Audible nennt nur sechs Namen, die Raute-Media-Seite trägt irrtümlich die Sprecherliste von Folge 5; die Nebenrollen sind daher nur durch Fandom belegt.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge07-toedliche-riffe/>
 
 ## Hauptfiguren
@@ -70,3 +110,4 @@ Vor den Orkney-Inseln verschwinden in kurzer Zeit mehrere Schiffe der britischen
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge07-toedliche-riffe/>
 - Apple Music: <https://music.apple.com/ch/album/sonderermittlerin-der-krone-folge-7-t%C3%B6dliche-riffe/1539151859>
 - Apple Books: <https://books.apple.com/at/audiobook/irene-adler-sonderermittlerin-der-krone-folge-7-t%C3%B6dliche/id1539165842>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

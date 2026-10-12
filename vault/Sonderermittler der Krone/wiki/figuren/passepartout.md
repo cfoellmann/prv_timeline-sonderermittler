@@ -1,11 +1,14 @@
 ---
 type: figur
 titel: Passepartout
+sprecher: Marius Clarén
 fraktion: helden
 status: entwurf
 quellen:
   - raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - held
   - phileas-fogg-begleiter
@@ -22,6 +25,7 @@ tags:
 - **Fraktion:** Helden
 - **Hauptserie:** [[wiki/serien/phileas-fogg|Jules Verne – Die neuen Abenteuer des Phileas Fogg]]
 - **Crossover:** [[wiki/serien/irene-adler|Irene Adler]]
+- **Sprecher:** Marius Clarén — Stammsprecher laut Fanseiten-Figurenseite und Verlagsmitteilung zur Stammbesetzung der Fogg-Reihe (2015); rollengenau in den Rollenlisten DNAPF 1, 7, 8. In DNAPF 2–5 und 33 nicht zugeordnet, weil er dort in keiner Sprecherliste steht.
 
 ## Charakterisierung
 
@@ -59,3 +63,5 @@ Passepartout ist eine wichtige Brückenfigur zwischen verschiedenen Serien des M
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md)
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md)
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA: Verlagsmitteilung zur Stammbesetzung 2015, Rollenlisten, DNB 245 $c (12.10.2026)

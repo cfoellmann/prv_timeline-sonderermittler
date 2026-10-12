@@ -4,11 +4,15 @@ titel: Geoffrey Stafford
 aliase:
   - Inspector Stafford
   - Inspektor Stafford
+sprecher: Björn Schalla
 status: entwurf
 quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md
   - raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - scotland-yard
   - wiederkehrende-figur
@@ -17,6 +21,10 @@ tags:
 # Geoffrey Stafford
 
 > Inspector bei Scotland Yard, im Kosmos eingeführt als Nachfolger des vom Zirkel ermordeten Inspektors Lestrade — und siebeneinhalb Jahre später Auftraggeber Oscar Wildes.
+
+## Eckdaten
+
+- **Sprecher:** Björn Schalla — rollengenau in den Fandom-Besetzungstabellen OWMH 32, 34–36, 41, SHC 48, 53, 55, SH 1/2 („Dunkle Kräfte“) und MOR 2, 3; die DNB-Titelangabe (245 $c) der CDs SHC 48 und 53 nennt „Geoffrey Stafford – Björn Schalla“ als zweite, von Fandom unabhängige Rollenquelle. Eine Fanseiten-Figurenseite zu Stafford gibt es nicht.
 
 ## Rolle im Kosmos
 
@@ -54,3 +62,6 @@ Stafford ist die polizeiliche Konstante des Kosmos: Er steht für Scotland Yard,
 - [raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md](../../raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md) — SHC-48-Erstauftritt.
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](../../raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md) — Auftritt in MOR 2.
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Auftritt in OWMH 57.
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR und FRANK: DNB, Raute Media, Fandom MOR 0–8, Hörspieltalk (12.10.2026)

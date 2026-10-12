@@ -6,7 +6,13 @@ titel: Im Labyrinth der Schlange
 erschienen: 2025-11-21
 verlag: Blitz Verlag
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: Nikola Tesla
+    name: Patrick Winczewski
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
 spielzeit_min: 51
 zirkel: direkt
 crossover_mit: []
@@ -15,6 +21,7 @@ status: entwurf
 quellen:
   - raw/maritim/2026-04-28_tesla_folgen-01-08.md
   - https://www.sonderermittler-der-krone.de/serien/tesla/folge06-im-labyrinth-der-schlange/
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - sonderermittler
   - blitz
@@ -31,6 +38,7 @@ tags:
 - **Spielzeit:** 51 Minuten.
 - **Verlag:** Blitz Verlag.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Nikola Tesla – Patrick Winczewski, Theodora Sachs – Gabrielle Pietermann, Aleister Crowley – Daniel Zillmann. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Patrick Winczewski, Gabrielle Pietermann, Daniel Zillmann, Peter Lontzek, Tobias Lelle, Mario Klischies, Peter Sura, Tim Knauer, Joana Schümer, Felix Strüven, Kim Hasper, Robert Louis Griesbach, Patrick Holtheuer (Raute Media, CD-Ausgabe; Audible nennt keine weiteren Namen).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/tesla/folge06-im-labyrinth-der-schlange/>
 
 ## Hauptfiguren
@@ -57,3 +65,4 @@ Tesla, Theodora Sachs und Aleister Crowley müssen erkennen, dass sie in einer T
 
 - [raw/maritim/2026-04-28_tesla_folgen-01-08.md](../../raw/maritim/2026-04-28_tesla_folgen-01-08.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/tesla/folge06-im-labyrinth-der-schlange/>
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).

@@ -6,7 +6,21 @@ titel: Künstlicher Feind
 erschienen: 2026-08-07
 verlag: Maritim
 autor: "Silke Walter"
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mister Wu
+    name: Michael Pan
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Dr. Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Robur
+    name: Milton Welsh
+  - rolle: Mister Killjoy
+    name: Matti Klemm
 spielzeit_min: 53
 zirkel: direkt
 crossover_mit: []
@@ -17,6 +31,7 @@ quellen:
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge34-kuenstlicher-feind/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - irene-adler
   - maritim
@@ -33,6 +48,7 @@ tags:
 - **Spielzeit:** 53 Minuten.
 - **Verlag:** Maritim (Produktion Holysoft).
 - **Autor:in:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Irene Adler – Yvonne Greitzke, Mister Wu – Michael Pan, Oscar Wilde – Sascha Rotermund, Dr. Victor Frankenstein – Dietmar Wunder, Theodora Sachs – Gabrielle Pietermann, Robur – Milton Welsh, Mister Killjoy – Matti Klemm. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Yvonne Greitzke, Michael Pan, Sascha Rotermund, Manuel Straube, Dietmar Wunder, Gabrielle Pietermann, Milton Welsh, Matti Klemm, Tim Knauer, Tobias Schmitz, Tanja Lipinski, Dirc Simpson, Deborah Mock, Jean Coppong, Manja Doering (Audible, Liste ggf. gekürzt).
 - **Schauplatz:** unter anderem Cornwall.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge34-kuenstlicher-feind/>
 
@@ -69,3 +85,4 @@ tags:
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge34-kuenstlicher-feind/>
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche-Notiz.
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update (Datum, Spielzeit).
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

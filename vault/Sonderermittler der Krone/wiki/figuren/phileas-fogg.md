@@ -1,6 +1,7 @@
 ---
 type: figur
 titel: Phileas Fogg
+sprecher: Sascha Draeger
 fraktion: held
 status: entwurf
 quellen:
@@ -12,6 +13,10 @@ quellen:
   - raw/maritim/2026-04-29_kapitaen-nemo_folgen-01-02.md
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - raw/Sonderermittler_Update_2026-08-17.md
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - hauptfigur
   - abenteuer
@@ -22,6 +27,10 @@ tags:
 # Phileas Fogg
 
 > Titelheld der ältesten Maritim-Hauptreihe des Kosmos — und damit die Figur, in deren Abenteuern Nemo, Robur, Frankenstein, Poe und Dracula überhaupt zum ersten Mal auftauchen.
+
+## Eckdaten
+
+- **Sprecher:** Sascha Draeger — Stammsprecher laut Fanseiten-Figurenseite und Verlagsmitteilung zur Stammbesetzung (2015); rollengenau in den Rollenlisten DNAPF 1, 7, 8 und NEM 2, in den Fandom-Besetzungstabellen OWMH 19, 32, 33, 35, 36 und SHC 41/42 und in der DNB-Titelangabe (245 $c) der CDs DNAPF 51 und 52 („Phileas Fogg Sascha Draeger“).
 
 ## Rolle im Kosmos
 
@@ -143,7 +152,7 @@ Alle 59 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - **DNAPF 17 „Wie alles begann".** Die offizielle Folgenseite dupliziert derzeit den Klappentext von DNAPF 16; Foggs konkrete Rolle in dieser Folge ist aus dem Repo-Bestand nicht rekonstruierbar.
 - **Titelkonflikt DNAPF 21.** Offizielle Folgenseite: „Die sieben Seelen des Anubis", Löchel-Chronologie: „Die sieben Steine des Anubis". Der Konflikt ist ungeklärt und bleibt dokumentiert.
 - **Verhältnis zur Romanvorlage.** Die Reihe behandelt die Weltreise in 80 Tagen als vorgelagerte Geschichte, deren „wahre" Version Fogg in DNAPF 18–20 erzählt. Welche Teile der Verne-Vorlage dabei als Kanon gelten und wo die Hörspielreihe abweicht, ist im Repo **nicht dokumentiert** — die Vorlage wird hier ausdrücklich nicht als Quelle behandelt.
-- **Keine Sprecherangabe.** Für Fogg ist im Repo-Bestand kein Sprecher belegt, obwohl die Löchel-Chronologie für andere Frühfiguren Namen nennt.
+- **Sprecher (geklärt 12.10.2026):** Sascha Draeger, siehe Eckdaten. Der frühere Vermerk „keine Sprecherangabe“ ist überholt.
 
 ## Quellen
 
@@ -155,3 +164,7 @@ Alle 59 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - [raw/maritim/2026-04-29_kapitaen-nemo_folgen-01-02.md](../../raw/maritim/2026-04-29_kapitaen-nemo_folgen-01-02.md) — Fogg als Rahmenfigur der Nemo-Reihe.
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche zu DNAPF 51/52 und zur Figurenliste von NEM 3.
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Folgenstand 52.
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA: Verlagsmitteilung zur Stammbesetzung 2015, Rollenlisten, DNB 245 $c (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)

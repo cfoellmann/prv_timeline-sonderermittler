@@ -15,6 +15,7 @@ quellen:
   - raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - nebenfigur
   - owmh
@@ -29,7 +30,7 @@ tags:
 ## Eckdaten
 
 - **Erstauftritt:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-02-finsteres-hochland|OWMH 2 — Finsteres Hochland]] (11.03.2016) laut Löchel-Chronologie und Fandom-Besetzung. Die Fandom-Seite zu OWMH 5 nennt abweichend „Kalter Fels" als ersten Auftritt — widerspricht der eigenen Besetzungstabelle zu OWMH 2.
-- **Sprecher:** Jaron Löwenberg — in OWMH 2–26 rollengenau belegt (Fandom-Besetzungstabellen, elf Folgen). Für DNAPF und WMU nennt Audible ihn in der Besetzung, aber **ohne Rollenzuordnung**; die CD-Listen von Raute Media zu DNAPF 39 und 42 und die Verlagsvorschau zu WMU 1 (Hörspieltalk) ebenso. In den Besetzungslisten OWMH 45–60 fehlt er (Prüfung 12.10.2026).
+- **Sprecher:** Jaron Löwenberg — in OWMH 2–26 rollengenau belegt (Fandom-Besetzungstabellen, elf Folgen). Für DNAPF und WMU nennt Audible ihn in der Besetzung, aber **ohne Rollenzuordnung**; die CD-Listen von Raute Media zu DNAPF 39 und 42 und die Verlagsvorschau zu WMU 1 (Hörspieltalk) ebenso. In den Besetzungslisten OWMH 45–60 fehlt er (Prüfung 12.10.2026). Außerhalb von OWMH spricht Löwenberg laut Fandom in SHC 26/27 **Inspektor Masterson** und steht in SHC 45 ohne Rollenangabe in der Tabelle — „keine andere Rolle als Hawthorn“ gilt also nur für OWMH 1–44.
 - **Beruf:** „der Jäger Hawthorn" (Klappentexte DNAPF 39, 43), „der Großwildjäger Hawthorn" (Klappentext WMU 1).
 - **Schreibweise:** Fanseite und Fandom führen ab OWMH 24 auch „Abel Hawthorne"; DNAPF 40 schreibt „Abel Hawthorn". Hier als Alias geführt.
 - **Reihen:** [[wiki/serien/oscar-wilde-und-mycroft-holmes]], [[wiki/serien/phileas-fogg]], [[wiki/serien/wilde-mycroft-ungeloeste]].
@@ -73,7 +74,7 @@ tags:
 - **Derselbe Hawthorn in OWMH, DNAPF und WMU? — Annahme, gut gestützt (Prüfung 12.10.2026).** Keine Quelle sagt es ausdrücklich, und für DNAPF und WMU ordnet keine Quelle die Rolle einem Sprecher zu. Dafür sprechen:
   1. identischer Name — „Abel Hawthorn" (DNAPF 40) wie in OWMH 2; die Variante „Hawthorne" kommt innerhalb von OWMH selbst vor (OWMH 24–26);
   2. derselbe Beruf und dieselbe Funktion — „Jäger" (DNAPF 39, 43) bzw. „Großwildjäger" (WMU 1), in WMU 1 wieder als Begleiter Wildes in den Highlands wie in OWMH 2;
-  3. **derselbe Sprecher als starkes Indiz** — Jaron Löwenberg spricht laut Fandom in OWMH 1–44 ausschließlich Hawthorn und steht laut Audible in der Besetzung jeder DNAPF-Folge mit Hawthorn im Klappentext (39–43) sowie in WMU 1 (dort nur drei Sprecher); in DNAPF 37 ohne Challenger und Hawthorn fehlt er;
+  3. **derselbe Sprecher als starkes Indiz** — Jaron Löwenberg spricht laut Fandom in OWMH 1–44 ausschließlich Hawthorn (in SHC 26/27 dagegen Inspektor Masterson) und steht laut Audible in der Besetzung jeder DNAPF-Folge mit Hawthorn im Klappentext (39–43) sowie in WMU 1 (dort nur drei Sprecher); in DNAPF 37 ohne Challenger und Hawthorn fehlt er;
   4. gemeinsamer Kosmos — Wilde und Mycroft Holmes treten im selben Block auf (DNAPF 39, 41, 42).
   Gegenbelege: keine. Als „belegt" gilt die Identität erst, wenn eine Besetzungsliste mit Rollen (Booklet, Verlagsseite) für DNAPF 39–43 oder WMU 1 „Abel Hawthorn — Jaron Löwenberg" nennt.
 - **Hawthorn auch in DNAPF 38 und 44?** Siehe oben; Indizien, kein Klappentextbeleg.
@@ -90,3 +91,4 @@ tags:
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — Klappentext-Paraphrase OWMH 24.
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md) — DNAPF 39–43.
 - [raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md](../../raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md) — WMU 1.
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)

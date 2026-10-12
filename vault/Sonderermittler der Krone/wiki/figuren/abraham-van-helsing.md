@@ -4,10 +4,14 @@ titel: Abraham Van Helsing
 aliase:
   - Professor Van Helsing
   - Van Helsing
+sprecher: Douglas Welbat
 status: entwurf
 quellen:
   - raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - dracula-gegner
   - vampirjaeger
@@ -17,6 +21,10 @@ tags:
 # Abraham Van Helsing
 
 > Professor und Vampirjäger, im Repo **[[wiki/figuren/dracula|Draculas]] ärgster Feind** — tragende Gegenfigur der Dracula-Reihe und ab 2026 auch in den Krimi-Linien präsent.
+
+## Eckdaten
+
+- **Sprecher:** Douglas Welbat — rollengenau in den Fandom-Besetzungstabellen OWMH 32, 33, 35, 36 und in der Rollenliste [[wiki/folgen/wilde-mycroft-ungeloeste-03-das-fledermausamulett|WMU 3]] (Hörspieltalk 31082); Rezensionen (Traumwelt, Poldi) bestätigen ihn für DRAC. Nicht verwechseln mit Daniel Welbat ([[wiki/figuren/der-maharadscha|Maharadscha]]).
 
 ## Rolle im Kosmos
 
@@ -61,3 +69,6 @@ Van Helsing ist die wichtigste Figur der Anti-Dracula-Front. Er wird in [[wiki/f
 
 - [raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md](../../raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md) — offizielle Folgen-Seiten der Dracula-Reihe.
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — 2026er Auftritte in WMU 3 und SH 23.
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA: Verlagsmitteilung zur Stammbesetzung 2015, Rollenlisten, DNB 245 $c (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)

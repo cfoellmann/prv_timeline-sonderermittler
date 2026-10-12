@@ -6,7 +6,11 @@ titel: Der Riese von Griffin
 erschienen: 2026-01-23
 verlag: Blitz Verlag
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Abel Hawthorn
+    name: Jaron Löwenberg
 spielzeit_min: 54
 zirkel: unklar
 crossover_mit: []
@@ -16,6 +20,7 @@ quellen:
   - raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md
   - https://www.sonderermittler-der-krone.de/serien/wilde/folge01-der-riese-von-griffin/
   - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - sonderermittler
   - blitz
@@ -31,6 +36,7 @@ tags:
 - **Spielzeit:** 54 Minuten.
 - **Verlag:** Blitz Verlag.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Oscar Wilde – Sascha Rotermund, Abel Hawthorn – Jaron Löwenberg. *Oscar Wilde laut DNB-Katalogeintrag der CD (Titelangabe, IDN 1390103862).* *Übrige Rollen abgeleitet:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Abel Hawthorn: Stammsprecher laut Fandom-Besetzungstabellen OWMH 2–26; dass es dieselbe Figur ist, ist eine Annahme, siehe [[wiki/figuren/abel-hawthorn|Abel Hawthorn]]). Vollständige Liste ohne Rollen: Sascha Rotermund, Jaron Löwenberg, Björn Schalla (Audible; Hörspieltalk-Thread 29983, Verlagsvorschau). Björn Schalla ohne belegte Rolle.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde/folge01-der-riese-von-griffin/>
 - **Cover:** <https://www.sonderermittler-der-krone.de/cover/wilde/cover-xl-wilde-1.jpg> *(noch nicht lokal abgelegt)*
 
@@ -59,3 +65,4 @@ Im schottischen Ort Griffin geht erneut die Angst vor einer riesenhaften Gestalt
 - [raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md](../../raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md) — paraphrasierte Arbeitsnotiz aus den offiziellen Folgen-Seiten.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde/folge01-der-riese-von-griffin/>
 - [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Abel-Hawthorn-Recherche 12.10.2026 (Fanseite-Volltextsuche, Fandom-Besetzung, Audible-Sprecherlisten).
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

@@ -6,6 +6,9 @@ titel: Duell im Wilden Westen
 erschienen: 2019-03-29
 verlag: Maritim
 autor: "Markus Topf & Dominik Ahrens"
+sprecher:
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
 spielzeit_min: 54
 zirkel: kein
 crossover_mit: []
@@ -17,6 +20,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - wilder-westen
   - duell
@@ -33,6 +37,7 @@ tags:
 - **Erscheinungsdatum:** 29.03.2019 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 54 Minuten.
 - **Autor:in:** Markus Topf & Dominik Ahrens (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Phileas Fogg – Sascha Draeger. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Marius Clarén, Annina Braunmiller-Jest, Udo Schenk, K. Dieter Klebsch, Ilona Otto, Till Hagen, Michael Pan, Rüdiger Schulzki, Daniel Zillmann, Robin Brosch, Patrick Holtheuer, Julian Deuster, Alexander Turrek, Timo Kinzel, Rainer Fritzsche, Daniel Welbat (DNB-Katalog der Digitalausgabe, Audible).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge19-duell-im-wilden-westen/>
 
@@ -57,3 +62,4 @@ Die verborgene Geschichte hinter Foggs Weltreise führt in den Wilden Westen. Do
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge19-duell-im-wilden-westen/>
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

@@ -6,7 +6,13 @@ titel: Unter Strom
 erschienen: 2025-10-03
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
 spielzeit_min: 63
 zirkel: direkt
 crossover_mit: []
@@ -16,6 +22,7 @@ quellen:
   - raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge21-unter-strom/
   - https://shop.holysoft.de/produkte/moriarty-21-unter-strom-5390/
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - moriarty
   - maritim
@@ -30,6 +37,7 @@ tags:
 - **Erscheinungsdatum:** 03.10.2025.
 - **Spielzeit:** 63 Minuten.
 - **Verlag:** Maritim.
+- **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich, Theodora Sachs – Gabrielle Pietermann, Aleister Crowley – Daniel Zillmann. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Gabrielle Pietermann, Daniel Zillmann, Sina Zadra, Mario Klischies, Thomas Schmuckert, Florian Clyde, Lutz Riedel, Reinhard Scheunemann, Julia Fölster, Ilona Otto (DNB; identisch bei Raute Media, Audible und Hörspieltalk).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge21-unter-strom/>
 
 ## Hauptfiguren
@@ -57,3 +65,4 @@ Die Suche nach Elaine Lightman, von der James Moriarty glaubt, sie trage das Geh
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](../../raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge21-unter-strom/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-21-unter-strom-5390/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

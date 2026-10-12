@@ -6,7 +6,11 @@ titel: Der Atem des Todes
 erschienen: 2022-10-28
 verlag: Maritim
 autor: "Marc Freund"
-sprecher: []
+sprecher:
+  - rolle: Dracula
+    name: Torsten Michaelis
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
 spielzeit_min: 55
 zirkel: direkt
 crossover_mit: []
@@ -19,6 +23,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - dracula
   - zirkel-der-sieben
@@ -35,6 +40,7 @@ tags:
 - **Erscheinungsdatum:** 28.10.2022 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 55 Minuten
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Dracula – Torsten Michaelis, Theodora Sachs – Gabrielle Pietermann. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Torsten Michaelis, Gabrielle Pietermann, Wanja Gerick, Lutz Mackensy, Magdalena Höfner, Bodo Wolf, Ingo Abel, Anke Reitzenstein, Wolfgang Bahro, André Teuber, Patrick Holtheuer, Sandra Schwittau, Torsten Münchow, Liane Rudolph, Jörg Pintsch, Sebastian Fitzner (DNB, Datensatz der Download-Ausgabe; Audible nennt eine gekürzte Teilmenge).
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/dracula/folge08-der-atem-des-todes/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=JepDGZkiRX4> — Schlagzeile der Fanseite vom 19.07.2026.
@@ -57,3 +63,4 @@ Die Folge zeigt die Gefahr, in der sich selbst Draculas engste Verbündete befin
 
 - [raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md](../../raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/dracula/folge08-der-atem-des-todes/>
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).

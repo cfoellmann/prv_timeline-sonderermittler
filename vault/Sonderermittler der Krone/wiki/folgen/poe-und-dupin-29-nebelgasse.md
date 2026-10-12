@@ -6,6 +6,13 @@ titel: Nebelgasse
 erschienen: 2025-06-27
 verlag: Maritim
 autor: "Markus Duschek"
+sprecher:
+  - rolle: Erzähler
+    name: Douglas Welbat
+  - rolle: Edgar Allan Poe
+    name: Uve Teschner
+  - rolle: Auguste Dupin
+    name: Manfred Lehmann
 spielzeit_min: 58
 zirkel: unklar
 spoiler_level: grob
@@ -16,6 +23,7 @@ quellen:
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 ---
 
 # Nebelgasse
@@ -27,6 +35,7 @@ quellen:
 - **Nummer:** 29 | **Jahr:** 2025 | **Spielzeit:** 58 min
 - **Erscheinungsdatum:** 27.06.2025 (Apple Music und Deezer, Abruf 2026-09-06; zusätzlich Audible, CD bei Raute Media und Hörspieltalk-Vorschau und Release-Beitrag vom 27.06.2025). HolyShop nennt 04.07.2025 — geprüft 12.10.2026, Vault-Wert bestätigt ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 5]]).
 - **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Erzähler – Douglas Welbat, Edgar Allan Poe – Uve Teschner, Auguste Dupin – Manfred Lehmann. Erzähler laut Serienseite der Fanseite. *Übrige Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Douglas Welbat, Manfred Lehmann, Uve Teschner, Markus Pfeiffer, Ilona Otto, Ulrike Möckel, Julia Fölster, Tobias Lelle, Dirc Simpson, Dirk Hardegen, Sebastian Fitzner, Patrick Holtheuer (Raute Media, CD; Audible; Hörspieltalk-Vorschau).
 - **Zirkel-Bezug:** unklar — weder Klappentext noch Figurenliste der Rohdatei nennen den Zirkel oder eines seiner Mitglieder. Die Sammelaussage der Rohdatei („Folgen 14–34: Folgen mit Zirkel-Bezug“) ist nicht folgenspezifisch und trägt keine Einstufung (Lint 2026-10-12).
 
 ## Hauptfiguren
@@ -38,3 +47,4 @@ quellen:
 
 - [raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md](../../raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md)
 - [raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md](../../raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md) — Datumsprüfung gegen HolyShop (Raute Media, Hörspieltalk; 12.10.2026).
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

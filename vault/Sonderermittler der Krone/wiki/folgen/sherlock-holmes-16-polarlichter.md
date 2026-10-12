@@ -6,7 +6,19 @@ titel: Polarlichter
 erschienen: 2025-07-25
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: Sherlock Holmes
+    name: Charles Rettinghaus
+  - rolle: Dr. John H. Watson
+    name: Florian Halm
+  - rolle: Killjoy
+    name: Matti Klemm
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Mata Hari
+    name: Katja Keßler
+  - rolle: Dr. Victor Frankenstein
+    name: Dietmar Wunder
 spielzeit_min: 61
 zirkel: direkt
 crossover_mit:
@@ -18,6 +30,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge16-polarlichter/
   - https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-16-polarlichter-5208/
   - raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - sherlock-holmes
   - maritim
@@ -34,6 +47,7 @@ tags:
 - **Spielzeit:** 61 Minuten.
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Sherlock Holmes – Charles Rettinghaus, Dr. John H. Watson – Florian Halm, Killjoy – Matti Klemm, Theodora Sachs – Gabrielle Pietermann, Mata Hari – Katja Keßler, Dr. Victor Frankenstein – Dietmar Wunder. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Charles Rettinghaus, Florian Halm, Gabrielle Pietermann, Katja Keßler, Dietmar Wunder, Matti Klemm, Rainer Fritzsche, Uwe Büschken, Peter Sura, Thomas Schmuckert, Sven Plate (Raute Media, CD-Ausgabe; Audible und Hörspieltalk nennen keine weiteren Namen).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge16-polarlichter/>
 
 ## Hauptfiguren
@@ -64,3 +78,4 @@ Zu ihrem Entsetzen müssen Holmes und Watson erkennen, dass es Mitgliedern des Z
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge16-polarlichter/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-16-polarlichter-5208/>
 - [raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md](../../raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md) — Datumsklärung SH 16 (Raute Media, Hörspieltalk, Apple, Deezer; 12.10.2026).
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).

@@ -7,7 +7,29 @@ erschienen: 2022-07-29
 verlag: Maritim
 autor: "Marc Freund"
 
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mister Wu
+    name: Michael Pan
+  - rolle: James Birdland
+    name: Tim Knauer
+  - rolle: Prof. Emil Gundersson
+    name: Uwe Büschken
+  - rolle: Dr. Robert Grant
+    name: Romanus Fuhrmann
+  - rolle: Anna Lindquist
+    name: Ulrike Sophie Kapfer
+  - rolle: Luke Statler
+    name: Marc Schülert
+  - rolle: Adrian Jönsson
+    name: Detlef Tams
+  - rolle: Valdemar
+    name: Jörg Pintsch
+  - rolle: Anders Lauridsen
+    name: Janis Zaurins
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 72
 zirkel: unklar
 crossover_mit: []
@@ -18,6 +40,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge14-groenlands-grauen/
   - https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-14-groenlands-grauen-2588/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - irene-adler
   - maritim
@@ -36,6 +59,7 @@ tags:
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher:** Irene Adler – Yvonne Greitzke, Mister Wu – Michael Pan, James Birdland – Tim Knauer, Prof. Emil Gundersson – Uwe Büschken, Dr. Robert Grant – Romanus Fuhrmann, Anna Lindquist – Ulrike Sophie Kapfer, Luke Statler – Marc Schülert, Adrian Jönsson – Detlef Tams, Valdemar – Jörg Pintsch, Anders Lauridsen – Janis Zaurins, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (sherlockholmes.fandom.com/de; für die Nebenrollen Einzelquelle, die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Alle Namen durch Raute Media (CD) und Audible bestätigt.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge14-groenlands-grauen/>
 
 ## Hauptfiguren
@@ -62,3 +86,4 @@ Mycroft Holmes schickt Irene Adler und Mister Wu nach Grönland, wo in einem For
 - [raw/maritim/2026-04-30_irene-adler_folgen-11-bis-21.md](../../raw/maritim/2026-04-30_irene-adler_folgen-11-bis-21.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge14-groenlands-grauen/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-14-groenlands-grauen-2588/>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

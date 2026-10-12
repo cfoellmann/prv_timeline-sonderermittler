@@ -6,6 +6,13 @@ titel: Der Elefant aus Stahl
 erschienen: 2016-04-22
 verlag: Maritim
 autor: "Markus Topf & Dominik Ahrens"
+sprecher:
+  - rolle: Erzähler (Jules Verne)
+    name: Christian Brückner
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
+  - rolle: Aouda
+    name: Annina Braunmiller-Jest
 spielzeit_min: 65
 zirkel: indirekt
 crossover_mit: []
@@ -15,6 +22,7 @@ quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - ankerfolge
   - erstauftritt
@@ -28,6 +36,7 @@ tags:
 
 - **Erscheinungsdatum:** 22.04.2016.
 - **Autor:in:** Markus Topf & Dominik Ahrens (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest. *Erzähler (Jules Verne) laut DNB-Katalogeintrag der CD (Titelangabe, IDN 1166079295), keine weitere Rollenliste.* *Übrige Rollen abgeleitet:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest (DNB-Katalog der Digitalausgabe, Audible). Im Klappentext genannt, Stammsprecher:in aber nicht in der Liste, Rolle daher offen: Passepartout (Marius Clarén).
 - **Verlag:** Maritim.
 - **Arbeitsstand:** Bisher nur als Ankerfolge der Repo-Chronologie belegt.
 - **Timeline-Notiz:** Erstauftritt Victor Frankenstein; Robur stirbt.
@@ -51,3 +60,4 @@ tags:
 
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md)
 - [raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md](../../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md)
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

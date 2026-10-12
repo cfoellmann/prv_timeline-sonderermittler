@@ -6,6 +6,45 @@ titel: Brennender Zorn
 erschienen: 2020-09-25
 verlag: Maritim
 autor: "Jonas Maas"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Bastien Lavache
+    name: Peter Lontzek
+  - rolle: Ivan Svetkin
+    name: Marc Schülert
+  - rolle: Anatol Tolov
+    name: André Beyer
+  - rolle: Elena Amankova
+    name: Sarah Alles
+  - rolle: Rasputin
+    name: Tetje Mierendorf
+  - rolle: Detective Chief Inspector Callum
+    name: Torsten Münchow
+  - rolle: Dr. Gordner
+    name: Wolfgang Bahro
+  - rolle: O'Malle
+    name: Dirc Simpson
+  - rolle: Bischof
+    name: Werner Wilkening
+  - rolle: Unbekannter
+    name: Tammo Kaulbarsch
+  - rolle: Anführer
+    name: Alexander Kruuse Mettin
+  - rolle: Angreifer
+    name: André Teuber
+  - rolle: Angreifer
+    name: Jean Coppong
+  - rolle: Angreifer
+    name: Patrick Holtheuer
+  - rolle: Nonnen
+    name: Sina Zadra
+  - rolle: Nonnen
+    name: Katja Keßler
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 68
 zirkel: direkt
 crossover_mit: []
@@ -16,6 +55,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge29-brennender-zorn/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - sonderermittler
   - zirkel
@@ -32,6 +72,7 @@ tags:
 - **Erscheinungsjahr (offizielle Seite):** 2020.
 - **Spielzeit:** 68 Minuten.
 - **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Bastien Lavache – Peter Lontzek, Ivan Svetkin – Marc Schülert, Anatol Tolov – André Beyer, Elena Amankova – Sarah Alles, Rasputin – Tetje Mierendorf, Detective Chief Inspector Callum – Torsten Münchow, Dr. Gordner – Wolfgang Bahro, O'Malle – Dirc Simpson, Bischof – Werner Wilkening, Unbekannter – Tammo Kaulbarsch, Anführer – Alexander Kruuse Mettin, Angreifer – André Teuber, Angreifer – Jean Coppong, Angreifer – Patrick Holtheuer, Nonnen – Sina Zadra, Nonnen – Katja Keßler, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (für die Rollen Einzelquelle; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD, die übrigen Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Alle 19 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe, inhaltlich gleich Audible). Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge29-brennender-zorn/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-29-brennender-zorn.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-29-brennender-zorn.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-29.jpg>)*
@@ -61,6 +102,7 @@ Als ein Mensch ohne erkennbare Fremdeinwirkung verbrennt, verfolgen Wilde und Ho
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge29-brennender-zorn/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 
 
 

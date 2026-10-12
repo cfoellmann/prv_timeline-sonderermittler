@@ -3,12 +3,15 @@ type: figur
 titel: Professor Challenger
 aliase:
   - Challenger
+sprecher: Konstantin Graudus
 status: entwurf
 zirkel: unklar
 quellen:
   - raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md
   - raw/notes/2026-09-06_neue-folgen-scout_september-2026.md
   - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
 tags:
   - phileas-fogg
   - wilde-mycroft-ungeloeste
@@ -18,6 +21,10 @@ tags:
 # Professor Challenger
 
 > Wissenschaftler und Abenteurer, im Kosmos zuerst als Mitspieler des Afrika-Blocks der [[wiki/serien/phileas-fogg|Phileas-Fogg-Reihe]] (DNAPF 38–44) belegt, 2026 dann als Ratgeber [[wiki/figuren/oscar-wilde|Oscar Wildes]] in [[wiki/folgen/wilde-mycroft-ungeloeste-04-das-buch-des-grauens|WMU 4]].
+
+## Eckdaten
+
+- **Sprecher:** Konstantin Graudus — rollengenau in den Rollenlisten der Verlagsvorschau zu [[wiki/folgen/wilde-mycroft-ungeloeste-04-das-buch-des-grauens|WMU 4]] (Hörspieltalk 30926, „Professor George Edward Challenger“) und zu NEM 3 und 4 (Hörspieltalk 29995, 29996). Graudus steht in allen Sprecherlisten DNAPF 38–44; dort seit 12.10.2026 als abgeleitet eingetragen. Eine Fanseiten-Figurenseite gibt es nicht.
 
 ## Auftritte
 
@@ -46,7 +53,7 @@ tags:
 
 - **Dieselbe Figur in beiden Reihen?** Name und Titel („Professor Challenger") sind in DNAPF 40 und WMU 4 identisch; dass es dieselbe Figur ist, sagt keine Quelle ausdrücklich. Im gemeinsamen Kosmos naheliegend, aber eine **Annahme**.
 - **Hawthorn des Afrika-Blocks = Abel Hawthorn aus OWMH?** Geprüft am 12.10.2026: gleicher Name, gleicher Beruf (Jäger), und Jaron Löwenberg — in OWMH Hawthorns Sprecher — steht in jeder DNAPF-Besetzung 39–43. Ausdrücklich belegt ist es nicht, daher **Annahme**; Details auf [[wiki/figuren/abel-hawthorn|Abel Hawthorn]].
-- Sprecher:in: nicht belegt. Audible nennt für DNAPF 38–44 nur Sprecherlisten ohne Rollen.
+- **Sprecher (geklärt 12.10.2026):** Konstantin Graudus, siehe Eckdaten. Für DNAPF 38–44 ist die Zuordnung abgeleitet (Challenger im Klappentext, Graudus in allen Listen), eine Rollenliste dieser Folgen gibt es nicht.
 
 ## Quellen
 
@@ -54,3 +61,5 @@ tags:
 - [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — wörtliche Klappentexte DNAPF 38–44 (Challenger ab DNAPF 38), Hawthorn-Abgleich.
 - [raw/notes/2026-09-06_neue-folgen-scout_september-2026.md](../../raw/notes/2026-09-06_neue-folgen-scout_september-2026.md) — Klappentext WMU 4.
 - Folgenseiten DNAPF 38–44 und WMU 4 im Vault.
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA: Verlagsmitteilung zur Stammbesetzung 2015, Rollenlisten, DNB 245 $c (12.10.2026)
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)

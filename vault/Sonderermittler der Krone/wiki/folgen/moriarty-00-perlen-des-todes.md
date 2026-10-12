@@ -6,7 +6,17 @@ titel: Perlen des Todes
 erschienen: 2021-08-13
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: Sherlock Holmes
+    name: Charles Rettinghaus
+  - rolle: Dr. John Watson
+    name: Florian Halm
+  - rolle: Geoffrey Stafford
+    name: Björn Schalla
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 65
 zirkel: indirekt
 crossover_mit: []
@@ -17,6 +27,7 @@ quellen:
   - raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge00-perlen-des-todes/
   - https://shop.holysoft.de/produkte/moriarty-perlen-des-todes-3041/
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - moriarty
   - maritim
@@ -36,6 +47,7 @@ tags:
 - **Erscheinungsdatum:** 13.08.2021.
 - **Spielzeit:** 65 Minuten.
 - **Verlag:** Maritim.
+- **Sprecher:** Sherlock Holmes – Charles Rettinghaus, Dr. John Watson – Florian Halm, Geoffrey Stafford – Björn Schalla, James Moriarty – Andreas Fröhlich, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (Artikel „Perlen des Todes“; Einzelquelle, nur diese Rollen aufgelöst; sie decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Vollständige Liste ohne Rollen: Charles Rettinghaus, Florian Halm, Björn Schalla, Andreas Fröhlich, Udo Schenk, Torsten Münchow, Arianne Borbach, Stefan Krause, Jörg Pintsch, Sina Zadra, Janis Zaurins, Tom Solo, Ilona Otto, Bodo Wolf, Alexander Turrek, Patrick Holtheuer, André Teuber, Lutz Mackensy (DNB; identisch mit der Romantruhe-Vorschau im Hörspieltalk und der DNB-Liste zu SHC 55).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge00-perlen-des-todes/>
 
 ## Hauptfiguren
@@ -63,3 +75,4 @@ In einem Gasthaus in Plymouth taucht eines Abends ein rätselhafter Fremder auf,
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](../../raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge00-perlen-des-todes/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-perlen-des-todes-3041/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

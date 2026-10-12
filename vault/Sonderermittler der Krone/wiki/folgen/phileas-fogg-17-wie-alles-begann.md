@@ -6,6 +6,11 @@ titel: Wie alles begann
 erschienen: 2018-11-23
 verlag: Maritim
 autor: "Markus Topf & Dominik Ahrens"
+sprecher:
+  - rolle: Erzähler (Jules Verne)
+    name: Christian Brückner
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
 spielzeit_min: 58
 zirkel: unklar
 crossover_mit: []
@@ -17,6 +22,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - quellenkonflikt
   - fortsetzungsblock
@@ -32,6 +38,7 @@ tags:
 - **Erscheinungsdatum:** 23.11.2018 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 58 Minuten.
 - **Autor:in:** Markus Topf & Dominik Ahrens (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger. *Erzähler (Jules Verne) laut DNB-Katalogeintrag der CD (Titelangabe, IDN 1177742241), keine weitere Rollenliste.* *Übrige Rollen abgeleitet:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Marius Clarén, K. Dieter Klebsch, Udo Schenk, Helmut Krauss, Kaspar Eichel, Peter Kirchberger, Oliver Stritzel, Janis Zaurins, Julian Deuster, Joachim Tennstedt, Lutz Riedel, Wolfgang Bahro, Rainer Fritzsche, Jens Wendland, Patrick Holtheuer, Michael Grimm, Volker Brandt, Tobias Schmidt (DNB-Katalog der Digitalausgabe, Audible). Der Klappentext der Fanseite ist eine Dublette von Folge 16 und wurde nicht ausgewertet.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge17-wie-alles-begann/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=PJxQtJ6-9AE>
@@ -57,3 +64,4 @@ Die offizielle Folgenseite führt aktuell keinen klar unterscheidbaren eigenen K
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge17-wie-alles-begann/>
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

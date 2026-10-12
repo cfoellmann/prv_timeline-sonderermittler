@@ -4,12 +4,15 @@ titel: Professor van Dusen
 aliase:
   - van Dusen
   - Van Dusen
+sprecher: Martin Keßler
 status: entwurf
 zirkel: unklar
 quellen:
   - raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md
   - raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md
   - raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md
+  - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - nebenfigur
   - sherlock-holmes
@@ -19,6 +22,10 @@ tags:
 # Professor van Dusen
 
 > Ermittler, der im Auftakt-Zweiteiler der Reihe [[wiki/serien/sherlock-holmes|Sherlock Holmes – Sonderermittler der Krone]] (SH 1–2) im Auftrag [[wiki/figuren/mycroft-holmes|Mycroft Holmes']] eine Vergiftungsserie untersucht und dabei auf [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] trifft.
+
+## Eckdaten
+
+- **Sprecher:** Martin Keßler — rollengenau in den Fandom-Besetzungstabellen SH 1/2 („Dunkle Kräfte“) und OWMH 35–37 („Prof. Van Dusen“ bzw. „Professor van Dusen“); in SH 1/2 steht er auch in den vollständigen Raute-Media-Listen.
 
 ## Auftritte
 
@@ -47,7 +54,7 @@ Die Romantruhe-Anthologie [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes
 
 - **Dieselbe Figur wie der SHC-Ermittler?** Name und Titel stimmen überein, und SHC ist die Vorgängerachse der Holmes-Linie. Dass der van Dusen aus SH 1–2 der Ermittler der 26 SHC-Folgen ist, sagt keine Quelle ausdrücklich — **Annahme**.
 - **Eigene Maritim-Reihe?** Laut Zauberspiegel-Beitrag weiß Ingo Löchel nicht, wie eine Reihe „Professor van Dusen“ ins Universum passt, und vermutet einen Crossover; auf der offiziellen Übersicht von sonderermittler-der-krone.de steht sie nicht (siehe [[wiki/universum|Universum]], offene Punkte). **Offen.**
-- Vorname und Sprecher sind im Repo nicht belegt.
+- Der Vorname ist im Repo nicht belegt. Der Sprecher ist seit dem 12.10.2026 belegt (Martin Keßler, siehe Eckdaten).
 
 ## Quellen
 
@@ -55,3 +62,5 @@ Die Romantruhe-Anthologie [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes
 - [raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md](../../raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md) — SHC-Folgenliste mit Ermittler-Zuordnung „Van Dusen“, Kanonprüfung.
 - [raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md](../../raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md) — Löchel zur möglichen Reihe „Professor van Dusen“.
 - Folgenseiten SH 1 und SH 2 im Vault.
+- [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)

@@ -6,7 +6,9 @@ titel: Im Tal der Inkas
 erschienen: 2026-06-26
 verlag: Maritim
 autor: "Marc Freund"
-sprecher: []
+sprecher:
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
 spielzeit_min: 68
 zirkel: kein
 crossover_mit: []
@@ -17,6 +19,7 @@ quellen:
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge52-im-tal-der-inkas/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - phileas-fogg
   - maritim
@@ -33,6 +36,7 @@ tags:
 - **Spielzeit:** 68 Minuten.
 - **Verlag:** Maritim (Produktion Holysoft).
 - **Autor:in:** noch nicht im Repo verifiziert (Stoffgeber: Jules Verne).
+- **Sprecher (Auswahl):** Phileas Fogg – Sascha Draeger. *Phileas Fogg laut DNB-Katalogeintrag der CD (Titelangabe, IDN 1406941107), keine weitere Rollenliste.* Vollständige Liste ohne Rollen: Sascha Draeger, Marius Clarén, Sascha Rotermund, Yvonne Greitzke, Sarah Alles, Romanus Fuhrmann, Brian Sommer, Marc Schülert, Dirk Hardegen, Jörg Pintsch, Sebastian Fitzner, Uwe Büschken, Marion Gretchen Schmitz, Patrick Holtheuer (DNB-Katalog der Digitalausgabe, Audible, Hörspieltalk-Thread 30154).
 - **Schauplatz:** peruanische Anden.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge52-im-tal-der-inkas/>
 
@@ -68,3 +72,4 @@ tags:
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge52-im-tal-der-inkas/>
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche-Notiz.
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update (Datum, Spielzeit).
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

@@ -6,6 +6,13 @@ titel: Die Stunde Null
 erschienen: 2023-08-25
 verlag: Maritim
 autor: "Hajo Bremer"
+sprecher:
+  - rolle: Phileas Fogg
+    name: Sascha Draeger
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Mycroft Holmes
+    name: Reent Reins
 spielzeit_min: 62
 zirkel: direkt
 crossover_mit:
@@ -19,6 +26,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
 tags:
   - westafrika
   - mycroft-holmes
@@ -35,6 +43,7 @@ tags:
 - **Erscheinungsdatum:** 25.08.2023 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 62 Minuten.
 - **Autor:in:** Hajo Bremer (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Phileas Fogg – Sascha Draeger, Victor Frankenstein – Dietmar Wunder, Mycroft Holmes – Reent Reins. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Reent Reins, Lutz Mackensy, Dietmar Wunder, Peter Kirchberger, Tilmar Kuhn, Janis Zaurins, Konstantin Graudus, Brian Sommer, Detlef Tams, Lutz Riedel, Jörg Pintsch (DNB-Katalog der Digitalausgabe, Audible).
 - **Verlag:** Maritim.
 
 ## Hauptfiguren
@@ -55,3 +64,4 @@ Während Mycroft Holmes ein neues Hauptquartier errichten lässt, erhält er Hin
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge37-die-stunde-null/>
+- [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).

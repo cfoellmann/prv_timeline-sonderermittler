@@ -6,7 +6,13 @@ titel: Doppelte Tarnung
 erschienen: 2026-07-17
 verlag: Maritim
 autor: "Silke Walter"
-sprecher: []
+sprecher:
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
 spielzeit_min: 52
 zirkel: direkt
 crossover_mit:
@@ -19,6 +25,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/schlagzeilen/2026-07-13-doppelte-tarnung/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - frankenstein
   - maritim
@@ -36,6 +43,7 @@ tags:
 - **Spielzeit:** 52 Minuten (HolyShop).
 - **Verlag:** Maritim (Produktion Holysoft).
 - **Autor:in:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Victor Frankenstein – Dietmar Wunder, Theodora Sachs – Gabrielle Pietermann, Aleister Crowley – Daniel Zillmann. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Dietmar Wunder, Gabrielle Pietermann, Daniel Zillmann, Peter Lontzek, Uwe Büschken, Ulrike Sophie Kapfer, Tim Knauer, Sönke Städtler, Tanja Lipinski, Janis Zaurins, Marcel Mann, Tilmar Kuhn (DNB; identisch bei Audible). Hörspieltalk ohne Janis Zaurins. Bastien Lavache hat keine Fanseiten-Figurenseite und ist deshalb nicht zugeordnet (Peter Lontzek steht in der Liste).
 - **Schauplatz:** Bistritz und die Karpaten.
 - **Offizielle Meldung:** <https://www.sonderermittler-der-krone.de/schlagzeilen/2026-07-13-doppelte-tarnung/>
 
@@ -75,3 +83,4 @@ tags:
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update (Datum 17.07.2026, Spielzeit).
 - HolyShop-Serienseite: <https://shop.holysoft.de/serien/frankenstein-und-der-zirkel-der-sieben/>
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

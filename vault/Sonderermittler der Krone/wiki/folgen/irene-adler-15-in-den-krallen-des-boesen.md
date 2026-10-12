@@ -7,7 +7,27 @@ erschienen: 2023-02-24
 verlag: Maritim
 autor: "Marc Freund"
 
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: James Birdland
+    name: Tim Knauer
+  - rolle: Sharon Birdland
+    name: Sina Zadra
+  - rolle: Dracula
+    name: Torsten Michaelis
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Alex Tracy
+    name: Peter Sura
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 63
 zirkel: direkt
 crossover_mit: []
@@ -18,6 +38,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge15-in-den-krallen-des-boesen/
   - https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-15-in-den-krallen-des-boesen-2589/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - irene-adler
   - maritim
@@ -37,6 +58,7 @@ tags:
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher:** Irene Adler – Yvonne Greitzke, James Birdland – Tim Knauer, Sharon Birdland – Sina Zadra, Dracula – Torsten Michaelis, Theodora Sachs – Gabrielle Pietermann, Aleister Crowley – Daniel Zillmann, James Moriarty – Andreas Fröhlich, Victor Frankenstein – Dietmar Wunder, Alex Tracy – Peter Sura, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (sherlockholmes.fandom.com/de; für die Nebenrollen Einzelquelle, die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Alle Namen durch Raute Media (CD) und Audible bestätigt.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge15-in-den-krallen-des-boesen/>
 
 ## Hauptfiguren
@@ -67,3 +89,4 @@ Irene Adler und James Birdland werden in einer Kutsche an einen unbekannten Ort 
 - [raw/maritim/2026-04-30_irene-adler_folgen-11-bis-21.md](../../raw/maritim/2026-04-30_irene-adler_folgen-11-bis-21.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge15-in-den-krallen-des-boesen/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-15-in-den-krallen-des-boesen-2589/>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

@@ -6,7 +6,27 @@ titel: Gefährliches Erbe
 erschienen: 2022-03-25
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Rodney Lambert
+    name: Alexander Turrek
+  - rolle: Percy White
+    name: Tim Knauer
+  - rolle: David Randall
+    name: Erich Räuker
+  - rolle: Shanna Randall
+    name: Luisa Wietzorek
+  - rolle: Edward Gordon
+    name: Hans-Jürgen Dittberner
+  - rolle: Harold Winter
+    name: Robert Louis Griesbach
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Kutscher
+    name: Detlef Tams
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 65
 zirkel: indirekt
 crossover_mit: []
@@ -16,6 +36,7 @@ quellen:
   - raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge05-gefaehrliches-erbe/
   - https://shop.holysoft.de/produkte/moriarty-5-gefaehrliches-erbe-3042/
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - moriarty
   - maritim
@@ -30,6 +51,7 @@ tags:
 - **Erscheinungsdatum:** 25.03.2022.
 - **Spielzeit:** 65 Minuten.
 - **Verlag:** Maritim.
+- **Sprecher:** James Moriarty – Andreas Fröhlich, Rodney Lambert – Alexander Turrek, Percy White – Tim Knauer, David Randall – Erich Räuker, Shanna Randall – Luisa Wietzorek, Edward Gordon – Hans-Jürgen Dittberner, Harold Winter – Robert Louis Griesbach, Theodora Sachs – Gabrielle Pietermann, Kutscher – Detlef Tams, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (Artikel „Gefährliches Erbe“; für die Rollen Einzelquelle); die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten. Alle Namen zusätzlich durch DNB und Raute Media bestätigt.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge05-gefaehrliches-erbe/>
 
 ## Hauptfiguren
@@ -56,3 +78,4 @@ James Moriarty macht auf der Überfahrt von New York nach England die Bekanntsch
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](../../raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge05-gefaehrliches-erbe/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-5-gefaehrliches-erbe-3042/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

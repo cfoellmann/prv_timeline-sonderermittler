@@ -6,7 +6,9 @@ titel: Angst in den Gassen
 erschienen: 2021-02-26
 verlag: Maritim
 autor: "Marc Freund"
-sprecher: []
+sprecher:
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
 spielzeit_min: 70
 zirkel: kein
 crossover_mit: []
@@ -18,6 +20,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - horror
   - frankenstein
@@ -34,6 +37,7 @@ tags:
 - **Erscheinungsdatum:** 26.02.2021 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 70 Minuten
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Victor Frankenstein – Dietmar Wunder. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Dietmar Wunder, Sarah Alles, Dagmar Dreke, Markus Pfeiffer, Bodo Wolf, Sebastian Winkler, Janis Zaurins, Tobias Lelle, Marcel Collé, Felix Strüven, Katja Keßler, Lutz Mackensy (DNB; identisch bei Raute Media; Audible gekürzt).
 - **Verlag:** Maritim
 - **YouTube:** <https://www.youtube.com/watch?v=G18-cJ2jr4I>
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge03-angst-in-den-gassen/>
@@ -59,3 +63,4 @@ Victor Frankenstein erwacht in einer Gefängniszelle in Paris und erfährt, dass
 
 - [raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md](../../raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge03-angst-in-den-gassen/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

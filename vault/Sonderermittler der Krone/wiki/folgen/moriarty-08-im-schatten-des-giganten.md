@@ -6,7 +6,39 @@ titel: Im Schatten des Giganten
 erschienen: 2023-02-03
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Shanna Randall
+    name: Luisa Wietzorek
+  - rolle: Maxime De Groot
+    name: Lutz Mackensy
+  - rolle: Benjamin Knowles
+    name: Wanja Gerick
+  - rolle: Poppy Palmer
+    name: Sina Zadra
+  - rolle: Tassilo Baxter
+    name: Thomas Schmuckert
+  - rolle: Dracula
+    name: Torsten Michaelis
+  - rolle: Lady Lydia Edgeware
+    name: Ulrike Möckel
+  - rolle: Nigel Green
+    name: Brian Sommer
+  - rolle: Christine Umbridge
+    name: Katja Keßler
+  - rolle: Oberst Mortimer Basso
+    name: Till Hagen
+  - rolle: Kutscher
+    name: Detlef Tams
+  - rolle: Kopf
+    name: Patrick Holtheuer
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 65
 zirkel: direkt
 crossover_mit:
@@ -18,6 +50,7 @@ quellen:
   - raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge08-im-schatten-des-giganten/
   - https://shop.holysoft.de/produkte/moriarty-8-im-schatten-des-giganten-3045/
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - moriarty
   - maritim
@@ -33,6 +66,7 @@ tags:
 - **Erscheinungsdatum:** 03.02.2023.
 - **Spielzeit:** 65 Minuten.
 - **Verlag:** Maritim.
+- **Sprecher:** James Moriarty – Andreas Fröhlich, Theodora Sachs – Gabrielle Pietermann, Oscar Wilde – Sascha Rotermund, Shanna Randall – Luisa Wietzorek, Maxime De Groot – Lutz Mackensy, Benjamin Knowles – Wanja Gerick, Poppy Palmer – Sina Zadra, Tassilo Baxter – Thomas Schmuckert, Dracula – Torsten Michaelis, Lady Lydia Edgeware – Ulrike Möckel, Nigel Green – Brian Sommer, Christine Umbridge – Katja Keßler, Oberst Mortimer Basso – Till Hagen, Kutscher – Detlef Tams, Kopf – Patrick Holtheuer, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (Artikel „Im Schatten des Giganten“; für die Rollen Einzelquelle); die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten. Alle Namen zusätzlich durch DNB und Raute Media bestätigt.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge08-im-schatten-des-giganten/>
 
 ## Hauptfiguren
@@ -62,3 +96,4 @@ In belgischen Gent kommt es zu einem dramatischen Kampf auf Leben und Tod. Die M
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](../../raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge08-im-schatten-des-giganten/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-8-im-schatten-des-giganten-3045/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

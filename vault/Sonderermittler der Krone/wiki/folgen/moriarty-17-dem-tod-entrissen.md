@@ -6,7 +6,15 @@ titel: Dem Tod entrissen
 erschienen: 2025-01-31
 verlag: Maritim
 autor: ""
-sprecher: []
+sprecher:
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
+  - rolle: Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Mata Hari
+    name: Katja Keßler
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
 spielzeit_min: 74
 zirkel: direkt
 crossover_mit:
@@ -17,6 +25,7 @@ quellen:
   - raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge17-dem-tod-entrissen/
   - https://shop.holysoft.de/produkte/moriarty-17-dem-tod-entrissen-4946/
+  - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
 tags:
   - moriarty
   - maritim
@@ -31,6 +40,7 @@ tags:
 - **Erscheinungsdatum:** 31.01.2025.
 - **Spielzeit:** 74 Minuten.
 - **Verlag:** Maritim.
+- **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich, Victor Frankenstein – Dietmar Wunder, Mata Hari – Katja Keßler, Theodora Sachs – Gabrielle Pietermann. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Dietmar Wunder, Katja Keßler, Gabrielle Pietermann, Joachim Tennstedt, Sina Zadra, Peter Sura, Dirc Simpson, Felix Strüven, Ulrike Möckel, Janis Zaurins, Gosta Liptow, Romanus Fuhrmann, Patrick Holtheuer, Jean Coppong (DNB; identisch bei Raute Media und Hörspieltalk; Audible gekürzt).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge17-dem-tod-entrissen/>
 
 ## Hauptfiguren
@@ -60,3 +70,4 @@ Die Gefängnisglocke von Pentonville kündigt den Tod von Doktor Jason Lightman 
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](../../raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge17-dem-tod-entrissen/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-17-dem-tod-entrissen-4946/>
+- [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).

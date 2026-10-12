@@ -6,6 +6,43 @@ titel: Kalter Fels
 erschienen: 2016-09-09
 verlag: Maritim
 autor: "Jonas Maas"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Dr. Benjamin Payton
+    name: Leonhard Mahlich
+  - rolle: Abel Hawthorn
+    name: Jaron Löwenberg
+  - rolle: Violet Ishiguro
+    name: Mia Diekow
+  - rolle: Kapitän Nathaniel Girard
+    name: Bernd Rumpf
+  - rolle: Ezra Tosh
+    name: Peter Lontzek
+  - rolle: Pasquaie
+    name: Christian Stark
+  - rolle: Mr. Irving
+    name: Jürgen Holdorf
+  - rolle: Poole
+    name: Wolfgang Bahro
+  - rolle: Kutscher
+    name: Jan-David Rönfeldt
+  - rolle: Passant
+    name: Peter Weis
+  - rolle: Passantin
+    name: Florentine Draeger
+  - rolle: Erster Seemann
+    name: Rainer Fritzsche
+  - rolle: Zweiter Seemann
+    name: Helmut Krauss
+  - rolle: Unbekannter 1
+    name: Alexander Turrek
+  - rolle: Unbekannter 2
+    name: Patrick Holtheuer
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 76
 zirkel: direkt
 crossover_mit: []
@@ -16,6 +53,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge05-kalter-fels/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - sonderermittler
   - zirkel
@@ -32,6 +70,7 @@ tags:
 - **Erscheinungsjahr (offizielle Seite):** 2016.
 - **Spielzeit:** 76 Minuten.
 - **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Dr. Benjamin Payton – Leonhard Mahlich, Abel Hawthorn – Jaron Löwenberg, Violet Ishiguro – Mia Diekow, Kapitän Nathaniel Girard – Bernd Rumpf, Ezra Tosh – Peter Lontzek, Pasquaie – Christian Stark, Mr. Irving – Jürgen Holdorf, Poole – Wolfgang Bahro, Kutscher – Jan-David Rönfeldt, Passant – Peter Weis, Passantin – Florentine Draeger, Erster Seemann – Rainer Fritzsche, Zweiter Seemann – Helmut Krauss, Unbekannter 1 – Alexander Turrek, Unbekannter 2 – Patrick Holtheuer, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (für die Rollen Einzelquelle; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD, die übrigen Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). DNB (Digitalausgabe) und Audible führen für OWMH 1–8 einheitlich dieselben fünf Namen (Sascha Rotermund, Reent Reins, Holger Löwenberg, Leonhard Mahlich, Jaron Löwenberg) — eine Serienangabe, keine Folgenbesetzung; die übrigen Namen sind daher nur über Fandom belegt. Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge05-kalter-fels/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=jCoK4WfJIE0>
@@ -63,6 +102,7 @@ Das Geständnis eines Gefangenen bringt Mycroft Holmes auf die Spur einer geheim
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge05-kalter-fels/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Abel-Hawthorn-Recherche 12.10.2026 (Fanseite-Volltextsuche, Fandom-Besetzung, Audible-Sprecherlisten).
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 
 
 

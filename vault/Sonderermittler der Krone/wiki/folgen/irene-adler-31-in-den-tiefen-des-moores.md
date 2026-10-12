@@ -6,7 +6,19 @@ titel: In den Tiefen des Moores
 erschienen: 2026-02-13
 verlag: Maritim
 autor: "Silke Walter"
-sprecher: []
+sprecher:
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mister Wu
+    name: Michael Pan
+  - rolle: Rasputin
+    name: Tetje Mierendorf
+  - rolle: Aleister Crowley
+    name: Daniel Zillmann
+  - rolle: Nikola Tesla
+    name: Patrick Winczewski
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
 spielzeit_min: 55
 zirkel: direkt
 crossover_mit:
@@ -18,6 +30,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge31-in-den-tiefen-des-moores/
   - https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-31-in-den-tiefen-des-moores-5558/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - sonderermittler
   - maritim
@@ -36,6 +49,7 @@ tags:
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Irene Adler – Yvonne Greitzke, Mister Wu – Michael Pan, Rasputin – Tetje Mierendorf, Aleister Crowley – Daniel Zillmann, Nikola Tesla – Patrick Winczewski, Theodora Sachs – Gabrielle Pietermann. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Yvonne Greitzke, Michael Pan, Manuel Straube, Tetje Mierendorf, Daniel Zillmann, Patrick Winczewski, Gabrielle Pietermann, Tilmar Kuhn, Deborah Mock, Florian Clyde, Marcel Collé, Tobias Schmitz, Jean Coppong (Raute Media, CD; Audible).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge31-in-den-tiefen-des-moores/>
 - **Datumsbeleg:** offizielle Folgenseite; HolyShop bestätigt denselben Termin.
 
@@ -67,3 +81,4 @@ Erschrocken über ihre letzte Entdeckung machen sich Irene Adler und Wu weiter a
 - [raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md](../../raw/maritim/2026-04-30_irene-adler_folgen-22-bis-32.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge31-in-den-tiefen-des-moores/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-31-in-den-tiefen-des-moores-5558/>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).

@@ -6,6 +6,37 @@ titel: Die Stimme des Verräters
 erschienen: 2020-12-04
 verlag: Maritim
 autor: "Jonas Maas"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Violet Ishiguro
+    name: Mia Diekow
+  - rolle: Dr. Alfons Grell
+    name: K. Dieter Klebsch
+  - rolle: Robur
+    name: Milton Welsh
+  - rolle: Tjark Björnsson
+    name: Jens Wendland
+  - rolle: Ashton Burnley
+    name: Janis Zaurins
+  - rolle: Sigur Gunarsson
+    name: Volker Brandt
+  - rolle: Freya Gunarsson
+    name: Ulrike Möckel
+  - rolle: Victor van Dahlen
+    name: Stefan Krause
+  - rolle: Friedhelm Bogner
+    name: Joachim Tennstedt
+  - rolle: Wärter im Grey Tower
+    name: Jörg Pintsch
+  - rolle: Wächter
+    name: Alexander Kruuse Mettin
+  - rolle: Wächter
+    name: Patrick Holtheuer
+  - rolle: Ansage
+    name: Lutz Mackensy
 spielzeit_min: 72
 zirkel: direkt
 crossover_mit: []
@@ -16,6 +47,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge30-die-stimme-des-verraeters/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
+  - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
 tags:
   - sonderermittler
 ---
@@ -31,6 +63,7 @@ tags:
 - **Erscheinungsjahr (offizielle Seite):** 2020.
 - **Spielzeit:** 72 Minuten.
 - **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Violet Ishiguro – Mia Diekow, Dr. Alfons Grell – K. Dieter Klebsch, Robur – Milton Welsh, Tjark Björnsson – Jens Wendland, Ashton Burnley – Janis Zaurins, Sigur Gunarsson – Volker Brandt, Freya Gunarsson – Ulrike Möckel, Victor van Dahlen – Stefan Krause, Friedhelm Bogner – Joachim Tennstedt, Wärter im Grey Tower – Jörg Pintsch, Wächter – Alexander Kruuse Mettin, Wächter – Patrick Holtheuer, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (für die Rollen Einzelquelle; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD, die übrigen Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Alle 15 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe, inhaltlich gleich Audible). Schreibung nach DNB/Audible bzw. den übrigen Fandom-Tabellen: „K. Dieter Klebsch“ (Fandom hier ohne Leerzeichen nach „K.“). Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge30-die-stimme-des-verraeters/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-30-die-stimme-des-verraeters.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-30-die-stimme-des-verraeters.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-30.jpg>)*
@@ -59,6 +92,7 @@ Der schwer verletzte Dr. Grell nutzt seine letzten Stunden, um Wilde brisante In
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge30-die-stimme-des-verraeters/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
+- [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 
 
 
