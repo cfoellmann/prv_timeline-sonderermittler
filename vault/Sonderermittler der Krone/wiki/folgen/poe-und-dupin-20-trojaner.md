@@ -6,7 +6,7 @@ titel: Trojaner
 erschienen: 2023-05-05
 verlag: Maritim
 autor: "Markus Duschek"
-spielzeit_min: 61
+spielzeit_min: 60
 zirkel: indirekt
 spoiler_level: grob
 status: recherchiert

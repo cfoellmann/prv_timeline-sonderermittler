@@ -31,7 +31,7 @@ tags:
 - **Setting / Zeit:** 1890er Jahre, genaue In-Universe-Datierung im Repo noch offen.
 - **Schauplatz:** Rom und das Umfeld des Vatikans.
 - **Erscheinungsjahr:** 2016.
-- **Erscheinungsdatum:** auf der offiziellen Folgenseite derzeit nicht genauer ausgewiesen.
+- **Erscheinungsdatum:** 13.05.2016 (Apple Music, Abruf 2026-09-06); auf der offiziellen Folgenseite nicht genauer ausgewiesen.
 - **Spielzeit:** 77 Minuten.
 - **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.

@@ -6,7 +6,7 @@ titel: Hochverrat
 erschienen: 2023-02-17
 verlag: Maritim
 autor: "Markus Duschek"
-spielzeit_min: 60
+spielzeit_min: 59
 zirkel: direkt
 spoiler_level: grob
 status: recherchiert

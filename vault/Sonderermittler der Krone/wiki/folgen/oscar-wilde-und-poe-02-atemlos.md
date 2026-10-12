@@ -13,7 +13,7 @@ sprecher:
     name: unbekannt
   - rolle: Mycroft Holmes
     name: unbekannt
-spielzeit_min: 57
+spielzeit_min: 56
 zirkel: indirekt
 spoiler_level: grob
 status: recherchiert
@@ -39,7 +39,7 @@ tags:
 
 - **Serie:** [[wiki/serien/oscar-wilde-und-poe|Oscar Wilde & Edgar Allan Poe]]
 - **Verlag:** Blitz Verlag
-- **Erschienen:** 2025
+- **Erschienen:** 19.12.2025
 - **Spielzeit:** 56 min
 - **Zirkel-Bezug:** indirekt
 
@@ -70,5 +70,5 @@ Noch indirekt – die Folge konzentriert sich auf die Flucht- und Überlebensges
 
 ## Quellen
 
-- [raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md](../../../raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md)
+- [raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md](../../raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md)
 - Offizielle Website: <https://www.sonderermittler-der-krone.de/serien/wilde-und-poe/folge02-atemlos/>

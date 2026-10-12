@@ -6,7 +6,7 @@ titel: Entfesselter Wahn
 erschienen: 2022-06-24
 verlag: Maritim
 autor: "Markus Duschek"
-spielzeit_min: 61
+spielzeit_min: 60
 zirkel: direkt
 spoiler_level: grob
 status: recherchiert

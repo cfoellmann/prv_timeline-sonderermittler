@@ -6,7 +6,7 @@ titel: Die Rache der Raubritter
 erschienen: 2022-09-09
 verlag: Maritim
 autor: "Markus Duschek"
-spielzeit_min: 57
+spielzeit_min: 56
 zirkel: direkt
 spoiler_level: grob
 status: recherchiert

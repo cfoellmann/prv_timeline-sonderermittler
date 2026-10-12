@@ -36,7 +36,7 @@ tags:
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge21-die-sieben-seelen-des-anubis/>
-- **Titel-Hinweis:** Die offizielle Folgenseite nennt `Die sieben Seelen des Anubis`, während die bisherige Loechel-Chronologie im Repo `Die sieben Steine des Anubis` notiert. Für den Crawl wird der offizielle Folgentitel als primärer Titel geführt; die Chronologienotiz bleibt als abweichender Beleg erhalten.
+- **Titel-Hinweis:** Die offizielle Folgenseite nennt `Die sieben Seelen des Anubis`, während die bisherige Löchel-Chronologie im Repo `Die sieben Steine des Anubis` notiert. Für den Crawl wird der offizielle Folgentitel als primärer Titel geführt; die Chronologienotiz bleibt als abweichender Beleg erhalten.
 - **Timeline-Notiz:** Frankenstein kehrt laut Chronologie zurück; Dracula rettete ihn zuvor.
 
 ## Hauptfiguren

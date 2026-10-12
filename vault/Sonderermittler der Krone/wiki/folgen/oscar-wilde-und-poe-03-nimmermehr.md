@@ -46,7 +46,7 @@ tags:
 
 - **Serie:** [[wiki/serien/oscar-wilde-und-poe|Oscar Wilde & Edgar Allan Poe]]
 - **Verlag:** Blitz Verlag
-- **Erschienen:** 2026
+- **Erschienen:** 02.01.2026
 - **Spielzeit:** 57 min
 - **Zirkel-Bezug:** direkt
 
@@ -86,5 +86,5 @@ Der Wettlauf um die »Ewig Liebenden« wird zu einem direkten Konflikt zwischen 
 
 ## Quellen
 
-- [raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md](../../../raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md)
+- [raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md](../../raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md)
 - Offizielle Website: <https://www.sonderermittler-der-krone.de/serien/wilde-und-poe/folge03-nimmermehr/>

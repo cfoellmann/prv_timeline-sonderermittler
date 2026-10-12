@@ -6,7 +6,7 @@ titel: Nachts auf der Seine
 erschienen: 2021-08-13
 verlag: Maritim
 autor: "Markus Duschek"
-spielzeit_min: 58
+spielzeit_min: 57
 zirkel: direkt
 crossover_mit: []
 spoiler_level: grob

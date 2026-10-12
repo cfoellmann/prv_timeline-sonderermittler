@@ -861,7 +861,7 @@
       "story_anmerkung": "Der offizielle Klappentext datiert Wildes Wendepunkt auf das Frühjahr 1895; Löchels Chronologie nennt ebenfalls 1895. Ein konkreter Monat ist nicht belegt — der bisherige Wert April (story_monat 4, Präzision \"monat\") ist eine Auslegung von \"Frühjahr\" und wird zurückgenommen.",
       "zirkel": "indirekt",
       "spoiler_level": "grob",
-      "spielzeit_min": 80,
+      "spielzeit_min": 79,
       "logline": "Wilde wird Sonderermittler der Krone.",
       "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-01-zeitenwechsel.md"
     },
@@ -876,7 +876,7 @@
       "story_anmerkung": "Erstauftritt Abel Hawthorn",
       "zirkel": "indirekt",
       "spoiler_level": "grob",
-      "spielzeit_min": 80,
+      "spielzeit_min": 79,
       "logline": "Wilde untersucht eine Vermisstenserie im schottischen Hochland.",
       "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/oscar-wilde-und-mycroft-holmes-02-finsteres-hochland.md"
     },
@@ -1989,7 +1989,7 @@
       "story_praezision": "unbekannt",
       "zirkel": "indirekt",
       "spoiler_level": "grob",
-      "spielzeit_min": 68,
+      "spielzeit_min": 67,
       "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/poe-und-dupin-05-der-fluch-des-falschen-koenigs.md"
     },
     {
@@ -2013,7 +2013,7 @@
       "story_praezision": "unbekannt",
       "zirkel": "indirekt",
       "spoiler_level": "grob",
-      "spielzeit_min": 61,
+      "spielzeit_min": 60,
       "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/poe-und-dupin-07-der-tod-der-schwarzen-schafe.md"
     },
     {
@@ -2026,7 +2026,7 @@
       "story_anmerkung": "Kein belegtes Story-Jahr. Warnhinweis gegen Fehldatierung: Die Franzoesische Revolution kommt in dieser Folge nur als Bezugnahme des Taeters in Bekennerbriefen vor („die französische Revolution vollenden\"), nicht als Handlungszeit. Die Folge spielt wie die uebrige Reihe in der Serien-Gegenwart und darf nicht ins 18. Jahrhundert einsortiert werden.",
       "zirkel": "indirekt",
       "spoiler_level": "grob",
-      "spielzeit_min": 61,
+      "spielzeit_min": 60,
       "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/poe-und-dupin-08-im-schatten-der-guillotine.md"
     },
     {
@@ -2100,7 +2100,7 @@
       "story_praezision": "unbekannt",
       "zirkel": "direkt",
       "spoiler_level": "grob",
-      "spielzeit_min": 58,
+      "spielzeit_min": 57,
       "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/poe-und-dupin-14-nachts-auf-der-seine.md"
     },
     {
@@ -2137,7 +2137,7 @@
       "story_praezision": "unbekannt",
       "zirkel": "direkt",
       "spoiler_level": "grob",
-      "spielzeit_min": 61,
+      "spielzeit_min": 60,
       "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/poe-und-dupin-17-entfesselter-wahn.md"
     },
     {
@@ -2149,7 +2149,7 @@
       "story_praezision": "unbekannt",
       "zirkel": "direkt",
       "spoiler_level": "grob",
-      "spielzeit_min": 57,
+      "spielzeit_min": 56,
       "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/poe-und-dupin-18-die-rache-der-raubritter.md"
     },
     {
@@ -2161,7 +2161,7 @@
       "story_praezision": "unbekannt",
       "zirkel": "direkt",
       "spoiler_level": "grob",
-      "spielzeit_min": 60,
+      "spielzeit_min": 59,
       "wiki": "vault/Sonderermittler%20der%20Krone/wiki/folgen/poe-und-dupin-19-hochverrat.md"
     },
     {

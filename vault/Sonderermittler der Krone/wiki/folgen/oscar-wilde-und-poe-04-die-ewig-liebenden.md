@@ -19,7 +19,7 @@ sprecher:
     name: unbekannt
   - rolle: Rasputin
     name: unbekannt
-spielzeit_min: 54
+spielzeit_min: 53
 zirkel: direkt
 spoiler_level: grob
 status: recherchiert
@@ -47,7 +47,7 @@ tags:
 
 - **Serie:** [[wiki/serien/oscar-wilde-und-poe|Oscar Wilde & Edgar Allan Poe]]
 - **Verlag:** Blitz Verlag
-- **Erschienen:** 2026
+- **Erschienen:** 16.01.2026
 - **Spielzeit:** 53 min
 - **Zirkel-Bezug:** direkt
 
@@ -87,5 +87,5 @@ Im Finale der Mini-Serie kommt es zum entscheidenden Wettlauf: Wer wird die gehe
 
 ## Quellen
 
-- [raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md](../../../raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md)
+- [raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md](../../raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md)
 - Offizielle Website: <https://www.sonderermittler-der-krone.de/serien/wilde-und-poe/folge04-die-ewig-liebenden/>

@@ -6,7 +6,7 @@ titel: Die Straße der drei Gesichter
 erschienen: 2020-05-15
 verlag: Maritim
 autor: "Markus Duschek"
-spielzeit_min: 63
+spielzeit_min: 62
 zirkel: indirekt
 spoiler_level: grob
 status: recherchiert

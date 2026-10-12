@@ -6,7 +6,7 @@ titel: Die toten Augen von Paris
 erschienen: 2018-09-14
 verlag: Maritim
 autor: "Markus Duschek"
-spielzeit_min: 65
+spielzeit_min: 64
 zirkel: indirekt
 spoiler_level: grob
 status: recherchiert

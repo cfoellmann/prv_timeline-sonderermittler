@@ -6,7 +6,7 @@ titel: Der Tod der schwarzen Schafe
 erschienen: 2019-12-13
 verlag: Maritim
 autor: "Markus Duschek"
-spielzeit_min: 61
+spielzeit_min: 60
 zirkel: indirekt
 spoiler_level: grob
 status: recherchiert

@@ -22,7 +22,7 @@ tags:
 - **Zentrale Serie:** [[wiki/serien/oscar-wilde-und-mycroft-holmes|Oscar Wilde & Mycroft Holmes – Sonderermittler der Krone]].
 - **Zentrales Konzept:** [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]].
 - **Setting:** spätviktorianisches/edwardianisches London und drumherum, ca. 1895–1905.
-- **Stand der Recherche:** 2026-08-17, **13 eigenständige Serien + 2 Re-Release-Linien**, **316 offizielle Folgen** kumuliert (294 Hauptlinien + 22 Re-Release) plus **2 Vormerkungen** auf der Watchlist.
+- **Stand der Recherche:** 2026-10-12, **13 eigenständige Serien + 2 Re-Release-Linien**, **325 offizielle Folgen** kumuliert (303 Hauptlinien + 22 Re-Release) plus **6 Vormerkungen** auf der Watchlist.
 
 ## Hör-Reihenfolge
 
@@ -34,21 +34,21 @@ Sortiert nach Erstveröffentlichung. Eine Markdown-Tabelle pro Serie wird in den
 
 | Jahr | Serie | Verlag | Genre | Folgen* | Re-Release | Wiki |
 |---|---|---|---|---|---|---|
-| 2015 | Jules Verne – Die neuen Abenteuer des Phileas Fogg | Maritim | Abenteuer/Fantasy | 52 |   | [[wiki/serien/phileas-fogg]] |
-| 2016 | Oscar Wilde & Mycroft Holmes – Sonderermittler der Krone | Maritim | Krimi | 58 |   | [[wiki/serien/oscar-wilde-und-mycroft-holmes]] |
+| 2015 | Jules Verne – Die neuen Abenteuer des Phileas Fogg | Maritim | Abenteuer/Fantasy | 52 + 1 geplant |   | [[wiki/serien/phileas-fogg]] |
+| 2016 | Oscar Wilde & Mycroft Holmes – Sonderermittler der Krone | Maritim | Krimi | 59 + 1 geplant |   | [[wiki/serien/oscar-wilde-und-mycroft-holmes]] |
 | 2018 | Edgar Allan Poe & Auguste Dupin | Maritim | Krimi | 36 | + 12 (2020) | [[wiki/serien/poe-und-dupin]] |
-| 2019 | Irene Adler – Sonderermittlerin der Krone | Maritim | Krimi | 35 (`0`–`34`) |   | [[wiki/serien/irene-adler]] |
-| 2020 | Moriarty – Zwischen Genie und Verbrechen | Maritim | Krimi | 27 (`0`–`26`) |   | [[wiki/serien/moriarty]] |
+| 2019 | Irene Adler – Sonderermittlerin der Krone | Maritim | Krimi | 36 (`0`–`35`) + 1 geplant |   | [[wiki/serien/irene-adler]] |
+| 2020 | Moriarty – Zwischen Genie und Verbrechen | Maritim | Krimi | 28 (`0`–`27`) |   | [[wiki/serien/moriarty]] |
 | 2020 | Dracula und der Zirkel der Sieben | Maritim | Horror | 16 (abgeschlossen) |   | [[wiki/serien/dracula]] |
-| 2020 | Frankenstein und der Zirkel der Sieben | Maritim | Horror | 26 + 1 geplant |   | [[wiki/serien/frankenstein]] |
-| 2022 | Sherlock Holmes – Sonderermittler der Krone | Maritim | Krimi | 22 + 1 geplant | + 10 (2024–25) | [[wiki/serien/sherlock-holmes]] |
+| 2020 | Frankenstein und der Zirkel der Sieben | Maritim | Horror | 27 + 1 geplant |   | [[wiki/serien/frankenstein]] |
+| 2022 | Sherlock Holmes – Sonderermittler der Krone | Maritim | Krimi | 23 + 1 geplant | + 10 (2024–25) | [[wiki/serien/sherlock-holmes]] |
 | 2024 | Oscar Wilde & Irene Adler – Sonderermittler der Krone | Blitz | Krimi | 4 (abgeschlossen) |   | [[wiki/serien/oscar-wilde-und-irene-adler]] |
-| 2024 | Tesla | Blitz | Krimi | 8 |   | [[wiki/serien/tesla]] |
+| 2024 | Tesla | Blitz | Krimi | 9 |   | [[wiki/serien/tesla]] |
 | 2025 | Oscar Wilde & Edgar Allan Poe | Blitz | Krimi | 4 (abgeschlossen) |   | [[wiki/serien/oscar-wilde-und-poe]] |
-| 2026 | Oscar Wilde – Die ungelösten Fälle des Mycroft Holmes | Blitz | Krimi | 3 |   | [[wiki/serien/wilde-mycroft-ungeloeste]] |
-| 2026 | Die Abenteuer des Kapitän Nemo | Blitz | Abenteuer | 3 |   | [[wiki/serien/kapitaen-nemo]] |
+| 2026 | Oscar Wilde – Die ungelösten Fälle des Mycroft Holmes | Blitz | Krimi | 4 + 1 geplant |   | [[wiki/serien/wilde-mycroft-ungeloeste]] |
+| 2026 | Die Abenteuer des Kapitän Nemo | Blitz | Abenteuer | 5 |   | [[wiki/serien/kapitaen-nemo]] |
 
-*Folgenzahlen zuletzt nachgezogen am 2026-08-17 aus dem Recherche-Update [raw/Sonderermittler_Update_2026-08-17.md](../raw/Sonderermittler_Update_2026-08-17.md) und der Nachrecherche [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md). Basis davor: [Fan-Übersicht](../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md) plus Serien-Ingests.
+*Folgenzahlen zuletzt nachgezogen am 2026-10-12 (Lint, [[wiki/queries/lint-2026-10-12|Lint 2026-10-12]]) aus `folgen_count`/`watchlist_count` der Serienseiten; Zählstand nach den Folgen-Scouts vom 06.09., 03.10. und 12.10.2026 ([raw/notes/2026-09-06_neue-folgen-scout_september-2026.md](../raw/notes/2026-09-06_neue-folgen-scout_september-2026.md), [raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md](../raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md), [raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md](../raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md)). „geplant“ = Watchlist-Seite mit `veroeffentlichungsstatus: geplant`, zählt nicht in die Folgenzahl. Vorheriger Stand 2026-08-17: [raw/Sonderermittler_Update_2026-08-17.md](../raw/Sonderermittler_Update_2026-08-17.md), [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md); Basis davor: [Fan-Übersicht](../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md) plus Serien-Ingests.
 
 > [!success] Keine Nummernlücken mehr
 > Die vier zuvor fehlenden Folgen (**DNAPF 51 „Der Blaue Lotus"**, **EAPAD 35 „Auf der Jagd"**, **FRANK 25 „Trügerische Hoffnung"**, **MOR 25 „Ein Hauch von Ewigkeit"**) sind mit der Nachrecherche vom 17.08.2026 geschlossen. Alle Serien sind jetzt lückenlos dokumentiert.
@@ -61,7 +61,7 @@ Sortiert nach Erstveröffentlichung. Eine Markdown-Tabelle pro Serie wird in den
 > - [[wiki/folgen/irene-adler-36-die-kraft-der-illusion|IADK 36 „Die Kraft der Illusion“]] — 27.11.2026.
 > - [[wiki/folgen/sherlock-holmes-24-die-strassen-der-angst|SH 24 „Die Straßen der Angst“]] — 04.12.2026.
 >
-> Erschienen seit dem letzten Stand dieses Kastens (17.08.2026) u. a. FRANK 27 (11.09.2026) sowie SH 23 und NEM 5 (beide 09.10.2026). Die Folgenzahlen der Tabelle oben sind weiterhin auf dem Stand vom 17.08.2026 — maßgeblich sind `folgen_count` der Serienseiten und [[index|index.md]].
+> Seit dem Zählstand vom 17.08.2026 neu erfasst (erschienen): NEM 4 (07.08.2026), TES 9 und WMU 4 (14.08.2026), OWMH 59 (04.09.2026), FRANK 27 (11.09.2026), MOR 27 (25.09.2026), IADK 35 (02.10.2026) sowie SH 23 und NEM 5 (beide 09.10.2026). Die Tabelle oben ist auf dem Stand vom 12.10.2026; maßgeblich bleiben `folgen_count` der Serienseiten und [[index|index.md]].
 
 ## Aktuelle Kosmos-Bewegung (Stand 2026-08-17)
 

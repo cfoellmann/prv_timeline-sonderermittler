@@ -6,7 +6,7 @@ titel: Der Fluch des falschen Königs
 erschienen: 2019-05-10
 verlag: Maritim
 autor: "Markus Duschek"
-spielzeit_min: 68
+spielzeit_min: 67
 zirkel: indirekt
 spoiler_level: grob
 status: recherchiert

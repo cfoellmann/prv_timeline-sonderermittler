@@ -52,7 +52,7 @@ Quelle: [offizielle Serien-Übersicht](../../raw/maritim/2026-04-27_owmh_serien-
 |---|---|---|---|---|
 | 01 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-01-zeitenwechsel\|Zeitenwechsel]] | 11.03.2016 | indirekt | Erstauftritt Wilde/Wheeler/Payton; Wilde wird Sonderermittler |
 | 02 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-02-finsteres-hochland\|Finsteres Hochland]] | 11.03.2016 | indirekt | Erstauftritt Abel Hawthorn |
-| 03 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-03-das-geheimnis-des-alchemisten\|Das Geheimnis des Alchemisten]] | 2016 | unklar | Rom/Vatikan; tödliches Alchemisten-Tagebuch |
+| 03 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-03-das-geheimnis-des-alchemisten\|Das Geheimnis des Alchemisten]] | 13.05.2016 | unklar | Rom/Vatikan; tödliches Alchemisten-Tagebuch |
 | 04 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-04-tod-der-koenigin\|Tod der Königin]] | 14.07.2016 | direkt | Erstauftritt Dr. Alfons Grell; Zirkel-Plot etabliert |
 | 05 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-05-kalter-fels\|Kalter Fels]] | 09.09.2016 | direkt | Charles-Darwin-Hintergrund, 1875-Abspaltung |
 | 06 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-06-hexenwald\|Hexenwald]] | 18.11.2016 | direkt | Adrian/Proband 3, Schwarzwald-Forschung |

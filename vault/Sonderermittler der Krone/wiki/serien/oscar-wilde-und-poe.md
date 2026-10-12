@@ -43,10 +43,10 @@ Die Mini-Serie erzählt eine geschlossene Geschichte über die gemeinsame Jagd v
 
 | # | Titel | Datum | Spielzeit | Zirkel | Wiki |
 |---|---|---|---|---|---|
-| 01 | Der Untergang des Hauses Mackenzie | 2025 | 56 min | indirekt | [[wiki/folgen/oscar-wilde-und-poe-01-der-untergang-des-hauses-mackenzie\|→]] |
-| 02 | Atemlos | 2025 | 56 min | indirekt | [[wiki/folgen/oscar-wilde-und-poe-02-atemlos\|→]] |
-| 03 | Nimmermehr | 2026 | 57 min | direkt | [[wiki/folgen/oscar-wilde-und-poe-03-nimmermehr\|→]] |
-| 04 | Die ewig Liebenden | 2026 | 53 min | direkt | [[wiki/folgen/oscar-wilde-und-poe-04-die-ewig-liebenden\|→]] |
+| 01 | Der Untergang des Hauses Mackenzie | 05.12.2025 | 56 min | indirekt | [[wiki/folgen/oscar-wilde-und-poe-01-der-untergang-des-hauses-mackenzie\|→]] |
+| 02 | Atemlos | 19.12.2025 | 56 min | indirekt | [[wiki/folgen/oscar-wilde-und-poe-02-atemlos\|→]] |
+| 03 | Nimmermehr | 02.01.2026 | 57 min | direkt | [[wiki/folgen/oscar-wilde-und-poe-03-nimmermehr\|→]] |
+| 04 | Die ewig Liebenden | 16.01.2026 | 53 min | direkt | [[wiki/folgen/oscar-wilde-und-poe-04-die-ewig-liebenden\|→]] |
 
 ## Crossover-Bezug
 
