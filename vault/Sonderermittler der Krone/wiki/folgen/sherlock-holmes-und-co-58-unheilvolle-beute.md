@@ -41,7 +41,7 @@ tags:
 ## Hauptfiguren
 
 - [[wiki/figuren/geoffrey-stafford|Geoffrey Stafford]] — Sprecher Björn Schalla.
-- Inspektor Cross — Sprecher Rainer Fritzsche; Staffords Vorgesetzter. Noch ohne eigene Seite.
+- [[wiki/figuren/cross|Inspektor Cross]] — Sprecher Rainer Fritzsche; Staffords Vorgesetzter.
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — versorgt Stafford wiederholt mit Informationen; in dieser Folge **nicht** in der Sprecherliste, aber im Klappentext als Quelle genannt.
 
 ## Handlung (grob)

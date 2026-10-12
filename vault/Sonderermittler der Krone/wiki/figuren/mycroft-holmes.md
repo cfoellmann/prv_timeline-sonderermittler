@@ -45,7 +45,7 @@ Dramaturgisch hat er zwei Funktionen, die sich in den Klappentexten klar trennen
 
 ## Auftritte
 
-Mycroft ist auf **rund 85 Folgen-Seiten** des Vaults verlinkt; eine Vollliste würde die Seite unlesbar machen und die Folgenlisten der Serien-Seiten doppeln. Die Tabelle gruppiert daher nach Reihe bzw. Phase und nennt nur die Folgen, in denen er handlungsrelevant ist — vollständig ist jeweils die Folgenliste der Serien-Seite.
+Mycroft wird auf **92 Folgen-Seiten** des Vaults unter „Hauptfiguren“ geführt. Die Tabelle gruppiert nach Reihe bzw. Phase und nennt nur die Folgen, in denen er handlungsrelevant ist; die vollständige Liste steht darunter unter [[#Vollständige Auftrittsliste]].
 
 | Reihe / Phase | Umfang im Vault | Schlüsselfolgen und Funktion |
 |---|---|---|
@@ -53,12 +53,111 @@ Mycroft ist auf **rund 85 Folgen-Seiten** des Vaults verlinkt; eine Vollliste w�
 | [[wiki/serien/oscar-wilde-und-mycroft-holmes\|OWMH]] 18–36 (Phase 4, Eskalation) | durchgehend gelistet | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-18-feindberuehrung\|OWMH 18]] gerät er auf einem Polizeikongress in Edinburgh selbst unter Mordverdacht, während sein Zustand sich rapide verschlechtert; [[wiki/folgen/oscar-wilde-und-mycroft-holmes-20-blutzoll\|OWMH 20]] verschwindet einer seiner Agenten; [[wiki/folgen/oscar-wilde-und-mycroft-holmes-28-der-laengste-tag\|OWMH 28]] wird sein Umfeld gezielt bedroht — sein persönlichster Fall; [[wiki/folgen/oscar-wilde-und-mycroft-holmes-31-die-13-stufen\|OWMH 31]] schickt er Wilde und [[wiki/figuren/henry-wheeler\|Wheeler]] an den Ätna; [[wiki/folgen/oscar-wilde-und-mycroft-holmes-33-apocalypsis\|OWMH 33]]/[[wiki/folgen/oscar-wilde-und-mycroft-holmes-34-asche-und-rauch\|34]] ist er in der Gewalt des Gegners bzw. Ziel der Suche im zerstörten London; [[wiki/folgen/oscar-wilde-und-mycroft-holmes-36-am-ende-der-zeit\|OWMH 36]] verschwindet er spurlos (Phasen-Marker 4 → 5) |
 | [[wiki/serien/oscar-wilde-und-mycroft-holmes\|OWMH]] 37–50 (Phase 5) | durchgehend gelistet bis Folge 50 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-45-laune-der-natur\|OWMH 45]] setzt er Wilde **und** Sherlock gemeinsam auf einen Vermisstenfall an — der wichtigste belegte Punkt, an dem er beide Brüder-Linien verzahnt. Der Strang ab [[wiki/folgen/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis\|OWMH 50]] ist hier bewusst nicht ausgeführt (Spoiler-Stufe „grob") |
 | [[wiki/serien/irene-adler\|Irene Adler]] | 18 Folgen-Seiten (IADK 0–20) | [[wiki/folgen/irene-adler-00-hinter-den-kulissen\|IADK 0]] entzieht er die verdächtigte Irene dem Zugriff von Scotland Yard; [[wiki/folgen/irene-adler-01-tod-im-oberhaus\|IADK 1]] schleust er sie verdeckt in einen Haushalt der Bank-of-England-Führung ein; [[wiki/folgen/irene-adler-04-sankt-petersburg-express\|IADK 4]], [[wiki/folgen/irene-adler-09-tunguska\|IADK 9]], [[wiki/folgen/irene-adler-17-menschen-der-erde\|IADK 17]] setzt er sie auf internationale Fälle an; [[wiki/folgen/irene-adler-12-freund-oder-feind\|IADK 12]] führen alle Spuren eines Mordes ausgerechnet zu ihm — Irene quittiert daraufhin den Dienst für die Krone |
-| [[wiki/serien/sherlock-holmes\|Sherlock Holmes]] | 3 Folgen-Seiten (SH 1, 2, 4) | [[wiki/folgen/sherlock-holmes-01-dunkle-kraefte-teil-1\|SH 1]] setzt er nach einem Schlag des Zirkels die Ermittlungen in Gang und bittet Professor van Dusen um Hilfe — der Einstiegspunkt der ganzen Sherlock-Linie |
+| [[wiki/serien/sherlock-holmes\|Sherlock Holmes]] | 3 Folgen-Seiten (SH 1, 2, 4) | [[wiki/folgen/sherlock-holmes-01-dunkle-kraefte-teil-1\|SH 1]] setzt er nach einem Schlag des Zirkels die Ermittlungen in Gang und bittet [[wiki/figuren/van-dusen\|Professor van Dusen]] um Hilfe — der Einstiegspunkt der ganzen Sherlock-Linie |
 | [[wiki/serien/phileas-fogg\|Phileas Fogg]] | 4 Folgen-Seiten (DNAPF 32, 37, 38, 41) | [[wiki/folgen/phileas-fogg-32-abrechnung\|DNAPF 32]] informiert er den zurückgekehrten Fogg über die Londoner Ereignisse; im Bogen [[wiki/folgen/phileas-fogg-37-die-stunde-null\|DNAPF 37]]–[[wiki/folgen/phileas-fogg-38-von-feinden-umgeben\|38]] errichtet er ein **neues Hauptquartier**, das prompt sabotiert wird; [[wiki/folgen/phileas-fogg-41-aufbruch\|DNAPF 41]] schickt er Fogg in den nächsten Konflikt |
 | [[wiki/serien/wilde-mycroft-ungeloeste\|Wilde – Die ungelösten Fälle des Mycroft Holmes]] | alle 3 Folgen | Namensgeber der Reihe; sein **Aktenbestand** und ein von ihm gegebenes Versprechen setzen die Fälle in Gang — er wirkt hier als Akten- und Erinnerungsfigur im Hintergrund |
 | [[wiki/serien/oscar-wilde-und-poe\|Oscar Wilde & Poe]] | alle 4 Folgen | offiziell als „britischer Regierungsbeamter" gelistet |
 | [[wiki/serien/frankenstein\|Frankenstein]] | 2 Folgen-Seiten (FRANK 2, 4) | als **Leiter der Sonderermittler der Krone** geführt — die knappste Amtsbezeichnung, die der Vault für ihn belegt |
 | [[wiki/serien/moriarty\|Moriarty]] | 2 Folgen-Seiten (MOR 2, 4) | auf der offiziellen Figurenliste, ohne belegte eigene Handlung |
+
+### Vollständige Auftrittsliste
+
+Alle 92 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Erscheinungsdatum. Die Rollenangabe ist der jeweiligen Folgenseite entnommen; geplante Folgen sind markiert.
+
+| Folge | Rolle (laut Folgenseite) |
+|---|---|
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-01-zeitenwechsel\|OWMH 1 — Zeitenwechsel]] (11.03.2016) | Auftraggeber der Krone, zieht im Hintergrund die Fäden |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-02-finsteres-hochland\|OWMH 2 — Finsteres Hochland]] (11.03.2016) | bleibt Auftraggeber im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-03-das-geheimnis-des-alchemisten\|OWMH 3 — Das Geheimnis des Alchemisten]] (13.05.2016) | vermittelt den Auftrag über einen alten Schulfreund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-04-tod-der-koenigin\|OWMH 4 — Tod der Königin]] (14.07.2016) | koordiniert den Widerstand gegen die Bedrohung des Königshauses |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-05-kalter-fels\|OWMH 5 — Kalter Fels]] (09.09.2016) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-06-hexenwald\|OWMH 6 — Hexenwald]] (18.11.2016) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-07-ritual-des-grauens\|OWMH 7 — Ritual des Grauens]] (27.01.2017) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-08-der-roentgen-zwischenfall\|OWMH 8 — Der Röntgen-Zwischenfall]] (31.03.2017) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-09-das-erbe-des-doktors\|OWMH 9 — Das Erbe des Doktors]] (26.05.2017) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-10-eine-nacht-am-brocken\|OWMH 10 — Eine Nacht am Brocken]] (21.07.2017) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-11-die-namenlose-aus-der-seine\|OWMH 11 — Die Namenlose aus der Seine]] (29.09.2017) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-12-der-geheimbund-der-masken\|OWMH 12 — Der Geheimbund der Masken]] (24.11.2017) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-13-die-auktion-der-diebe\|OWMH 13 — Die Auktion der Diebe]] (26.01.2018) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-14-labyrinth-der-angst\|OWMH 14 — Labyrinth der Angst]] (29.03.2018) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-15-goldrausch\|OWMH 15 — Goldrausch]] (25.05.2018) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-16-der-austausch\|OWMH 16 — Der Austausch]] (27.07.2018) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-17-der-maharadscha-der-nacht\|OWMH 17 — Der Maharadscha der Nacht]] (28.09.2018) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-18-feindberuehrung\|OWMH 18 — Feindberührung]] (30.11.2018) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-19-blutdurst\|OWMH 19 — Blutdurst]] (31.01.2019) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-20-blutzoll\|OWMH 20 — Blutzoll]] (29.03.2019) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-21-boleskine-house\|OWMH 21 — Boleskine House]] (31.05.2019) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/irene-adler-01-tod-im-oberhaus\|IADK 1 — Tod im Oberhaus]] (14.06.2019) | setzt Irene offiziell auf den Fall an |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-22-die-vierte-macht\|OWMH 22 — Die vierte Macht]] (26.07.2019) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/irene-adler-02-gefahr-im-prater\|IADK 2 — Gefahr im Prater]] (16.08.2019) | schickt Irene offiziell auf die Mission |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-23-das-medusa-syndrom\|OWMH 23 — Das Medusa-Syndrom]] (30.09.2019) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/irene-adler-03-blutige-kanaele\|IADK 3 — Blutige Kanäle]] (15.11.2019) | bleibt auf der offiziellen Figurenliste präsent |
+| [[wiki/folgen/irene-adler-00-hinter-den-kulissen\|IADK 0 — Hinter den Kulissen]] (22.11.2019) | entzieht Irene laut offiziellem Klappentext dem Zugriff von Scotland Yard |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-24-der-knochenhaendler\|OWMH 24 — Der Knochenhändler]] (29.11.2019) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-25-altes-blut\|OWMH 25 — Altes Blut]] (31.01.2020) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/irene-adler-04-sankt-petersburg-express\|IADK 4 — Sankt Petersburg Express]] (14.02.2020) | setzt den Auftrag gegen den verschwundenen Transport auf |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-26-dunkle-fluten\|OWMH 26 — Dunkle Fluten]] (27.03.2020) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-27-dreissig-silberlinge\|OWMH 27 — Dreißig Silberlinge]] (29.05.2020) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/sherlock-holmes-und-co-53-die-rueckkehr-der-angst\|SHC 53 — Die Rückkehr der Angst]] (03.07.2020) | Besetzung Reent Reins, rollenaufgelöst über den Fandom-Artikel belegt |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-28-der-laengste-tag\|OWMH 28 — Der längste Tag]] (28.07.2020) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/irene-adler-05-schlag-auf-schlag\|IADK 5 — Schlag auf Schlag]] (28.08.2020) | bleibt laut offizieller Seite Teil des Falls |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-29-brennender-zorn\|OWMH 29 — Brennender Zorn]] (30.09.2020) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/irene-adler-06-licht-und-schatten\|IADK 6 — Licht und Schatten]] (30.10.2020) | stellt Irene für den Frankreich-Einsatz einen Begleiter an die Seite |
+| [[wiki/folgen/irene-adler-07-toedliche-riffe\|IADK 7 — Tödliche Riffe]] (27.11.2020) | nimmt die Aussagen des Überlebenden ernst und beauftragt Irene |
+| [[wiki/folgen/moriarty-02-die-wiege-des-verbrechens\|MOR 2 — Die Wiege des Verbrechens]] (27.11.2020) | ist auf der offiziellen Seite als Figur gelistet |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-30-die-stimme-des-verraeters\|OWMH 30 — Die Stimme des Verräters]] (27.11.2020) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/frankenstein-02-verflucht-seid-ihr-alle\|FRANK 2 — Verflucht seid ihr alle]] (04.12.2020) | Leiter der Sonderermittler der Krone |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-31-die-13-stufen\|OWMH 31 — Die 13 Stufen]] (29.01.2021) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/sherlock-holmes-und-co-58-unheilvolle-beute\|SHC 58 — Unheilvolle Beute]] (29.01.2021) | versorgt Stafford wiederholt mit Informationen; in dieser Folge **nicht** in der Sprecherliste, aber im Klappentext als Quelle genannt |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-32-im-reich-des-feindes\|OWMH 32 — Im Reich des Feindes]] (26.03.2021) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/irene-adler-09-tunguska\|IADK 9 — Tunguska]] (23.04.2021) | schickt Irene offiziell in die Tunguska-Region |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-33-apocalypsis\|OWMH 33 — Apocalypsis]] (28.05.2021) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/moriarty-04-teuflische-jagd\|MOR 4 — Teuflische Jagd]] (11.06.2021) | ist auf der offiziellen Seite als Figur gelistet |
+| [[wiki/folgen/frankenstein-04-toedliches-wissen\|FRANK 4 — Tödliches Wissen]] (18.06.2021) | Leiter der Sonderermittler der Krone |
+| [[wiki/folgen/irene-adler-10-falsches-spiel\|IADK 10 — Falsches Spiel]] (23.07.2021) | bleibt auf offizieller Figurenebene Teil des Falls |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-34-asche-und-rauch\|OWMH 34 — Asche und Rauch]] (30.07.2021) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-35-zwielicht\|OWMH 35 — Zwielicht]] (24.09.2021) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/sherlock-holmes-und-co-64-puppenspieler\|SHC 64 — Puppenspieler]] (24.09.2021) | Sprecher Reent Reins |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-36-am-ende-der-zeit\|OWMH 36 — Am Ende der Zeit]] (26.11.2021) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/irene-adler-11-samen-des-boesen\|IADK 11 — Samen des Bösen]] (10.12.2021) | entsendet Irene in den Fall |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-37-das-herz-der-see\|OWMH 37 — Das Herz der See]] (28.01.2022) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-38-ausser-kontrolle\|OWMH 38 — Außer Kontrolle]] (25.03.2022) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/irene-adler-12-freund-oder-feind\|IADK 12 — Freund oder Feind]] (01.04.2022) | gerät selbst unter Verdacht |
+| [[wiki/folgen/irene-adler-13-feuer-und-eis\|IADK 13 — Feuer und Eis]] (06.05.2022) | setzt den Fall in Gang |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-39-der-pfad-der-toten\|OWMH 39 — Der Pfad der Toten]] (27.05.2022) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/phileas-fogg-32-abrechnung\|DNAPF 32 — Abrechnung]] (24.06.2022) | informiert Fogg über die Ereignisse in London |
+| [[wiki/folgen/sherlock-holmes-und-co-68-der-kalte-hauch-der-rache\|SHC 68 — Der kalte Hauch der Rache]] (22.07.2022) | Sprecher Reent Reins; greift persönlich ein |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-40-lockruf-des-untergangs\|OWMH 40 — Lockruf des Untergangs]] (30.09.2022) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/sherlock-holmes-01-dunkle-kraefte-teil-1\|SH 1 — Dunkle Kräfte, Teil 1]] (25.11.2022) | setzt die Ermittlungen im Umfeld der Krone in Gang |
+| [[wiki/folgen/sherlock-holmes-02-dunkle-kraefte-teil-2\|SH 2 — Dunkle Kräfte, Teil 2]] (16.12.2022) | bleibt über die Figurenliste im Fall präsent |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung\|OWMH 41 — Auf Bewährung]] (27.01.2023) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-42-angst-im-east-end\|OWMH 42 — Angst im East End]] (31.03.2023) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/irene-adler-16-den-tod-vor-augen\|IADK 16 — Den Tod vor Augen]] (12.05.2023) | ist auf der offiziellen Seite als Figur gelistet |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-43-neue-wege\|OWMH 43 — Neue Wege]] (26.05.2023) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/irene-adler-17-menschen-der-erde\|IADK 17 — Menschen der Erde]] (23.06.2023) | setzt Irene auf den Fall an |
+| [[wiki/folgen/sherlock-holmes-04-unter-falschem-verdacht\|SH 4 — Unter falschem Verdacht]] (30.06.2023) | bleibt laut offizieller Figurenliste involviert |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-44-dunkler-einfluss\|OWMH 44 — Dunkler Einfluss]] (28.07.2023) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/phileas-fogg-37-die-stunde-null\|DNAPF 37 — Die Stunde Null]] (25.08.2023) | wird durch eine seltsame Nachricht in den Konflikt hineingezogen |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-45-laune-der-natur\|OWMH 45 — Laune der Natur]] (29.09.2023) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/phileas-fogg-38-von-feinden-umgeben\|DNAPF 38 — Von Feinden umgeben]] (27.10.2023) | kämpft parallel mit Sabotage am neuen Hauptquartier |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-46-zelle-des-lebens\|OWMH 46 — Zelle des Lebens]] (26.01.2024) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/irene-adler-20-meister-der-alchemie\|IADK 20 — Meister der Alchemie]] (22.03.2024) | ist auf der offiziellen Seite als Figur gelistet |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-47-ursprung-des-seins\|OWMH 47 — Ursprung des Seins]] (29.03.2024) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-48-quelle-des-leidens\|OWMH 48 — Quelle des Leidens]] (31.05.2024) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/phileas-fogg-41-aufbruch\|DNAPF 41 — Aufbruch]] (07.06.2024) | sendet Fogg in den nächsten Konflikt |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-49-albtraum\|OWMH 49 — Albtraum]] (26.07.2024) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis\|OWMH 50 — Bittere Erkenntnis]] (27.09.2024) | strategischer Auftraggeber der Krone im Hintergrund |
+| [[wiki/folgen/oscar-wilde-und-poe-01-der-untergang-des-hauses-mackenzie\|WPO 1 — Der Untergang des Hauses Mackenzie]] (05.12.2025) | Britischer Regierungsbeamter |
+| [[wiki/folgen/oscar-wilde-und-poe-02-atemlos\|WPO 2 — Atemlos]] (19.12.2025) | Britischer Regierungsbeamter |
+| [[wiki/folgen/oscar-wilde-und-poe-03-nimmermehr\|WPO 3 — Nimmermehr]] (02.01.2026) | Britischer Regierungsbeamter |
+| [[wiki/folgen/oscar-wilde-und-poe-04-die-ewig-liebenden\|WPO 4 — Die ewig Liebenden]] (16.01.2026) | Britischer Regierungsbeamter |
+| [[wiki/folgen/wilde-mycroft-ungeloeste-01-der-riese-von-griffin\|WMU 1 — Der Riese von Griffin]] (23.01.2026) | steht als Ursprung der Akten- und Ermittlungsstruktur der Reihe im Hintergrund |
+| [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume\|WMU 2 — Die Todesblume]] (10.04.2026) | sein älterer Aktenbestand setzt den Fall überhaupt erst in Gang |
+| [[wiki/folgen/wilde-mycroft-ungeloeste-03-das-fledermausamulett\|WMU 3 — Das Fledermausamulett]] (19.06.2026) | offiziell gelistet; als Urheber der Akten und des Versprechens |
+| [[wiki/folgen/wilde-mycroft-ungeloeste-04-das-buch-des-grauens\|WMU 4 — Das Buch des Grauens]] (14.08.2026) | als Urheber der Fallakten offiziell gelistet; die Reihe lebt von seinem Nachlass |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-59-die-spur-der-echse\|OWMH 59 — Die Spur der Echse]] (04.09.2026) | weiterhin in der Sprecherliste geführt |
+| [[wiki/folgen/wilde-mycroft-ungeloeste-05-kalt-wie-eis\|WMU 5 — Kalt wie Eis]] (geplant, 16.10.2026) | als Urheber der Fallakten Namensgeber der Reihe; eine eigene Rolle in dieser Folge ist nicht belegt |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-60-tiefe-reue\|OWMH 60 — Tiefe Reue]] (geplant, 30.10.2026) | weiterhin von Reent Reins gesprochen |
 
 ## Beziehungen
 
@@ -70,7 +169,7 @@ Mycroft ist auf **rund 85 Folgen-Seiten** des Vaults verlinkt; eine Vollliste w�
 - [[wiki/figuren/phileas-fogg|Phileas Fogg]] — Auftragnehmer im Abenteuerzweig des Kosmos.
 - [[wiki/figuren/dracula|Dracula]] — direkter Gegenspieler; in OWMH 33–36 laufen beide Figuren unmittelbar gegeneinander.
 - [[wiki/figuren/eva|Eva]] — Mycroft veranlasste die Verlegung des Maschinenmenschen an ein neues Versteck; belegt über [[wiki/folgen/irene-adler-33-ein-altes-problem|IADK 33]].
-- **Professor van Dusen** — von Mycroft in SH 1 um eine Untersuchung gebeten. *Noch keine eigene Figuren-Seite.*
+- [[wiki/figuren/van-dusen|Professor van Dusen]] — von Mycroft in SH 1 um eine Untersuchung gebeten.
 
 ## Bezug zum Zirkel der Sieben
 

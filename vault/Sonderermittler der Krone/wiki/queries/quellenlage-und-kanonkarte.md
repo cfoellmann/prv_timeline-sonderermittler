@@ -3,6 +3,8 @@ type: konzept
 titel: Quellenlage & Kanonkarte
 status: recherchiert
 quellen:
+  - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
   - raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md
   - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
   - raw/deep-research-report.md
@@ -69,9 +71,27 @@ Aus der Prüfung, ob der Hawthorn des Fogg-Afrika-Blocks der [[wiki/figuren/abel
 | Quelle | Stark für | Schwach / Lücken |
 |---|---|---|
 | **Fandom-Wiki sherlockholmes.fandom.com/de über die MediaWiki-API** (`api.php?action=query&prop=revisions`, ohne Zugangsschlüssel) | **Rollengenaue Besetzung** (Tabelle Rolle → Sprecher) für **alle** OWMH-Folgen 1–44; maschinenlesbar, wiederholbar, Volltextsuche über `list=search`. Bislang einzige Repo-Quelle, die Sprecher **einer Rolle** zuordnet | Nur OWMH 1–44 (ab 45 keine Einzelseiten), keine Seiten zu DNAPF 37 ff. und WMU. **Inkonsistent:** „Kalter Fels" (OWMH 5) nennt den „ersten Auftritt" Hawthorns, obwohl die eigene Seite zu OWMH 2 ihn schon besetzt; Schreibweise der Rolle wechselt (Hawthorn/Hawthorne). Erscheinungsdaten teils nur Jahr, Laufzeiten gerundet („ca. 60" für 79 min). Der Suchindex ist unvollständig — vollständige Prüfung nur über den Seitenabruf, nicht über `list=search` |
-| **Audible.de-Produktseiten** (Feld `narrators` bzw. „Sprecher beinhaltet …") | **Vollständige Sprecherliste je Folge**, auch für DNAPF und WMU; per `curl` mit Browser-User-Agent abrufbar (Python-`urllib` wird mit HTTP 503 abgewiesen) | **Keine Rollenzuordnung** — taugt nur als Indiz („Sprecher X ist besetzt"), nicht als Beleg für eine Rolle. `releaseDate` ist ein Plattformdatum und weicht teils ab (DNAPF 42: 29.10.2024 statt 18.10.2024, WMU 1: 09.02.2026 statt 23.01.2026) |
+| **Audible.de-Produktseiten** (Feld `narrators` bzw. „Sprecher beinhaltet …") | **Vollständige Sprecherliste je Folge**, auch für DNAPF und WMU; per `curl` mit Browser-User-Agent abrufbar (Python-`urllib` wird mit HTTP 503 abgewiesen) | **Keine Rollenzuordnung** — taugt nur als Indiz („Sprecher X ist besetzt"), nicht als Beleg für eine Rolle. `releaseDate` ist ein Plattformdatum und weicht teils ab (DNAPF 42: 29.10.2024 statt 18.10.2024, WMU 1: 09.02.2026 statt 23.01.2026) — **Muster bestätigt** im Nachtrag unten: Audible liegt nie wesentlich vor dem Hauptrelease, oft danach. Sprecherliste auf 15 Namen gekürzt |
 
-**Merksatz Sprecher:** Rolle ↔ Sprecher nur aus Fandom (OWMH 1–44) oder einer Besetzungsliste mit Rollen; Audible-Listen ohne Rollen allein reichen nicht. Namensgleiche Sprecher auseinanderhalten — **Jaron** Löwenberg (Hawthorn) und **Holger** Löwenberg (Henry Wheeler).
+**Merksatz Sprecher:** Rolle ↔ Sprecher nur aus Fandom (OWMH 1–44) oder einer Besetzungsliste mit Rollen (Hörspieltalk OWMH 58–60); Audible-Listen ohne Rollen allein reichen nicht. Für Hauptfiguren ist die Ableitung über die Stammsprecher der Fanseiten-Figurenseiten zulässig, wenn sie als abgeleitet gekennzeichnet ist (siehe Nachtrag unten). Namensgleiche Sprecher auseinanderhalten — **Jaron** Löwenberg (Hawthorn) und **Holger** Löwenberg (Henry Wheeler).
+
+## Neu bewertete Quellen (2026-10-12, Nachtrag Datum und Besetzung)
+
+Aus der Klärung der Audible-Datumskonflikte und der Besetzungssuche für OWMH 45–60 ([Rohdaten Datum](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md), [Rohdaten Besetzung](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md)).
+
+| Quelle | Stark für | Schwach / Lücken |
+|---|---|---|
+| **HolyShop-Produktseiten, Feld „Ersterscheinung"** (`shop.holysoft.de/produkte/…`, alle 279 Folgen der acht Maritim-Reihen maschinell abgerufen) | **Tagesgenaues Erstveröffentlichungsdatum** für praktisch jede Maritim-Folge, dazu „im HolyShop erhältlich ab" (teils eine Woche später, bei DNAPF 42 = CD-Termin). Erstmals eine vollständige, wiederholbare Handelsquelle für `erschienen`: 239 von 277 Werten identisch mit dem Vault | Keine Blitz-Reihen (WMU, Tesla, Nemo). Feld „Mitwirkende" durchgehend leer. **Einzelfehler:** OWMH 40 trägt den Termin von OWMH 41; FRANK 20, SH 16 und EAPAD 29 je 1–2 Wochen gegen Apple, Deezer und Audible |
+| **Raute Media** (`rautemedia.de/produkt/…`, CD-Vertrieb, Label All Ears) | **CD-Termin** („Veröffentlichung") und **vollständige Sprecherliste** der CD (nicht auf 15 Namen gekürzt) | Keine Rollen. Nur ein Teil der Folgen auffindbar (Volltextsuche). CD liegt teils eine Woche nach der Ersterscheinung (DNAPF 39, 42, OWMH 54, MOR 7) |
+| **Fanseite, Figurenseiten** (`/figuren/<slug>/`, Abschnitt „Sprecher") | **Stammsprecher:in je Hauptfigur** (21 Figuren, z. B. Wilde – Rotermund, Sherlock – Rettinghaus, Adler – Greitzke, Frankenstein – Wunder); deckt sich mit allen Fandom-Rollentabellen | Keine Folgenbesetzung, keine Umbesetzungen; die „Folgenübersicht" der Figurenseiten ist für OWMH 45 ff. lückenhaft (nur Wilde und Mycroft) |
+| **Hörspieltalk, Ankündigungsthreads** (Ergänzung zur Bewertung vom 06.09.) | **Rollenlisten** der Verlagsvorschau, allerdings nur vereinzelt (OWMH 58, 59, 60); sonst Namenslisten wie Audible und Raute Media | Rollen nur Einzelquelle; für OWMH 45–48 keine Einzelthreads; Termine weiter unzuverlässig (OWMH 48/49 im Vault stammen offenbar aus frühen Vorschauterminen) |
+| **DNB, MARC21-Feld 245 $c** | nennt bei Blitz-CDs die **Hauptrolle mit Sprecher** („Oscar Wilde Sascha Rotermund [und weitere]") | Nur die erste Rolle; Feld 883 ist ein Meldedatum, kein Erscheinungstermin |
+
+**Audible-Muster (281 Folgen geprüft):** 163 × gleich dem Vault, 72 × später bei sonst übereinstimmendem Vault/Apple (3–363 Tage, Median 24), Ausreißer bis 1694 Tage (OWMH 22) und ein Platzhalter „01.01.2200" (EAPAD 12). Spätere Daten häufen sich auf Sammeltage (z. B. 05./06.10.2017 für DNAPF 6–11 und OWMH 8–11 zugleich) — Katalog-Nachlieferungen, keine Veröffentlichungstermine. **Regel: Audible-`releaseDate` nie für `erschienen` verwenden.** Für DNAPF 42 und WMU 1 bleibt der Vault-Wert (Ersterscheinung bzw. Hauptrelease) stehen.
+
+**Drei Datumsebenen bei Maritim:** Ersterscheinung (digital, HolyShop „Ersterscheinung", meist = Apple/Deezer) → CD (Raute Media, gleich oder eine Woche später) → Hörbuchplattformen (Audible, oft später). `erschienen` meint die **Ersterscheinung**; für die Granularitätsregel (Release-Block) ist der Unterschied zur CD unerheblich.
+
+**Rollenzuordnung abgeleitet (OWMH 45–57):** Wo keine Rollenliste existiert, trägt der Vault die Hauptrollen nur dann ein, wenn (a) die Figur im offiziellen Klappentext oder in der Figurenliste der Fanseite steht, (b) die Fanseiten-Figurenseite (bzw. Fandom) ihren Stammsprecher nennt und (c) diese:r in der Sprecherliste der Folge steht. Die Folgenseite kennzeichnet das als „abgeleitet". Nebenrollen bleiben ohne Rollenliste offen.
 
 ## Korpus-Stand laut Report
 
@@ -85,6 +105,8 @@ Aus der Prüfung, ob der Hawthorn des Fogg-Afrika-Blocks der [[wiki/figuren/abel
 - **Phileas Fogg 17 „Wie alles begann":** Fanseite wirkt fehlerhaft, dupliziert offenbar Folge 16 (bereits im Vault notiert).
 - **Oscar Wilde & Irene Adler 3 „Ein Sommernachtsalbtraum":** Fanseite dupliziert offenbar Folge 2 (bereits im Vault notiert).
 - **Sherlock Holmes 23 „Der Wiedergänger von Soho" (gefunden 12.10.2026):** Die Folgenseite nennt als Erscheinungsdatum **10.09.2026**; HolyShop, Apple Music, Deezer und die eigene Schlagzeile der Fanseite („Freitag erscheint …", 06.10.2026) belegen den **09.10.2026**. Neues Fehlermuster neben den Titeldubletten: **Tag/Monat-Dreher**. Im Vault gilt der 09.10.2026 → [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho|SH 23]]. Beleg: [Rohdaten](../../raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md).
+- **Moriarty 25 „Ein Hauch von Ewigkeit" (gefunden 12.10.2026, Verdacht):** Die Folgenseite nennt **06.05.2026**; HolyShop (Ersterscheinung und Vorankündigung), Apple Music, Deezer, Audible und die eigene Schlagzeile der Fanseite (04.06.) sprechen für den **05.06.2026**. Zweiter Tag/Monat-Dreher nach SH 23. **Im Vault noch nicht korrigiert** — Entscheidung Christian offen, weil die Serienseite den Mai-Termin bisher ausdrücklich für plausibler hielt. Beleg: [Rohdaten](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md).
+- **„Repo-Timeline"-Daten OWMH (gefunden 12.10.2026):** Die tagesgenauen OWMH-Daten aus der Anlagephase (`raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md`, „Repo-Timeline Erscheinungsdatum") sind **kein Handelsbeleg** — die Fanseite nennt für OWMH 45–55 nur das Jahr. Bei 28 OWMH-Folgen widerspricht die HolyShop-Ersterscheinung dem Vault, in 27 davon zusammen mit Apple (meist auch Audible); OWMH 46–49 tragen jeweils den Termin der Folgefolge. Die Entscheidung vom 06.09.2026 („Zwei Datumsbegriffe — bleibt so") ging davon aus, dass diese Werte Handelstermine sind. **Neu zu entscheiden** — Tabelle aller 38 Abweichungen in den [Rohdaten](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md).
 
 ## Kanon-Beziehungskarte
 
@@ -162,3 +184,5 @@ Der Report enthält darüber hinaus **Handels-/Katalogmetadaten** (EAN/ISBN, Lau
 
 - [raw/deep-research-report.md](../../raw/deep-research-report.md)
 - [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Fandom-API- und Audible-Bewertung (12.10.2026)
+- [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — Audible-, HolyShop- und Raute-Media-Datumsabgleich (12.10.2026)
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Besetzung OWMH 45–60, Fanseiten-Figurenseiten (12.10.2026)

@@ -48,7 +48,7 @@ tags:
 
 ## Kosmos-Relevanz
 
-- **Auftakt nach einem Zirkel-Schlag:** Folge 1 setzt unmittelbar nach einem bereits erfolgten Angriff des Zirkels ein und lässt Mycroft Holmes, Professor van Dusen und James Moriarty in die Holmes-Reihe hineinwirken.
+- **Auftakt nach einem Zirkel-Schlag:** Folge 1 setzt unmittelbar nach einem bereits erfolgten Angriff des Zirkels ein und lässt Mycroft Holmes, [[wiki/figuren/van-dusen|Professor van Dusen]] und James Moriarty in die Holmes-Reihe hineinwirken.
 - **OWMH-/Irene-Anschluss:** In Folge 6 erfährt Sherlock Holmes explizit durch [[wiki/figuren/oscar-wilde|Oscar Wilde]] von verwandten Vorfällen; Irene Adler ist parallel bereits Teil derselben Serienbewegung.
 - **Zirkel-Artefakte und Machtmittel:** Mehrere spätere Folgen drehen sich nicht nur um klassische Fälle, sondern um Objekte und Wissen, die für die Machtbalance des gesamten Kosmos wichtig sind.
 - **Andockpunkte zu anderen Reihen:** Die Figurenkonstellationen reichen bis zu [[wiki/serien/tesla|Tesla]], [[wiki/serien/moriarty|Moriarty]], [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] und indirekt weiter zur OWMH-Hauptlinie.

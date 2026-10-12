@@ -35,10 +35,10 @@ SHC ist **keine** Sherlock-Holmes-Reihe. Die Folgen rotieren zwischen mehreren E
 | Ermittler | Folgen (von 1–88) | Bezug zum Sonderermittler-Kosmos |
 |---|---:|---|
 | Sherlock Holmes | 26 | möglicher Bezug; Quelle der Re-Release-Reihe „Aus den Archiven von Sherlock Holmes" |
-| Professor van Dusen | 26 | kein Bezug |
+| [[wiki/figuren/van-dusen\|Professor van Dusen]] | 26 | kein Bezug |
 | C. Auguste Dupin | 12 | vollständig ausgelagert in „Aus den Archiven von Edgar Allan Poe & Auguste Dupin" |
 | Pater Brown | 10 | kein Bezug |
-| Scotland Yard | 10 | **stärkster Bezug** — durchlaufender Strang um [[wiki/figuren/geoffrey-stafford|Geoffrey Stafford]] und Inspektor Cross, mit [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] als wiederkehrender Figur |
+| Scotland Yard | 10 | **stärkster Bezug** — durchlaufender Strang um [[wiki/figuren/geoffrey-stafford\|Geoffrey Stafford]] und [[wiki/figuren/cross\|Inspektor Cross]], mit [[wiki/figuren/mycroft-holmes\|Mycroft Holmes]] als wiederkehrender Figur |
 | Holmes/van-Dusen-Crossover | 2 | kein Bezug |
 | Holmes/Dupin-Crossover | 1 | kein Bezug |
 | Wayne McLair | 1 | kein Bezug |
@@ -149,7 +149,7 @@ Rollenaufgelöst aus den Besetzungstabellen der Fandom-Einzelartikel, gegengepr�
 | [[wiki/figuren/wu\|Mister Wu]] | **Michael Pan** | 45 |
 | [[wiki/figuren/james-moriarty\|James Moriarty]] | **Andreas Fröhlich** | 55 |
 | [[wiki/figuren/geoffrey-stafford\|Geoffrey Stafford]] | **Björn Schalla** | 48, 53, 64, 68 (DNB zusätzlich 58, 72, 76, 80, 84, 88) |
-| Inspektor Cross | **Rainer Fritzsche** | 48, 53, 64, 68 (DNB zusätzlich 58, 72, 76, 80, 84, 88) |
+| [[wiki/figuren/cross\|Inspektor Cross]] | **Rainer Fritzsche** | 48, 53, 64, 68 (DNB zusätzlich 58, 72, 76, 80, 84, 88) |
 | [[wiki/figuren/oscar-wilde\|Oscar Wilde]] | **Sascha Rotermund** | 26/27 |
 | [[wiki/figuren/phileas-fogg\|Phileas Fogg]] | **Sascha Draeger** | 41/42 |
 | Inspektor Lestrade | Andreas Conrad | 9, 22 |

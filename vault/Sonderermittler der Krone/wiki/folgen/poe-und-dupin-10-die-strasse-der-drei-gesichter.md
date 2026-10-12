@@ -22,7 +22,7 @@ tags:
 
 # Die Straße der drei Gesichter
 
-> **Folge 10** der Serie [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]]. Dupin erhält Konkurrenz durch den schillernden Ermittler Vidocq, der ihm spektakuläre Fälle vor der Nase wegschnappt.
+> **Folge 10** der Serie [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]]. Dupin erhält Konkurrenz durch den schillernden Ermittler [[wiki/figuren/vidocq|Vidocq]], der ihm spektakuläre Fälle vor der Nase wegschnappt.
 
 ## Übersicht
 

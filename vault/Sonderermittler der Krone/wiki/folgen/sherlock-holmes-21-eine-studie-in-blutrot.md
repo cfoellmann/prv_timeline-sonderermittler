@@ -45,7 +45,7 @@ tags:
 
 ## Handlung (grob)
 
-Inspector Cross bittet Holmes und Watson um Hilfe in einem rätselhaften Mordfall: Der Spediteur Roy West wurde tot in einer Blutlache aufgefunden, umgeben von drapierten Federn. Holmes vermutet einen Voodoo-Hintergrund und telegrafiert an Bastien Lavache. Ohne es zu ahnen, greift er damit in einen Handlungsstrang hinein, der bereits mit dem Zirkel der Sieben verwoben ist. Die Folge markiert so den nächsten offenen Übergang zwischen der Holmes-Linie und dem `Tesla`-Umfeld.
+[[wiki/figuren/cross|Inspector Cross]] bittet Holmes und Watson um Hilfe in einem rätselhaften Mordfall: Der Spediteur Roy West wurde tot in einer Blutlache aufgefunden, umgeben von drapierten Federn. Holmes vermutet einen Voodoo-Hintergrund und telegrafiert an Bastien Lavache. Ohne es zu ahnen, greift er damit in einen Handlungsstrang hinein, der bereits mit dem Zirkel der Sieben verwoben ist. Die Folge markiert so den nächsten offenen Übergang zwischen der Holmes-Linie und dem `Tesla`-Umfeld.
 
 ## Bezug zum Zirkel der Sieben
 

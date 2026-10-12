@@ -24,7 +24,7 @@ tags:
 
 # Sherlock Holmes – 1: Dunkle Kräfte, Teil 1
 
-> Kurz nach einem schweren Schlag des Zirkels der Sieben stößt Sherlock Holmes in einen Fall, den Mycroft Holmes und Professor van Dusen bereits untersuchen.
+> Kurz nach einem schweren Schlag des Zirkels der Sieben stößt Sherlock Holmes in einen Fall, den Mycroft Holmes und [[wiki/figuren/van-dusen|Professor van Dusen]] bereits untersuchen.
 
 ## Eckdaten
 

@@ -29,6 +29,7 @@ Bemerkenswert ist die Formulierung der offiziellen Folgenseite von [[wiki/folgen
 |---|---|
 | [[wiki/folgen/irene-adler-33-ein-altes-problem\|IADK 33 — Ein altes Problem]] (12.06.2026) | Der Ingenieur [[wiki/figuren/george-turner\|George Turner]] wird ermordet — einer der wenigen, die von Evas Existenz wissen. Irene vermutet [[wiki/figuren/robur\|Robur]] oder Zirkelmitglieder hinter dem Mord und sucht Evas neues Versteck. |
 | [[wiki/folgen/irene-adler-34-kuenstlicher-feind\|IADK 34 — Künstlicher Feind]] (07.08.2026) | Der Täter will mit [[wiki/konzepte/menorium\|Menorium]] aus Cornwall „aus Eva den perfekten künstlichen Menschen machen". |
+| [[wiki/folgen/irene-adler-35-bilder-des-fortschritts\|IADK 35 — Bilder des Fortschritts]] (02.10.2026) | weiterhin besetzt; der Eva-Arc läuft fort |
 
 ## Beziehungen
 

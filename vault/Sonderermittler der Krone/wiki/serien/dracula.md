@@ -44,7 +44,7 @@ tags:
 
 - [[wiki/figuren/abraham-van-helsing|Abraham Van Helsing]] — **Draculas ärgster Feind**, präsent in den Folgen 1, 3, 4, 5, 10, 12, 15 und 16; nimmt den Grafen in Folge 12 gefangen. Kehrt 2026 in [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho|SH 23]] und [[wiki/folgen/wilde-mycroft-ungeloeste-03-das-fledermausamulett|WMU 3]] zurück.
 - [[wiki/figuren/jonathan-harker|Jonathan Harker]] — in Folge 1 von Dracula instrumentalisiert, ab Folge 4 selbst Verfolger; ebenfalls 2026 in SH 23 zurück.
-- [[wiki/figuren/mina-harker|Mina Harker]] — Draculas Erzfeindin, in den Folgen 3 und 4 aber seine Reisegefährtin und Beschützerin; sucht ihren verschollenen Sohn Quentin.
+- [[wiki/figuren/mina-harker|Mina Harker]] — Draculas Erzfeindin, in den Folgen 3 und 4 aber seine Reisegefährtin und Beschützerin; sucht ihren verschollenen Sohn [[wiki/figuren/quentin|Quentin]].
 - [[wiki/figuren/bram-stoker|Bram Stoker]] — im Kosmos zuerst in OWMH 19 eingeführt, dann Teil der Jagd (Folgen 5, 10, 15).
 - [[wiki/figuren/jack-renfield|Jack Renfield]] — Detektiv der Gefährtengruppe (Folgen 3 und 5).
 - [[wiki/figuren/ryan|Dr. Ryan]] — Blutforscher, dessen Ergebnisse in Folge 1 Draculas Rückkehr auslösen.

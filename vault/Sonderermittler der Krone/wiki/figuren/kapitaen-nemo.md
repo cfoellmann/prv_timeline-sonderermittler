@@ -31,7 +31,7 @@ Kapitän Nemo ist eine der ältesten Figuren des Kosmos, aber lange keine mit ei
 
 Seine Funktion in [[wiki/serien/phileas-fogg|Jules Verne – Die neuen Abenteuer des Phileas Fogg]] ist dabei zweigeteilt und das ist das Auffälligste an der Figur. Im Weltreise-Rückblicksblock der Folgen um DNAPF 18 bis 20 ist Nemo **Rahmenfigur**: Fogg erzählt ihm „die wahre Geschichte" seiner Reise um die Welt, Nemo hört zu. Im späten Afrika-Block ab DNAPF 41 ist er dagegen **aktiver Mitspieler** eines eigenen Handlungsstrangs, den er zusammen mit [[wiki/figuren/passepartout|Passepartout]] trägt: erst die Verfolgung Harriet Malones, dann die Suche nach einer Waffenlieferung in Saint Noire, dann die Jagd auf [[wiki/figuren/victor-frankenstein|Frankenstein]].
 
-Die eigene Reihe [[wiki/serien/kapitaen-nemo|Die Abenteuer des Kapitän Nemo]] (Blitz Verlag, seit Februar 2026, drei Folgen) dreht das Verhältnis um: Dort ist Nemo Titelheld und **Erzähler**, während Fogg im Reform Club zum Zuhörer wird. Die Folgen 1 und 2 sind ein zusammenhängender Insel-Rückblick aus der Zeit *vor* der ersten Begegnung mit Fogg; Folge 3 setzt mit der Nautilus und der Franklin-Expedition neu an — und listet erstmals [[wiki/figuren/oscar-wilde|Oscar Wilde]] statt Fogg als Mitfigur.
+Die eigene Reihe [[wiki/serien/kapitaen-nemo|Die Abenteuer des Kapitän Nemo]] (Blitz Verlag, seit Februar 2026, fünf Folgen) dreht das Verhältnis um: Dort ist Nemo Titelheld und **Erzähler**, während Fogg im Reform Club zum Zuhörer wird. Die Folgen 1 und 2 sind ein zusammenhängender Insel-Rückblick aus der Zeit *vor* der ersten Begegnung mit Fogg; Folge 3 setzt mit der Nautilus und der Franklin-Expedition neu an — und listet erstmals [[wiki/figuren/oscar-wilde|Oscar Wilde]] statt Fogg als Mitfigur.
 
 Die Serienübersicht zählt Kapitän Nemo ausdrücklich zu den **Mini-Serien** des Kosmos (2–4 Folgen), gemeinsam mit Wilde & Adler, Wilde & Poe und Mycroft.
 
@@ -50,6 +50,8 @@ Die Liste ist beim aktuellen Repo-Stand **vollständig** — es sind alle Folgen
 | [[wiki/folgen/kapitaen-nemo-01-die-gestrandeten-des-luftmeeres\|NEM 1 — Die Gestrandeten des Luftmeeres]] | Titelheld und Erzähler: berichtet Fogg beim Dinner im Reform Club von einer Ballonflucht von der Insel **Naoero** und der Strandung auf einer scheinbar unbewohnten Insel |
 | [[wiki/folgen/kapitaen-nemo-02-das-geheimnis-der-insel\|NEM 2 — Das Geheimnis der Insel]] | Titelheld und Erzähler: führt den Insel-Rückblick weiter (Entführung, Piratenschiff, unerwartete Hilfe) |
 | [[wiki/folgen/kapitaen-nemo-03-verschollen-im-eis\|NEM 3 — Verschollen im Eis]] | Titelheld: nimmt mit der **Nautilus** Schiffbrüchige auf und wird von [[wiki/figuren/adams\|Dr. Adams]] ins Eismeer gezogen |
+| [[wiki/folgen/kapitaen-nemo-04-die-ueberlebenden-der-erebus\|NEM 4 — Die Überlebenden der Erebus]] | betritt mit der Nautilus-Besatzung das Wrack |
+| [[wiki/folgen/kapitaen-nemo-05-kopfgeld\|NEM 5 — Kopfgeld]] | Ziel einer Serie von Anschlägen; zusätzlich in einer jungen Fassung besetzt, was auf Rückblenden hindeutet |
 
 ## Beziehungen
 

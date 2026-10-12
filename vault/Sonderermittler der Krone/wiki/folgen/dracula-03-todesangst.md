@@ -46,7 +46,7 @@ tags:
 
 ## Handlung (grob)
 
-Mina Harker wurde von ihren Gefährten Van Helsing, Jonathan und Renfield getrennt. Ihr neuer Begleiter, mit dem sie ein gemeinsames Schicksal verbindet, ist ausgerechnet ihr alter Erzfeind: Dracula. Sie begeben sich in die alte Heimat des Grafen, um nach dem Geheimnis seiner Kindheit und nach Minas Sohn Quentin zu suchen. Es wird eine Reise ins Ungewisse, auf der zahlreiche Gefahren lauern. Mina muss nun alles daransetzen, Dracula bei Tag zu beschützen, und wird vor schier unüberwindbare Herausforderungen gestellt.
+Mina Harker wurde von ihren Gefährten Van Helsing, Jonathan und Renfield getrennt. Ihr neuer Begleiter, mit dem sie ein gemeinsames Schicksal verbindet, ist ausgerechnet ihr alter Erzfeind: Dracula. Sie begeben sich in die alte Heimat des Grafen, um nach dem Geheimnis seiner Kindheit und nach Minas Sohn [[wiki/figuren/quentin|Quentin]] zu suchen. Es wird eine Reise ins Ungewisse, auf der zahlreiche Gefahren lauern. Mina muss nun alles daransetzen, Dracula bei Tag zu beschützen, und wird vor schier unüberwindbare Herausforderungen gestellt.
 
 ## Bezug zum Zirkel der Sieben
 

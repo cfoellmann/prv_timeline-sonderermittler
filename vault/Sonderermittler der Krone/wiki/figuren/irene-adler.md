@@ -38,7 +38,7 @@ Ihr fester Begleiter ist [[wiki/figuren/wu|Mr. Wu]], der in der offiziellen Figu
 
 ## Auftritte
 
-55 Folgen-Seiten im Repo listen Irene Adler. Statt einer Vollliste sind hier die **Handlungsbögen mit ihren Schlüsselfolgen** gruppiert — ausgewählt wurden jeweils die Folgen, die einen Bogen eröffnen, den Kosmosbezug herstellen oder die Konstellation kippen; die vollständige Aufzählung steht auf [[wiki/serien/irene-adler|der Serienseite]].
+58 Folgen-Seiten im Repo führen Irene Adler unter „Hauptfiguren“. Die Tabelle gruppiert die **Handlungsbögen mit ihren Schlüsselfolgen** — ausgewählt wurden jeweils die Folgen, die einen Bogen eröffnen, den Kosmosbezug herstellen oder die Konstellation kippen; alle Folgen stehen darunter unter [[#Vollständige Auftrittsliste]], die Eigenreihe außerdem auf [[wiki/serien/irene-adler|der Serienseite]].
 
 | Block | Schlüsselfolgen | Adlers Rolle im Bogen |
 |---|---|---|
@@ -56,6 +56,71 @@ Ihr fester Begleiter ist [[wiki/figuren/wu|Mr. Wu]], der in der offiziellen Figu
 | **Poe-/Dupin-Crossover** | [[wiki/folgen/poe-und-dupin-16-schlagzeilen\|EAPAD 16 — Schlagzeilen]] (2021), [[wiki/folgen/poe-und-dupin-25-das-goldene-kalb\|EAPAD 25 — Das goldene Kalb]] (2024), [[wiki/folgen/poe-und-dupin-36-aufstieg-und-fall\|EAPAD 36 — Aufstieg und Fall]] (31.07.2026) | ermittelt mit Poe und Dupin in Paris; EAPAD 36 bringt sie zusätzlich mit Sherlock Holmes und [[wiki/figuren/georges-lorant\|Georges Lorant]] zusammen |
 | **Weitere Reihenanschlüsse** | [[wiki/folgen/sherlock-holmes-06-das-geheimnis-des-earls\|SH 6]] (09.02.2024), [[wiki/folgen/sherlock-holmes-12-takt-des-schicksals\|SH 12]] (01.11.2024), [[wiki/folgen/tesla-02-toedliches-spielzeug\|TESLA 2]] (21.02.2025), [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume\|WMU 2]] (10.04.2026) | offizielle Figurenpräsenz ohne erschlossene Detailrolle — belegt, aber inhaltlich noch offen |
 | **Konflikt mit Wilde (OWMH 57–58, 2026)** | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-57-zwietracht\|OWMH 57 — Zwietracht]] (15.05.2026), [[wiki/folgen/oscar-wilde-und-mycroft-holmes-58-alleingang\|OWMH 58 — Alleingang]] (10.07.2026) | erst Streit mit Wilde über die Themse-Mordserie, dann selbst Gegenstand seiner Suche — sie gilt dort als verschwunden |
+
+### Vollständige Auftrittsliste
+
+Alle 58 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Erscheinungsdatum. Die Rollenangabe ist der jeweiligen Folgenseite entnommen; geplante Folgen sind markiert.
+
+| Folge | Rolle (laut Folgenseite) |
+|---|---|
+| [[wiki/folgen/irene-adler-01-tod-im-oberhaus\|IADK 1 — Tod im Oberhaus]] (14.06.2019) | wird als verdeckte Ermittlerin in den Fall eingeschleust |
+| [[wiki/folgen/irene-adler-02-gefahr-im-prater\|IADK 2 — Gefahr im Prater]] (16.08.2019) | reist im Auftrag der Krone nach Wien |
+| [[wiki/folgen/irene-adler-03-blutige-kanaele\|IADK 3 — Blutige Kanäle]] (15.11.2019) | übernimmt den Einsatz in Venedig |
+| [[wiki/folgen/irene-adler-00-hinter-den-kulissen\|IADK 0 — Hinter den Kulissen]] (22.11.2019) | steht selbst unter Mordverdacht und wird dadurch zur zentralen Ermittlerin der Folge |
+| [[wiki/folgen/irene-adler-04-sankt-petersburg-express\|IADK 4 — Sankt Petersburg Express]] (14.02.2020) | reist inkognito in einem gepanzerten Goldtransport mit |
+| [[wiki/folgen/irene-adler-05-schlag-auf-schlag\|IADK 5 — Schlag auf Schlag]] (28.08.2020) | untersucht den Sabotagefall im Theatermilieu |
+| [[wiki/folgen/irene-adler-06-licht-und-schatten\|IADK 6 — Licht und Schatten]] (30.10.2020) | übernimmt die Ermittlungen rund um das Verschwinden von Louis Le Prince |
+| [[wiki/folgen/irene-adler-07-toedliche-riffe\|IADK 7 — Tödliche Riffe]] (27.11.2020) | wird auf die mysteriösen Vorfälle vor den Orkneys angesetzt |
+| [[wiki/folgen/irene-adler-08-sog-des-verderbens\|IADK 8 — Sog des Verderbens]] (12.02.2021) | bleibt im Zentrum des Orkney-Konflikts |
+| [[wiki/folgen/irene-adler-09-tunguska\|IADK 9 — Tunguska]] (23.04.2021) | untersucht in Sibirien eine geheimnisvolle Expedition |
+| [[wiki/folgen/irene-adler-10-falsches-spiel\|IADK 10 — Falsches Spiel]] (23.07.2021) | soll den Diebstahl der Hochzeitstiara diskret aufklären |
+| [[wiki/folgen/poe-und-dupin-16-schlagzeilen\|EAPAD 16 — Schlagzeilen]] (03.12.2021) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/irene-adler-11-samen-des-boesen\|IADK 11 — Samen des Bösen]] (10.12.2021) | leitet die Suche im Amazonas |
+| [[wiki/folgen/irene-adler-12-freund-oder-feind\|IADK 12 — Freund oder Feind]] (01.04.2022) | stellt Loyalitäten und Auftrag neu infrage |
+| [[wiki/folgen/irene-adler-13-feuer-und-eis\|IADK 13 — Feuer und Eis]] (06.05.2022) | folgt den Spuren eines merkwürdigen Mordfalls |
+| [[wiki/folgen/irene-adler-14-groenlands-grauen\|IADK 14 — Grönlands Grauen]] (29.07.2022) | wird in die abgeschottete Polarstation entsandt |
+| [[wiki/folgen/irene-adler-15-in-den-krallen-des-boesen\|IADK 15 — In den Krallen des Bösen]] (24.02.2023) | gerät zwischen mehrere hochgefährliche Gegenspieler |
+| [[wiki/folgen/irene-adler-16-den-tod-vor-augen\|IADK 16 — Den Tod vor Augen]] (12.05.2023) | verfolgt die Spur des Diamanten weiter |
+| [[wiki/folgen/irene-adler-17-menschen-der-erde\|IADK 17 — Menschen der Erde]] (23.06.2023) | reist im Auftrag Mycrofts nach Chile |
+| [[wiki/folgen/irene-adler-18-tausend-gesichter\|IADK 18 — Tausend Gesichter]] (08.09.2023) | findet sich isoliert und in Gefangenschaft wieder |
+| [[wiki/folgen/frankenstein-11-gefangene-der-finsternis\|FRANK 11 — Gefangene der Finsternis]] (27.10.2023) | Sonderermittlerin der Krone |
+| [[wiki/folgen/irene-adler-19-vier-elemente\|IADK 19 — Vier Elemente]] (19.01.2024) | nimmt in London die Spur der Stammesfiguren auf |
+| [[wiki/folgen/frankenstein-12-erweckung\|FRANK 12 — Erweckung]] (02.02.2024) | Sonderermittlerin der Krone |
+| [[wiki/folgen/sherlock-holmes-06-das-geheimnis-des-earls\|SH 6 — Das Geheimnis des Earls]] (09.02.2024) | ist auf der offiziellen Seite als Figur gelistet |
+| [[wiki/folgen/irene-adler-20-meister-der-alchemie\|IADK 20 — Meister der Alchemie]] (22.03.2024) | erkennt endlich den Mechanismus der vier Figuren |
+| [[wiki/folgen/irene-adler-21-goldene-zeiten\|IADK 21 — Goldene Zeiten]] (21.06.2024) | erkennt in den Marktverwerfungen einen größeren Plan |
+| [[wiki/folgen/sherlock-holmes-08-die-sieben-leben-des-carter-roth\|SH 8 — Die sieben Leben des Carter Roth]] (21.06.2024) | ist auf der offiziellen Seite als Figur gelistet |
+| [[wiki/folgen/irene-adler-22-eine-frage-der-identitaet\|IADK 22 — Eine Frage der Identität]] (26.07.2024) | muss zugleich um das nackte Überleben und gegen eine politische Intrige kämpfen |
+| [[wiki/folgen/irene-adler-23-taeuschungen\|IADK 23 — Täuschungen]] (20.09.2024) | gerät an Bord eines Schiffes in akute Lebensgefahr |
+| [[wiki/folgen/frankenstein-15-strom-der-gedanken\|FRANK 15 — Strom der Gedanken]] (27.09.2024) | Sonderermittlerin der Krone, kommt nach Glasgow |
+| [[wiki/folgen/poe-und-dupin-25-das-goldene-kalb\|EAPAD 25 — Das goldene Kalb]] (04.10.2024) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/frankenstein-16-macht-und-manipulation\|FRANK 16 — Macht und Manipulation]] (18.10.2024) | Sonderermittlerin der Krone |
+| [[wiki/folgen/irene-adler-24-hinter-der-fassade\|IADK 24 — Hinter der Fassade]] (18.10.2024) | wird direkt in den Finanzkern des Königreichs gerufen |
+| [[wiki/folgen/oscar-wilde-und-irene-adler-01-das-schottische-stueck\|WIA 1 — Das schottische Stück]] (25.10.2024) | soll eine sensationelle Entdeckung aus Shakespeare-Kreisen erfahren |
+| [[wiki/folgen/poe-und-dupin-26-babel\|EAPAD 26 — Babel]] (25.10.2024) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/oscar-wilde-und-irene-adler-02-die-tragoedie-der-irrungen\|WIA 2 — Die Tragödie der Irrungen]] (01.11.2024) | trägt die Ermittlungen mit Wilde in die Highlands |
+| [[wiki/folgen/sherlock-holmes-12-takt-des-schicksals\|SH 12 — Takt des Schicksals]] (01.11.2024) | ist auf der offiziellen Seite als Figur gelistet |
+| [[wiki/folgen/oscar-wilde-und-irene-adler-03-ein-sommernachtsalbtraum\|WIA 3 — Ein Sommernachtsalbtraum]] (08.11.2024) | bleibt an Wildes Seite Teil desselben Ermittlungsblocks |
+| [[wiki/folgen/oscar-wilde-und-irene-adler-04-was-ihr-nicht-wollt\|WIA 4 — Was ihr nicht wollt]] (15.11.2024) | bleibt gemeinsam mit Wilde in einer hochpolitischen Endphase des Falls |
+| [[wiki/folgen/irene-adler-25-engel-und-suender\|IADK 25 — Engel und Sünder]] (24.01.2025) | gerät während eines Bühnenengagements selbst in den Mittelpunkt des Falls |
+| [[wiki/folgen/tesla-02-toedliches-spielzeug\|TES 2 — Tödliches Spielzeug]] (21.02.2025) | ist auf offizieller Seite als Figur gelistet |
+| [[wiki/folgen/irene-adler-26-schatten-des-ruhmes\|IADK 26 — Schatten des Ruhmes]] (21.03.2025) | geht den Anschlägen nun auch verdeckt nach |
+| [[wiki/folgen/irene-adler-27-im-feuer-des-zorns\|IADK 27 — Im Feuer des Zorns]] (23.05.2025) | bleibt trotz wachsender Gefahr Teil der Theaterproduktion |
+| [[wiki/folgen/frankenstein-20-ewiges-leid\|FRANK 20 — Ewiges Leid]] (25.07.2025) | Sonderermittlerin der Krone |
+| [[wiki/folgen/irene-adler-28-schall-und-rausch\|IADK 28 — Schall und Rausch]] (29.08.2025) | verfolgt die Spur trotz knapp vereitelter Gefahr weiter |
+| [[wiki/folgen/irene-adler-29-der-mann-aus-dartmoor\|IADK 29 — Der Mann aus Dartmoor]] (17.10.2025) | startet mit einer Suchaktion nach ihrem verletzten Verbündeten in einen neuen Block |
+| [[wiki/folgen/irene-adler-30-verdacht-und-zweifel\|IADK 30 — Verdacht und Zweifel]] (12.12.2025) | verfolgt die Spur des Fundstücks bis nach Exeter |
+| [[wiki/folgen/irene-adler-31-in-den-tiefen-des-moores\|IADK 31 — In den Tiefen des Moores]] (13.02.2026) | verfolgt die Spur des Fundstücks weiter |
+| [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume\|WMU 2 — Die Todesblume]] (10.04.2026) | ist auf der offiziellen Folgen-Seite als Figur gelistet |
+| [[wiki/folgen/irene-adler-32-falsche-helden\|IADK 32 — Falsche Helden]] (24.04.2026) | sitzt gemeinsam mit Wu im Moor fest und kämpft ums nackte Überleben |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-57-zwietracht\|OWMH 57 — Zwietracht]] (15.05.2026) | gerät laut Klappentext mit Wilde über die Ermittlungen in Konflikt |
+| [[wiki/folgen/irene-adler-33-ein-altes-problem\|IADK 33 — Ein altes Problem]] (12.06.2026) | ermittelt im Mordfall und sucht Evas neues Versteck |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-58-alleingang\|OWMH 58 — Alleingang]] (10.07.2026) | verschwunden; Gegenstand der Suche |
+| [[wiki/folgen/poe-und-dupin-36-aufstieg-und-fall\|EAPAD 36 — Aufstieg und Fall]] (31.07.2026) | ermittelt laut Klappentext mit |
+| [[wiki/folgen/irene-adler-34-kuenstlicher-feind\|IADK 34 — Künstlicher Feind]] (07.08.2026) | ermittelt weiter; einzige offiziell gelistete Figur |
+| [[wiki/folgen/irene-adler-35-bilder-des-fortschritts\|IADK 35 — Bilder des Fortschritts]] (02.10.2026) | scheitert an der Verfolgung der Gegner |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-60-tiefe-reue\|OWMH 60 — Tiefe Reue]] (geplant, 30.10.2026) | berichtet Holmes, was in seiner Abwesenheit geschah |
+| [[wiki/folgen/irene-adler-36-die-kraft-der-illusion\|IADK 36 — Die Kraft der Illusion]] (geplant, 27.11.2026) | verschwindet vor dem verabredeten Treffen |
 
 ## Beziehungen
 

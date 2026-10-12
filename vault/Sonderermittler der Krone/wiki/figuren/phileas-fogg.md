@@ -33,7 +33,7 @@ Ein wiederkehrendes Erzählmuster der Reihe ist die **Rahmenerzählung an Nemo**
 
 ## Auftritte
 
-Fogg ist in praktisch allen 52 Folgen seiner eigenen Reihe die Hauptfigur; eine Vollliste steht auf der [[wiki/serien/phileas-fogg|Serienseite]]. Diese Tabelle gruppiert nach Handlungsbogen und nennt nur die Folgen, an denen sich Foggs Rolle oder ein Kosmos-Befund festmachen lässt.
+Fogg ist in praktisch allen Folgen seiner eigenen Reihe die Hauptfigur; die Folgenliste der Reihe steht auf der [[wiki/serien/phileas-fogg|Serienseite]], alle Folgen-Seiten mit Fogg unter [[#Vollständige Auftrittsliste]]. Diese Tabelle gruppiert nach Handlungsbogen und nennt nur die Folgen, an denen sich Foggs Rolle oder ein Kosmos-Befund festmachen lässt.
 
 | Block / Phase | Schlüsselfolgen | Foggs Rolle und Befund |
 |---|---|---|
@@ -48,6 +48,72 @@ Fogg ist in praktisch allen 52 Folgen seiner eigenen Reihe die Hauptfigur; eine 
 | **Isais-Block** (DNAPF 45–50, 2025–2026) | [[wiki/folgen/phileas-fogg-45-das-erbe-der-isais\|DNAPF 45]], [[wiki/folgen/phileas-fogg-47-der-schwarze-spiegel\|DNAPF 47]], [[wiki/folgen/phileas-fogg-49-dunkle-vorzeichen\|DNAPF 49]], [[wiki/folgen/phileas-fogg-50-goetterdaemmerung\|DNAPF 50]] | Fogg übernimmt den Fall um den schwarzen Spiegel des John Dee und jagt die Artefakte der Isais von London über Nepal, Frankreich, den Untersberg und Venedig bis nach Indien. In DNAPF 47 zieht Sherlock Holmes parallel Irene Adler und Oscar Wilde hinein. |
 | **Neuer Block nach dem Finale** (DNAPF 51–52, 2026) | [[wiki/folgen/phileas-fogg-51-der-blaue-lotus\|DNAPF 51 — Der Blaue Lotus]], [[wiki/folgen/phileas-fogg-52-im-tal-der-inkas\|DNAPF 52 — Im Tal der Inkas]] | Neustart mit deutlichem Bruch: Fogg lebt zu Beginn von DNAPF 51 **nach einem Trauerfall isoliert in London** und ist auf der offiziellen Folgenseite als einzige Figur gelistet. Ein Brief holt ihn nach Hongkong, danach ein Hilferuf [[wiki/figuren/ethan-ramsay\|Sir Ethan Ramsays]] mit [[wiki/figuren/elena-vargas\|Elena Vargas]] in die peruanischen Anden. Kein Zirkel-Marker. |
 | **Auftritte außerhalb der eigenen Reihe** | [[wiki/folgen/irene-adler-07-toedliche-riffe\|IADK 7 — Tödliche Riffe]], [[wiki/folgen/irene-adler-08-sog-des-verderbens\|IADK 8 — Sog des Verderbens]], [[wiki/folgen/kapitaen-nemo-01-die-gestrandeten-des-luftmeeres\|NEM 1]], [[wiki/folgen/kapitaen-nemo-02-das-geheimnis-der-insel\|NEM 2]] | Im Orkney-Doppel der Adler-Reihe ist Fogg offiziell gelistet und in IADK 8 mit Irene Adler gemeinsam in der Klemme — die Folge nennt den Zirkel ausdrücklich. In den ersten beiden Nemo-Folgen ist er die Zuhörer-Figur der Rahmenhandlung im Reform Club. |
+
+### Vollständige Auftrittsliste
+
+Alle 59 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Erscheinungsdatum. Die Rollenangabe ist der jeweiligen Folgenseite entnommen; geplante Folgen sind markiert.
+
+| Folge | Rolle (laut Folgenseite) |
+|---|---|
+| [[wiki/folgen/phileas-fogg-01-entfuehrung-auf-hoher-see\|DNAPF 1 — Entführung auf hoher See]] (06.11.2015) | Titelheld der Reihe |
+| [[wiki/folgen/phileas-fogg-02-der-schatz-von-atlantis\|DNAPF 2 — Der Schatz von Atlantis]] (11.12.2015) | Titelheld der Reihe |
+| [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken\|DNAPF 3 — Krieg in den Wolken]] (26.02.2016) | Titelheld der Reihe |
+| [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl\|DNAPF 4 — Der Elefant aus Stahl]] (22.04.2016) | Titelheld der Reihe |
+| [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx\|DNAPF 5 — Das Geheimnis der Eissphinx]] (12.08.2016) | Titelheld der Reihe |
+| [[wiki/folgen/phileas-fogg-06-der-leuchtturm-am-ende-der-welt\|DNAPF 6 — Der Leuchtturm am Ende der Welt]] (07.10.2016) | muss den Leuchtturm und seine Begleiter gegen ein Komplott verteidigen |
+| [[wiki/folgen/phileas-fogg-07-die-stadt-unter-der-erde\|DNAPF 7 — Die Stadt unter der Erde]] (25.11.2016) | folgt der Spur unter Tage und untersucht die Sabotage |
+| [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien\|DNAPF 8 — Im Angesicht der Bestien]] (27.01.2017) | Titelheld der Reihe |
+| [[wiki/folgen/phileas-fogg-09-im-reich-des-zaren\|DNAPF 9 — Im Reich des Zaren]] (24.03.2017) | reist in den Zarenpalast und später in die sibirische Krise hinein |
+| [[wiki/folgen/phileas-fogg-10-der-herrscher-der-meere\|DNAPF 10 — Der Herrscher der Meere]] (16.06.2017) | Titelheld der Reihe |
+| [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant\|DNAPF 11 — Die Jagd nach Kapitän Grant]] (17.11.2017) | Titelheld der Reihe |
+| [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten\|DNAPF 12 — Entscheidung in den Karpaten]] (17.11.2017) | Titelheld der Reihe |
+| [[wiki/folgen/phileas-fogg-13-der-untergang-der-welt\|DNAPF 13 — Der Untergang der Welt]] (19.01.2018) | erhält den Geheimauftrag, Professor Xirdal aufzusuchen |
+| [[wiki/folgen/phileas-fogg-14-der-goldvulkan\|DNAPF 14 — Der Goldvulkan]] (16.03.2018) | reist mit seinen Gefährten nach Dawson City und in die Wildnis des Klondike |
+| [[wiki/folgen/phileas-fogg-15-die-schwimmende-stadt\|DNAPF 15 — Die schwimmende Stadt]] (18.05.2018) | folgt dem Gerücht über die Insel der Milliardäre |
+| [[wiki/folgen/phileas-fogg-16-gefahr-fuer-die-propellerinsel\|DNAPF 16 — Gefahr für die Propellerinsel]] (12.10.2018) | versucht nach der Zerstörung der Insel das Überleben der Gruppe zu sichern |
+| [[wiki/folgen/sherlock-holmes-und-co-41-das-verschwinden-der-louise-m-episode-1\|SHC 41 — Das Verschwinden der Louise M., Episode 1]] (12.10.2018) | Sprecher Sascha Draeger. **Erster und bislang einziger belegter Auftritt einer DNAPF-Titelfigur in SHC.** |
+| [[wiki/folgen/phileas-fogg-17-wie-alles-begann\|DNAPF 17 — Wie alles begann]] (23.11.2018) | bleibt die einzig auf der offiziellen Seite sichtbare Figur |
+| [[wiki/folgen/sherlock-holmes-und-co-42-das-verschwinden-der-louise-m-episode-2\|SHC 42 — Das Verschwinden der Louise M., Episode 2]] (23.11.2018) | Sprecher Sascha Draeger; die DNB führt ihn auch in der Sprecherliste dieses Teils |
+| [[wiki/folgen/phileas-fogg-18-hetzjagd-durch-asien\|DNAPF 18 — Hetzjagd durch Asien]] (25.01.2019) | schildert den nächsten Abschnitt seiner verborgenen Weltreise |
+| [[wiki/folgen/phileas-fogg-19-duell-im-wilden-westen\|DNAPF 19 — Duell im Wilden Westen]] (29.03.2019) | kämpft in der Neuen Welt gegen alte und neue Feinde |
+| [[wiki/folgen/phileas-fogg-20-wettlauf-mit-der-zeit\|DNAPF 20 — Wettlauf mit der Zeit]] (31.05.2019) | steht im Zentrum des Finales der rahmenden Weltreise-Erzählung |
+| [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis\|DNAPF 21 — Die sieben Seelen des Anubis]] (18.10.2019) | Titelheld der Reihe |
+| [[wiki/folgen/phileas-fogg-22-die-gasse-der-fluesternden-schatten\|DNAPF 22 — Die Gasse der flüsternden Schatten]] (17.01.2020) | vermutet hinter dem Fall seinen alten Widersacher |
+| [[wiki/folgen/phileas-fogg-23-verschwoerung-auf-dem-atlantik\|DNAPF 23 — Verschwörung auf dem Atlantik]] (27.03.2020) | wird während einer Atlantikreise zur Zielscheibe einer Verschwörung |
+| [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel\|DNAPF 24 — Die geheimnisvolle Insel]] (08.05.2020) | verfolgt die Spur seiner verschwundenen Frau |
+| [[wiki/folgen/phileas-fogg-25-diamantenjaeger\|DNAPF 25 — Diamantenjäger]] (14.08.2020) | nimmt nach Aoudas Verschwinden sofort die Verfolgung auf |
+| [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette\|DNAPF 26 — Die Küste der Skelette]] (20.11.2020) | folgt der Spur von Aouda bis an die afrikanische Küste |
+| [[wiki/folgen/irene-adler-07-toedliche-riffe\|IADK 7 — Tödliche Riffe]] (27.11.2020) | zieht die Adler-Reihe sichtbar in die Fogg-Achse |
+| [[wiki/folgen/irene-adler-08-sog-des-verderbens\|IADK 8 — Sog des Verderbens]] (12.02.2021) | gemeinsam mit [[wiki/figuren/oscar-wilde\|Oscar Wilde]]: verknüpfen die Folge offen mit anderen Hauptlinien des Kosmos |
+| [[wiki/folgen/phileas-fogg-27-der-fluch-der-harpyie\|DNAPF 27 — Der Fluch der Harpyie]] (19.03.2021) | verfolgt weiter die Spur der Entführten |
+| [[wiki/folgen/phileas-fogg-28-herrscher-der-luefte\|DNAPF 28 — Herrscher der Lüfte]] (02.07.2021) | erkennt auf der Heimreise, dass seine Feinde ihm weiter folgen |
+| [[wiki/folgen/phileas-fogg-29-die-verschwoerung\|DNAPF 29 — Die Verschwörung]] (12.11.2021) | wird vom Zeugen zum Gejagten und schließlich selbst zum Angeklagten |
+| [[wiki/folgen/phileas-fogg-30-der-schatz-der-verdammten\|DNAPF 30 — Der Schatz der Verdammten]] (25.03.2022) | versucht nach der Flucht von der Gefängnisinsel zu überleben |
+| [[wiki/folgen/phileas-fogg-31-gefaehrliche-wiederkehr\|DNAPF 31 — Gefährliche Wiederkehr]] (29.04.2022) | kämpft auf dem Atlantik um die Rückkehr nach Europa |
+| [[wiki/folgen/phileas-fogg-32-abrechnung\|DNAPF 32 — Abrechnung]] (24.06.2022) | kehrt in den Fall zurück und sucht die Verschwörer |
+| [[wiki/folgen/phileas-fogg-33-von-der-erde-zum-mond\|DNAPF 33 — Von der Erde zum Mond]] (26.08.2022) | folgt einer Warnung rund um das Mondprojekt |
+| [[wiki/folgen/phileas-fogg-34-irrfahrt-ins-ungewisse\|DNAPF 34 — Irrfahrt ins Ungewisse]] (16.12.2022) | findet sich in einer ausweglosen Mondmission wieder |
+| [[wiki/folgen/phileas-fogg-35-roburs-rache\|DNAPF 35 — Roburs Rache]] (20.04.2023) | kehrt aus der Mondkapsel in eine neue Katastrophe zurück |
+| [[wiki/folgen/phileas-fogg-36-der-letzte-tag-auf-erden\|DNAPF 36 — Der letzte Tag auf Erden]] (05.05.2023) | nimmt die Verfolgung Roburs wieder auf |
+| [[wiki/folgen/phileas-fogg-37-die-stunde-null\|DNAPF 37 — Die Stunde Null]] (25.08.2023) | bleibt Teil des ausgreifenden Afrika-/Frankenstein-Komplexes |
+| [[wiki/folgen/phileas-fogg-38-von-feinden-umgeben\|DNAPF 38 — Von Feinden umgeben]] (27.10.2023) | verfolgt eine zentrale Spur des Afrika-Komplexes |
+| [[wiki/folgen/phileas-fogg-39-die-afrika-verschwoerung\|DNAPF 39 — Die Afrika-Verschwörung]] (09.02.2024) | folgt endlich der richtigen Harriet Malone |
+| [[wiki/folgen/phileas-fogg-40-im-land-der-tausend-gefahren\|DNAPF 40 — Im Land der tausend Gefahren]] (05.04.2024) | ist hinter Harriet Malones Geheimnis her |
+| [[wiki/folgen/phileas-fogg-41-aufbruch\|DNAPF 41 — Aufbruch]] (07.06.2024) | ist für Mycroft Holmes im Einsatz |
+| [[wiki/folgen/phileas-fogg-42-gefaehrliche-suche\|DNAPF 42 — Gefährliche Suche]] (18.10.2024) | verfolgt einen Auftrag für Mycroft Holmes |
+| [[wiki/folgen/phileas-fogg-43-afrika-in-gefahr\|DNAPF 43 — Afrika in Gefahr]] (06.12.2024) | bereitet in London einen Gegenschlag vor |
+| [[wiki/folgen/phileas-fogg-44-giganten\|DNAPF 44 — Giganten]] (28.02.2025) | muss sich in London direkt mit Frankensteins neuem Experiment auseinandersetzen |
+| [[wiki/folgen/phileas-fogg-45-das-erbe-der-isais\|DNAPF 45 — Das Erbe der Isais]] (06.06.2025) | übernimmt den Fall um Artefakt und Mord |
+| [[wiki/folgen/phileas-fogg-46-der-verdammte-von-nepal\|DNAPF 46 — Der Verdammte von Nepal]] (18.07.2025) | sucht weiter nach einem Artefakt der Isais |
+| [[wiki/folgen/phileas-fogg-47-der-schwarze-spiegel\|DNAPF 47 — Der schwarze Spiegel]] (05.09.2025) | folgt einer neuen Karte nach Frankreich |
+| [[wiki/folgen/phileas-fogg-48-im-auge-des-kristalls\|DNAPF 48 — Im Auge des Kristalls]] (07.11.2025) | jagt weiter ein Artefakt der Isais |
+| [[wiki/folgen/phileas-fogg-49-dunkle-vorzeichen\|DNAPF 49 — Dunkle Vorzeichen]] (16.01.2026) | reist mit Aouda und Passepartout nach Venedig |
+| [[wiki/folgen/kapitaen-nemo-01-die-gestrandeten-des-luftmeeres\|NEM 1 — Die Gestrandeten des Luftmeeres]] (13.02.2026) | fungiert in der Rahmenhandlung als Nemo-Zuhörer im Reform Club |
+| [[wiki/folgen/phileas-fogg-50-goetterdaemmerung\|DNAPF 50 — Götterdämmerung]] (27.02.2026) | führt die Suche nach dem Kristall bis nach Indien |
+| [[wiki/folgen/kapitaen-nemo-02-das-geheimnis-der-insel\|NEM 2 — Das Geheimnis der Insel]] (17.04.2026) | bleibt in der Rahmenhandlung der Zuhörer von Nemos Bericht |
+| [[wiki/folgen/phileas-fogg-51-der-blaue-lotus\|DNAPF 51 — Der Blaue Lotus]] (01.05.2026) | lebt nach einem Trauerfall isoliert in London und nimmt die Einladung an. *Einzige offiziell gelistete Figur.* |
+| [[wiki/folgen/phileas-fogg-52-im-tal-der-inkas\|DNAPF 52 — Im Tal der Inkas]] (26.06.2026) | kehrt aus Hongkong zurück und nimmt den Auftrag an. *Einzige offiziell gelistete Figur.* |
+| [[wiki/folgen/phileas-fogg-53-der-verschollene-zug\|DNAPF 53 — Der verschollene Zug]] (geplant, 16.10.2026) | wird in Paris von einem Detektiv kontaktiert und nimmt die Spur auf |
 
 ## Beziehungen
 

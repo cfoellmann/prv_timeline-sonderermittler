@@ -46,7 +46,7 @@ tags:
 
 - [[wiki/figuren/geoffrey-stafford|Geoffrey Stafford]] — Sprecher Björn Schalla; verliert seine Frau.
 - Gwen Stafford — Sprecherin Mia Diekow; wird tot aus der Themse geborgen. Noch ohne eigene Seite.
-- Inspektor Cross — Sprecher Rainer Fritzsche; versucht Stafford zurückzuhalten.
+- [[wiki/figuren/cross|Inspektor Cross]] — Sprecher Rainer Fritzsche; versucht Stafford zurückzuhalten.
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — Sprecher Reent Reins; greift persönlich ein.
 
 ## Handlung (grob)

@@ -9,8 +9,8 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 ## Übersicht
 
 - [[wiki/universum|Universum – Maritim-Kosmos]] — Zentrale Einstiegsseite mit allen Serien.
-- [[wiki/queries/quellenlage-und-kanonkarte|Quellenlage & Kanonkarte]] — Meta-Auswertung: welche Quelle wofür belastbar ist, Kanon-Beziehungskarte, bekannte Datenfehler der Primärquelle (seit 12.10.2026 inkl. Datumsdreher SH 23).
-- [[wiki/queries/lint-2026-10-12|Lint / Health-Check 2026-10-12]] — **aktueller** Vault-Gesundheitsbericht: 320 Folgen, 0 Divergenzen Wiki ↔ `folgen.json`; korrigiert wurden 153 Index-Datumsangaben (davon 56 falsche Jahre), 79 Datumszellen in Serien-Folgenlisten, 15 Laufzeiten auf den `raw/`-Fanseitenwert (1-Minuten-Versatz der Apple-Trackssumme), 4 defekte `raw/`-Links und die Zähltabelle in `universum.md`. Nachtrag: alle sechs Rückfragen umgesetzt — 25 `zirkel`-Werte gegen `raw/` geprüft (10 auf `direkt`, 10 auf `unklar`), `story_praezision: "geschaetzt"` dokumentiert (Schema 1.1.1), Altfelder bereinigt, Figurenseite Professor Challenger.
+- [[wiki/queries/quellenlage-und-kanonkarte|Quellenlage & Kanonkarte]] — Meta-Auswertung: welche Quelle wofür belastbar ist, Kanon-Beziehungskarte, bekannte Datenfehler der Primärquelle (seit 12.10.2026 inkl. Datumsdreher SH 23, Verdacht MOR 25), Audible-Datumsmuster, HolyShop-Ersterscheinung, Raute Media und Fanseiten-Figurenseiten als neue Quellen.
+- [[wiki/queries/lint-2026-10-12|Lint / Health-Check 2026-10-12]] — **aktueller** Vault-Gesundheitsbericht: 320 Folgen, 0 Divergenzen Wiki ↔ `folgen.json`; korrigiert wurden 153 Index-Datumsangaben (davon 56 falsche Jahre), 79 Datumszellen in Serien-Folgenlisten, 15 Laufzeiten auf den `raw/`-Fanseitenwert (1-Minuten-Versatz der Apple-Trackssumme), 4 defekte `raw/`-Links und die Zähltabelle in `universum.md`. Nachtrag: alle sechs Rückfragen umgesetzt — 25 `zirkel`-Werte gegen `raw/` geprüft (10 auf `direkt`, 10 auf `unklar`), `story_praezision: "geschaetzt"` dokumentiert (Schema 1.1.1), Altfelder bereinigt, Figurenseite Professor Challenger. Nachtrag 2: Audible-Datumskonflikte DNAPF 42/WMU 1 geklärt (Vault bestätigt), Audible-Muster, 38 offene HolyShop-Abweichungen (u. a. MOR 25, OWMH 46–56), Besetzung OWMH 45–60 eingetragen.
 - [[wiki/queries/lint-2026-09-06|Lint / Health-Check 2026-09-06]] — Vault-Gesundheitsbericht: 317 Folgen, 0 Divergenzen Wiki ↔ `folgen.json`, 0 verwaiste Seiten, alle Serienzählungen korrekt. Offen sind nur inhaltliche Punkte — allen voran die fehlenden Sprecher:innen (301 von 317) und die In-Universe-Zeitachse.
 - [[wiki/queries/lint-2026-08-17|Lint / Health-Check 2026-08-17]] — Vault-Gesundheitsbericht inkl. Abarbeitung: Umlaut-Rückkorrektur (2002 Stellen), 10 Datumsfehler in `folgen.json`, `zirkel`-Vereinheitlichung, Schema 1.1.0. Offen bleiben die zentralen Figuren-Stubs und die In-Universe-Zeitachse.
 
@@ -418,7 +418,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 
 ## Figuren
 
-- [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] — Jäger, Begleiter Oscar Wildes (Sprecher Jaron Löwenberg); Erstauftritt OWMH 2, laut Fandom in elf OWMH-Folgen bis 26, vermutlich (Annahme) auch Challengers Begleiter in DNAPF 39–43 und Wildes in WMU 1 (Entwurf).
+- [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] — Jäger, Begleiter Oscar Wildes (Sprecher Jaron Löwenberg); Erstauftritt OWMH 2, laut Fandom in elf OWMH-Folgen bis 26, vermutlich (Annahme) auch Challengers Begleiter in DNAPF 39–43 und Wildes in WMU 1; in OWMH 45–60 nicht besetzt (Entwurf).
 - [[wiki/figuren/abraham-van-helsing|Abraham Van Helsing]] — Vampirjäger und Draculas ärgster Feind; tragend in der Dracula-Reihe, 2026 zurück in WMU 3 und SH 23.
 - [[wiki/figuren/adams|Dr. Adams]] — Forscher, sucht in NEM 3 die verschollenen Schiffe der Franklin-Expedition.
 - [[wiki/figuren/aleister-crowley|Aleister Crowley]] — Zirkel-Mitglied #6, Okkultist; Erstauftritt in OWMH 21.
@@ -430,6 +430,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/figuren/bastien-lavache|Bastien Lavache]] — Voodoo-Priester; verbindet die Holmes-Linie mit Tesla und ab FRANK 25 mit dem Frankenstein-Arc.
 - [[wiki/figuren/bram-stoker|Bram Stoker]] — reale historische Figur; Erstauftritt im Whitby-/Demeter-Strang OWMH 19, später Dracula-Jäger.
 - [[wiki/figuren/benjamin-payton|Dr. Benjamin Payton]] — Verbündeter, später Verräter (Erstauftritt OWMH 1, Tod OWMH 18). ⚠️ Strukturelle Spoiler.
+- [[wiki/figuren/cross|Inspector Cross]] — Scotland-Yard-Inspektor (auch „Inspektor Cross“, Sprecher Rainer Fritzsche); Vorgesetzter Staffords im SHC-Strang (SHC 48–68), trägt Holmes in SH 13 und 21 Fälle an.
 - [[wiki/figuren/der-maharadscha|Der Maharadscha]] — Zirkel-Mitglied #4; Erstauftritt in OWMH 17.
 - [[wiki/figuren/dracula|Dracula]] — Anführer des Zirkels; im aktuellen Repo-Stand zuerst über DNAPF 12 verankert.
 - [[wiki/figuren/ryan|Dr. Ryan]] — Blutforscher in Sussex; sein Wissen löst in DRAC 1 Draculas Rückkehr aus.
@@ -454,9 +455,9 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/figuren/kirk|Miss Kirk]] — Haushälterin Pater Allisons und Augenzeugin des „Wiedergängers" in SH 23.
 - [[wiki/figuren/lestrade|Inspektor Lestrade]] — Scotland-Yard-Inspektor; in SHC 48 vom Zirkel ermordet, Vorgänger Staffords.
 - [[wiki/figuren/mata-hari|Mata Hari]] — Spionin und Verbündete des Zirkels, häufig im Verbund mit Rasputin und Theodora Sachs.
-- [[wiki/figuren/mina-harker|Mina Harker]] — Draculas Erzfeindin und zeitweise seine Beschützerin; sucht ihren verschollenen Sohn Quentin.
+- [[wiki/figuren/mina-harker|Mina Harker]] — Draculas Erzfeindin und zeitweise seine Beschützerin; sucht ihren verschollenen Sohn [[wiki/figuren/quentin|Quentin]].
 - [[wiki/figuren/morrison|Lady Morrison]] — Adelige, in deren Umfeld Moriarty in MOR 25 von dem magischen Stein erfährt.
-- [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — Auftraggeber und strategischer Kopf der Krone, der Wilde, Irene Adler und Sherlock als Sonderermittler verpflichtet; mit rund 85 Folgen-Seiten die am breitesten vernetzte Figur des Kosmos.
+- [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — Auftraggeber und strategischer Kopf der Krone, der Wilde, Irene Adler und Sherlock als Sonderermittler verpflichtet; mit über 90 Folgen-Seiten die am breitesten vernetzte Figur des Kosmos.
 - [[wiki/figuren/nikola-tesla|Nikola Tesla]] — genialer Erfinder und Titelheld der Blitz-Reihe Tesla.
 - [[wiki/figuren/oscar-wilde|Oscar Wilde]] — Titelheld, Sonderermittler ab OWMH 1.
 - [[wiki/figuren/paisley|Mr. Paisley]] — Mitgefangener von Holmes und Watson in SH 22; seine Aussage dreht den Fall.
@@ -464,17 +465,22 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/figuren/paul-hiller|Paul Hiller]] — Auftragsmörder im Dienst des Zirkels, mit eigener Bande.
 - [[wiki/figuren/phileas-fogg|Phileas Fogg]] — Titelheld der ältesten und mit 52 Folgen umfangreichsten Reihe des Kosmos; in seinen Abenteuern treten Nemo, Robur, Frankenstein, Poe und Dracula erstmals überhaupt auf.
 - [[wiki/figuren/professor-challenger|Professor Challenger]] — Wissenschaftler und Abenteurer; Mitspieler des Afrika-Blocks DNAPF 38–44 (ab 39 mit Abel Hawthorn), 2026 Ratgeber Oscar Wildes in WMU 4 (Entwurf).
+- [[wiki/figuren/quentin|Quentin]] — Mina Harkers verschollener Sohn, Ziel ihrer Suche in DRAC 3–4; nur als Gesuchter belegt.
 - [[wiki/figuren/rasputin|Rasputin]] — Zirkel-Mitglied #5; Erstauftritt in IADK 4.
 - [[wiki/figuren/robur|Robur]] — früh eingeführter Erfinder und laut Konzeptseiten Zirkel-Mitglied.
 - [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] — Bruder Mycrofts und ab 2022 Titelheld einer eigenen Sonderermittler-Reihe; 18 seiner 41 belegten Auftritte liegen außerhalb dieser Reihe, was ihn zum Hauptverknüpfungsknoten des Universums macht.
 - [[wiki/figuren/springer|Mr. Springer]] — Mordopfer, dessen Fall den Eva-Arc in IADK 34 weitertreibt.
 - [[wiki/figuren/theodora-sachs|Theodora Sachs]] — Draculas frühere Assistentin und wiederkehrende Operative im Zirkel-Umfeld.
+- [[wiki/figuren/van-dusen|Professor van Dusen]] — untersucht in SH 1–2 im Auftrag Mycrofts eine Vergiftungsserie, zusammen mit Sherlock Holmes; in SHC Ermittler eines eigenen, kosmosfremden Strangs.
 - [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] — Zirkel-Wissenschaftler mit früher DNAPF-Verankerung und eigener Spin-off-Reihe.
+- [[wiki/figuren/vidocq|Vidocq]] — Pariser Ermittler und Konkurrent Dupins in EAPAD 10.
 - [[wiki/figuren/violet-ishiguro|Violet Ishiguro]] — Verbündete Wildes; für OWMH 40 als Begleiterin nach Rom belegt.
 - [[wiki/figuren/wu|Wu]] — Irene Adlers ständiger Ermittlungspartner, in 27 der 35 IADK-Folgen offiziell gelistet; in IADK 29 ist er selbst der Fall. Klarname unbelegt.
 
 ## Quellen-Übersicht
 
+- [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — Datumsabgleich 12.10.2026: Audible-Serienseiten (281 Folgen), alle 279 HolyShop-Produktseiten („Ersterscheinung"), Raute-Media-CD-Termine; klärt DNAPF 42 und WMU 1, belegt den Audible-Verzug und 38 Abweichungen HolyShop ↔ Vault (u. a. MOR 25, OWMH 46–56).
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Besetzung OWMH 45–60: Sprecherlisten (Audible, Hörspieltalk, Raute Media), Rollenlisten 58–60, Stammsprecher der Fanseiten-Figurenseiten; kein Abel Hawthorn in 45–60.
 - [raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md](raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md) — Neue-Folgen-Scout vom 12.10.2026: SH 23 und NEM 5 erschienen; Verlagsankündigung WMU 5; DNB-Satz DNAPF 53; Titelankündigung DNAPF 54; YouTube-Komplettfolgen SH 5, MOR 7, DRAC 8.
 - [raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md](raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md) — Fanseite (Serienübersicht, Schlagzeilen, zwei Folgenseiten), fünf HolyShop-Produktseiten und DNB-Sätze, Stand 12.10.2026.
 - [raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md](raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md) — Neue-Folgen-Scout vom 03.10.2026: FRANK 27, MOR 27 und IADK 35 erschienen; neue Vormerkungen NEM 5, WMU 5, DNAPF 53; Titelankündigungen FRANK 29 und 31–36.

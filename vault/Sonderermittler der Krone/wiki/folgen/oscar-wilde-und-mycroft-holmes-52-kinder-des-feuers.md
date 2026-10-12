@@ -6,6 +6,19 @@ titel: Kinder des Feuers
 erschienen: 2025-03-28
 verlag: Maritim
 autor: "Silke Walter"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Sherlock Holmes
+    name: Charles Rettinghaus
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mr. Wu
+    name: Michael Pan
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Rasputin
+    name: Tetje Mierendorf
 spielzeit_min: 57
 zirkel: unklar
 crossover_mit: []
@@ -15,6 +28,7 @@ quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge52-kinder-des-feuers/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
 tags:
   - sonderermittler
 ---
@@ -30,6 +44,7 @@ tags:
 - **Fandom-Abgleich (2026-04-30):** Auf der Fandom-Serienseite gelistet, aber ohne verlinkte Einzelseite.
 - **Spielzeit:** 57 Minuten.
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Oscar Wilde – Sascha Rotermund, Sherlock Holmes – Charles Rettinghaus, Irene Adler – Yvonne Greitzke, Mr. Wu – Michael Pan, Theodora Sachs – Gabrielle Pietermann, Rasputin – Tetje Mierendorf. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Sascha Rotermund, Reent Reins, Charles Rettinghaus, Yvonne Greitzke, Michael Pan, Andreas Fröhlich, Gabrielle Pietermann, Daniel Zillmann, Tetje Mierendorf, Reinhard Scheunemann, Detlef Tams, Janis Zaurins, Wanja Gerick, Dirk Hardegen, Sebastian Fitzner, Sönke Städtler, Lutz Mackensy (Hörspieltalk, Raute Media; Audible gekürzt).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge52-kinder-des-feuers/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-52-kinder-des-feuers.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-52-kinder-des-feuers.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-52.jpg>)*
@@ -56,5 +71,6 @@ Irene Adler und Mr. Wu entkommen knapp einem Mob und laufen direkt Theodora Sach
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge52-kinder-des-feuers/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Serienseiten-Abgleich: Folge ist gelistet, aber nicht als eigene Fandom-Seite verlinkt.
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Besetzung OWMH 45–60 (Audible, Hörspieltalk, Raute Media, Fanseiten-Figurenseiten; 12.10.2026).
 
 

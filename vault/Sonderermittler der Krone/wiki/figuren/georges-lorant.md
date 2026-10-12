@@ -16,6 +16,7 @@ tags:
 
 ## Auftritte
 
+- [[wiki/folgen/poe-und-dupin-33-der-letzte-tanz|EAPAD 33 — Der letzte Tanz]] (13.02.2026) — wendet sich mit dem Fall an Poe und Dupin; der Klappentext dieser Folge schreibt „George Lorant“
 - [[wiki/folgen/poe-und-dupin-36-aufstieg-und-fall|EAPAD 36 — Aufstieg und Fall]] (31.07.2026) — unterbricht die Grimoire-Suche; gemeinsam mit [[wiki/figuren/irene-adler|Irene Adler]] und [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] ermitteln Poe und Dupin daraufhin in einem Entführungsfall, dessen Spur ins Dorf Saint Manon bei Paris führt.
 
 ## Beziehungen

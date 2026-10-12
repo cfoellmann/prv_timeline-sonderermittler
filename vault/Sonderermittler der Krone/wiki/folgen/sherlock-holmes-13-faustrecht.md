@@ -46,7 +46,7 @@ tags:
 
 ## Handlung (grob)
 
-Inspector Cross bittet Holmes und Watson um Hilfe, weil sich in einem Teil des Londoner Hafens gewalttätige Auseinandersetzungen häufen und die Aussagen der Überlebenden einander widersprechen. Holmes sagt Ermittlungen zu, weil er bereits einen Verdacht hat, welcher alte Feind hinter dem Ganzen stecken könnte. Während der Fall zunächst wie eine Eskalation der Straßen- und Hafenkriminalität wirkt, macht die offizielle Figurenliste klar, dass die Angelegenheit in den weiteren Kosmoskonflikt hineinragt. Damit beginnt die Reihe einen neuen Block um Robur, Frankenstein und ihre Verbündeten.
+[[wiki/figuren/cross|Inspector Cross]] bittet Holmes und Watson um Hilfe, weil sich in einem Teil des Londoner Hafens gewalttätige Auseinandersetzungen häufen und die Aussagen der Überlebenden einander widersprechen. Holmes sagt Ermittlungen zu, weil er bereits einen Verdacht hat, welcher alte Feind hinter dem Ganzen stecken könnte. Während der Fall zunächst wie eine Eskalation der Straßen- und Hafenkriminalität wirkt, macht die offizielle Figurenliste klar, dass die Angelegenheit in den weiteren Kosmoskonflikt hineinragt. Damit beginnt die Reihe einen neuen Block um Robur, Frankenstein und ihre Verbündeten.
 
 ## Bezug zum Zirkel der Sieben
 

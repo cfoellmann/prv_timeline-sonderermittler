@@ -43,7 +43,7 @@ tags:
 ## Hauptfiguren
 
 - [[wiki/figuren/geoffrey-stafford|Geoffrey Stafford]] — Sprecher Björn Schalla; vermutet den Zirkel hinter den Erpressungen.
-- Inspektor Cross — Sprecher Rainer Fritzsche; vertritt eine abweichende Theorie. Noch ohne eigene Seite.
+- [[wiki/figuren/cross|Inspektor Cross]] — Sprecher Rainer Fritzsche; vertritt eine abweichende Theorie.
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — Sprecher Reent Reins.
 - Lord Chester Calloway — erpresstes Parlamentsmitglied. Noch ohne eigene Seite.
 

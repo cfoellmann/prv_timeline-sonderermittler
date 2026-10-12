@@ -18,6 +18,7 @@ tags:
 ## Auftritte
 
 - [[wiki/folgen/moriarty-25-ein-hauch-von-ewigkeit|MOR 25 — Ein Hauch von Ewigkeit]] (06.05.2026) — im Umfeld von [[wiki/figuren/morrison|Lady Morrison]] erzählt er Moriarty von dem Stein. „Moriarty wird hellhörig. Schnell ist ein Plan gefasst."
+- [[wiki/folgen/moriarty-27-tiefe-wasser|MOR 27 — Tiefe Wasser]] (25.09.2026) — kennt die Spur, wird entführt
 
 ## Beziehungen
 

@@ -36,7 +36,7 @@ Der Grund für dieses Zweckbündnis ist ein „gemeinsames Schicksal": die Suche
 - [[wiki/figuren/dracula|Dracula]] — Erzfeind, zeitweise Zweckverbündeter und Schutzbefohlener.
 - [[wiki/figuren/abraham-van-helsing|Abraham Van Helsing]] — engster Verbündeter, Beginn und Ende der Reihe.
 - [[wiki/figuren/jonathan-harker|Jonathan Harker]] — teilt ihren Nachnamen; das genaue Verwandtschafts- oder Eheverhältnis ist im Repo **nicht ausdrücklich belegt**.
-- **Quentin** — ihr verschollener Sohn, Motiv ihres Handlungsstrangs. *Noch keine eigene Figuren-Seite.*
+- [[wiki/figuren/quentin|Quentin]] — ihr verschollener Sohn, Motiv ihres Handlungsstrangs.
 - [[wiki/figuren/jack-renfield|Jack Renfield]] — Gefährte, von dem sie in DRAC 3 getrennt wird.
 
 ## Bezug zum Zirkel der Sieben

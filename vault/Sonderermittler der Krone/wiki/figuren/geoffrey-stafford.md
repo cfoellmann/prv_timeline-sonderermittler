@@ -28,6 +28,9 @@ Stafford ist die polizeiliche Konstante des Kosmos: Er steht für Scotland Yard,
 |---|---|
 | [[wiki/folgen/sherlock-holmes-und-co-48-das-ende-des-inspektors\|SHC 48 — Das Ende des Inspektors]] (11.10.2019) | **Erstauftritt**, in derselben Folge, in der Inspektor Lestrade vom Zirkel ermordet wird |
 | [[wiki/folgen/moriarty-02-die-wiege-des-verbrechens\|MOR 2 — Die Wiege des Verbrechens]] (27.11.2020) | interessiert sich als Inspektor von Scotland Yard brennend für den geheimnisvollen Fremden James Moriarty — parallel zu [[wiki/figuren/theodora-sachs\|Theodora Sachs]] |
+| [[wiki/folgen/sherlock-holmes-und-co-58-unheilvolle-beute\|SHC 58 — Unheilvolle Beute]] (29.01.2021) | Sprecher Björn Schalla |
+| [[wiki/folgen/sherlock-holmes-und-co-64-puppenspieler\|SHC 64 — Puppenspieler]] (24.09.2021) | Sprecher Björn Schalla; vermutet den Zirkel hinter den Erpressungen |
+| [[wiki/folgen/sherlock-holmes-und-co-68-der-kalte-hauch-der-rache\|SHC 68 — Der kalte Hauch der Rache]] (22.07.2022) | Sprecher Björn Schalla; verliert seine Frau |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-57-zwietracht\|OWMH 57 — Zwietracht]] (15.05.2026) | bittet [[wiki/figuren/oscar-wilde\|Oscar Wilde]] darum, die Themse-Mordserie zu übernehmen |
 
 ## Beziehungen

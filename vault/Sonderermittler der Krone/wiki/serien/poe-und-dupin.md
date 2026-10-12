@@ -51,7 +51,7 @@ tags: []
 | 07 | [[wiki/folgen/poe-und-dupin-07-der-tod-der-schwarzen-schafe\|Der Tod der schwarzen Schafe]] | 13.12.2019 | indirekt |   | Mordserie in der Oberschicht |
 | 08 | [[wiki/folgen/poe-und-dupin-08-im-schatten-der-guillotine\|Im Schatten der Guillotine]] | 07.02.2020 | indirekt |   | Guillotine-Morde |
 | 09 | [[wiki/folgen/poe-und-dupin-09-das-gestohlene-blut\|Das gestohlene Blut]] | 03.04.2020 | indirekt |   | Blutentzug-Morde |
-| 10 | [[wiki/folgen/poe-und-dupin-10-die-strasse-der-drei-gesichter\|Die Straße der drei Gesichter]] | 15.05.2020 | indirekt |   | Konkurrent Vidocq |
+| 10 | [[wiki/folgen/poe-und-dupin-10-die-strasse-der-drei-gesichter\|Die Straße der drei Gesichter]] | 15.05.2020 | indirekt |   | Konkurrent [[wiki/figuren/vidocq\|Vidocq]] |
 | 11 | [[wiki/folgen/poe-und-dupin-11-die-daemonen-des-auguste-dupin\|Die Dämonen des Auguste Dupin]] | 30.10.2020 | indirekt |   | Alpträume, Psychologie |
 | 12 | [[wiki/folgen/poe-und-dupin-12-in-den-katakomben-lauert-der-tod\|In den Katakomben lauert der Tod]] | 29.01.2021 | indirekt |   | Katakomben von Paris |
 | 13 | [[wiki/folgen/poe-und-dupin-13-die-aufnahmepruefung\|Die Aufnahmeprüfung]] | 14.05.2021 | **direkt** |   | **Zirkel-Einstieg:** Gaston Morell wird 7. Mitglied |

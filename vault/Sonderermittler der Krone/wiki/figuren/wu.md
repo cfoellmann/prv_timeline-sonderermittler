@@ -55,6 +55,8 @@ In den Crossovern ist die Rollenlogik immer dieselbe: Wu erscheint dort, wo Iren
 | [[wiki/folgen/tesla-02-toedliches-spielzeug\|TES 2 — Tödliches Spielzeug]] (21.02.2025) | in der offiziellen Figurenliste der Tesla-Reihe neben Irene Adler |
 | [[wiki/folgen/irene-adler-33-ein-altes-problem\|IADK 33 — Ein altes Problem]] (12.06.2026) | sucht mit Irene das neue Versteck des Maschinenmenschen [[wiki/figuren/eva\|Eva]], nachdem [[wiki/figuren/george-turner\|George Turner]] ermordet wurde |
 | [[wiki/folgen/irene-adler-34-kuenstlicher-feind\|IADK 34 — Künstlicher Feind]] (07.08.2026) | ermittelt laut Klappentext gemeinsam mit Irene zum Mord an [[wiki/figuren/springer\|Mr. Springer]] und zum Verbleib Evas |
+| [[wiki/folgen/irene-adler-35-bilder-des-fortschritts\|IADK 35 — Bilder des Fortschritts]] (02.10.2026) | an ihrer Seite |
+| [[wiki/folgen/irene-adler-36-die-kraft-der-illusion\|IADK 36 — Die Kraft der Illusion]] (geplant, 27.11.2026) | sucht nach ihr |
 
 ### Weiter belegt in `raw/`, auf den Folgen-Seiten aber noch nicht verlinkt
 

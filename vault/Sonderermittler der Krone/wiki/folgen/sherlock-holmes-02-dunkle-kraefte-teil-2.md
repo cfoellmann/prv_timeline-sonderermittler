@@ -25,7 +25,7 @@ tags:
 
 # Sherlock Holmes – 2: Dunkle Kräfte, Teil 2
 
-> Holmes und Professor van Dusen verfolgen dieselbe Mordserie weiter und stoßen dabei auch auf Moriarty.
+> Holmes und [[wiki/figuren/van-dusen|Professor van Dusen]] verfolgen dieselbe Mordserie weiter und stoßen dabei auch auf Moriarty.
 
 ## Eckdaten
 

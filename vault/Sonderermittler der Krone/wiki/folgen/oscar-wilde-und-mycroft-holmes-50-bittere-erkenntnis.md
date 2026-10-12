@@ -6,6 +6,15 @@ titel: Bittere Erkenntnis
 erschienen: 2024-09-27
 verlag: Maritim
 autor: "Silke Walter"
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Sherlock Holmes
+    name: Charles Rettinghaus
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
 spielzeit_min: 115
 zirkel: unklar
 crossover_mit: []
@@ -15,6 +24,7 @@ quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge50-bittere-erkenntnis/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
 tags:
   - sonderermittler
 ---
@@ -30,6 +40,7 @@ tags:
 - **Fandom-Abgleich (2026-04-30):** Auf der Fandom-Serienseite gelistet, aber ohne verlinkte Einzelseite.
 - **Spielzeit:** 115 Minuten.
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Sprecher (Auswahl):** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Sherlock Holmes – Charles Rettinghaus, Irene Adler – Yvonne Greitzke. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Sascha Rotermund, Reent Reins, Charles Rettinghaus, Yvonne Greitzke, Michael Pan, Gabrielle Pietermann, Daniel Zillmann, Tetje Mierendorf, Björn Schalla, Dirk Hardegen, Gosta Liptow, Peter Sura, Tanja Dohse, Robert Louis Griesbach, Lutz Mackensy (Audible).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge50-bittere-erkenntnis/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-50.jpg>)*
@@ -57,5 +68,6 @@ Irene Adler, Oscar Wilde und Sherlock Holmes stehen unter Schock, müssen aber z
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge50-bittere-erkenntnis/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Serienseiten-Abgleich: Folge ist gelistet, aber nicht als eigene Fandom-Seite verlinkt.
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Besetzung OWMH 45–60 (Audible, Hörspieltalk, Raute Media, Fanseiten-Figurenseiten; 12.10.2026).
 
 

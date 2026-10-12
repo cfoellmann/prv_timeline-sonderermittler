@@ -47,6 +47,7 @@ quellen:
   - https://www.xn--hrspieltalk-rfb.de/forum/thread/32062-oscar-wilde-mycroft-holmes-60-tiefe-reue/
   - raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md
   - raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
 tags:
   - sonderermittler
   - maritim
@@ -113,3 +114,4 @@ tags:
 - [raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md](../../raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md) — Apple Music: 2026-10-30.
 - Deezer API (Album 1051604282): 2026-10-30, UPC 199109388680.
 - Ankündigung mit Klappentext und Besetzung: <https://www.xn--hrspieltalk-rfb.de/forum/thread/32062-oscar-wilde-mycroft-holmes-60-tiefe-reue/>
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Besetzung OWMH 45–60: alle 12 Namen der Rollenliste auch in der Audible-Sprecherliste (12.10.2026).

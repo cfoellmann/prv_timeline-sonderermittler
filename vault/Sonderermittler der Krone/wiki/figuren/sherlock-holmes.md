@@ -39,7 +39,7 @@ Historisch reicht die Figur hinter die Sonderermittler-Reihen zurück: In der Vo
 
 | Folge | Rolle |
 |---|---|
-| [[wiki/folgen/sherlock-holmes-01-dunkle-kraefte-teil-1\|SH 1 — Dunkle Kräfte, Teil 1]] | stößt zu einer von **Professor van Dusen** im Auftrag Mycrofts untersuchten Vergiftungsserie dazu und merkt, dass die Ermittler gelenkt werden |
+| [[wiki/folgen/sherlock-holmes-01-dunkle-kraefte-teil-1\|SH 1 — Dunkle Kräfte, Teil 1]] | stößt zu einer von **[[wiki/figuren/van-dusen\|Professor van Dusen]]** im Auftrag Mycrofts untersuchten Vergiftungsserie dazu und merkt, dass die Ermittler gelenkt werden |
 | [[wiki/folgen/sherlock-holmes-02-dunkle-kraefte-teil-2\|SH 2 — Dunkle Kräfte, Teil 2]] | jagt mit van Dusen weiter einen Gegner, der ihnen voraus zu sein scheint; die Spur führt zu Moriarty |
 | [[wiki/folgen/sherlock-holmes-03-verraeterische-lilien\|SH 3 — Verräterische Lilien]] | wird von einem Forscher hinzugezogen, der seinem alten Freund nicht mehr traut |
 | [[wiki/folgen/sherlock-holmes-04-unter-falschem-verdacht\|SH 4 — Unter falschem Verdacht]] | Erpresserfall in der Londoner Oberschicht; weil Moriartys Name unter den Drohungen auftaucht, landen beide im selben Fall |
@@ -62,6 +62,7 @@ Historisch reicht die Figur hinter die Sonderermittler-Reihen zurück: In der Vo
 | [[wiki/folgen/sherlock-holmes-21-eine-studie-in-blutrot\|SH 21 — Eine Studie in Blutrot]] | vermutet bei einem mutmaßlichen Ritualmord einen Voodoo-Hintergrund und telegrafiert an **Bastien Lavache** — Öffnung zum Tesla-Strang |
 | [[wiki/folgen/sherlock-holmes-22-der-zweite-blutfleck\|SH 22 — Der zweite Blutfleck]] | mit Watson und Lavache **Gefangener** der vermeintlichen Voodoo-Gemeinde; ermittelt aus der Gefangenschaft weiter |
 | [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho\|SH 23 — Der Wiedergänger von Soho]] | *(09.10.2026)* nimmt den Fall des nächtlich angegriffenen Pater Allison an und informiert [[wiki/figuren/abraham-van-helsing\|Van Helsing]] und [[wiki/figuren/jonathan-harker\|Jonathan Harker]] |
+| [[wiki/folgen/sherlock-holmes-24-die-strassen-der-angst\|SH 24 — Die Straßen der Angst]] (geplant, 04.12.2026) | wartet auf Nachricht aus Transsylvanien und entziffert die Inschrift auf der Schale |
 
 ### Gastauftritte in anderen Reihen
 
@@ -80,12 +81,16 @@ Historisch reicht die Figur hinter die Sonderermittler-Reihen zurück: In der Vo
 | [[wiki/folgen/tesla-08-koenig-der-luefte\|TES 8 — König der Lüfte]] (27.03.2026) | offiziell gelistete Figur; berührt mit Moriarty die beiden Gegenpole des Kosmos |
 | [[wiki/folgen/frankenstein-24-toedliche-dosis\|FRANK 24 — Tödliche Dosis]] (27.03.2026) | tritt als Sonderermittler der Krone auf, mit Watson |
 | [[wiki/folgen/poe-und-dupin-36-aufstieg-und-fall\|EAPAD 36 — Aufstieg und Fall]] (31.07.2026) | ermittelt laut Klappentext mit Poe, Dupin und Irene Adler in einem Entführungsfall bei Paris |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-60-tiefe-reue\|OWMH 60 — Tiefe Reue]] (geplant, 30.10.2026) | nach London zurückgekehrt |
+| [[wiki/folgen/frankenstein-28-gegen-jeden-widerstand\|FRANK 28 — Gegen jeden Widerstand]] (geplant, 13.11.2026) | gemeinsam mit [[wiki/figuren/john-watson\|Dr. John Watson]]: in der Sprecherliste geführt |
 
 ### Vorgänger-Reihe „Sherlock Holmes & Co."
 
 | Folge | Rolle |
 |---|---|
 | [[wiki/folgen/sherlock-holmes-und-co-26-der-schrei-der-banshee-episode-1\|SHC 26 — Der Schrei der Banshee, Episode 1]] und [[wiki/folgen/sherlock-holmes-und-co-27-der-schrei-der-banshee-episode-2\|SHC 27 — Episode 2]] (02.09.2016) | **erste dokumentierte Zusammenarbeit mit Oscar Wilde**; als Archiv-Folgen SH 6 und SH 7 neu veröffentlicht |
+| [[wiki/folgen/sherlock-holmes-und-co-41-das-verschwinden-der-louise-m-episode-1\|SHC 41 — Das Verschwinden der Louise M., Episode 1]] (12.10.2018) | Sprecher Charles Rettinghaus |
+| [[wiki/folgen/sherlock-holmes-und-co-42-das-verschwinden-der-louise-m-episode-2\|SHC 42 — Das Verschwinden der Louise M., Episode 2]] (23.11.2018) | Sprecher Charles Rettinghaus |
 | [[wiki/folgen/sherlock-holmes-und-co-45-hinter-den-kulissen\|SHC 45 — Hinter den Kulissen]] (07.06.2019) | Grundstein-Folge für die Irene-Adler-Reihe; Erstauftritt von [[wiki/figuren/wu\|Mister Wu]] |
 | [[wiki/folgen/sherlock-holmes-und-co-48-das-ende-des-inspektors\|SHC 48 — Das Ende des Inspektors]] (11.10.2019) | Erstauftritt [[wiki/figuren/geoffrey-stafford\|Geoffrey Stafford]]; [[wiki/figuren/lestrade\|Inspektor Lestrade]] gerät ins Visier des Zirkels |
 | [[wiki/folgen/sherlock-holmes-und-co-53-die-rueckkehr-der-angst\|SHC 53 — Die Rückkehr der Angst]] (03.07.2020) | [[wiki/figuren/dracula\|Dracula]] tritt unter dem Decknamen „Sapriel" in London auf |
@@ -98,7 +103,7 @@ Historisch reicht die Figur hinter die Sonderermittler-Reihen zurück: In der Vo
 - [[wiki/figuren/james-moriarty|James Moriarty]] — Gegenpol; rahmt den Reihenauftakt, steht in SH 4 im Zentrum eines Erpresserfalls und ist über die Moriarty-Reihe und TES 8 mit Holmes verkoppelt.
 - [[wiki/figuren/irene-adler|Irene Adler]] — häufigste Ermittlungspartnerin außerhalb der eigenen Reihe: IADK 0/1, der Los-Angeles-Block IADK 25–28, SH 6/8/12 und EAPAD 36.
 - [[wiki/figuren/oscar-wilde|Oscar Wilde]] — ältester belegter Kontakt (SHC 26/27); liefert in SH 6 die Ausgangsinformation, wird in OWMH 41 von Holmes unterstützt.
-- **Professor van Dusen** — ermittelt in SH 1–2 parallel und gemeinsam mit Holmes. *Noch keine eigene Figuren-Seite.*
+- [[wiki/figuren/van-dusen|Professor van Dusen]] — ermittelt in SH 1–2 parallel und gemeinsam mit Holmes.
 - [[wiki/figuren/bastien-lavache|Bastien Lavache]] — Holmes zieht ihn in SH 21 selbst hinzu; in SH 22 sind beide Gefangene. Lavache läuft parallel im Frankenstein-Tarnmantel-Arc.
 - [[wiki/figuren/theodora-sachs|Theodora Sachs]], [[wiki/figuren/aleister-crowley|Aleister Crowley]], [[wiki/figuren/rasputin|Rasputin]] — die am häufigsten gelistete Gegenseite seiner Reihe (SH 7, 10–12, 15–16, 18–22).
 - [[wiki/figuren/killjoy|Killjoy]] — Gegenspieler des Grail's-Hollow-Komplexes (SH 5, 6, 8, 14, 16).
@@ -122,7 +127,7 @@ Historisch reicht die Figur hinter die Sonderermittler-Reihen zurück: In der Vo
 - **Holmes' Rolle im Los-Angeles-Block (IADK 25–28) ist nur grob greifbar.** Die Folgen-Seiten führen ihn als Ermittlungspartner, sagen aber nichts über eigene Handlungsmotive. Beim Hören schärfen.
 - **Verhältnis zu Moriarty ist im Repo nicht ausgearbeitet.** Belegt sind gemeinsame Folgenlisten (SH 1–2, 4; MOR 0/1; TES 8; SHC 55), nicht aber, wie die Reihen dieses Verhältnis erzählen.
 - **SHC-Gesamtumfang und Re-Release-Mapping offen.** Welche SHC-Originalfolge welcher „Aus den Archiven"-Nummer entspricht, ist außer für 26/27 → 6/7 nicht geklärt; ebenso fehlt das Erscheinungsdatum von SHC 55.
-- **Eigene Figuren-Seiten fehlen** für Professor van Dusen und Inspector Cross (SH 21) — beide sind bislang nur in Folgen-Seiten als Fließtext geführt.
+- **Nebenfiguren ohne Figurenliste:** [[wiki/figuren/van-dusen|Professor van Dusen]] (SH 1–2) und [[wiki/figuren/cross|Inspector Cross]] (SH 13, 21) stehen nur in den Klappentexten, nicht in den offiziellen Figurenlisten; seit 12.10.2026 haben beide eigene Seiten.
 
 ## Quellen
 

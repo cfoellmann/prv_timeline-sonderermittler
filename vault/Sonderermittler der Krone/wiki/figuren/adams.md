@@ -18,6 +18,7 @@ tags:
 ## Auftritte
 
 - [[wiki/folgen/kapitaen-nemo-03-verschollen-im-eis|NEM 3 — Verschollen im Eis]] (12.06.2026) — sucht besessen nach den verschollenen Schiffen der John-Franklin-Expedition; die Nautilus stößt daraufhin auf ein Wrack und ein rätselhaftes, unter Wasser von seltsamen Armen gehaltenes Schiff.
+- [[wiki/folgen/kapitaen-nemo-04-die-ueberlebenden-der-erebus|NEM 4 — Die Überlebenden der Erebus]] (07.08.2026) — der geheimnisvolle Forscher aus Folge 3; hier hinter verlorenem Gold her
 
 ## Beziehungen
 

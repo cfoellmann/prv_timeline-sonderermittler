@@ -36,6 +36,8 @@ Passepartout ist fester Bestandteil der Phileas-Fogg-Serie und erscheint in 20+ 
 - [[wiki/folgen/phileas-fogg-09-im-reich-des-zaren|DNAPF 9 – Im Reich des Zaren]] — Reise durch Russland mit Fogg und Aouda
 - [[wiki/folgen/phileas-fogg-15-die-schwimmende-stadt|DNAPF 15 – Die schwimmende Stadt]] — Künstliche Insel-Mission
 - [[wiki/folgen/phileas-fogg-25-diamantenjaeger|DNAPF 25 – Diamantenjäger]] (2020) — Mit Fogg auf der Suche nach Aouda
+- [[wiki/folgen/phileas-fogg-42-gefaehrliche-suche|DNAPF 42 – Gefährliche Suche]] (18.10.2024) — ermittelt gemeinsam mit Nemo in Saint Noire
+- [[wiki/folgen/phileas-fogg-53-der-verschollene-zug|DNAPF 53 – Der verschollene Zug]] (geplant, 16.10.2026) — einer der Passagiere des verschwundenen Zuges
 - Und viele weitere Episoden der Serie
 
 ### Crossover: Irene Adler

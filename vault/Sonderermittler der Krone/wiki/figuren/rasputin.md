@@ -38,11 +38,28 @@ Rasputin wird im Kosmos als mystische und politisch gefährliche Figur dargestel
 ### Sherlock Holmes
 
 - [[wiki/folgen/sherlock-holmes-10-teufelsmelodie|SH 10 – Teufelsmelodie]] (06.09.2024) — Wettlauf mit Holmes, Crowley und Theodora Sachs
+- [[wiki/folgen/sherlock-holmes-11-gesang-der-toten|SH 11 – Gesang der Toten]] (11.10.2024) — ist auf der offiziellen Seite als Figur gelistet
+- [[wiki/folgen/sherlock-holmes-12-takt-des-schicksals|SH 12 – Takt des Schicksals]] (01.11.2024) — ist auf der offiziellen Seite als Figur gelistet
 - [[wiki/folgen/sherlock-holmes-18-gefaehrliche-geheimnisse|SH 18 – Gefährliche Geheimnisse]] (28.11.2025) — Suche nach Herrschaftsmittel mit Crowley und Theodora
+- [[wiki/folgen/sherlock-holmes-19-doppelter-verlust|SH 19 – Doppelter Verlust]] (06.02.2026) — ist auf der offiziellen Seite als Figur gelistet
+- [[wiki/folgen/sherlock-holmes-20-verhaengnisvolles-meisterwerk|SH 20 – Verhängnisvolles Meisterwerk]] (24.04.2026) — ist auf der offiziellen Seite als Figur gelistet
 
 ### Oscar Wilde & Mycroft Holmes
 
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-52-kinder-des-feuers|OWMH 52 – Kinder des Feuers]] (28.03.2025) — Rasputins Sekte bringt Ermittler unter Druck
+
+### Frankenstein
+
+- [[wiki/folgen/frankenstein-05-aus-dem-reich-der-toten|FRANK 5 – Aus dem Reich der Toten]] (08.04.2022) — Mitglied des Zirkels der Sieben
+
+### Tesla
+
+- [[wiki/folgen/tesla-04-im-spannungsfeld|TES 4 – Im Spannungsfeld]] (27.06.2025) — wird im offiziellen Klappentext direkt mitgenannt
+
+### Oscar Wilde & Edgar Allan Poe
+
+- [[wiki/folgen/oscar-wilde-und-poe-03-nimmermehr|WPO 3 – Nimmermehr]] (02.01.2026) — aktiver Antagonist; jagt mit Mata Hari und Theodora Sachs die »Ewig Liebenden«
+- [[wiki/folgen/oscar-wilde-und-poe-04-die-ewig-liebenden|WPO 4 – Die ewig Liebenden]] (16.01.2026) — setzt mit Mata Hari und Theodora Sachs die Jagd nach den Figuren in England fort
 
 ## Beziehungen
 

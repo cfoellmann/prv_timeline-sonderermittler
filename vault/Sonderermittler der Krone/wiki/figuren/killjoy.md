@@ -89,6 +89,8 @@ Vollständig nach den offiziellen Figurenlisten im Repo-Stand. Wo der Klappentex
 | [[wiki/folgen/tesla-08-koenig-der-luefte\|Tesla 8 — König der Lüfte]] (2026) | bereitet mit Robur in einem stillgelegten Elektrizitätswerk einen Blackout vor, der das Ende des Königshauses einleiten könnte |
 | [[wiki/folgen/oscar-wilde-und-irene-adler-03-ein-sommernachtsalbtraum\|W&A 3 — Ein Sommernachtsalbtraum]] (2024) | neu auf der offiziellen Figurenebene der Blitz-Mini-Serie |
 | [[wiki/folgen/oscar-wilde-und-irene-adler-04-was-ihr-nicht-wollt\|W&A 4 — Was ihr nicht wollt]] (2024) | offiziell gelistet beim Anschlagsplan gegen Parlament und Buckingham Palace |
+| [[wiki/folgen/irene-adler-35-bilder-des-fortschritts\|IADK 35 — Bilder des Fortschritts]] (02.10.2026) | Roburs Partner in diesem Zug |
+| [[wiki/folgen/frankenstein-28-gegen-jeden-widerstand\|FRANK 28 — Gegen jeden Widerstand]] (geplant, 13.11.2026) | gemeinsam mit [[wiki/figuren/robur\|Robur]]: bereiten den Zirkelmitgliedern einen unerfreulichen Empfang |
 
 ## Beziehungen
 

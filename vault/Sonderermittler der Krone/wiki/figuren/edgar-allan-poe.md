@@ -31,7 +31,7 @@ Der Reihe eigen ist außerdem, dass Poes **Beruf und seine Psyche selbst zum Fal
 
 ## Auftritte
 
-Poe ist im Vault auf **41 Folgen-Seiten** verlinkt (alle 36 Folgen der Hauptreihe, die 4 Blitz-Folgen, dazu [[wiki/folgen/irene-adler-06-licht-und-schatten|IADK 6]]). Weil er in seiner Reihe durchgehend präsent ist, listet die Tabelle nicht jede Folge, sondern gruppiert nach Handlungsbogen und nennt nur die Folgen, in denen Poe **als Figur** etwas Eigenes tut oder die Reihe an den Kosmos anschließt.
+Poe ist im Vault auf **41 Folgen-Seiten** verlinkt (alle 36 Folgen der Hauptreihe, die 4 Blitz-Folgen, dazu [[wiki/folgen/irene-adler-06-licht-und-schatten|IADK 6]]). Weil er in seiner Reihe durchgehend präsent ist, listet die Tabelle nicht jede Folge (die stehen unter [[#Vollständige Auftrittsliste]]), sondern gruppiert nach Handlungsbogen und nennt nur die Folgen, in denen Poe **als Figur** etwas Eigenes tut oder die Reihe an den Kosmos anschließt.
 
 | Block / Bogen | Schlüsselfolgen | Poes Rolle |
 |---|---|---|
@@ -46,6 +46,54 @@ Poe ist im Vault auf **41 Folgen-Seiten** verlinkt (alle 36 Folgen der Hauptreih
 | Crossover-Gastauftritt | [[wiki/folgen/irene-adler-06-licht-und-schatten\|IADK 6 — Licht und Schatten]] (30.10.2020) | Erste Zusammenarbeit Adler × Poe/Dupin; [[wiki/figuren/mycroft-holmes\|Mycroft Holmes]] stellt Irene für Paris Poe und Dupin zur Seite |
 | Re-Release „Aus den Archiven" (2020, 12 Folgen) | Archiv 3 „Das Erbe der Familie Chambois", Archiv 10 „Femme Fatale", Archiv 12 „Die Klinik-Morde" — Liste auf [[wiki/serien/poe-und-dupin\|der Serienseite]] | Wiederveröffentlichte Dupin-Fälle aus [[wiki/konzepte/sherlock-holmes-und-co\|Sherlock Holmes & Co.]]; hier ausdrücklich „treuer Begleiter und Chronist", ringt in Archiv 10 mit dem Alkohol und verliebt sich, schleust sich in Archiv 12 als angeblicher Patient in eine Nervenklinik ein. *Keine eigenen Folgen-Seiten im Vault.* |
 
+### Vollständige Auftrittsliste
+
+Alle 41 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Erscheinungsdatum. Die Rollenangabe ist der jeweiligen Folgenseite entnommen; geplante Folgen sind markiert.
+
+| Folge | Rolle (laut Folgenseite) |
+|---|---|
+| [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel\|EAPAD 1 — Insel der tödlichen Rätsel]] (17.08.2018) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-03-die-toten-augen-von-paris\|EAPAD 3 — Die toten Augen von Paris]] (14.09.2018) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst\|EAPAD 2 — Im Bann der Angst]] (21.09.2018) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-04-ein-leben-im-jenseits\|EAPAD 4 — Ein Leben im Jenseits]] (21.12.2018) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-05-der-fluch-des-falschen-koenigs\|EAPAD 5 — Der Fluch des falschen Königs]] (10.05.2019) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-06-im-kreise-der-roten-kutten\|EAPAD 6 — Im Kreise der roten Kutten]] (26.07.2019) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-07-der-tod-der-schwarzen-schafe\|EAPAD 7 — Der Tod der schwarzen Schafe]] (13.12.2019) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-08-im-schatten-der-guillotine\|EAPAD 8 — Im Schatten der Guillotine]] (07.02.2020) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-09-das-gestohlene-blut\|EAPAD 9 — Das gestohlene Blut]] (03.04.2020) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-10-die-strasse-der-drei-gesichter\|EAPAD 10 — Die Straße der drei Gesichter]] (15.05.2020) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/irene-adler-06-licht-und-schatten\|IADK 6 — Licht und Schatten]] (30.10.2020) | und **Auguste Dupin** — sind auf offizieller Figurenebene präsent |
+| [[wiki/folgen/poe-und-dupin-11-die-daemonen-des-auguste-dupin\|EAPAD 11 — Die Dämonen des Auguste Dupin]] (30.10.2020) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-12-in-den-katakomben-lauert-der-tod\|EAPAD 12 — In den Katakomben lauert der Tod]] (29.01.2021) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-13-die-aufnahmepruefung\|EAPAD 13 — Die Aufnahmeprüfung]] (14.05.2021) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-14-nachts-auf-der-seine\|EAPAD 14 — Nachts auf der Seine]] (13.08.2021) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-15-der-schrei-der-bestie\|EAPAD 15 — Der Schrei der Bestie]] (01.10.2021) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-16-schlagzeilen\|EAPAD 16 — Schlagzeilen]] (03.12.2021) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-17-entfesselter-wahn\|EAPAD 17 — Entfesselter Wahn]] (24.06.2022) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-18-die-rache-der-raubritter\|EAPAD 18 — Die Rache der Raubritter]] (09.09.2022) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-19-hochverrat\|EAPAD 19 — Hochverrat]] (17.02.2023) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-20-trojaner\|EAPAD 20 — Trojaner]] (05.05.2023) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-21-tod-eines-feindes\|EAPAD 21 — Tod eines Feindes]] (26.01.2024) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-22-der-plan-des-meisterdiebs\|EAPAD 22 — Der Plan des Meisterdiebs]] (05.04.2024) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-23-der-falsche-saphir\|EAPAD 23 — Der falsche Saphir]] (07.06.2024) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-24-draculas-urteil\|EAPAD 24 — Draculas Urteil]] (12.07.2024) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-25-das-goldene-kalb\|EAPAD 25 — Das goldene Kalb]] (04.10.2024) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-26-babel\|EAPAD 26 — Babel]] (25.10.2024) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-27-sodom-und-gomorrha\|EAPAD 27 — Sodom und Gomorrha]] (28.02.2025) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-28-die-letzte-bescherung\|EAPAD 28 — Die letzte Bescherung]] (25.04.2025) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-29-nebelgasse\|EAPAD 29 — Nebelgasse]] (27.06.2025) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-30-der-schneider-des-todes\|EAPAD 30 — Der Schneider des Todes]] (29.08.2025) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-31-der-blutbrunnen\|EAPAD 31 — Der Blutbrunnen]] (24.10.2025) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/oscar-wilde-und-poe-01-der-untergang-des-hauses-mackenzie\|WPO 1 — Der Untergang des Hauses Mackenzie]] (05.12.2025) | Autor und Ermittler |
+| [[wiki/folgen/poe-und-dupin-32-die-schicksalsuhr\|EAPAD 32 — Die Schicksalsuhr]] (05.12.2025) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/oscar-wilde-und-poe-02-atemlos\|WPO 2 — Atemlos]] (19.12.2025) | Autor und Ermittler |
+| [[wiki/folgen/oscar-wilde-und-poe-03-nimmermehr\|WPO 3 — Nimmermehr]] (02.01.2026) | Autor und Ermittler |
+| [[wiki/folgen/oscar-wilde-und-poe-04-die-ewig-liebenden\|WPO 4 — Die ewig Liebenden]] (16.01.2026) | Autor und Ermittler |
+| [[wiki/folgen/poe-und-dupin-33-der-letzte-tanz\|EAPAD 33 — Der letzte Tanz]] (13.02.2026) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-34-glorreiche-zeiten\|EAPAD 34 — Glorreiche Zeiten]] (10.04.2026) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-35-auf-der-jagd\|EAPAD 35 — Auf der Jagd]] (05.06.2026) | Titelfigur |
+| [[wiki/folgen/poe-und-dupin-36-aufstieg-und-fall\|EAPAD 36 — Aufstieg und Fall]] (31.07.2026) | Titelfigur |
+
 ## Beziehungen
 
 - [[wiki/figuren/auguste-dupin|Auguste Dupin]] — Ermittlungspartner, Freund und der Detektiv, dessen Fälle Poe als Chronist aufschreibt. Die Reihe zeigt beide als gleichberechtigtes Duo; Dupin liefert die Deduktion, Poe geht ins Feld.
@@ -59,7 +107,7 @@ Poe ist im Vault auf **41 Folgen-Seiten** verlinkt (alle 36 Folgen der Hauptreih
 - [[wiki/figuren/mata-hari|Mata Hari]], [[wiki/figuren/arsene-lupin|Arsène Lupin]] — Gegenspieler im Zirkel-Wettbewerb EAPAD 21–24; Mata Hari zusätzlich in der Blitz-Mini-Serie, dort zusammen mit [[wiki/figuren/rasputin|Rasputin]] und [[wiki/figuren/theodora-sachs|Theodora Sachs]].
 - [[wiki/figuren/georges-lorant|Georges Lorant]] — tritt in [[wiki/folgen/poe-und-dupin-36-aufstieg-und-fall|EAPAD 36]] an Poe und Dupin heran. Erscheint in [[wiki/folgen/poe-und-dupin-33-der-letzte-tanz|EAPAD 33]] als „George Lorant" — Schreibweise noch nicht abgeglichen.
 - **Monsieur G.** — Pariser Polizeipräfekt, wiederkehrende Amtsperson und Auftraggeber (EAPAD 3, 4, 12); Verhältnis wechselt zwischen Zusammenarbeit und Konkurrenz. *Noch keine eigene Figuren-Seite.*
-- **Vidocq** — konkurrierender Detektiv in [[wiki/folgen/poe-und-dupin-10-die-strasse-der-drei-gesichter|EAPAD 10]], gegen den Poe auf eigene Rechnung ermittelt. *Noch keine eigene Figuren-Seite.*
+- [[wiki/figuren/vidocq|Vidocq]] — konkurrierender Detektiv in [[wiki/folgen/poe-und-dupin-10-die-strasse-der-drei-gesichter|EAPAD 10]], gegen den Poe auf eigene Rechnung ermittelt.
 
 ## Bezug zum Zirkel der Sieben
 

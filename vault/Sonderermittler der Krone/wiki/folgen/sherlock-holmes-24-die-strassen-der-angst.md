@@ -80,7 +80,7 @@ tags:
 - [[wiki/figuren/abraham-van-helsing|Abraham Van Helsing]] und [[wiki/figuren/jonathan-harker|Jonathan Harker]] — in Transsylvanien, ihre Nachricht wird erwartet.
 - [[wiki/figuren/aleister-crowley|Aleister Crowley]] und [[wiki/figuren/theodora-sachs|Theodora Sachs]] — in der Sprecherliste geführt.
 - [[wiki/figuren/allison|Pater Allison]] — die aus [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho|SH 23]] bekannte Figur bleibt besetzt.
-- Inspector Cross — wiederkehrende Reihenfigur, noch ohne eigene Seite.
+- [[wiki/figuren/cross|Inspector Cross]] — wiederkehrende Reihenfigur, in der Sprecherliste geführt.
 
 ## Handlung (grob)
 

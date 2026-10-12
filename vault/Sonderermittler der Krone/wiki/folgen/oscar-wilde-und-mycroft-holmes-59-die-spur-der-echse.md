@@ -17,6 +17,16 @@ sprecher:
     name: Dietmar Wunder
   - rolle: Professor Ross Hutton
     name: Jörg Pintsch
+  - rolle: Joy Bridges
+    name: Joana Schümer
+  - rolle: Terry Bridges
+    name: Felix Strüven
+  - rolle: Charles Yates
+    name: Romanus Fuhrmann
+  - rolle: Albert Walton
+    name: Tim Knauer
+  - rolle: Edgar Newman
+    name: Florian Clyde
 spielzeit_min: 52
 zirkel: indirekt
 crossover_mit:
@@ -27,6 +37,7 @@ quellen:
   - raw/notes/2026-09-06_neue-folgen-scout_september-2026.md
   - raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge59-die-spur-der-echse/
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
 tags:
   - sonderermittler
   - maritim
@@ -43,6 +54,7 @@ tags:
 - **Spielzeit:** 52 Minuten laut offizieller Folgenseite (Audiolibrix: 51 Minuten — geringe Abweichung).
 - **Verlag:** Maritim (Label Highscore Music).
 - **Autorin:** Silke Walter (Handelsangabe Audiolibrix).
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Theodora Sachs – Gabrielle Pietermann, Dr. Victor Frankenstein – Dietmar Wunder, Professor Ross Hutton – Jörg Pintsch, Joy Bridges – Joana Schümer, Terry Bridges – Felix Strüven, Charles Yates – Romanus Fuhrmann, Albert Walton – Tim Knauer, Edgar Newman – Florian Clyde. Rollen laut Verlagsvorschau im Hörspieltalk-Thread 31589 (für die Rollen Einzelquelle), alle 10 Namen zusätzlich durch Audible und Audiolibrix bestätigt.
 - **Schauplatz:** London und eine irische Insel.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge59-die-spur-der-echse/>
 
@@ -81,3 +93,4 @@ tags:
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge59-die-spur-der-echse/>
 - Audiolibrix (Autorin, Sprecher, Laufzeit): <https://www.audiolibrix.de/de/Directory/Book/183800/Hoerbuch-Oscar-Wilde-Mycroft-Holmes-Sonderermittler-der-Krone-Folge-59-Die-Spur-der-Echse-Silke-Walter>
 - Hörspieltalk: <https://www.xn--hrspieltalk-rfb.de/forum/thread/31589-oscar-wilde-mycroft-holmes-59-die-spur-der-echse/>
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Besetzung OWMH 45–60 (Audible, Hörspieltalk, Raute Media, Fanseiten-Figurenseiten; 12.10.2026).

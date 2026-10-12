@@ -6,7 +6,15 @@ titel: Zwietracht
 erschienen: 2026-05-15
 verlag: Maritim
 autor: "Silke Walter"
-sprecher: []
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Dr. Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Inspector Stafford
+    name: Björn Schalla
 spielzeit_min: 53
 zirkel: direkt
 crossover_mit:
@@ -19,6 +27,7 @@ quellen:
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge57-zwietracht/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
 tags:
   - hauptserie
   - sonderermittler
@@ -35,6 +44,7 @@ tags:
 - **Spielzeit:** 53 Minuten.
 - **Verlag:** Maritim (Produktion Holysoft).
 - **Autor:in:** noch nicht im Repo verifiziert.
+- **Sprecher (Auswahl):** Oscar Wilde – Sascha Rotermund, Irene Adler – Yvonne Greitzke, Dr. Victor Frankenstein – Dietmar Wunder, Inspector Stafford – Björn Schalla. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite (Inspector Stafford: Fandom OWMH 41 und Rollenliste OWMH 58), Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Sascha Rotermund, Reent Reins, Yvonne Greitzke, Björn Schalla, Gabrielle Pietermann, Dietmar Wunder, Urs Remond, Karen Schulz-Vobach, Mathias Renneisen, Manja Doering, Stefan Brönneke, Ilona Otto, Robert Louis Griesbach (Audible).
 - **Schauplatz:** London, Themse.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge57-zwietracht/>
 
@@ -73,3 +83,4 @@ tags:
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge57-zwietracht/>
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche-Notiz.
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update (Titel-Listung).
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Besetzung OWMH 45–60 (Audible, Hörspieltalk, Raute Media, Fanseiten-Figurenseiten; 12.10.2026).

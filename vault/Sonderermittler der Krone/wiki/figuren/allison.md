@@ -21,6 +21,7 @@ tags:
 ## Auftritte
 
 - [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho|SH 23 — Der Wiedergänger von Soho]] (09.10.2026) — wurde in der Nacht vor dem Fallbeginn angegriffen. Seine Haushälterin [[wiki/figuren/kirk|Miss Kirk]] meldet es in der Baker Street; sie sah die dunkle Gestalt fliehen.
+- [[wiki/folgen/sherlock-holmes-24-die-strassen-der-angst|SH 24 — Die Straßen der Angst]] (geplant, 04.12.2026) — die aus [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho|SH 23]] bekannte Figur bleibt besetzt
 
 ## Beziehungen
 

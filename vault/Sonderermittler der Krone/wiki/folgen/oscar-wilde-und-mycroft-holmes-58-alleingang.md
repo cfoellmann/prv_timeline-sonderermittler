@@ -6,7 +6,35 @@ titel: Alleingang
 erschienen: 2026-07-10
 verlag: Maritim
 autor: "Silke Walter"
-sprecher: []
+sprecher:
+  - rolle: Oscar Wilde
+    name: Sascha Rotermund
+  - rolle: Mycroft Holmes
+    name: Reent Reins
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Dr. John Watson
+    name: Florian Halm
+  - rolle: Inspector Stafford
+    name: Björn Schalla
+  - rolle: Theodora Sachs
+    name: Gabrielle Pietermann
+  - rolle: Dr. Victor Frankenstein
+    name: Dietmar Wunder
+  - rolle: Ken Bartlett
+    name: Mathias Renneisen
+  - rolle: Grant Pace
+    name: Urs Remond
+  - rolle: Kelly Page
+    name: Julia Casper
+  - rolle: Vincent Lane
+    name: Brian Sommer
+  - rolle: Wächter
+    name: Jean Coppong
+  - rolle: Wächter
+    name: Janis Zaurins
+  - rolle: Rezeptionistin
+    name: Christin Marquitan
 spielzeit_min: 52
 zirkel: direkt
 crossover_mit:
@@ -19,6 +47,7 @@ quellen:
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge58-alleingang/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
 tags:
   - hauptserie
   - sonderermittler
@@ -35,6 +64,7 @@ tags:
 - **Spielzeit:** 52 Minuten.
 - **Verlag:** Maritim (Produktion Holysoft).
 - **Autor:in:** noch nicht im Repo verifiziert.
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Mycroft Holmes – Reent Reins, Irene Adler – Yvonne Greitzke, Dr. John Watson – Florian Halm, Inspector Stafford – Björn Schalla, Theodora Sachs – Gabrielle Pietermann, Dr. Victor Frankenstein – Dietmar Wunder, Ken Bartlett – Mathias Renneisen, Grant Pace – Urs Remond, Kelly Page – Julia Casper, Vincent Lane – Brian Sommer, Wächter – Jean Coppong, Wächter – Janis Zaurins, Rezeptionistin – Christin Marquitan. Rollen laut Verlagsvorschau im Hörspieltalk-Thread 31328 (für die Rollen Einzelquelle; die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten), alle 14 Namen zusätzlich durch Audible bestätigt.
 - **Schauplatz:** London, Themse.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge58-alleingang/>
 
@@ -70,3 +100,4 @@ tags:
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge58-alleingang/>
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche-Notiz.
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update (Datum, Spielzeit).
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Besetzung OWMH 45–60 (Audible, Hörspieltalk, Raute Media, Fanseiten-Figurenseiten; 12.10.2026).

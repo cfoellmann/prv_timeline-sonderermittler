@@ -14,6 +14,7 @@ quellen:
   - raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md
   - raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
+  - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
 tags:
   - nebenfigur
   - owmh
@@ -28,7 +29,7 @@ tags:
 ## Eckdaten
 
 - **Erstauftritt:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-02-finsteres-hochland|OWMH 2 — Finsteres Hochland]] (11.03.2016) laut Löchel-Chronologie und Fandom-Besetzung. Die Fandom-Seite zu OWMH 5 nennt abweichend „Kalter Fels" als ersten Auftritt — widerspricht der eigenen Besetzungstabelle zu OWMH 2.
-- **Sprecher:** Jaron Löwenberg — in OWMH 2–26 rollengenau belegt (Fandom-Besetzungstabellen, elf Folgen). Für DNAPF und WMU nennt Audible ihn in der Besetzung, aber **ohne Rollenzuordnung**.
+- **Sprecher:** Jaron Löwenberg — in OWMH 2–26 rollengenau belegt (Fandom-Besetzungstabellen, elf Folgen). Für DNAPF und WMU nennt Audible ihn in der Besetzung, aber **ohne Rollenzuordnung**; die CD-Listen von Raute Media zu DNAPF 39 und 42 und die Verlagsvorschau zu WMU 1 (Hörspieltalk) ebenso. In den Besetzungslisten OWMH 45–60 fehlt er (Prüfung 12.10.2026).
 - **Beruf:** „der Jäger Hawthorn" (Klappentexte DNAPF 39, 43), „der Großwildjäger Hawthorn" (Klappentext WMU 1).
 - **Schreibweise:** Fanseite und Fandom führen ab OWMH 24 auch „Abel Hawthorne"; DNAPF 40 schreibt „Abel Hawthorn". Hier als Alias geführt.
 - **Reihen:** [[wiki/serien/oscar-wilde-und-mycroft-holmes]], [[wiki/serien/phileas-fogg]], [[wiki/serien/wilde-mycroft-ungeloeste]].
@@ -76,12 +77,14 @@ tags:
   4. gemeinsamer Kosmos — Wilde und Mycroft Holmes treten im selben Block auf (DNAPF 39, 41, 42).
   Gegenbelege: keine. Als „belegt" gilt die Identität erst, wenn eine Besetzungsliste mit Rollen (Booklet, Verlagsseite) für DNAPF 39–43 oder WMU 1 „Abel Hawthorn — Jaron Löwenberg" nennt.
 - **Hawthorn auch in DNAPF 38 und 44?** Siehe oben; Indizien, kein Klappentextbeleg.
-- **Spätere OWMH-Folgen:** In den Fandom-Besetzungen OWMH 27–44 fehlt er; für OWMH 45–60 gibt es dort keine Einzelseiten, daher ungeprüft.
+- **Spätere OWMH-Folgen:** In den Fandom-Besetzungen OWMH 27–44 fehlt er. **OWMH 45–60 geprüft (12.10.2026): kein Auftritt.** Jaron Löwenberg steht in keiner Sprecherliste dieser Folgen — weder bei Audible noch in den vollständigen Listen von Hörspieltalk und Raute Media (52–56) noch in den Rollenlisten 58–60 —, und kein Klappentext 45–60 nennt Hawthorn. Einschränkung: Audible kürzt auf 15 Namen; für 45–50 und 57 gibt es keine zweite, vollständige Liste, die Audible-Listen enden dort aber mit der Ansage bzw. haben weniger als 15 Namen. Nach OWMH 26 taucht er damit erst wieder im Afrika-Block der Fogg-Reihe (2024) und in WMU 1 (2026) auf.
 - **Funktion im Krone-Umfeld:** Ermittler, Kontaktmann oder freier Begleiter Wildes? Aus den Klappentexten nicht ableitbar.
 
 ## Quellen
 
 - [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Volltextsuche aller Fanseiten-Folgenseiten, Fandom-Besetzungstabellen OWMH 1–44, Audible-Sprecherlisten DNAPF 37–44 und WMU 1.
+- [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Besetzungslisten OWMH 45–60 (Audible, Hörspieltalk, Raute Media): kein Jaron Löwenberg, kein Hawthorn im Klappentext.
+- [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — Raute-Media-CD-Listen DNAPF 42 (mit Jaron Löwenberg), Hörspieltalk WMU 1.
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Erstauftritt OWMH 2.
 - [raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md](../../raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md) — Folgen-Kontext OWMH 2.
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — Klappentext-Paraphrase OWMH 24.

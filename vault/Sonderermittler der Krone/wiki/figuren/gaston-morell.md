@@ -30,8 +30,11 @@ Gaston Morell ist das siebte und letzte Mitglied, das in den Zirkel aufgenommen 
 
 ### Edgar Allan Poe & Auguste Dupin
 
-- **EAPAD 1 – Insel der tödlichen Rätsel** (17.08.2018) — Erstauftritt
-- **EAPAD 13 – Aufnahmeprüfung** — Aufnahme als 7. Mitglied in den Zirkel der Sieben
+- [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel|EAPAD 1 – Insel der tödlichen Rätsel]] (17.08.2018) — Erstauftritt
+- [[wiki/folgen/poe-und-dupin-13-die-aufnahmepruefung|EAPAD 13 – Die Aufnahmeprüfung]] (14.05.2021) — Aufnahme als 7. Mitglied in den Zirkel der Sieben
+- [[wiki/folgen/poe-und-dupin-14-nachts-auf-der-seine|EAPAD 14 – Nachts auf der Seine]] (13.08.2021) — erwähnt; eine neue Wunderdroge weckt sein Interesse und das seiner Verbündeten
+- [[wiki/folgen/poe-und-dupin-17-entfesselter-wahn|EAPAD 17 – Entfesselter Wahn]] (24.06.2022) — plant die Befreiung des wahnsinnigen Professor Deragon, um eine Massenvernichtungswaffe zu erschaffen
+- [[wiki/folgen/poe-und-dupin-21-tod-eines-feindes|EAPAD 21 – Tod eines Feindes]] (26.01.2024) — laut Folgenseite Tod der Figur; [[wiki/figuren/dracula|Dracula]] sucht danach einen Kandidaten für den freien Zirkel-Posten
 
 ## Bedeutung für den Kosmos
 
