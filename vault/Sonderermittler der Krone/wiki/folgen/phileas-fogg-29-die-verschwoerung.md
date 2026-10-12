@@ -7,6 +7,8 @@ erschienen: 2021-11-12
 verlag: Maritim
 autor: "Marc Freund"
 sprecher:
+  - rolle: Erzähler (Jules Verne)
+    name: Christian Brückner
   - rolle: Phileas Fogg
     name: Sascha Draeger
 spielzeit_min: 64
@@ -37,7 +39,7 @@ tags:
 - **Erscheinungsdatum:** 12.11.2021 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 64 Minuten.
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
-- **Sprecher (Auswahl):** Phileas Fogg – Sascha Draeger. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Reent Reins, Sina Zadra, Volker Brandt, Helmut Gauß, Kim Hasper, Werner Wilkening, Stefan Krause, Felix Strüven, Uwe Büschken, Dirc Simpson, Peter Kirchberger, Janis Zaurins, Alexander Turrek (DNB-Katalog der Digitalausgabe, Audible).
+- **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Reent Reins, Sina Zadra, Volker Brandt, Helmut Gauß, Kim Hasper, Werner Wilkening, Stefan Krause, Felix Strüven, Uwe Büschken, Dirc Simpson, Peter Kirchberger, Janis Zaurins, Alexander Turrek (DNB-Katalog der Digitalausgabe, Audible). Erzähler (Jules Verne) – Christian Brückner nachgetragen am 12.10.2026 (Entscheidung Christian): Brückner steht in allen Sprecherlisten DNAPF 1–50 und ist laut DNB-Titelangabe der CDs DNAPF 1–7 und 9–18 sowie der Verlagsmitteilung zur Stammbesetzung (2015) Erzähler der Reihe; ebenfalls abgeleitet.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge29-die-verschwoerung/>
 

@@ -10,8 +10,6 @@ autor: "Marc-Oliver Bischoff"
 sprecher:
   - rolle: Irene Adler
     name: Yvonne Greitzke
-  - rolle: Mycroft Holmes
-    name: Reent Reins
   - rolle: Mister Wu
     name: Michael Pan
   - rolle: Cora Spencer
@@ -69,7 +67,7 @@ tags:
 - **Autor:in:** Marc-Oliver Bischoff (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Autor:** Marc-Oliver Bischoff.
-- **Sprecher:** Irene Adler – Yvonne Greitzke, Mycroft Holmes – Reent Reins, Mister Wu – Michael Pan, Cora Spencer – Andrea Aust, Eva – Magdalena Höfner, Adam Bergman – Tammo Kaulbarsch, Inspektor McMullan – Thomas Nero Wolff, Danny Doyle – Sebastian Fitzner, Amanda Doyle – Dorothea Lott, Rupert Pearson – André Beyer, Guiseppe Pagani – Volker Brandt, George Turner – Dirc Simpson, Johnny Briggs – Felix Strüven, Montgomery Harding – Detlef Tams, Rosie – Sina Zadra, Barnes – Alexander Turrek, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (sherlockholmes.fandom.com/de; für die Nebenrollen Einzelquelle, die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Namen durch Raute Media (CD) bestätigt — **außer Reent Reins**: Die Raute-Liste (16 Namen) führt ihn nicht, Audible nennt für diese Folge keine Sprecher. Mycroft Holmes – Reent Reins ist damit nur durch Fandom belegt; Widerspruch offen.
+- **Sprecher:** Irene Adler – Yvonne Greitzke, Mister Wu – Michael Pan, Cora Spencer – Andrea Aust, Eva – Magdalena Höfner, Adam Bergman – Tammo Kaulbarsch, Inspektor McMullan – Thomas Nero Wolff, Danny Doyle – Sebastian Fitzner, Amanda Doyle – Dorothea Lott, Rupert Pearson – André Beyer, Guiseppe Pagani – Volker Brandt, George Turner – Dirc Simpson, Johnny Briggs – Felix Strüven, Montgomery Harding – Detlef Tams, Rosie – Sina Zadra, Barnes – Alexander Turrek, Ansage – Lutz Mackensy. Rollen laut Besetzungstabelle des Fandom-Wikis (sherlockholmes.fandom.com/de; für die Nebenrollen Einzelquelle, die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Namen durch Raute Media (CD) bestätigt — **außer Reent Reins**: Die Raute-Liste (16 Namen) führt ihn nicht, Audible nennt für diese Folge keine Sprecher. Mycroft Holmes – Reent Reins ist damit nur durch Fandom belegt und deshalb **nicht eingetragen** (Entscheidung Christian 12.10.2026, wie OWMH 42/43); ob Reins in dieser Folge mitspricht, bleibt **offen**.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge05-schlag-auf-schlag/>
 
 ## Hauptfiguren

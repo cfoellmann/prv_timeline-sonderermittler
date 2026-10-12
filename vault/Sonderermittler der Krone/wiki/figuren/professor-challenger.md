@@ -24,7 +24,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecher:** Konstantin Graudus — rollengenau in den Rollenlisten der Verlagsvorschau zu [[wiki/folgen/wilde-mycroft-ungeloeste-04-das-buch-des-grauens|WMU 4]] (Hörspieltalk 30926, „Professor George Edward Challenger“) und zu NEM 3 und 4 (Hörspieltalk 29995, 29996). Graudus steht in allen Sprecherlisten DNAPF 38–44; dort seit 12.10.2026 als abgeleitet eingetragen. Eine Fanseiten-Figurenseite gibt es nicht.
+- **Sprecher:** Konstantin Graudus — rollengenau in den Rollenlisten der Verlagsvorschau zu [[wiki/folgen/wilde-mycroft-ungeloeste-04-das-buch-des-grauens|WMU 4]] (Hörspieltalk 30926, „Professor George Edward Challenger“) und zu NEM 3 und 4 (Hörspieltalk 29995, 29996). Graudus steht in allen Sprecherlisten DNAPF 38–44; dort seit 12.10.2026 als abgeleitet eingetragen. Eine Fanseiten-Figurenseite gibt es nicht. Der Stammsprecher-Beleg über Rollenlisten anderer Folgen ist als Ausnahme der Ableitungsregel bestätigt (Entscheidung Christian 12.10.2026).
 
 ## Auftritte
 

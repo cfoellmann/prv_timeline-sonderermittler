@@ -17,6 +17,14 @@ sprecher:
     name: Sascha Rotermund
   - rolle: Mr. Killjoy
     name: Matti Klemm
+  - rolle: Dracula
+    name: Torsten Michaelis
+  - rolle: Irene Adler
+    name: Yvonne Greitzke
+  - rolle: Mr. Wu
+    name: Michael Pan
+  - rolle: James Moriarty
+    name: Andreas Fröhlich
 spielzeit_min: 62
 zirkel: direkt
 crossover_mit:
@@ -49,7 +57,7 @@ tags:
 - **Erscheinungsdatum:** 02.02.2024 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 62 Minuten
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
-- **Sprecher (Auswahl):** Victor Frankenstein – Dietmar Wunder, Robur – Milton Welsh, Theodora Sachs – Gabrielle Pietermann, Oscar Wilde – Sascha Rotermund, Mr. Killjoy – Matti Klemm. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Dietmar Wunder, Gabrielle Pietermann, Milton Welsh, Sascha Rotermund, Douglas Welbat, Hans-Jürgen Dittberner, Andrea Aust, Janis Zaurins, Matti Klemm, Dagmar Dempe, Manuel Straube, Reinhard Scheunemann, Jörg Pintsch, Lutz Mackensy (DNB; identisch bei Audible). **Widerspruch:** DNB und Audible führen für diese Folge exakt die Liste von FRANK 9; Raute Media nennt stattdessen: Dietmar Wunder, Milton Welsh, Gabrielle Pietermann, Torsten Michaelis, Yvonne Greitzke, Michael Pan, Sascha Rotermund, Douglas Welbat, Matti Klemm, Andreas Fröhlich, Sebastian Winkler, Kaspar Eichel, Christian Rudolf, Christian Dabeler, Till Hagen, Lutz Mackensy. Dracula, Irene Adler, Mr. Wu und James Moriarty (Figurenliste der Fanseite) sind deshalb nicht zugeordnet.
+- **Sprecher (Auswahl):** Victor Frankenstein – Dietmar Wunder, Robur – Milton Welsh, Theodora Sachs – Gabrielle Pietermann, Oscar Wilde – Sascha Rotermund, Mr. Killjoy – Matti Klemm, Dracula – Torsten Michaelis, Irene Adler – Yvonne Greitzke, Mr. Wu – Michael Pan, James Moriarty – Andreas Fröhlich. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der vollständigen Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Dietmar Wunder, Milton Welsh, Gabrielle Pietermann, Torsten Michaelis, Yvonne Greitzke, Michael Pan, Sascha Rotermund, Douglas Welbat, Matti Klemm, Andreas Fröhlich, Sebastian Winkler, Kaspar Eichel, Christian Rudolf, Christian Dabeler, Till Hagen, Lutz Mackensy (Raute Media, CD). **Katalogfehler DNB/Audible:** DNB und Audible führen für diese Folge exakt die Liste von [[wiki/folgen/frankenstein-09-neuanfang|FRANK 9]] in derselben Reihenfolge (Dietmar Wunder, Gabrielle Pietermann, Milton Welsh, Sascha Rotermund, Douglas Welbat, Hans-Jürgen Dittberner, Andrea Aust, Janis Zaurins, Matti Klemm, Dagmar Dempe, Manuel Straube, Reinhard Scheunemann, Jörg Pintsch, Lutz Mackensy). Maßgeblich ist deshalb die Raute-Media-Liste, die zur Figurenliste der Fanseite passt (Entscheidung Christian 12.10.2026); bis dahin waren Dracula, Irene Adler, Wu und Moriarty nicht zugeordnet.
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge12-erweckung/>
 

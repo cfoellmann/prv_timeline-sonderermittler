@@ -7,14 +7,14 @@ erschienen: 2026-08-14
 verlag: Blitz Verlag
 autor: Silke Walter
 sprecher:
+  - rolle: Nikola Tesla
+    name: Patrick Winczewski
   - rolle: James Moriarty
     name: Andreas Fröhlich
   - rolle: Theodora Sachs
     name: Gabrielle Pietermann
   - rolle: Aleister Crowley
     name: Daniel Zillmann
-  - rolle: Nikola Tesla
-    name: David Turba
 spielzeit_min: 50
 zirkel: direkt
 crossover_mit:
@@ -26,6 +26,7 @@ quellen:
   - raw/notes/2026-09-06_neue-folgen-scout_september-2026.md
   - raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md
   - https://www.sonderermittler-der-krone.de/serien/tesla/folge09-traumgespinst/
+  - raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md
 tags:
   - sonderermittler
   - blitz
@@ -41,7 +42,8 @@ tags:
 - **Erscheinungsdatum:** 14.08.2026 — am 06.09.2026 durch Deezer bestätigt (UPC 4071498747377, Label Blitz Verlag).
 - **Spielzeit:** 50 Minuten (Handelsangabe an anderer Stelle 50:21).
 - **Verlag:** Blitz Verlag.
-- **Autorin:** Silke Walter (Handelsangabe Audiolibrix).
+- **Autorin:** Silke Walter (Handelsangabe Audiolibrix; DNB-CD-Satz „Dialogbuch: Silke Walter“).
+- **Sprecher (Auswahl):** Nikola Tesla – Patrick Winczewski, James Moriarty – Andreas Fröhlich, Theodora Sachs – Gabrielle Pietermann, Aleister Crowley – Daniel Zillmann. *Nikola Tesla laut DNB-Katalogeintrag der CD (MARC 245 $c „Nikola Tesla Patrick Winczewski“, ISBN 978-3-86212-934-8), Stammsprecher laut Fanseiten-Figurenseite.* *Übrige Rollen abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Liste ohne Rollen: Patrick Winczewski, Gabrielle Pietermann (Audible, Feld „Autor“), Andreas Fröhlich, Gabrielle Pietermann, Daniel Zillmann, David Turba (Audible, Feld „Sprecher“; ebenso Audiolibrix und Storytel, dort ohne die Namen aus dem Autorenfeld). David Turba ohne belegte Rolle; eine vollständige Sprecherliste (Raute Media) ist nicht veröffentlicht.
 - **Schauplatz:** London und ein abgelegenes Dorf in Italien.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/tesla/folge09-traumgespinst/>
 
@@ -70,6 +72,8 @@ tags:
 
 ## Theorien & offene Fragen
 
+- **Tesla-Sprecher geklärt (12.10.2026):** Bis zum 12.10.2026 stand hier „Nikola Tesla – David Turba“. Das war eine Zuordnung per Ausschluss: Audiolibrix nennt vier Sprecher für die vier Figuren der Fanseite, Winczewski fehlt dort, weil er – wie bei TES 3–8 – nur im Audible-Feld „Autor“ geführt wird. DNB (CD), Fanseiten-Figurenseite und Audible-Autorenfeld belegen Winczewski; eine Umbesetzung ist nirgends belegt. Welche Rolle David Turba spricht, nennt keine Quelle — auch nicht einen jungen Tesla (Beleg: [Rohdaten](../../raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md)).
+
 - Die „Familie, die nicht altert" und der Verdacht auf **Menschmaschinen** greifen den Eva-/Menorium-Komplex der Adler-Reihe auf ([[wiki/konzepte/menorium|Menorium]], [[wiki/figuren/eva|Eva]]). Ob es sich um dasselbe Programm handelt, ist **nicht belegt** — die Nähe der Motive ist aber auffällig.
 - Das unbemannte Flugobjekt ist im Kosmos das bislang deutlichste Anachronismus-Motiv der Tesla-Reihe; es bleibt offen, ob es später doch gebaut wird.
 
@@ -78,4 +82,5 @@ tags:
 - [raw/notes/2026-09-06_neue-folgen-scout_september-2026.md](../../raw/notes/2026-09-06_neue-folgen-scout_september-2026.md) — Recherchenotiz mit Klappentext und Sprecherliste.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/tesla/folge09-traumgespinst/>
 - Audiolibrix (Autorin, Sprecher, Laufzeit): <https://www.audiolibrix.de/en/Directory/Book/183750/Hoerbuch-Tesla-Folge-9-Traumgespinst-Silke-Walter>
+- [raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md) — Besetzungsklärung 12.10.2026 (DNB-CD-Satz, Audible, Audiolibrix, Storytel, Fanseite).
 - [raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md](../../raw/notes/2026-09-06_neue-folgen-scout_nachfass-widersprueche.md) — Gegenprüfung über die Deezer-API (Album 1044825912): 2026-08-14, UPC 4071498747377.

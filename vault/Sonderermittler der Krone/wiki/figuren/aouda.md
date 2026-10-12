@@ -26,7 +26,7 @@ tags:
 - **Rolle:** Phileas Foggs Ehefrau und Begleiterin
 - **Fraktion:** Helden
 - **Hauptserie:** [[wiki/serien/phileas-fogg|Jules Verne – Die neuen Abenteuer des Phileas Fogg]]
-- **Sprecherin:** Annina Braunmiller-Jest — laut Verlagsmitteilung zur Stammbesetzung der Fogg-Reihe (2015, „Aouda Fogg“) und den Rollenlisten DNAPF 1, 7, 8. Die DNB schreibt bis DNAPF 8 „Annina Braunmiller“, ab DNAPF 9 „Annina Braunmiller-Jest“ (dieselbe Sprecherin, im Vault einheitlich mit Doppelnamen). Eine Fanseiten-Figurenseite gibt es nicht; die abgeleiteten Einträge in DNAPF 2–50 stützen sich deshalb auf die Verlagsmitteilung statt auf eine Figurenseite — Regel-Ausnahme, Bestätigung offen ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 6]]).
+- **Sprecherin:** Annina Braunmiller-Jest — laut Verlagsmitteilung zur Stammbesetzung der Fogg-Reihe (2015, „Aouda Fogg“) und den Rollenlisten DNAPF 1, 7, 8. Die DNB schreibt bis DNAPF 8 „Annina Braunmiller“, ab DNAPF 9 „Annina Braunmiller-Jest“ (dieselbe Sprecherin, im Vault einheitlich mit Doppelnamen). Eine Fanseiten-Figurenseite gibt es nicht; die abgeleiteten Einträge in DNAPF 2–50 stützen sich deshalb auf die Verlagsmitteilung statt auf eine Figurenseite — als Ausnahme der Ableitungsregel bestätigt (Entscheidung Christian 12.10.2026, [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 6]]).
 
 ## Charakterisierung
 

@@ -7,6 +7,8 @@ erschienen: 2022-06-24
 verlag: Maritim
 autor: "Marc Freund"
 sprecher:
+  - rolle: Erzähler (Jules Verne)
+    name: Christian Brückner
   - rolle: Phileas Fogg
     name: Sascha Draeger
   - rolle: Aouda
@@ -44,7 +46,7 @@ tags:
 - **Erscheinungsdatum:** 24.06.2022 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 67 Minuten.
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
-- **Sprecher (Auswahl):** Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Passepartout – Marius Clarén, Mycroft Holmes – Reent Reins. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Reent Reins, Yvonne Greitzke, Torsten Michaelis, Sina Zadra, Helmut Gauß, Dirc Simpson, Peter Kirchberger, Tobias Lelle, Volker Brandt, Susanne Meikl (DNB-Katalog der Digitalausgabe, Audible).
+- **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Passepartout – Marius Clarén, Mycroft Holmes – Reent Reins. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Reent Reins, Yvonne Greitzke, Torsten Michaelis, Sina Zadra, Helmut Gauß, Dirc Simpson, Peter Kirchberger, Tobias Lelle, Volker Brandt, Susanne Meikl (DNB-Katalog der Digitalausgabe, Audible). Erzähler (Jules Verne) – Christian Brückner nachgetragen am 12.10.2026 (Entscheidung Christian): Brückner steht in allen Sprecherlisten DNAPF 1–50 und ist laut DNB-Titelangabe der CDs DNAPF 1–7 und 9–18 sowie der Verlagsmitteilung zur Stammbesetzung (2015) Erzähler der Reihe; ebenfalls abgeleitet.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge32-abrechnung/>
 

@@ -14,6 +14,7 @@ quellen:
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md
 tags:
   - hauptfigur
   - crossover
@@ -129,7 +130,7 @@ Alle 41 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - **Story-Chronologie fehlt komplett:** Keine einzige Poe-Folge hat in `app/data/folgen.json` ein Story-Jahr (`story_praezision: unbekannt` durchgängig). Wann Poes Fälle relativ zu den Londoner Linien spielen, ist offen — auch das Verhältnis von DNAPF 5 (2016 erschienen) zum Serienstart 2018.
 - **„Eine alte Bekannte von Edgar Allan Poe"** in [[wiki/folgen/poe-und-dupin-15-der-schrei-der-bestie|EAPAD 15]] ist im Repo nicht identifiziert. Ob es Sandrine aus Archiv-Folge 10 ist, ist **reine Spekulation**.
 - **Poes „alter Intimfeind"** aus [[wiki/folgen/poe-und-dupin-10-die-strasse-der-drei-gesichter|EAPAD 10]] und der „alte Feind" aus [[wiki/folgen/poe-und-dupin-11-die-daemonen-des-auguste-dupin|EAPAD 11]] werden in den Klappentexten nicht benannt. Ob dahinter Gaston Morell steht, ist offen.
-- **Sprecher (aktualisiert 12.10.2026):** Gesprochen von Uve Teschner (Fanseiten-Figurenseite, Fandom, Rezension EAPAD 1), siehe Eckdaten; Douglas Welbat ist Erzähler der Maritim-Reihe. Für die Blitz-Folgen bleibt der Poe-Sprecher unbekannt.
+- **Sprecher (aktualisiert 12.10.2026):** Gesprochen von Uve Teschner (Fanseiten-Figurenseite, Fandom, Rezension EAPAD 1), siehe Eckdaten; Douglas Welbat ist Erzähler der Maritim-Reihe. Auch in den Blitz-Folgen OWEP 1–4 spricht ihn Uve Teschner — abgeleitet aus der Audible-Liste je Folge, dazu ein Höreindruck im Hörspieltalk zu Folge 1 ([Rohdaten](../../raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md), Quellen-Scout 12.10.2026).
 - **Wilde-&-Poe-Einordnung:** Wie sich die Blitz-Mini-Serie zur Maritim-Hauptreihe verhält (parallel, davor, danach), ist im Repo nicht belegt.
 
 ## Quellen
@@ -143,3 +144,4 @@ Alle 41 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK und EAPAD: Fandom-Rollentabellen IADK 0–15, Fanseite, Raute Media, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md) — Besetzung TES 9 und OWEP 1–4 (DNB, Audible, Storytel, Raute Media, Fanseite; 12.10.2026)

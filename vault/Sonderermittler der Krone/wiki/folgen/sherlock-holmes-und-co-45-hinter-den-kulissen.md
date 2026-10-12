@@ -25,7 +25,7 @@ sprecher:
     name: Rüdiger Schulzki
   - rolle: Sebastian Conroy
     name: Timo Kinzel
-  - rolle: Mister Killroy
+  - rolle: Mister Killjoy
     name: Matti Klemm
   - rolle: Inspektor McMullan
     name: Thomas Nero Wolff
@@ -64,7 +64,7 @@ tags:
 - **Erschienen:** 2019-06-07
 - **Verlag:** Maritim
 - **Autor:in:** Marc-Oliver Bischoff (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
-- **Sprecher:** Sherlock Holmes – Charles Rettinghaus, Dr. John Watson – Florian Halm, Mycroft Holmes – Reent Reins, Irene Adler – Yvonne Greitzke, Mister Wu – Michael Pan, Cora Spencer – Andrea Aust, Maddie – Florentine Draeger, Sir John Conroy – Rüdiger Schulzki, Sebastian Conroy – Timo Kinzel, Mister Killroy – Matti Klemm, Inspektor McMullan – Thomas Nero Wolff, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (für die Rollen Einzelquelle; die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten), Sherlock Holmes – Charles Rettinghaus zusätzlich im DNB-Katalogsatz der CD. Alle 23 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe); Audible nennt die ersten 6 Namen in derselben Reihenfolge. Ohne Rollenangabe in der Fandom-Tabelle: Joachim Tennstedt, Luisa Wietzorek, Uve Teschner, Wolf Frass, Tom Raczko, Rainer Fritzsche, Peter Kirchberger, Gordon Piedesack, Jaron Löwenberg, Patrick Holtheuer, Benjamin Oechsle. Rollennamen in der Schreibweise des Fandom-Wikis.
+- **Sprecher:** Sherlock Holmes – Charles Rettinghaus, Dr. John Watson – Florian Halm, Mycroft Holmes – Reent Reins, Irene Adler – Yvonne Greitzke, Mister Wu – Michael Pan, Cora Spencer – Andrea Aust, Maddie – Florentine Draeger, Sir John Conroy – Rüdiger Schulzki, Sebastian Conroy – Timo Kinzel, Mister Killjoy – Matti Klemm (Fandom schreibt hier „Mister Killroy“; vereinheitlicht nach Entscheidung Christian 12.10.2026), Inspektor McMullan – Thomas Nero Wolff, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (für die Rollen Einzelquelle; die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten), Sherlock Holmes – Charles Rettinghaus zusätzlich im DNB-Katalogsatz der CD. Alle 23 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe); Audible nennt die ersten 6 Namen in derselben Reihenfolge. Ohne Rollenangabe in der Fandom-Tabelle: Joachim Tennstedt, Luisa Wietzorek, Uve Teschner, Wolf Frass, Tom Raczko, Rainer Fritzsche, Peter Kirchberger, Gordon Piedesack, Jaron Löwenberg, Patrick Holtheuer, Benjamin Oechsle. Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Zirkel-Bezug:** Indirekt
 
 ## Hauptfiguren

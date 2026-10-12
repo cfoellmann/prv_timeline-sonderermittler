@@ -18,7 +18,7 @@ sprecher:
   - rolle: Louise Mulligan
     name: Christina Ann Zalamea
   - rolle: Lord Alistair Cromwell
-    name: Kasper Eichel
+    name: Kaspar Eichel
   - rolle: Lady Joanna
     name: Arianne Borbach
   - rolle: Stuart Douglas
@@ -65,7 +65,7 @@ tags:
 - **Nummer:** 42 (zweiter Teil, Fortsetzung von Folge 41).
 - **Erscheinungsdatum:** 23.11.2018 — sechs Wochen nach Teil 1.
 - **Autor:** Willis Grandt (DNB).
-- **Sprecher:** Sherlock Holmes – Charles Rettinghaus; Dr. John Watson – Florian Halm; Geoffrey Copper – Norman Matt; Anne Mulligan – Katja Brügger; Louise Mulligan – Christina Ann Zalamea; Lord Alistair Cromwell – Kasper Eichel; Lady Joanna – Arianne Borbach; Stuart Douglas – Michael Pan; Mr. Hamilton – Peter Flechtner; Rodney, die Ratte – Stefan Krause; Fiona – Luisa Wietzorek; Edmund Foster – Douglas Welbat; Phileas Fogg – Sascha Draeger; Schuldeneintreiber – Oliver Stritzel; Rezeptionist – Robin Brosch; Wirt – Helmut Krauss; Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (für die Rollen Einzelquelle; **eine** Tabelle für beide Teile — ob jede Nebenrolle in beiden Teilen auftritt, ist nicht belegt); alle 17 Namen stehen im DNB-Katalogsatz dieser Episode (Digitalausgabe), Sherlock Holmes – Charles Rettinghaus zusätzlich im DNB-Satz der CD. Schreibung nach DNB/Audible: „Christina Ann Zalamea“ (Fandom: „Christina Ann Zalame“). Rollennamen in der Schreibweise des Fandom-Wikis.
+- **Sprecher:** Sherlock Holmes – Charles Rettinghaus; Dr. John Watson – Florian Halm; Geoffrey Copper – Norman Matt; Anne Mulligan – Katja Brügger; Louise Mulligan – Christina Ann Zalamea; Lord Alistair Cromwell – Kaspar Eichel; Lady Joanna – Arianne Borbach; Stuart Douglas – Michael Pan; Mr. Hamilton – Peter Flechtner; Rodney, die Ratte – Stefan Krause; Fiona – Luisa Wietzorek; Edmund Foster – Douglas Welbat; Phileas Fogg – Sascha Draeger; Schuldeneintreiber – Oliver Stritzel; Rezeptionist – Robin Brosch; Wirt – Helmut Krauss; Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (für die Rollen Einzelquelle; **eine** Tabelle für beide Teile — ob jede Nebenrolle in beiden Teilen auftritt, ist nicht belegt); alle 17 Namen stehen im DNB-Katalogsatz dieser Episode (Digitalausgabe), Sherlock Holmes – Charles Rettinghaus zusätzlich im DNB-Satz der CD. Schreibung nach DNB/Audible: „Christina Ann Zalamea“ (Fandom: „Christina Ann Zalame“). „Kaspar Eichel“ vereinheitlicht nach der Mehrheit der Quellen (Fandom und DNB schreiben in dieser Folge „Kasper Eichel“). Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Ermittler der Folge:** Sherlock Holmes.
 - **Format:** keine Wiederveröffentlichung in einer Archivlinie.
 

@@ -7,6 +7,8 @@ erschienen: 2019-05-31
 verlag: Maritim
 autor: "Markus Topf & Dominik Ahrens"
 sprecher:
+  - rolle: Erzähler (Jules Verne)
+    name: Christian Brückner
   - rolle: Phileas Fogg
     name: Sascha Draeger
   - rolle: Kapitän Nemo
@@ -40,7 +42,7 @@ tags:
 - **Erscheinungsdatum:** 31.05.2019 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 55 Minuten.
 - **Autor:in:** Markus Topf & Dominik Ahrens (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
-- **Sprecher (Auswahl):** Phileas Fogg – Sascha Draeger, Kapitän Nemo – K. Dieter Klebsch. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Marius Clarén, Annina Braunmiller-Jest, Udo Schenk, K. Dieter Klebsch, Ilona Otto, Kaspar Eichel, Peter Kirchberger, Julian Deuster, Joachim Tennstedt, Lutz Riedel, Melek Erenay, Markus Pfeiffer, Holger Löwenberg, Jaron Löwenberg, Janis Zaurins, Patrick Holtheuer (DNB-Katalog der Digitalausgabe, Audible).
+- **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Kapitän Nemo – K. Dieter Klebsch. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Marius Clarén, Annina Braunmiller-Jest, Udo Schenk, K. Dieter Klebsch, Ilona Otto, Kaspar Eichel, Peter Kirchberger, Julian Deuster, Joachim Tennstedt, Lutz Riedel, Melek Erenay, Markus Pfeiffer, Holger Löwenberg, Jaron Löwenberg, Janis Zaurins, Patrick Holtheuer (DNB-Katalog der Digitalausgabe, Audible). Erzähler (Jules Verne) – Christian Brückner nachgetragen am 12.10.2026 (Entscheidung Christian): Brückner steht in allen Sprecherlisten DNAPF 1–50 und ist laut DNB-Titelangabe der CDs DNAPF 1–7 und 9–18 sowie der Verlagsmitteilung zur Stammbesetzung (2015) Erzähler der Reihe; ebenfalls abgeleitet.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge20-wettlauf-mit-der-zeit/>
 

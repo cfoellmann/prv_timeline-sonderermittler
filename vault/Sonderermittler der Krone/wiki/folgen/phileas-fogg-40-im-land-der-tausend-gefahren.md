@@ -7,6 +7,8 @@ erschienen: 2024-04-05
 verlag: Maritim
 autor: "Hajo Bremer"
 sprecher:
+  - rolle: Erzähler (Jules Verne)
+    name: Christian Brückner
   - rolle: Phileas Fogg
     name: Sascha Draeger
   - rolle: Abel Hawthorn
@@ -42,7 +44,7 @@ tags:
 - **Erscheinungsdatum:** 05.04.2024 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 58 Minuten.
 - **Autor:in:** Hajo Bremer (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
-- **Sprecher (Auswahl):** Phileas Fogg – Sascha Draeger, Abel Hawthorn – Jaron Löwenberg, Professor Challenger – Konstantin Graudus. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Abel Hawthorn: Stammsprecher laut Fandom-Besetzungstabellen OWMH 2–26; dass es dieselbe Figur ist, ist eine Annahme, siehe [[wiki/figuren/abel-hawthorn|Abel Hawthorn]]). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Reent Reins, Sascha Rotermund, K. Dieter Klebsch, Yvonne Greitzke, Konstantin Graudus, Jaron Löwenberg, Jörg Pintsch, Peter Kirchberger, Janis Zaurins, Ilona Otto, Stephan Chrzescinski, Bernd Egger, Engelbert von Nordhausen, Jean Coppong, Patrick Holtheuer (DNB-Katalog der Digitalausgabe, Audible). Professor Challenger – Konstantin Graudus nachgetragen am 12.10.2026: Challenger steht im offiziellen Klappentext, Graudus spricht ihn laut den Rollenlisten zu WMU 4 und NEM 3/4 (siehe [[wiki/figuren/professor-challenger|Professor Challenger]]) und steht in allen Sprecherlisten DNAPF 38–44; ebenfalls abgeleitet.
+- **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Abel Hawthorn – Jaron Löwenberg, Professor Challenger – Konstantin Graudus. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Abel Hawthorn: Stammsprecher laut Fandom-Besetzungstabellen OWMH 2–26; dass es dieselbe Figur ist, ist eine Annahme, siehe [[wiki/figuren/abel-hawthorn|Abel Hawthorn]]). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Reent Reins, Sascha Rotermund, K. Dieter Klebsch, Yvonne Greitzke, Konstantin Graudus, Jaron Löwenberg, Jörg Pintsch, Peter Kirchberger, Janis Zaurins, Ilona Otto, Stephan Chrzescinski, Bernd Egger, Engelbert von Nordhausen, Jean Coppong, Patrick Holtheuer (DNB-Katalog der Digitalausgabe, Audible). Professor Challenger – Konstantin Graudus nachgetragen am 12.10.2026: Challenger steht im offiziellen Klappentext, Graudus spricht ihn laut den Rollenlisten zu WMU 4 und NEM 3/4 (siehe [[wiki/figuren/professor-challenger|Professor Challenger]]) und steht in allen Sprecherlisten DNAPF 38–44; ebenfalls abgeleitet. Erzähler (Jules Verne) – Christian Brückner nachgetragen am 12.10.2026 (Entscheidung Christian): Brückner steht in allen Sprecherlisten DNAPF 1–50 und ist laut DNB-Titelangabe der CDs DNAPF 1–7 und 9–18 sowie der Verlagsmitteilung zur Stammbesetzung (2015) Erzähler der Reihe; ebenfalls abgeleitet.
 - **Verlag:** Maritim.
 
 ## Hauptfiguren

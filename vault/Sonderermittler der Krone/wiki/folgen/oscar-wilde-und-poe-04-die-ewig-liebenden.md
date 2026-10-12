@@ -5,19 +5,16 @@ nummer: 4
 titel: Die ewig Liebenden
 erschienen: 2026-01-16
 verlag: Blitz Verlag
+autor: "Silke Walter"
 sprecher:
   - rolle: Oscar Wilde
-    name: unbekannt
+    name: Sascha Rotermund
   - rolle: Edgar Allan Poe
-    name: unbekannt
-  - rolle: Mycroft Holmes
-    name: unbekannt
+    name: Uve Teschner
   - rolle: Mata Hari
-    name: unbekannt
-  - rolle: Theodora Sachs
-    name: unbekannt
+    name: Katja Keßler
   - rolle: Rasputin
-    name: unbekannt
+    name: Tetje Mierendorf
 spielzeit_min: 53
 zirkel: direkt
 spoiler_level: grob
@@ -26,6 +23,7 @@ quellen:
   - raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
+  - raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md
 tags:
   - mini-serie
   - crossover
@@ -46,9 +44,11 @@ tags:
 
 - **Serie:** [[wiki/serien/oscar-wilde-und-poe|Oscar Wilde & Edgar Allan Poe]]
 - **Verlag:** Blitz Verlag
+- **Autor:in:** Silke Walter (Audible und Storytel je Folge, Raute-Media-Box 1–4; nachgetragen 12.10.2026).
 - **Erschienen:** 16.01.2026
 - **Spielzeit:** 53 min
 - **Zirkel-Bezug:** direkt
+- **Sprecher (Auswahl):** Oscar Wilde – Sascha Rotermund, Edgar Allan Poe – Uve Teschner, Mata Hari – Katja Keßler, Rasputin – Tetje Mierendorf. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Sprecherliste der Folge (Audible, „Uwe Teschner“ geschrieben): Sascha Rotermund, Uve Teschner, Tetje Mierendorf (Feld „Autor“), Katja Keßler (Feld „Sprecher“). Gesamtliste der CD-Box 1–4 ohne Rollen (Raute Media): Sascha Rotermund, Uve Teschner, Joachim Tennstedt, Daniela Hoffmann, Dirc Simpson, Mathias Renneisen, Sebastian Fitzner, Dirk Hardegen, Tanja Lipinski, Gordon Piedesack, Urs Remond, Kerstin Draeger, Marc Schülert, Janis Zaurins, Kim Hasper, Detlef Tams, Stefan Brönneke, Peter Sura, Sina Zadra, Marion Gretchen Schmitz, Katja Keßler, Tetje Mierendorf, Gabrielle Pietermann, Uschi Hugo, Joana Schümer, Brian Sommer, Florian Clyde, Lea Kalbhenn, Tanya Kahana, Jean Coppong, Patrick Holtheuer, Robert Louis Griesbach, Tim Knauer, Romanus Fuhrmann, Tobias Lelle, Ilona Otto, Felix Strüven, Jörg Pintsch, Wanja Gerick. Mycroft Holmes steht in der Figurenliste der Fanseite, sein Stammsprecher Reent Reins aber weder in der Audible-Liste noch in der Gesamtliste der CD-Box — nicht zugeordnet. Theodora Sachs: Ihre Stammsprecherin Gabrielle Pietermann steht nur in der Gesamtliste der Box, nicht in der Liste dieser Folge — nicht zugeordnet.
 
 ## Hauptfiguren
 
@@ -87,4 +87,5 @@ Im Finale der Mini-Serie kommt es zum entscheidenden Wettlauf: Wer wird die gehe
 ## Quellen
 
 - [raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md](../../raw/maritim/2026-04-30_oscar-wilde-poe_folgen-01-bis-04.md)
+- [raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md) — Besetzungsrecherche 12.10.2026 (Audible, Storytel, Raute Media, Fanseite, Hörspieltalk).
 - Offizielle Website: <https://www.sonderermittler-der-krone.de/serien/wilde-und-poe/folge04-die-ewig-liebenden/>

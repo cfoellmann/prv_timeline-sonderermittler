@@ -7,6 +7,8 @@ erschienen: 2025-06-06
 verlag: Maritim
 autor: "Marc Freund"
 sprecher:
+  - rolle: Erzähler (Jules Verne)
+    name: Christian Brückner
   - rolle: Phileas Fogg
     name: Sascha Draeger
 spielzeit_min: 71
@@ -37,7 +39,7 @@ tags:
 - **Erscheinungsdatum:** 06.06.2025 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 71 Minuten.
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
-- **Sprecher (Auswahl):** Phileas Fogg – Sascha Draeger. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Charles Rettinghaus, Sebastian Winkler, Maria Koschny, Dirc Simpson, Uwe Büschken, Robert Louis Griesbach, Mario Klischies, Lutz Riedel, Till Hagen (DNB-Katalog der Digitalausgabe, Hörspieltalk-Thread 26946).
+- **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Charles Rettinghaus, Sebastian Winkler, Maria Koschny, Dirc Simpson, Uwe Büschken, Robert Louis Griesbach, Mario Klischies, Lutz Riedel, Till Hagen (DNB-Katalog der Digitalausgabe, Hörspieltalk-Thread 26946). Erzähler (Jules Verne) – Christian Brückner nachgetragen am 12.10.2026 (Entscheidung Christian): Brückner steht in allen Sprecherlisten DNAPF 1–50 und ist laut DNB-Titelangabe der CDs DNAPF 1–7 und 9–18 sowie der Verlagsmitteilung zur Stammbesetzung (2015) Erzähler der Reihe; ebenfalls abgeleitet.
 - **Verlag:** Maritim.
 
 ## Hauptfiguren

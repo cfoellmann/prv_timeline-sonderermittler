@@ -7,6 +7,7 @@ status: entwurf
 quellen:
   - raw/maritim/2026-04-28_tesla_folgen-01-08.md
   - https://www.sonderermittler-der-krone.de/figuren/nikola-tesla/
+  - raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md
 tags:
   - hauptfigur
   - blitz
@@ -19,7 +20,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecher:** Patrick Winczewski.
+- **Sprecher:** Patrick Winczewski — Stammsprecher laut Fanseiten-Figurenseite; rollengenau im DNB-Katalog der CDs (MARC 245 $c „Nikola Tesla Patrick Winczewski“ für die Reihe Tesla und für [[wiki/folgen/tesla-09-traumgespinst|TES 9]]). Der frühere Eintrag „David Turba“ auf der Folgenseite TES 9 war ein Zuordnungsfehler, keine Umbesetzung: Winczewski steht bei Audible für TES 3–9 im Feld „Autor“ und fehlt deshalb in den Sprecherlisten von Audiolibrix und Storytel (geklärt 12.10.2026, [Rohdaten](../../raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md)).
 - **Serie:** [[wiki/serien/tesla|Tesla]].
 - **Rolle im Kosmos:** Wissenschaftler im Spannungsfeld zwischen eigener Neugier, James Moriartys Einfluss und den Machtinteressen des Zirkel-Umfelds.
 
@@ -65,3 +66,4 @@ tags:
 
 - [raw/maritim/2026-04-28_tesla_folgen-01-08.md](../../raw/maritim/2026-04-28_tesla_folgen-01-08.md)
 - Offizielle Figuren-Seite: <https://www.sonderermittler-der-krone.de/figuren/nikola-tesla/>
+- [raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md) — Tesla-Sprecher TES 9 (DNB-CD-Satz, Audible, Fanseiten-Figurenseite), 12.10.2026.

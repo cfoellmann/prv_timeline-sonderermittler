@@ -25,6 +25,7 @@ quellen:
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md
 tags:
   - hauptfigur
   - auftraggeber
@@ -59,7 +60,7 @@ Mycroft wird auf **92 Folgen-Seiten** des Vaults unter „Hauptfiguren“ gefüh
 | [[wiki/serien/sherlock-holmes\|Sherlock Holmes]] | 3 Folgen-Seiten (SH 1, 2, 4) | [[wiki/folgen/sherlock-holmes-01-dunkle-kraefte-teil-1\|SH 1]] setzt er nach einem Schlag des Zirkels die Ermittlungen in Gang und bittet [[wiki/figuren/van-dusen\|Professor van Dusen]] um Hilfe — der Einstiegspunkt der ganzen Sherlock-Linie |
 | [[wiki/serien/phileas-fogg\|Phileas Fogg]] | 4 Folgen-Seiten (DNAPF 32, 37, 38, 41) | [[wiki/folgen/phileas-fogg-32-abrechnung\|DNAPF 32]] informiert er den zurückgekehrten Fogg über die Londoner Ereignisse; im Bogen [[wiki/folgen/phileas-fogg-37-die-stunde-null\|DNAPF 37]]–[[wiki/folgen/phileas-fogg-38-von-feinden-umgeben\|38]] errichtet er ein **neues Hauptquartier**, das prompt sabotiert wird; [[wiki/folgen/phileas-fogg-41-aufbruch\|DNAPF 41]] schickt er Fogg in den nächsten Konflikt |
 | [[wiki/serien/wilde-mycroft-ungeloeste\|Wilde – Die ungelösten Fälle des Mycroft Holmes]] | alle 3 Folgen | Namensgeber der Reihe; sein **Aktenbestand** und ein von ihm gegebenes Versprechen setzen die Fälle in Gang — er wirkt hier als Akten- und Erinnerungsfigur im Hintergrund |
-| [[wiki/serien/oscar-wilde-und-poe\|Oscar Wilde & Poe]] | alle 4 Folgen | offiziell als „britischer Regierungsbeamter" gelistet |
+| [[wiki/serien/oscar-wilde-und-poe\|Oscar Wilde & Poe]] | alle 4 Folgen | offiziell als „britischer Regierungsbeamter" gelistet; Reent Reins steht allerdings in keiner Sprecherliste der vier Folgen (auch nicht in der Raute-Media-Box 1–4) — ob die Figurenliste stimmt oder die Rolle anders besetzt ist, ist offen ([Rohdaten](../../raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md)) |
 | [[wiki/serien/frankenstein\|Frankenstein]] | 2 Folgen-Seiten (FRANK 2, 4) | als **Leiter der Sonderermittler der Krone** geführt — die knappste Amtsbezeichnung, die der Vault für ihn belegt |
 | [[wiki/serien/moriarty\|Moriarty]] | 2 Folgen-Seiten (MOR 2, 4) | auf der offiziellen Figurenliste, ohne belegte eigene Handlung |
 
@@ -183,7 +184,7 @@ Alle 92 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 
 ## Theorien & offene Fragen
 
-- **Sprecher-Belegstärke (aktualisiert 12.10.2026):** „Reent Reins“ ist inzwischen mehrfach belegt — Fanseiten-Figurenseite, Fandom-Besetzungstabellen OWMH 1–44, Rollenlisten der Verlagsvorschau zu WMU 3, 4 und MOR 2. Offen ist nur, ob er in OWMH 42/43 und IADK 5 besetzt ist: Fandom nennt ihn, die vollständigen DNB- bzw. Raute-Media-Listen nicht ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 6]]).
+- **Sprecher-Belegstärke (aktualisiert 12.10.2026):** „Reent Reins“ ist inzwischen mehrfach belegt — Fanseiten-Figurenseite, Fandom-Besetzungstabellen OWMH 1–44, Rollenlisten der Verlagsvorschau zu WMU 3, 4 und MOR 2. Offen ist nur, ob er in OWMH 42/43 und IADK 5 besetzt ist: Fandom nennt ihn, die vollständigen DNB- bzw. Raute-Media-Listen nicht. Auf allen drei Folgenseiten ist er deshalb **nicht** eingetragen (Entscheidung Christian 12.10.2026, [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 6]]).
 - **Amtsbezeichnung:** Der Vault führt drei Formulierungen parallel — „Leiter der Sonderermittler der Krone" (Frankenstein-Reihe), „britischer Regierungsbeamter" (Oscar Wilde & Poe) und „Auftraggeber der Krone" (OWMH). Eine offizielle Dienstbezeichnung oder Behörde ist **nicht belegt**; ob es sich um Whitehall, den Secret Service oder eine eigene Krone-Einrichtung handelt, ist offen.
 - **Indien-Zeit:** OWMH 17 verweist auf einen Gegner aus einer früheren Indien-Phase Mycrofts. Diese Vorgeschichte ist im Repo nirgends ausgeführt — **offene Lücke**, potenziell eigener Biografie-Abschnitt, sobald die Folge gehört ist.
 - **Hauptquartier:** Ab dem Fogg-Bogen 37–38 gibt es ein „neues Hauptquartier" der Sonderermittler. Wo es liegt und was mit dem vorherigen geschah, ist unbelegt. Lohnt möglicherweise eine eigene Konzept-Seite.
@@ -207,3 +208,4 @@ Alle 92 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA: Verlagsmitteilung zur Stammbesetzung 2015, Rollenlisten, DNB 245 $c (12.10.2026)
+- [raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md) — Besetzung TES 9 und OWEP 1–4 (DNB, Audible, Storytel, Raute Media, Fanseite; 12.10.2026)

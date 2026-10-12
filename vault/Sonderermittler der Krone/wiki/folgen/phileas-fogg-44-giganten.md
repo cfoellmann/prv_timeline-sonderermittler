@@ -7,6 +7,8 @@ erschienen: 2025-02-28
 verlag: Maritim
 autor: "Hajo Bremer"
 sprecher:
+  - rolle: Erzähler (Jules Verne)
+    name: Christian Brückner
   - rolle: Phileas Fogg
     name: Sascha Draeger
   - rolle: Aouda
@@ -44,7 +46,7 @@ tags:
 - **Erscheinungsdatum:** 28.02.2025 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 59 Minuten.
 - **Autor:in:** Hajo Bremer (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
-- **Sprecher (Auswahl):** Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Victor Frankenstein – Dietmar Wunder, Professor Challenger – Konstantin Graudus. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Reent Reins, K. Dieter Klebsch, Konstantin Graudus, Jaron Löwenberg, Bernd Egger, Dietmar Wunder, Gabrielle Pietermann, Jörg Pintsch, Uwe Büschken, Magdalena Höfner, Engelbert von Nordhausen, Holger Löwenberg, Mathias Renneisen, Peter Weis, Sascha Rotermund (DNB-Katalog der Digitalausgabe, Audible, Hörspieltalk-Thread 26164, Raute Media). Professor Challenger – Konstantin Graudus nachgetragen am 12.10.2026: Challenger steht im offiziellen Klappentext, Graudus spricht ihn laut den Rollenlisten zu WMU 4 und NEM 3/4 (siehe [[wiki/figuren/professor-challenger|Professor Challenger]]) und steht in allen Sprecherlisten DNAPF 38–44; ebenfalls abgeleitet.
+- **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Victor Frankenstein – Dietmar Wunder, Professor Challenger – Konstantin Graudus. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Reent Reins, K. Dieter Klebsch, Konstantin Graudus, Jaron Löwenberg, Bernd Egger, Dietmar Wunder, Gabrielle Pietermann, Jörg Pintsch, Uwe Büschken, Magdalena Höfner, Engelbert von Nordhausen, Holger Löwenberg, Mathias Renneisen, Peter Weis, Sascha Rotermund (DNB-Katalog der Digitalausgabe, Audible, Hörspieltalk-Thread 26164, Raute Media). Professor Challenger – Konstantin Graudus nachgetragen am 12.10.2026: Challenger steht im offiziellen Klappentext, Graudus spricht ihn laut den Rollenlisten zu WMU 4 und NEM 3/4 (siehe [[wiki/figuren/professor-challenger|Professor Challenger]]) und steht in allen Sprecherlisten DNAPF 38–44; ebenfalls abgeleitet. Erzähler (Jules Verne) – Christian Brückner nachgetragen am 12.10.2026 (Entscheidung Christian): Brückner steht in allen Sprecherlisten DNAPF 1–50 und ist laut DNB-Titelangabe der CDs DNAPF 1–7 und 9–18 sowie der Verlagsmitteilung zur Stammbesetzung (2015) Erzähler der Reihe; ebenfalls abgeleitet.
 - **Verlag:** Maritim.
 
 ## Hauptfiguren

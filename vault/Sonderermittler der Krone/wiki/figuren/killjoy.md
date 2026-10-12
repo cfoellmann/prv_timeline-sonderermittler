@@ -37,7 +37,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecher:** Matti Klemm — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen IADK 9–12 („Mister Killjoy“) sowie IADK 0–4 und [[wiki/folgen/sherlock-holmes-und-co-45-hinter-den-kulissen|SHC 45]], wo Fandom „Mister Killroy“ schreibt. Die IADK-Folgenseiten führen die Rolle als „Mister Killjoy“, SHC 45 wörtlich als „Mister Killroy“ — die Vereinheitlichung ist offen ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 6]]).
+- **Sprecher:** Matti Klemm — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen IADK 9–12 („Mister Killjoy“) sowie IADK 0–4 und [[wiki/folgen/sherlock-holmes-und-co-45-hinter-den-kulissen|SHC 45]], wo Fandom „Mister Killroy“ schreibt. Die Folgenseiten (IADK 0–4 und SHC 45) führen die Rolle einheitlich als „Mister Killjoy“, die Fandom-Schreibung steht als Hinweis in der Eckdaten-Zeile (Entscheidung Christian 12.10.2026, [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 6]]).
 
 ## Rolle im Kosmos
 
@@ -58,7 +58,7 @@ Die Fandom-Besetzungstabelle zu [[wiki/folgen/sherlock-holmes-und-co-45-hinter-d
 **Was belegt ist:**
 
 - `Klemm, Matti` steht in der DNB-Sprecherliste von SHC 45 **und** von [[wiki/folgen/irene-adler-00-hinter-den-kulissen|IADK 0]]. Das ist allerdings kein zweiter Beleg, sondern trivial: Beide sind **dieselbe Aufnahme** (siehe die Doppelführungs-Hinweise dort).
-- Die Schreibvariante „Killroy" ist auf dieser Seite bereits als Alias geführt.
+- Die Schreibvariante „Killroy" ist auf dieser Seite bereits als Alias geführt. Seit dem 12.10.2026 führt die Folgenseite SHC 45 die Rolle als „Mister Killjoy“ (Schreibung vereinheitlicht nach Entscheidung Christian; Fandom schreibt auch in IADK 0–4 „Killroy“). Die Frage nach dem Erstauftritt unten berührt das nicht.
 
 **Was nicht belegt ist:** dass „Mister Killroy" dieselbe Figur ist wie Killjoy. Die Rollenauflösung steht **allein** in der Fandom-Besetzungstabelle. Die Nachrecherche vom 06.09.2026 ([Protokoll](../../raw/notes/2026-09-06_shc-ingest_klappentexte-und-kanonpruefung.md)) hat dafür **keine zweite Quelle** gefunden: Händlerlistings (Audioteka, BookBeat, jpc, Apple Books, Amazon, Audiolibrix, pop.de) führen nur Sprechernamen ohne Rollen, die Rezension auf buchtips.net nennt weder „Killroy" noch „Killjoy", und das Fandom war beim Abruf nicht erreichbar (HTTP 402).
 
