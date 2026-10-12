@@ -650,3 +650,11 @@ Das Fandom war am 06.09.2026 nicht erreichbar (HTTP 402, auch über die MediaWik
 - **Offen, nicht geändert:** FRANK 20, OWMH 40, EAPAD 29 (HolyShop allein gegen Apple, Deezer, Audible).
 - **Mitgezogen:** Folgenseiten, `index.md`, 6 Serienseiten, 21 Figurenseiten (6 davon Auftrittstabellen neu nach Datum sortiert), 4 Konzeptseiten, Kanonkarte, `app/data/folgen.json` (35 × `erschienen`, 2 × `story_anmerkung`). Abgeleitete Hauptrollen OWMH 45–57 bleiben (entschieden).
 - `raw/`, App-Code, Schema und `changelog.md` unverändert.
+
+## [2026-10-12] lint | Restliche Datumsangaben korrigiert, vier offene Datumsfälle geklärt
+- Auftrag Christian nach Commit 14b92e1; Bericht: [[wiki/queries/lint-2026-10-12|Lint 2026-10-12]], Nachtrag 5. Beleg: [raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md](raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md).
+- **Vault-weite Skriptprüfung** aller Datumsangaben neben Folgenverweisen (Wikilink oder Kürzel) gegen `erschienen`: 9 Korrekturen auf [[wiki/figuren/aleister-crowley|Crowley]] (4), [[wiki/figuren/auguste-dupin|Dupin]], [[wiki/figuren/passepartout|Passepartout]], [[wiki/figuren/rasputin|Rasputin]] (2) und [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]]; danach 0 Abweichungen, Sortierung unverändert gültig.
+- **FRANK 20, OWMH 40, EAPAD 29:** Vault-Wert bestätigt (Raute-CD bzw. Verlagsvorschau und Hörspieltalk-Release-Beiträge gegen HolyShop allein), Prüfvermerk auf den Folgenseiten.
+- **SH 16** von 08.08.2025 auf **25.07.2025** korrigiert (Apple, Deezer, Audible, Raute-CD, Hörspieltalk „Freutag VÖ"); Folgenseite, Index, Serientabelle, 3 Figurenseiten, `folgen.json`.
+- **Kanonkarte:** HolyShop-Muster „vorverlegte Termine nicht nachgezogen", unzuverlässige Datums-URL der MOR-25-Schlagzeile.
+- `raw/`-Bestand, App-Code, Schema und `changelog.md` unverändert; 1 neue Raw-Datei.

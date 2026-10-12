@@ -19,6 +19,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md
 tags:
   - zirkel-der-sieben
   - horror
@@ -34,7 +35,7 @@ tags:
 ## Eckdaten
 
 - **Erscheinungsjahr:** 2025
-- **Erscheinungsdatum:** 25.07.2025 (Apple Music und Deezer, Abruf 2026-09-06).
+- **Erscheinungsdatum:** 25.07.2025 (Apple Music und Deezer, Abruf 2026-09-06; zusätzlich Audible, CD bei Raute Media und Hörspieltalk „Freutag VÖ“ am 25.07.2025). HolyShop nennt den ursprünglich angekündigten 08.08.2025 — geprüft 12.10.2026, Vault-Wert bestätigt ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 5]]).
 - **Spielzeit:** 54 Minuten
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim
@@ -68,3 +69,4 @@ Victor Frankenstein, Theodora Sachs und Aleister Crowley gelingt es, Bruder Ares
 
 - [raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md](../../raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge20-ewiges-leid/>
+- [raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md](../../raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md) — Datumsprüfung gegen HolyShop (Raute Media, Hörspieltalk; 12.10.2026).

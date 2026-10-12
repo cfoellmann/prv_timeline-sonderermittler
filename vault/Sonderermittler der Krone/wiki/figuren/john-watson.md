@@ -53,7 +53,7 @@ Alle 35 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 | [[wiki/folgen/sherlock-holmes-13-faustrecht\|SH 13 — Faustrecht]] (31.01.2025) | begleitet Holmes weiter |
 | [[wiki/folgen/sherlock-holmes-14-wut-und-verzweiflung\|SH 14 — Wut und Verzweiflung]] (28.03.2025) | ist gemeinsam mit Holmes gefangen |
 | [[wiki/folgen/sherlock-holmes-15-herz-aus-stein\|SH 15 — Herz aus Stein]] (30.05.2025) | begleitet Holmes nach Schottland |
-| [[wiki/folgen/sherlock-holmes-16-polarlichter\|SH 16 — Polarlichter]] (08.08.2025) | unterstützt Holmes bei mehreren parallelen Ermittlungen |
+| [[wiki/folgen/sherlock-holmes-16-polarlichter\|SH 16 — Polarlichter]] (25.07.2025) | unterstützt Holmes bei mehreren parallelen Ermittlungen |
 | [[wiki/folgen/sherlock-holmes-17-der-vermisste-von-molder-hall\|SH 17 — Der Vermisste von Molder Hall]] (26.09.2025) | begleitet Holmes auch in den ländlichen Ermittlungen |
 | [[wiki/folgen/sherlock-holmes-18-gefaehrliche-geheimnisse\|SH 18 — Gefährliche Geheimnisse]] (28.11.2025) | begleitet Holmes in die gefährliche Zuspitzung |
 | [[wiki/folgen/sherlock-holmes-19-doppelter-verlust\|SH 19 — Doppelter Verlust]] (06.02.2026) | reist mit Holmes weiter |

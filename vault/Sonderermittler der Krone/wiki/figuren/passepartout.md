@@ -42,7 +42,7 @@ Passepartout ist fester Bestandteil der Phileas-Fogg-Serie und erscheint in 20+ 
 
 ### Crossover: Irene Adler
 
-- [[wiki/folgen/irene-adler-06-licht-und-schatten|IADK 6 – Licht und Schatten]] (31.10.2020) — **Erste Zusammenarbeit Adler × Passepartout**. Begleitet Irene in Paris als landeskundiger Experte beim Fall um Louis Le Prince.
+- [[wiki/folgen/irene-adler-06-licht-und-schatten|IADK 6 – Licht und Schatten]] (30.10.2020) — **Erste Zusammenarbeit Adler × Passepartout**. Begleitet Irene in Paris als landeskundiger Experte beim Fall um Louis Le Prince.
 
 ## Bedeutung im Kosmos
 

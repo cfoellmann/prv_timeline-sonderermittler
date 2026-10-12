@@ -43,7 +43,7 @@ Auguste Dupin ist eine literarische Figur aus Edgar Allan Poes Geschichten und g
 
 ### Crossover: Irene Adler
 
-- [[wiki/folgen/irene-adler-06-licht-und-schatten|IADK 6 – Licht und Schatten]] (31.10.2020) — **Erste Zusammenarbeit Adler × Poe/Dupin**. Mycroft Holmes stellt Irene Dupin und Poe für einen Fall in Paris zur Seite.
+- [[wiki/folgen/irene-adler-06-licht-und-schatten|IADK 6 – Licht und Schatten]] (30.10.2020) — **Erste Zusammenarbeit Adler × Poe/Dupin**. Mycroft Holmes stellt Irene Dupin und Poe für einen Fall in Paris zur Seite.
 
 ### Vollständige Auftrittsliste
 

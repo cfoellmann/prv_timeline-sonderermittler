@@ -17,6 +17,7 @@ quellen:
   - https://bastei-luebbe.de/Audio/Krimis-Thriller/Oscar-Wilde-Mycroft-Holmes-Folge-40/9783785784259
   - https://www.isbn.de/hoerbuch/9783785784259/oscar-wilde-mycroft-holmes-folge-40
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md
 tags:
   - sonderermittler
 ---
@@ -27,7 +28,7 @@ tags:
 
 ## Eckdaten
 
-- **Erscheinungsdatum:** 30.09.2022.
+- **Erscheinungsdatum:** 30.09.2022 (Apple Music, Deezer, Audible; Verlagsvorschau „Erscheint am 30.9.22“ via Hörspieltalk). HolyShop nennt 02.12.2022, den Termin von OWMH 41 — geprüft 12.10.2026, Vault-Wert bestätigt ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 5]]).
 - **Angabe auf der offiziellen Seite:** 2022.
 - **Fandom-Abgleich (2026-04-30):** Folge 40 hat auf Fandom eine verlinkte Einzelseite.
 - **Spielzeit:** 70 Minuten.
@@ -64,5 +65,6 @@ Eine rätselhafte Mordserie an jungen Männern führt Oscar Wilde und Violet Ish
 - Bastei Lübbe / Lübbe Audio: <https://bastei-luebbe.de/Audio/Krimis-Thriller/Oscar-Wilde-Mycroft-Holmes-Folge-40/9783785784259>
 - ISBN.de: <https://www.isbn.de/hoerbuch/9783785784259/oscar-wilde-mycroft-holmes-folge-40>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+- [raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md](../../raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md) — Datumsprüfung gegen HolyShop (Raute Media, Hörspieltalk; 12.10.2026).
 
 

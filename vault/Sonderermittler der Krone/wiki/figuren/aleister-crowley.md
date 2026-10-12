@@ -32,14 +32,14 @@ Aleister Crowley wird im Kosmos als einer der gefährlichsten Zirkel-Antagoniste
 ### Oscar Wilde & Mycroft Holmes
 
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-21-boleskine-house|OWMH 21 – Boleskine House]] (31.05.2019) — Erstauftritt
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-40-lockruf-des-untergangs|OWMH 40 – Lockruf des Untergangs]] (28.02.2021) — In Rom mit Violet Ishiguro und den Worten der Macht
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-40-lockruf-des-untergangs|OWMH 40 – Lockruf des Untergangs]] (30.09.2022) — In Rom mit Violet Ishiguro und den Worten der Macht
 
 ### Irene Adler
 
-- [[wiki/folgen/irene-adler-13-feuer-und-eis|IADK 13 – Feuer und Eis]] (13.08.2021)
-- [[wiki/folgen/irene-adler-16-den-tod-vor-augen|IADK 16 – Den Tod vor Augen]] (25.02.2022)
+- [[wiki/folgen/irene-adler-13-feuer-und-eis|IADK 13 – Feuer und Eis]] (06.05.2022)
+- [[wiki/folgen/irene-adler-16-den-tod-vor-augen|IADK 16 – Den Tod vor Augen]] (12.05.2023)
 - [[wiki/folgen/irene-adler-20-meister-der-alchemie|IADK 20 – Meister der Alchemie]] (22.03.2024) — Besitzt bereits den größten Teil der nötigen Artefakte
-- [[wiki/folgen/irene-adler-24-hinter-der-fassade|IADK 24 – Hinter der Fassade]] (29.11.2024)
+- [[wiki/folgen/irene-adler-24-hinter-der-fassade|IADK 24 – Hinter der Fassade]] (18.10.2024)
 
 ### Sherlock Holmes
 

@@ -3,7 +3,7 @@ type: folge
 serie: sherlock-holmes
 nummer: 16
 titel: Polarlichter
-erschienen: 2025-08-08
+erschienen: 2025-07-25
 verlag: Maritim
 autor: ""
 sprecher: []
@@ -17,6 +17,7 @@ quellen:
   - raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md
   - https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge16-polarlichter/
   - https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-16-polarlichter-5208/
+  - raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md
 tags:
   - sherlock-holmes
   - maritim
@@ -29,7 +30,7 @@ tags:
 
 ## Eckdaten
 
-- **Erscheinungsdatum:** 08.08.2025.
+- **Erscheinungsdatum:** 25.07.2025 — Apple Music, Deezer, Audible, CD bei Raute Media und Hörspieltalk („Freutag VÖ“ am 25.07.2025) übereinstimmend. HolyShop nennt weiter den ursprünglich angekündigten 08.08.2025, den der Vault bis 12.10.2026 führte (korrigiert, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 5]]).
 - **Spielzeit:** 61 Minuten.
 - **Verlag:** Maritim.
 - **Autor:** noch nicht im Repo verifiziert.
@@ -62,3 +63,4 @@ Zu ihrem Entsetzen müssen Holmes und Watson erkennen, dass es Mitgliedern des Z
 - [raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md](../../raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge16-polarlichter/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-16-polarlichter-5208/>
+- [raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md](../../raw/maritim/2026-10-12_fanseite-rautemedia-hoerspieltalk_vier-datumsfaelle.md) — Datumsklärung SH 16 (Raute Media, Hörspieltalk, Apple, Deezer; 12.10.2026).
