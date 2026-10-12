@@ -68,11 +68,11 @@ tags:
 | 05 | [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx\|Das Geheimnis der Eissphinx]] | 12.08.2016 | kein | [[wiki/serien/poe-und-dupin\|Edgar Allan Poe & Auguste Dupin]] | Erstauftritt Edgar Allan Poe |
 | 06 | [[wiki/folgen/phileas-fogg-06-der-leuchtturm-am-ende-der-welt\|Der Leuchtturm am Ende der Welt]] | 07.10.2016 | kein |   | Insel-/Leuchtturm-Fall; exaktes Datum noch offen |
 | 07 | [[wiki/folgen/phileas-fogg-07-die-stadt-unter-der-erde\|Die Stadt unter der Erde]] | 25.11.2016 | kein |   | Schottland, Mine und Sabotage |
-| 08 | [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien\|Im Angesicht der Bestien]] | 27.01.2017 | indirekt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Frankenstein stürzt im Kampf mit Fogg |
+| 08 | [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien\|Im Angesicht der Bestien]] | 20.01.2017 | indirekt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Frankenstein stürzt im Kampf mit Fogg |
 | 09 | [[wiki/folgen/phileas-fogg-09-im-reich-des-zaren\|Im Reich des Zaren]] | 24.03.2017 | kein |   | Sibirien-Aufstand und geheime Operation |
 | 10 | [[wiki/folgen/phileas-fogg-10-der-herrscher-der-meere\|Der Herrscher der Meere]] | 16.06.2017 | direkt | [[wiki/serien/oscar-wilde-und-mycroft-holmes\|Oscar Wilde & Mycroft Holmes]] | erste belegte Zusammenarbeit Fogg x Wilde |
-| 11 | [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant\|Die Jagd nach Kapitän Grant]] | 17.11.2017 | direkt | [[wiki/serien/oscar-wilde-und-mycroft-holmes\|Oscar Wilde & Mycroft Holmes]] | zweiter Teil des ersten Fogg/Wilde-Blocks |
-| 12 | [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten\|Entscheidung in den Karpaten]] | 17.11.2017 | direkt | [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]] | Erstauftritt Dracula |
+| 11 | [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant\|Die Jagd nach Kapitän Grant]] | 01.09.2017 | direkt | [[wiki/serien/oscar-wilde-und-mycroft-holmes\|Oscar Wilde & Mycroft Holmes]] | zweiter Teil des ersten Fogg/Wilde-Blocks |
+| 12 | [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten\|Entscheidung in den Karpaten]] | 10.11.2017 | direkt | [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]] | Erstauftritt Dracula |
 | 13 | [[wiki/folgen/phileas-fogg-13-der-untergang-der-welt\|Der Untergang der Welt]] | 19.01.2018 | kein |   | Meteor- und Xirdal-Plot |
 | 14 | [[wiki/folgen/phileas-fogg-14-der-goldvulkan\|Der Goldvulkan]] | 16.03.2018 | kein |   | Klondike-Block um einen goldenen Vulkan |
 | 15 | [[wiki/folgen/phileas-fogg-15-die-schwimmende-stadt\|Die schwimmende Stadt]] | 18.05.2018 | kein |   | künstliche Insel der Milliardäre |

@@ -43,7 +43,7 @@ Alle 53 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 | [[wiki/folgen/irene-adler-13-feuer-und-eis\|IADK 13 — Feuer und Eis]] (06.05.2022) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/moriarty-06-boeses-erwachen\|MOR 6 — Böses Erwachen]] (27.05.2022) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/moriarty-07-dunkle-geheimnisse\|MOR 7 — Dunkle Geheimnisse]] (05.08.2022) | ist auf der offiziellen Seite als Figur gelistet |
-| [[wiki/folgen/sherlock-holmes-01-dunkle-kraefte-teil-1\|SH 1 — Dunkle Kräfte, Teil 1]] (25.11.2022) | ist auf der offiziellen Seite als Figur gelistet |
+| [[wiki/folgen/sherlock-holmes-01-dunkle-kraefte-teil-1\|SH 1 — Dunkle Kräfte, Teil 1]] (09.12.2022) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/sherlock-holmes-02-dunkle-kraefte-teil-2\|SH 2 — Dunkle Kräfte, Teil 2]] (16.12.2022) | wird zum Teil der weiteren Spurensuche |
 | [[wiki/folgen/moriarty-08-im-schatten-des-giganten\|MOR 8 — Im Schatten des Giganten]] (03.02.2023) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/irene-adler-15-in-den-krallen-des-boesen\|IADK 15 — In den Krallen des Bösen]] (24.02.2023) | tritt als eigener Machtfaktor in Adlers Reihe auf |
@@ -79,8 +79,8 @@ Alle 53 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 | [[wiki/folgen/frankenstein-24-toedliche-dosis\|FRANK 24 — Tödliche Dosis]] (27.03.2026) | Auftraggeber |
 | [[wiki/folgen/tesla-08-koenig-der-luefte\|TES 8 — König der Lüfte]] (27.03.2026) | ist auf offizieller Seite als Figur gelistet |
 | [[wiki/folgen/moriarty-24-ausgeliefert\|MOR 24 — Ausgeliefert]] (10.04.2026) | ist auf der offiziellen Seite als Figur gelistet |
-| [[wiki/folgen/moriarty-25-ein-hauch-von-ewigkeit\|MOR 25 — Ein Hauch von Ewigkeit]] (06.05.2026) | verfolgt weiter seine Obsession mit dem ewigen Leben |
 | [[wiki/folgen/frankenstein-25-truegerische-hoffnung\|FRANK 25 — Trügerische Hoffnung]] (22.05.2026) | Auftraggeber |
+| [[wiki/folgen/moriarty-25-ein-hauch-von-ewigkeit\|MOR 25 — Ein Hauch von Ewigkeit]] (05.06.2026) | verfolgt weiter seine Obsession mit dem ewigen Leben |
 | [[wiki/folgen/moriarty-26-der-teufel-von-cat-rock\|MOR 26 — Der Teufel von Cat Rock]] (31.07.2026) | wird schwer mitgenommen gerettet |
 | [[wiki/folgen/tesla-09-traumgespinst\|TES 9 — Traumgespinst]] (14.08.2026) | Anführer des Zirkels; lehnt Teslas Idee ab und erteilt den Reiseauftrag |
 | [[wiki/folgen/frankenstein-27-finsteres-erbe\|FRANK 27 — Finsteres Erbe]] (11.09.2026) | hat Männer angeheuert, das Labor zu bewachen |

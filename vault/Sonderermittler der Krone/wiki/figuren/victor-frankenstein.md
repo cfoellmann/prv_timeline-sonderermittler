@@ -93,11 +93,11 @@ Alle 64 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 | [[wiki/folgen/moriarty-23-jagdinstinkt\|MOR 23 — Jagdinstinkt]] (06.02.2026) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/frankenstein-24-toedliche-dosis\|FRANK 24 — Tödliche Dosis]] (27.03.2026) | entwickelt ein Gegenmittel, aber hat moralische Bedenken |
 | [[wiki/folgen/moriarty-24-ausgeliefert\|MOR 24 — Ausgeliefert]] (10.04.2026) | ist auf der offiziellen Seite als Figur gelistet |
-| [[wiki/folgen/moriarty-25-ein-hauch-von-ewigkeit\|MOR 25 — Ein Hauch von Ewigkeit]] (06.05.2026) | offiziell gelistet |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-57-zwietracht\|OWMH 57 — Zwietracht]] (15.05.2026) | Gegenstand von Wildes Verdacht |
 | [[wiki/folgen/frankenstein-25-truegerische-hoffnung\|FRANK 25 — Trügerische Hoffnung]] (22.05.2026) | erhält den Auftrag und ist von der Idee begeistert |
+| [[wiki/folgen/moriarty-25-ein-hauch-von-ewigkeit\|MOR 25 — Ein Hauch von Ewigkeit]] (05.06.2026) | offiziell gelistet |
 | [[wiki/folgen/irene-adler-33-ein-altes-problem\|IADK 33 — Ein altes Problem]] (12.06.2026) | offiziell gelistet |
-| [[wiki/folgen/frankenstein-26-doppelte-tarnung\|FRANK 26 — Doppelte Tarnung]] (13.07.2026) | ist über den ruhigen Verlauf der Reise nach Bistritz erleichtert |
+| [[wiki/folgen/frankenstein-26-doppelte-tarnung\|FRANK 26 — Doppelte Tarnung]] (17.07.2026) | ist über den ruhigen Verlauf der Reise nach Bistritz erleichtert |
 | [[wiki/folgen/moriarty-26-der-teufel-von-cat-rock\|MOR 26 — Der Teufel von Cat Rock]] (31.07.2026) | offiziell gelistet |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-59-die-spur-der-echse\|OWMH 59 — Die Spur der Echse]] (04.09.2026) | ebenfalls auf Wildes Fährte |
 | [[wiki/folgen/frankenstein-27-finsteres-erbe\|FRANK 27 — Finsteres Erbe]] (11.09.2026) | durchsucht das Labor |

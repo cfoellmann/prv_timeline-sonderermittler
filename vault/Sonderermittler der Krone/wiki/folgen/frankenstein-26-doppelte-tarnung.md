@@ -3,7 +3,7 @@ type: folge
 serie: frankenstein
 nummer: 26
 titel: Doppelte Tarnung
-erschienen: 2026-07-13
+erschienen: 2026-07-17
 verlag: Maritim
 autor: "Silke Walter"
 sprecher: []
@@ -18,6 +18,7 @@ quellen:
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - https://www.sonderermittler-der-krone.de/schlagzeilen/2026-07-13-doppelte-tarnung/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
 tags:
   - frankenstein
   - maritim
@@ -31,7 +32,7 @@ tags:
 
 ## Eckdaten
 
-- **Erscheinungsdatum:** 13.07.2026 laut offizieller Schlagzeile. ⚠️ HolyShop nannte den 17.07.2026 — Abweichung notiert.
+- **Erscheinungsdatum:** 17.07.2026 — HolyShop-Ersterscheinung, Apple Music, Deezer und Audible übereinstimmend. Die offizielle Schlagzeile der Fanseite ist auf den 13.07.2026 datiert; diesen Wert führte der Vault bis 12.10.2026 (korrigiert, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 4]]).
 - **Spielzeit:** 52 Minuten (HolyShop).
 - **Verlag:** Maritim (Produktion Holysoft).
 - **Autor:in:** noch nicht im Repo verifiziert.
@@ -73,3 +74,4 @@ tags:
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche-Notiz.
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update (Datum 17.07.2026, Spielzeit).
 - HolyShop-Serienseite: <https://shop.holysoft.de/serien/frankenstein-und-der-zirkel-der-sieben/>
+- [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).

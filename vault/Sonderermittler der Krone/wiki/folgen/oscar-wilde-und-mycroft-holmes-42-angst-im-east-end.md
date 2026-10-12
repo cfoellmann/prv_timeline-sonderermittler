@@ -3,7 +3,7 @@ type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 42
 titel: Angst im East End
-erschienen: 2023-03-31
+erschienen: 2023-04-07
 verlag: Maritim
 autor: "Silke Walter"
 spielzeit_min: 57
@@ -16,6 +16,7 @@ quellen:
   - raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge42-angst-im-east-end/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
 tags:
   - sonderermittler
 ---
@@ -26,7 +27,7 @@ tags:
 
 ## Eckdaten
 
-- **Erscheinungsdatum:** 31.03.2023.
+- **Erscheinungsdatum:** 07.04.2023. Bis 12.10.2026 führte der Vault den 31.03.2023; korrigiert nach HolyShop-Ersterscheinung und Apple Music (Entscheidung Christian, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 4]]).
 - **Angabe auf der offiziellen Seite:** 2023.
 - **Fandom-Abgleich (2026-04-30):** Fandom-Einzelseite markiert Folge 42 weiterhin als „angekündigt" (veraltet).
 - **Spielzeit:** 57 Minuten.
@@ -59,3 +60,4 @@ Nachdem die Mordserie nicht aufgeklärt werden konnte, geschieht eine neue Tat m
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Abgleich: Folge 42 auf Fandom noch als „angekündigt" markiert.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge42-angst-im-east-end/>
+- [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).

@@ -46,7 +46,7 @@ Rasputin wird im Kosmos als mystische und politisch gefährliche Figur dargestel
 
 ### Oscar Wilde & Mycroft Holmes
 
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-52-kinder-des-feuers|OWMH 52 – Kinder des Feuers]] (28.03.2025) — Rasputins Sekte bringt Ermittler unter Druck
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-52-kinder-des-feuers|OWMH 52 – Kinder des Feuers]] (18.04.2025) — Rasputins Sekte bringt Ermittler unter Druck
 
 ### Frankenstein
 

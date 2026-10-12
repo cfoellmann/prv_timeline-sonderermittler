@@ -3,7 +3,7 @@ type: folge
 serie: moriarty
 nummer: 25
 titel: Ein Hauch von Ewigkeit
-erschienen: 2026-05-06
+erschienen: 2026-06-05
 verlag: Maritim
 autor: ""
 sprecher: []
@@ -17,6 +17,7 @@ quellen:
   - raw/Sonderermittler_Update_2026-08-17.md
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge25-ein-hauch-von-ewigkeit/
+  - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
 tags:
   - moriarty
   - maritim
@@ -29,12 +30,12 @@ tags:
 
 ## Eckdaten
 
-- **Erscheinungsdatum:** 06.05.2026.
+- **Erscheinungsdatum:** 05.06.2026 — HolyShop (Ersterscheinung und Vorankündigung), Apple Music, Deezer, Audible; Schlagzeile der Fanseite vom 04.06.2026.
 - **Spielzeit:** 68 Minuten.
 - **Verlag:** Maritim (Produktion Holysoft).
 - **Autor:in:** noch nicht im Repo verifiziert.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge25-ein-hauch-von-ewigkeit/>
-- **Hinweis:** HolyShop kündigte die Folge zuvor für den 05.06.2026 an; die offizielle Folgenseite nennt den 06.05.2026.
+- **Hinweis:** Die offizielle Folgenseite nennt den 06.05.2026 (ein Mittwoch) — Tag/Monat-Dreher wie bei [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho|SH 23]]. Der Vault führte diesen Wert bis 12.10.2026 (korrigiert, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 4]]).
 
 ## Hauptfiguren
 
@@ -71,3 +72,4 @@ tags:
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge25-ein-hauch-von-ewigkeit/>
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche-Notiz zur Vault-Lücke.
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update (nennt Folge 25 nicht, Anlass der Nachrecherche).
+- [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).

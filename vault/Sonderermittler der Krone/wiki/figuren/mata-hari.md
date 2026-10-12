@@ -40,7 +40,7 @@ Mata Hari wird im Maritim-Kosmos als exotische Femme Fatale und geschickte Spion
 - [[wiki/folgen/moriarty-22-gruenes-feuer|MOR 22 – Grünes Feuer]] (05.12.2025)
 - [[wiki/folgen/moriarty-23-jagdinstinkt|MOR 23 – Jagdinstinkt]] (06.02.2026)
 - [[wiki/folgen/moriarty-24-ausgeliefert|MOR 24 – Ausgeliefert]] (10.04.2026)
-- [[wiki/folgen/moriarty-25-ein-hauch-von-ewigkeit|MOR 25 – Ein Hauch von Ewigkeit]] (06.05.2026) — offiziell gelistet
+- [[wiki/folgen/moriarty-25-ein-hauch-von-ewigkeit|MOR 25 – Ein Hauch von Ewigkeit]] (05.06.2026) — offiziell gelistet
 - [[wiki/folgen/moriarty-26-der-teufel-von-cat-rock|MOR 26 – Der Teufel von Cat Rock]] (31.07.2026) — offiziell gelistet
 - [[wiki/folgen/moriarty-27-tiefe-wasser|MOR 27 – Tiefe Wasser]] (25.09.2026) — hat sich ebenfalls getrennt
 

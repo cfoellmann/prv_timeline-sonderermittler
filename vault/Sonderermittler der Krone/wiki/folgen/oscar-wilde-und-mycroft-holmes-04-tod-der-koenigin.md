@@ -3,7 +3,7 @@ type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 4
 titel: Tod der Königin
-erschienen: 2016-07-14
+erschienen: 2016-07-15
 verlag: Maritim
 autor: "Jonas Maas"
 spielzeit_min: 76
@@ -15,6 +15,7 @@ quellen:
   - raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
 tags:
   - koenigshaus
   - zirkel
@@ -30,7 +31,7 @@ tags:
 - **Fandom-Abgleich (2026-04-30):** Folge 4 hat auf Fandom eine verlinkte Einzelseite.
 - **Setting / Zeit:** 1890er Jahre, genauer In-Universe-Zeitpunkt im Repo noch offen.
 - **Schauplatz:** Großbritannien, Machtzentrum rund um Krone und Königshaus.
-- **Erscheinungsdatum:** 14. Juli 2016.
+- **Erscheinungsdatum:** 15.07.2016. Bis 12.10.2026 führte der Vault den 14.07.2016 (so auch die Löchel-Chronologie); korrigiert nach HolyShop-Ersterscheinung und Apple Music (Entscheidung Christian, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 4]]).
 - **Spielzeit:** 76 Minuten.
 - **Autor:in:** Jonas Maas (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
@@ -74,6 +75,7 @@ tags:
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Erscheinungsdatum, Erstauftritt Dr. Alfons Grell.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge04-tod-der-koenigin/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+- [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
 
 
 

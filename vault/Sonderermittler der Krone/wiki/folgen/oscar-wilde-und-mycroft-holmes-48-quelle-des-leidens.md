@@ -3,7 +3,7 @@ type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 48
 titel: Quelle des Leidens
-erschienen: 2024-05-31
+erschienen: 2024-03-29
 verlag: Maritim
 autor: "Silke Walter"
 sprecher:
@@ -25,6 +25,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge48-quelle-des-leidens/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
 tags:
   - sonderermittler
 ---
@@ -35,7 +36,7 @@ tags:
 
 ## Eckdaten
 
-- **Erscheinungsdatum:** 31.05.2024.
+- **Erscheinungsdatum:** 29.03.2024. Bis 12.10.2026 führte der Vault den 31.05.2024; korrigiert nach HolyShop-Ersterscheinung und Apple Music (Entscheidung Christian, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 4]]).
 - **Angabe auf der offiziellen Seite:** 2024.
 - **Fandom-Abgleich (2026-04-30):** Auf der Fandom-Serienseite gelistet, aber ohne verlinkte Einzelseite.
 - **Spielzeit:** 57 Minuten.
@@ -69,5 +70,6 @@ Wilde und Sherlock sind Harold Snyder nun näher auf der Spur, während Frankens
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge48-quelle-des-leidens/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Serienseiten-Abgleich: Folge ist gelistet, aber nicht als eigene Fandom-Seite verlinkt.
 - [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Besetzung OWMH 45–60 (Audible, Hörspieltalk, Raute Media, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
 
 

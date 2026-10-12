@@ -3,7 +3,7 @@ type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 22
 titel: Die vierte Macht
-erschienen: 2019-07-26
+erschienen: 2019-07-31
 verlag: Maritim
 autor: "Henner Hildebrandt & Thomas Balfour"
 spielzeit_min: 72
@@ -15,6 +15,7 @@ quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge22-die-vierte-macht/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
 tags:
   - sonderermittler
 ---
@@ -26,7 +27,7 @@ tags:
 ## Eckdaten
 
 - **Fandom-Abgleich (2026-04-30):** Folge 22 hat auf Fandom eine verlinkte Einzelseite.
-- **Erscheinungsdatum:** 26.07.2019.
+- **Erscheinungsdatum:** 31.07.2019. Bis 12.10.2026 führte der Vault den 26.07.2019; korrigiert nach HolyShop-Ersterscheinung und Apple Music (Entscheidung Christian, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 4]]).
 - **Erscheinungsjahr (offizielle Seite):** 2019.
 - **Spielzeit:** 72 Minuten.
 - **Autor:in:** Henner Hildebrandt & Thomas Balfour (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
@@ -57,6 +58,7 @@ Nach dem Mord an einem jungen Mann, der Wilde ein Geheimnis anvertraut hatte, ge
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge22-die-vierte-macht/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+- [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
 
 
 

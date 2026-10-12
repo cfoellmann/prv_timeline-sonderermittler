@@ -3,7 +3,7 @@ type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 39
 titel: Der Pfad der Toten
-erschienen: 2022-05-27
+erschienen: 2022-07-29
 verlag: Maritim
 autor: "Jonas Maas"
 spielzeit_min: 65
@@ -15,6 +15,7 @@ quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge39-der-pfad-der-toten/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
 tags:
   - sonderermittler
 ---
@@ -25,7 +26,7 @@ tags:
 
 ## Eckdaten
 
-- **Erscheinungsdatum:** 27.05.2022.
+- **Erscheinungsdatum:** 29.07.2022. Bis 12.10.2026 führte der Vault den 27.05.2022; korrigiert nach HolyShop-Ersterscheinung und Apple Music (Entscheidung Christian, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 4]]).
 - **Angabe auf der offiziellen Seite:** 2022.
 - **Fandom-Abgleich (2026-04-30):** Folge 39 hat auf Fandom eine verlinkte Einzelseite.
 - **Spielzeit:** 65 Minuten.
@@ -57,5 +58,6 @@ Die Sonderermittler bekommen endlich eine Spur, mit der sie dem Zirkel zuvorkomm
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge39-der-pfad-der-toten/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+- [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
 
 

@@ -9,8 +9,8 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 ## Übersicht
 
 - [[wiki/universum|Universum – Maritim-Kosmos]] — Zentrale Einstiegsseite mit allen Serien.
-- [[wiki/queries/quellenlage-und-kanonkarte|Quellenlage & Kanonkarte]] — Meta-Auswertung: welche Quelle wofür belastbar ist, Kanon-Beziehungskarte, bekannte Datenfehler der Primärquelle (seit 12.10.2026 inkl. Datumsdreher SH 23, Verdacht MOR 25), Audible-Datumsmuster, HolyShop-Ersterscheinung, Raute Media und Fanseiten-Figurenseiten als neue Quellen.
-- [[wiki/queries/lint-2026-10-12|Lint / Health-Check 2026-10-12]] — **aktueller** Vault-Gesundheitsbericht: 320 Folgen, 0 Divergenzen Wiki ↔ `folgen.json`; korrigiert wurden 153 Index-Datumsangaben (davon 56 falsche Jahre), 79 Datumszellen in Serien-Folgenlisten, 15 Laufzeiten auf den `raw/`-Fanseitenwert (1-Minuten-Versatz der Apple-Trackssumme), 4 defekte `raw/`-Links und die Zähltabelle in `universum.md`. Nachtrag: alle sechs Rückfragen umgesetzt — 25 `zirkel`-Werte gegen `raw/` geprüft (10 auf `direkt`, 10 auf `unklar`), `story_praezision: "geschaetzt"` dokumentiert (Schema 1.1.1), Altfelder bereinigt, Figurenseite Professor Challenger. Nachtrag 2: Audible-Datumskonflikte DNAPF 42/WMU 1 geklärt (Vault bestätigt), Audible-Muster, 38 offene HolyShop-Abweichungen (u. a. MOR 25, OWMH 46–56), Besetzung OWMH 45–60 eingetragen.
+- [[wiki/queries/quellenlage-und-kanonkarte|Quellenlage & Kanonkarte]] — Meta-Auswertung: welche Quelle wofür belastbar ist, Kanon-Beziehungskarte, bekannte Datenfehler der Primärquelle (seit 12.10.2026 inkl. Datumsdreher SH 23 und MOR 25; Entscheidung „zwei Datumsbegriffe“ vom 06.09. revidiert), Audible-Datumsmuster, HolyShop-Ersterscheinung, Raute Media und Fanseiten-Figurenseiten als neue Quellen.
+- [[wiki/queries/lint-2026-10-12|Lint / Health-Check 2026-10-12]] — **aktueller** Vault-Gesundheitsbericht: 320 Folgen, 0 Divergenzen Wiki ↔ `folgen.json`; korrigiert wurden 153 Index-Datumsangaben (davon 56 falsche Jahre), 79 Datumszellen in Serien-Folgenlisten, 15 Laufzeiten auf den `raw/`-Fanseitenwert (1-Minuten-Versatz der Apple-Trackssumme), 4 defekte `raw/`-Links und die Zähltabelle in `universum.md`. Nachtrag: alle sechs Rückfragen umgesetzt — 25 `zirkel`-Werte gegen `raw/` geprüft (10 auf `direkt`, 10 auf `unklar`), `story_praezision: "geschaetzt"` dokumentiert (Schema 1.1.1), Altfelder bereinigt, Figurenseite Professor Challenger. Nachtrag 2: Audible-Datumskonflikte DNAPF 42/WMU 1 geklärt (Vault bestätigt), Audible-Muster, 38 offene HolyShop-Abweichungen (u. a. MOR 25, OWMH 46–56), Besetzung OWMH 45–60 eingetragen. Nachtrag 4: 35 Erscheinungsdaten auf HolyShop-Ersterscheinung = Apple korrigiert (u. a. MOR 25, OWMH 46–56), 3 offen.
 - [[wiki/queries/lint-2026-09-06|Lint / Health-Check 2026-09-06]] — Vault-Gesundheitsbericht: 317 Folgen, 0 Divergenzen Wiki ↔ `folgen.json`, 0 verwaiste Seiten, alle Serienzählungen korrekt. Offen sind nur inhaltliche Punkte — allen voran die fehlenden Sprecher:innen (301 von 317) und die In-Universe-Zeitachse.
 - [[wiki/queries/lint-2026-08-17|Lint / Health-Check 2026-08-17]] — Vault-Gesundheitsbericht inkl. Abarbeitung: Umlaut-Rückkorrektur (2002 Stellen), 10 Datumsfehler in `folgen.json`, `zirkel`-Vereinheitlichung, Schema 1.1.0. Offen bleiben die zentralen Figuren-Stubs und die In-Universe-Zeitachse.
 
@@ -35,7 +35,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/serien/moriarty|Moriarty – Zwischen Genie und Verbrechen]] — seit 2020, Krimi, 28 Folgen (`0` bis `27`); Unsterblichkeits-Arc 25–27 führt über den Atlantik nach Cat Rock und auf die Bahamas.
 - [[wiki/serien/dracula|Dracula und der Zirkel der Sieben]] — 2020–2024, Horror, 16 Folgen, abgeschlossen; Antagonisten-Spin-off um den Anführer des Zirkels. Wird 2026 über FRANK 26/27 und SH 23 von aussen fortgeschrieben.
 - [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]] — seit 2020, Horror, 27 Folgen + Folge 28 als Vormerkung (13.11.2026, 54 min); Tarnmantel-/Karpaten-Arc 25–28, Folgen 29 und 31–36 nur dem Titel nach angekündigt.
-- [[wiki/serien/sherlock-holmes|Sherlock Holmes – Sonderermittler der Krone]] — seit 25.11.2022, Krimi, 23 Folgen + Folge 24 (04.12.2026) als Vormerkung, plus 10 integrierte Re-Release-Folgen; Voodoo-Arc 21–22, Dracula-Rückkehr ab 23.
+- [[wiki/serien/sherlock-holmes|Sherlock Holmes – Sonderermittler der Krone]] — seit 09.12.2022, Krimi, 23 Folgen + Folge 24 (04.12.2026) als Vormerkung, plus 10 integrierte Re-Release-Folgen; Voodoo-Arc 21–22, Dracula-Rückkehr ab 23.
 
 ### Blitz Verlag — Spin-offs ab Ende 2024
 
@@ -61,11 +61,11 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx|DNAPF 5 — Das Geheimnis der Eissphinx]] (12.08.2016) — Edgar Allan Poe wird erstmals im Kosmos verzeichnet.
 - [[wiki/folgen/phileas-fogg-06-der-leuchtturm-am-ende-der-welt|DNAPF 6 — Der Leuchtturm am Ende der Welt]] (07.10.2016) — Insel-, Leuchtturm- und Piratenfall; exaktes Erscheinungsdatum noch offen.
 - [[wiki/folgen/phileas-fogg-07-die-stadt-unter-der-erde|DNAPF 7 — Die Stadt unter der Erde]] (25.11.2016) — Fogg verfolgt in Schottland Sabotageakte bis in vergessene Stollen.
-- [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien|DNAPF 8 — Im Angesicht der Bestien]] (27.01.2017) — Frankensteins Konflikt mit Fogg spitzt sich laut Chronologie zu.
+- [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien|DNAPF 8 — Im Angesicht der Bestien]] (20.01.2017) — Frankensteins Konflikt mit Fogg spitzt sich laut Chronologie zu.
 - [[wiki/folgen/phileas-fogg-09-im-reich-des-zaren|DNAPF 9 — Im Reich des Zaren]] (24.03.2017) — Ein Aufstand in Sibirien verstrickt Fogg in eine geheime Operation.
 - [[wiki/folgen/phileas-fogg-10-der-herrscher-der-meere|DNAPF 10 — Der Herrscher der Meere]] (16.06.2017) — Erste belegte Zusammenarbeit von Phileas Fogg und Oscar Wilde.
-- [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant|DNAPF 11 — Die Jagd nach Kapitän Grant]] (17.11.2017) — Zweiter Teil des ersten dokumentierten Fogg/Wilde-Blocks.
-- [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|DNAPF 12 — Entscheidung in den Karpaten]] (17.11.2017) — Dracula tritt hier laut Chronologie erstmals im Kosmos auf.
+- [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant|DNAPF 11 — Die Jagd nach Kapitän Grant]] (01.09.2017) — Zweiter Teil des ersten dokumentierten Fogg/Wilde-Blocks.
+- [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|DNAPF 12 — Entscheidung in den Karpaten]] (10.11.2017) — Dracula tritt hier laut Chronologie erstmals im Kosmos auf.
 - [[wiki/folgen/phileas-fogg-13-der-untergang-der-welt|DNAPF 13 — Der Untergang der Welt]] (19.01.2018) — Ein Meteor bedroht die Erde, während Fogg Professor Xirdal aufsucht.
 - [[wiki/folgen/phileas-fogg-14-der-goldvulkan|DNAPF 14 — Der Goldvulkan]] (16.03.2018) — Ein Claim im Klondike führt in einen Goldrausch- und Sabotagefall.
 - [[wiki/folgen/phileas-fogg-15-die-schwimmende-stadt|DNAPF 15 — Die schwimmende Stadt]] (18.05.2018) — Eine künstliche Insel für Milliardäre wird zum Katastrophenschauplatz.
@@ -150,7 +150,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 
 ### Sherlock Holmes
 
-- [[wiki/folgen/sherlock-holmes-01-dunkle-kraefte-teil-1|SH 1 — Dunkle Kräfte, Teil 1]] (25.11.2022) — Nach einem Schlag des Zirkels geraten Holmes, Mycroft und van Dusen in eine seltsame Vergiftungsserie.
+- [[wiki/folgen/sherlock-holmes-01-dunkle-kraefte-teil-1|SH 1 — Dunkle Kräfte, Teil 1]] (09.12.2022) — Nach einem Schlag des Zirkels geraten Holmes, Mycroft und van Dusen in eine seltsame Vergiftungsserie.
 - [[wiki/folgen/sherlock-holmes-02-dunkle-kraefte-teil-2|SH 2 — Dunkle Kräfte, Teil 2]] (16.12.2022) — Holmes und van Dusen verfolgen die Mordserie weiter und stoßen dabei auch auf Moriarty.
 - [[wiki/folgen/sherlock-holmes-03-verraeterische-lilien|SH 3 — Verräterische Lilien]] (17.03.2023) — Ein Konflikt um Forschungsergebnisse wird für Holmes zu einem Fall aus Misstrauen und verdeckten Interessen.
 - [[wiki/folgen/sherlock-holmes-04-unter-falschem-verdacht|SH 4 — Unter falschem Verdacht]] (30.06.2023) — Ein Erpresser benutzt Moriartys Namen und zwingt Holmes in eine heikle Jagd.
@@ -225,7 +225,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/moriarty-22-gruenes-feuer|MOR 22 — Grünes Feuer]] (05.12.2025) — In der Nähe von Epping Forest kommt es zu seltsamen Lichtphänomenen. Ein Augenzeuge berichtet von Polarlichtern.
 - [[wiki/folgen/moriarty-23-jagdinstinkt|MOR 23 — Jagdinstinkt]] (06.02.2026) — Um die zerstörerische Erfindung Dr. Paynes - eine Waffe, die Elektrizität in tödliche Strahlen umwandeln kann - ist ein erbitterter Kampf entbrannt.
 - [[wiki/folgen/moriarty-24-ausgeliefert|MOR 24 — Ausgeliefert]] (10.04.2026) — Endlich ist es James Moriarty gelungen, den Strahlenapparat des Professor Payne in seinen Besitz zu bringen. In seinem Haus in London wagt er ein gefährliches Experiment.
-- [[wiki/folgen/moriarty-25-ein-hauch-von-ewigkeit|MOR 25 — Ein Hauch von Ewigkeit]] (06.05.2026) — Der Wahrsager Edgar Cayce erzählt Moriarty von einem magischen Stein; auf der Schiffsreise nach New York sind mächtige Gegner an Bord.
+- [[wiki/folgen/moriarty-25-ein-hauch-von-ewigkeit|MOR 25 — Ein Hauch von Ewigkeit]] (05.06.2026) — Der Wahrsager Edgar Cayce erzählt Moriarty von einem magischen Stein; auf der Schiffsreise nach New York sind mächtige Gegner an Bord.
 - [[wiki/folgen/moriarty-26-der-teufel-von-cat-rock|MOR 26 — Der Teufel von Cat Rock]] (31.07.2026) — Halb bewusstlos aus dem Atlantik gerettet, landet Moriarty auf der Insel Cat Rock, wo ein Mord geschieht.
 - [[wiki/folgen/moriarty-27-tiefe-wasser|MOR 27 — Tiefe Wasser]] (25.09.2026) — Eine Spur in Nassau und ein Wrack vor North Bimini bringen den untergetauchten Moriarty mit dem Erfinder Walter Blunt zusammen.
 
@@ -250,8 +250,8 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 
 ### Poe & Dupin
 
-- [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel|EAPAD 1 — Insel der tödlichen Rätsel]] (17.08.2018) — Erstauftritt von Gaston Morell; Zirkel-Bezug indirekt.
-- [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst|EAPAD 2 — Im Bann der Angst]] (21.09.2018) — Dracula tritt erstmals als „Sapriel" auf; Zirkel-Bezug indirekt.
+- [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel|EAPAD 1 — Insel der tödlichen Rätsel]] (13.07.2018) — Erstauftritt von Gaston Morell; Zirkel-Bezug indirekt.
+- [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst|EAPAD 2 — Im Bann der Angst]] (17.08.2018) — Dracula tritt erstmals als „Sapriel" auf; Zirkel-Bezug indirekt.
 - [[wiki/folgen/poe-und-dupin-03-die-toten-augen-von-paris|EAPAD 3 — Die toten Augen von Paris]] (14.09.2018) — Eine unheimliche Mordserie in Paris, bei der den Opfern die Augen herausgeschnitten werden.
 - [[wiki/folgen/poe-und-dupin-04-ein-leben-im-jenseits|EAPAD 4 — Ein Leben im Jenseits]] (21.12.2018) — Dupin und Poe ermitteln in einem Fall von vorgetäuschtem Tod und Identitätsdiebstahl.
 - [[wiki/folgen/poe-und-dupin-05-der-fluch-des-falschen-koenigs|EAPAD 5 — Der Fluch des falschen Königs]] (10.05.2019) — Eine mysteriöse Mordserie führt zu einem gefährlichen Geheimbund.
@@ -333,7 +333,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/frankenstein-23-jaeger-und-gejagter|FRANK 23 — Jäger und Gejagter]] (30.01.2026) — Die Rollen vertauschen sich.
 - [[wiki/folgen/frankenstein-24-toedliche-dosis|FRANK 24 — Tödliche Dosis]] (27.03.2026) — Abschluss des Australien-Arcs.
 - [[wiki/folgen/frankenstein-25-truegerische-hoffnung|FRANK 25 — Trügerische Hoffnung]] (22.05.2026) — Moriarty lässt Frankenstein und Lavache Tarnmäntel für alle Zirkelmitglieder entwickeln.
-- [[wiki/folgen/frankenstein-26-doppelte-tarnung|FRANK 26 — Doppelte Tarnung]] (13.07.2026) — Auf dem Weg zu Draculas Labor blockiert das Wetter die Karpaten-Reise; der Zirkel nimmt ein riskantes Angebot an.
+- [[wiki/folgen/frankenstein-26-doppelte-tarnung|FRANK 26 — Doppelte Tarnung]] (17.07.2026) — Auf dem Weg zu Draculas Labor blockiert das Wetter die Karpaten-Reise; der Zirkel nimmt ein riskantes Angebot an.
 - [[wiki/folgen/frankenstein-27-finsteres-erbe|FRANK 27 — Finsteres Erbe]] (11.09.2026) — Draculas Labor ist leergeräumt; Merlins Buch und das Kalte Blut sind verschwunden.
 - [[wiki/folgen/frankenstein-28-gegen-jeden-widerstand|FRANK 28 — Gegen jeden Widerstand]] (13.11.2026, geplant) — Die Rückreise mit Draculas Truhen gerät in Schwierigkeiten, während Robur und Killjoy bereits wissen, dass die Beute wertlos ist. 54 min. Watchlist.
 
@@ -342,17 +342,17 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-01-zeitenwechsel|OWMH 1 — Zeitenwechsel]] (11.03.2016) — Wilde wird Sonderermittler der Krone.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-02-finsteres-hochland|OWMH 2 — Finsteres Hochland]] (11.03.2016) — Wilde untersucht eine Vermisstenserie im schottischen Hochland.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-03-das-geheimnis-des-alchemisten|OWMH 3 — Das Geheimnis des Alchemisten]] (13.05.2016) — Ein Mord im Vatikan führt Wilde undercover nach Rom.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-04-tod-der-koenigin|OWMH 4 — Tod der Königin]] (14.07.2016) — Der Zirkel greift das britische Königshaus offen an.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-04-tod-der-koenigin|OWMH 4 — Tod der Königin]] (15.07.2016) — Der Zirkel greift das britische Königshaus offen an.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-05-kalter-fels|OWMH 5 — Kalter Fels]] (09.09.2016) — Eine Expedition sucht im Nordatlantik eine namenlose Insel mit Hinweisen auf eine mörderische Verschwörung.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-06-hexenwald|OWMH 6 — Hexenwald]] (18.11.2016) — Verschwundene Frauen und alte Legenden führen Oscar Wilde in den Schwarzwald.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-07-ritual-des-grauens|OWMH 7 — Ritual des Grauens]] (27.01.2017) — Eine Mordserie an Wissenschaftlern zwingt Oscar Wilde in einen Wettlauf gegen die Zeit.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-08-der-roentgen-zwischenfall|OWMH 8 — Der Röntgen-Zwischenfall]] (31.03.2017) — Die Entführung Röntgens droht Europa in eine politische Katastrophe zu stürzen.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-06-hexenwald|OWMH 6 — Hexenwald]] (11.11.2016) — Verschwundene Frauen und alte Legenden führen Oscar Wilde in den Schwarzwald.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-07-ritual-des-grauens|OWMH 7 — Ritual des Grauens]] (13.01.2017) — Eine Mordserie an Wissenschaftlern zwingt Oscar Wilde in einen Wettlauf gegen die Zeit.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-08-der-roentgen-zwischenfall|OWMH 8 — Der Röntgen-Zwischenfall]] (17.03.2017) — Die Entführung Röntgens droht Europa in eine politische Katastrophe zu stürzen.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-09-das-erbe-des-doktors|OWMH 9 — Das Erbe des Doktors]] (26.05.2017) — Ein rätselhafter Gewaltausbruch in Paris führt zu Dr. Jekylls gefährlichem Erbe.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-10-eine-nacht-am-brocken|OWMH 10 — Eine Nacht am Brocken]] (21.07.2017) — Ein Ausflug auf den Brocken setzt eine Gefahr für ganz Großbritannien in Gang.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-11-die-namenlose-aus-der-seine|OWMH 11 — Die Namenlose aus der Seine]] (29.09.2017) — Eine geheimnisvolle Frau in Paris wird zum Ziel einer tödlichen Jagd.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-12-der-geheimbund-der-masken|OWMH 12 — Der Geheimbund der Masken]] (24.11.2017) — Ein geheimnisvolles Haus und maskierte Gegner führen zu einem verhängnisvollen Plan.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-13-die-auktion-der-diebe|OWMH 13 — Die Auktion der Diebe]] (26.01.2018) — Oscar Wilde schleust sich in Marrakesch in die legendäre Auktion der Diebe ein.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-14-labyrinth-der-angst|OWMH 14 — Labyrinth der Angst]] (29.03.2018) — Mycrofts Entführung führt Oscar Wilde in eine verborgene Forschungsstation unter der Stadt.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-14-labyrinth-der-angst|OWMH 14 — Labyrinth der Angst]] (30.03.2018) — Mycrofts Entführung führt Oscar Wilde in eine verborgene Forschungsstation unter der Stadt.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-15-goldrausch|OWMH 15 — Goldrausch]] (25.05.2018) — Am Klondike jagen Wilde und Holmes einen Betrüger bis in die eisige Wildnis.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-16-der-austausch|OWMH 16 — Der Austausch]] (27.07.2018) — Eine Mission in Prag wird zum Spiel aus Täuschung, Diplomatie und Mord.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-17-der-maharadscha-der-nacht|OWMH 17 — Der Maharadscha der Nacht]] (28.09.2018) — In Londons Unterwelt erhebt sich ein alter Feind mit neuer Macht.
@@ -360,41 +360,41 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-19-blutdurst|OWMH 19 — Blutdurst]] (31.01.2019) — Nach einem Schiffsunglück in Whitby beginnt eine grausame Mordserie.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-20-blutzoll|OWMH 20 — Blutzoll]] (29.03.2019) — Kaum aus Whitby zurück, muss Oscar Wilde in London gegen einen neuen Schattengegner antreten.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-21-boleskine-house|OWMH 21 — Boleskine House]] (31.05.2019) — In Schottland führt eine Spur zu einem Zirkel-Treffen im Boleskine House.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-22-die-vierte-macht|OWMH 22 — Die vierte Macht]] (26.07.2019) — Ein Mordfall aus Wildes persönlichem Umfeld zieht ihn selbst ins Fadenkreuz.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-22-die-vierte-macht|OWMH 22 — Die vierte Macht]] (31.07.2019) — Ein Mordfall aus Wildes persönlichem Umfeld zieht ihn selbst ins Fadenkreuz.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-23-das-medusa-syndrom|OWMH 23 — Das Medusa-Syndrom]] (30.09.2019) — Eine verschwundene Polar-Expedition verwandelt ein Forschungsabenteuer in einen Überlebenskampf.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-24-der-knochenhaendler|OWMH 24 — Der Knochenhändler]] (29.11.2019) — Eine zerstückelte Tote führt Wilde zu einer mörderischen Leichenhandels-Intrige.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-24-der-knochenhaendler|OWMH 24 — Der Knochenhändler]] (27.11.2019) — Eine zerstückelte Tote führt Wilde zu einer mörderischen Leichenhandels-Intrige.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-25-altes-blut|OWMH 25 — Altes Blut]] (31.01.2020) — Nach einem vereitelten Anschlag öffnet sich die nächste Front um ein gefährliches Geheimnis.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-26-dunkle-fluten|OWMH 26 — Dunkle Fluten]] (27.03.2020) — Rätselhafte Todesfälle an der Themse lösen neue Ripper-Angst aus.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-26-dunkle-fluten|OWMH 26 — Dunkle Fluten]] (03.04.2020) — Rätselhafte Todesfälle an der Themse lösen neue Ripper-Angst aus.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-27-dreissig-silberlinge|OWMH 27 — Dreißig Silberlinge]] (29.05.2020) — Eine tödliche Unglücksserie unter Eliten weist auf ein uraltes Komplott hin.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-28-der-laengste-tag|OWMH 28 — Der längste Tag]] (28.07.2020) — Mycroft Holmes wird selbst zur Zielscheibe eines perfiden Anschlagsspiels.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-29-brennender-zorn|OWMH 29 — Brennender Zorn]] (30.09.2020) — Ein rätselhafter Feuertod führt in eine fanatische russische Sekte.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-30-die-stimme-des-verraeters|OWMH 30 — Die Stimme des Verräters]] (27.11.2020) — Ein sterbender Feind enthüllt Geheimnisse und lenkt den Blick nach Island.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-29-brennender-zorn|OWMH 29 — Brennender Zorn]] (25.09.2020) — Ein rätselhafter Feuertod führt in eine fanatische russische Sekte.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-30-die-stimme-des-verraeters|OWMH 30 — Die Stimme des Verräters]] (04.12.2020) — Ein sterbender Feind enthüllt Geheimnisse und lenkt den Blick nach Island.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-31-die-13-stufen|OWMH 31 — Die 13 Stufen]] (29.01.2021) — Auf Sizilien suchen Wilde und Wheeler nach einem Versteck des Zirkels.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-32-im-reich-des-feindes|OWMH 32 — Im Reich des Feindes]] (26.03.2021) — Unter der Erde dringen Wilde und seine Begleiter bis ins Feindesreich vor.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-33-apocalypsis|OWMH 33 — Apocalypsis]] (28.05.2021) — Die Sonderermittler erkennen zu spät, dass sie in eine Falle geraten sind.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-34-asche-und-rauch|OWMH 34 — Asche und Rauch]] (30.07.2021) — Im zerstörten London suchen Wilde und Irene nach Mycroft und nach Hoffnung.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-35-zwielicht|OWMH 35 — Zwielicht]] (24.09.2021) — Der Zirkel greift offen nach der Macht in England.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-34-asche-und-rauch|OWMH 34 — Asche und Rauch]] (06.08.2021) — Im zerstörten London suchen Wilde und Irene nach Mycroft und nach Hoffnung.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-35-zwielicht|OWMH 35 — Zwielicht]] (15.10.2021) — Der Zirkel greift offen nach der Macht in England.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-36-am-ende-der-zeit|OWMH 36 — Am Ende der Zeit]] (26.11.2021) — Nach einem Sieg gegen den Zirkel verschwindet Mycroft Holmes spurlos.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-37-das-herz-der-see|OWMH 37 — Das Herz der See]] (28.01.2022) — Ein gestohlenes Tagebuch und mehrere Morde lösen eine globale Jagd aus.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-38-ausser-kontrolle|OWMH 38 — Außer Kontrolle]] (25.03.2022) — Im Amazonasgebiet wird eine Expedition zur Jagd nach einem gefährlichen Artefakt.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-39-der-pfad-der-toten|OWMH 39 — Der Pfad der Toten]] (27.05.2022) — Im Himalaya jagt Oscar Wilde für die Sonderermittler ein Artefakt, bevor der Zirkel es erreicht.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-37-das-herz-der-see|OWMH 37 — Das Herz der See]] (01.04.2022) — Ein gestohlenes Tagebuch und mehrere Morde lösen eine globale Jagd aus.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-38-ausser-kontrolle|OWMH 38 — Außer Kontrolle]] (10.06.2022) — Im Amazonasgebiet wird eine Expedition zur Jagd nach einem gefährlichen Artefakt.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-39-der-pfad-der-toten|OWMH 39 — Der Pfad der Toten]] (29.07.2022) — Im Himalaya jagt Oscar Wilde für die Sonderermittler ein Artefakt, bevor der Zirkel es erreicht.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-40-lockruf-des-untergangs|OWMH 40 — Lockruf des Untergangs]] (30.09.2022) — Eine Mordserie in Rom führt Wilde und Violet Ishiguro in einen Artefakt-Plot um den Zirkel.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung|OWMH 41 — Auf Bewährung]] (27.01.2023) — Wilde und Sherlock verfolgen im East End eine Mordserie, die direkt in Folge 42 weiterläuft.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-42-angst-im-east-end|OWMH 42 — Angst im East End]] (31.03.2023) — Ein weiterer Mord führt Wilde zu einem alten Feind im East End.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung|OWMH 41 — Auf Bewährung]] (02.12.2022) — Wilde und Sherlock verfolgen im East End eine Mordserie, die direkt in Folge 42 weiterläuft.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-42-angst-im-east-end|OWMH 42 — Angst im East End]] (07.04.2023) — Ein weiterer Mord führt Wilde zu einem alten Feind im East End.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-43-neue-wege|OWMH 43 — Neue Wege]] (26.05.2023) — Der Tod von Dr. Hoffman und eine Entführung weisen auf einen größeren Plan.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-44-dunkler-einfluss|OWMH 44 — Dunkler Einfluss]] (28.07.2023) — Der Zirkel will über Lord Duncan das Königshaus unterwandern.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-45-laune-der-natur|OWMH 45 — Laune der Natur]] (29.09.2023) — Das Verschwinden eines Studenten führt in ein Milieu aus Schweigen und Gefahr.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-46-zelle-des-lebens|OWMH 46 — Zelle des Lebens]] (26.01.2024) — Leichendiebstahl und Vermisstenfall scheinen zusammenzugehören.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-47-ursprung-des-seins|OWMH 47 — Ursprung des Seins]] (29.03.2024) — Frankenstein rückt als Schlüsselfigur der Leichendiebstähle ins Blickfeld.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-48-quelle-des-leidens|OWMH 48 — Quelle des Leidens]] (31.05.2024) — Frankenstein plant ein neues menschenzüchterisches Experiment.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-49-albtraum|OWMH 49 — Albtraum]] (26.07.2024) — Grabschändungen auf Londons Friedhöfen bedrohen bald mehr als nur die Totenruhe.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-46-zelle-des-lebens|OWMH 46 — Zelle des Lebens]] (01.12.2023) — Leichendiebstahl und Vermisstenfall scheinen zusammenzugehören.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-47-ursprung-des-seins|OWMH 47 — Ursprung des Seins]] (26.01.2024) — Frankenstein rückt als Schlüsselfigur der Leichendiebstähle ins Blickfeld.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-48-quelle-des-leidens|OWMH 48 — Quelle des Leidens]] (29.03.2024) — Frankenstein plant ein neues menschenzüchterisches Experiment.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-49-albtraum|OWMH 49 — Albtraum]] (07.06.2024) — Grabschändungen auf Londons Friedhöfen bedrohen bald mehr als nur die Totenruhe.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis|OWMH 50 — Bittere Erkenntnis]] (27.09.2024) — Nach Mycrofts Mord geraten die Ermittlungen nahe an das Königshaus.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-51-diadem-der-macht|OWMH 51 — Diadem der Macht]] (31.01.2025) — Zwei parallele Fälle führen nach Edinburgh und in ein irisches Dorf.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-52-kinder-des-feuers|OWMH 52 — Kinder des Feuers]] (28.03.2025) — Rasputins Sekte bringt die Ermittler in Irland und Edinburgh unter Druck.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-53-gefaehrliche-versuchung|OWMH 53 — Gefährliche Versuchung]] (30.05.2025) — Ein Bombenanschlag und eine Einbruchserie deuten auf einen abgestimmten Plan.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-54-stoerungen|OWMH 54 — Störungen]] (26.09.2025) — Ausfälle in Londons Kommunikationsnetz gehen womöglich auf alte Feinde zurück.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-55-blumen-des-verderbens|OWMH 55 — Blumen des Verderbens]] (30.01.2026) — Geiselnahme im Museum und neuer Brandanschlag verschärfen die Krise.
-- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-56-toedliche-farben|OWMH 56 — Tödliche Farben]] (27.03.2026) — Moriarty markiert die Sonderermittler und nutzt ihren Standort gegen sie.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-51-diadem-der-macht|OWMH 51 — Diadem der Macht]] (14.02.2025) — Zwei parallele Fälle führen nach Edinburgh und in ein irisches Dorf.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-52-kinder-des-feuers|OWMH 52 — Kinder des Feuers]] (18.04.2025) — Rasputins Sekte bringt die Ermittler in Irland und Edinburgh unter Druck.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-53-gefaehrliche-versuchung|OWMH 53 — Gefährliche Versuchung]] (18.07.2025) — Ein Bombenanschlag und eine Einbruchserie deuten auf einen abgestimmten Plan.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-54-stoerungen|OWMH 54 — Störungen]] (19.09.2025) — Ausfälle in Londons Kommunikationsnetz gehen womöglich auf alte Feinde zurück.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-55-blumen-des-verderbens|OWMH 55 — Blumen des Verderbens]] (28.11.2025) — Geiselnahme im Museum und neuer Brandanschlag verschärfen die Krise.
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-56-toedliche-farben|OWMH 56 — Tödliche Farben]] (20.03.2026) — Moriarty markiert die Sonderermittler und nutzt ihren Standort gegen sie.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-57-zwietracht|OWMH 57 — Zwietracht]] (15.05.2026) — Verstümmelte Leichen in der Themse; Wilde verdächtigt Frankenstein und gerät mit Irene Adler in Konflikt.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-58-alleingang|OWMH 58 — Alleingang]] (10.07.2026) — Eine weitere Themse-Leiche, ein furchtbarer Verdacht — und Irene Adler ist verschwunden.
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-59-die-spur-der-echse|OWMH 59 — Die Spur der Echse]] (04.09.2026) — Ein Biologieprofessor bringt Wilde auf die Spur einer jahrhundertealten Echse; er reist allein auf eine irische Insel.

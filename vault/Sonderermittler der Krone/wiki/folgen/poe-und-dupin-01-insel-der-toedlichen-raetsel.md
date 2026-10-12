@@ -3,7 +3,7 @@ type: folge
 serie: poe-und-dupin
 nummer: 1
 titel: Insel der tödlichen Rätsel
-erschienen: 2018-08-17
+erschienen: 2018-07-13
 verlag: Maritim
 autor: "Markus Duschek"
 spielzeit_min: 73
@@ -13,6 +13,7 @@ status: stub
 quellen:
   - raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
 tags:
   - erstauftritt-gaston-morell
 ---
@@ -26,7 +27,7 @@ tags:
 - **Serie:** [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]]
 - **Nummer:** 1
 - **Titel:** Insel der tödlichen Rätsel
-- **Erschienen:** 2018-08-17
+- **Erschienen:** 2018-07-13 — Bis 12.10.2026 führte der Vault den 17.08.2018; korrigiert nach HolyShop-Ersterscheinung und Apple Music (Entscheidung Christian, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 4]]).
 - **Verlag:** Maritim
 - **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Zirkel-Bezug:** Indirekt
@@ -40,3 +41,4 @@ tags:
 ## Quellen
 
 - [raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md](../../raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md)
+- [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).

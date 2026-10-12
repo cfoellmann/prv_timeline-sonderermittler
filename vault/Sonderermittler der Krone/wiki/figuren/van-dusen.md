@@ -24,7 +24,7 @@ tags:
 
 | Folge | Rolle (laut Quelle) |
 |---|---|
-| [[wiki/folgen/sherlock-holmes-01-dunkle-kraefte-teil-1\|SH 1 — Dunkle Kräfte, Teil 1]] (25.11.2022) | untersucht auf Bitten Mycroft Holmes' eine seltsame Vergiftungsserie bereits am Tatort, als Sherlock Holmes dazustößt (Klappentext) |
+| [[wiki/folgen/sherlock-holmes-01-dunkle-kraefte-teil-1\|SH 1 — Dunkle Kräfte, Teil 1]] (09.12.2022) | untersucht auf Bitten Mycroft Holmes' eine seltsame Vergiftungsserie bereits am Tatort, als Sherlock Holmes dazustößt (Klappentext) |
 | [[wiki/folgen/sherlock-holmes-02-dunkle-kraefte-teil-2\|SH 2 — Dunkle Kräfte, Teil 2]] (16.12.2022) | sucht mit Holmes mal gemeinsam, mal getrennt nach dem Täter; die Spur führt bis zu [[wiki/figuren/james-moriarty\|Moriarty]] (Klappentext) |
 
 In beiden Folgen nennt ihn **nur der Klappentext**; die offizielle Figurenliste der Folgenseiten führt Sherlock Holmes, John Watson, Mycroft Holmes und James Moriarty, nicht aber van Dusen (`raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md`). Deshalb steht er auf den Folgenseiten im Handlungstext, nicht unter „Hauptfiguren“.

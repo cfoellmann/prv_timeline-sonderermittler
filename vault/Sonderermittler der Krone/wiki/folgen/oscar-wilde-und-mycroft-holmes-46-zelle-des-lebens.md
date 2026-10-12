@@ -3,7 +3,7 @@ type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 46
 titel: Zelle des Lebens
-erschienen: 2024-01-26
+erschienen: 2023-12-01
 verlag: Maritim
 autor: "Silke Walter"
 sprecher:
@@ -23,6 +23,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge46-zelle-des-lebens/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
 tags:
   - sonderermittler
 ---
@@ -33,7 +34,7 @@ tags:
 
 ## Eckdaten
 
-- **Erscheinungsdatum:** 26.01.2024.
+- **Erscheinungsdatum:** 01.12.2023. Bis 12.10.2026 führte der Vault den 26.01.2024; korrigiert nach HolyShop-Ersterscheinung und Apple Music (Entscheidung Christian, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 4]]).
 - **Angabe auf der offiziellen Seite:** 2023.
 - **Fandom-Abgleich (2026-04-30):** Auf der Fandom-Serienseite gelistet, aber ohne verlinkte Einzelseite.
 - **Spielzeit:** 59 Minuten.
@@ -67,5 +68,6 @@ Während Wilde und Sherlock weiter nach Harold Snyder suchen, wird aus einer Pri
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge46-zelle-des-lebens/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Serienseiten-Abgleich: Folge ist gelistet, aber nicht als eigene Fandom-Seite verlinkt.
 - [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Besetzung OWMH 45–60 (Audible, Hörspieltalk, Raute Media, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
 
 

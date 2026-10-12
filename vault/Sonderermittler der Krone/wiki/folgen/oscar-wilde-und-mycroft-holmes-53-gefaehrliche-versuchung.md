@@ -3,7 +3,7 @@ type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 53
 titel: Gefährliche Versuchung
-erschienen: 2025-05-30
+erschienen: 2025-07-18
 verlag: Maritim
 autor: "Silke Walter"
 sprecher:
@@ -27,6 +27,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge53-gefaehrliche-versuchung/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
 tags:
   - sonderermittler
 ---
@@ -37,7 +38,7 @@ tags:
 
 ## Eckdaten
 
-- **Erscheinungsdatum:** 30.05.2025.
+- **Erscheinungsdatum:** 18.07.2025. Bis 12.10.2026 führte der Vault den 30.05.2025; korrigiert nach HolyShop-Ersterscheinung und Apple Music (Entscheidung Christian, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 4]]).
 - **Angabe auf der offiziellen Seite:** 2025.
 - **Fandom-Abgleich (2026-04-30):** Auf der Fandom-Serienseite gelistet, aber ohne verlinkte Einzelseite.
 - **Spielzeit:** 60 Minuten.
@@ -70,5 +71,6 @@ Wilde und Sherlock untersuchen den Anschlag auf einen Übungsplatz, während Ire
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge53-gefaehrliche-versuchung/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Serienseiten-Abgleich: Folge ist gelistet, aber nicht als eigene Fandom-Seite verlinkt.
 - [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Besetzung OWMH 45–60 (Audible, Hörspieltalk, Raute Media, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
 
 

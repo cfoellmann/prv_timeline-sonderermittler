@@ -53,11 +53,11 @@ Die ausgearbeitetste dokumentierte Reihenfolge stammt von **Ingo Löchel** auf Z
 3. **DNAPF 3** (2016-02-26)
 4. **OWMH 1 + 2** (2016-03-11) – Einstieg in den Sonderermittler-Plot
 5. **DNAPF 4** (2016-04-22)
-6. **OWMH 4** (2016-07-14) – Zirkel etabliert
+6. **OWMH 4** (2016-07-15; Löchel: 2016-07-14) – Zirkel etabliert
 7. **DNAPF 5** (2016-08-12)
 8. **SHC 26/27** (2016-09-02) – erstes Sherlock × Wilde Crossover
 9. **OWMH 5** (2016-09-09) – Charles-Darwin-Hintergrund
-10. **OWMH 6** (2016-11-18)
+10. **OWMH 6** (2016-11-11; Löchel: 2016-11-18)
 11. … fortlaufend, bis aktuell.
 
 > Die vollständige Liste wird mit jedem Folgen-Ingest in den Folgen-Seiten gepflegt; diese Konzept-Seite zeigt nur den Anfang als Anker.

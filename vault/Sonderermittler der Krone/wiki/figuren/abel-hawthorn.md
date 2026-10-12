@@ -40,15 +40,15 @@ tags:
 |---|---|---|
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-02-finsteres-hochland\|OWMH 2 — Finsteres Hochland]] (11.03.2016) | **Erstauftritt**; im Klappentext nicht genannt („kleine Gruppe von Ermittlern") | Löchel-Chronologie, Fandom-Besetzung |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-05-kalter-fels\|OWMH 5 — Kalter Fels]] (09.09.2016) | in der Besetzung | Fandom |
-| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-06-hexenwald\|OWMH 6 — Hexenwald]] (18.11.2016) | in der Besetzung | Fandom |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-06-hexenwald\|OWMH 6 — Hexenwald]] (11.11.2016) | in der Besetzung | Fandom |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-13-die-auktion-der-diebe\|OWMH 13 — Die Auktion der Diebe]] (26.01.2018) | in der Besetzung | Fandom |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-17-der-maharadscha-der-nacht\|OWMH 17 — Der Maharadscha der Nacht]] (28.09.2018) | in der Besetzung | Fandom |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-19-blutdurst\|OWMH 19 — Blutdurst]] (31.01.2019) | in der Besetzung | Fandom |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-20-blutzoll\|OWMH 20 — Blutzoll]] (29.03.2019) | in der Besetzung | Fandom |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-23-das-medusa-syndrom\|OWMH 23 — Das Medusa-Syndrom]] (30.09.2019) | in der Besetzung | Fandom |
-| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-24-der-knochenhaendler\|OWMH 24 — Der Knochenhändler]] (29.11.2019) | hilft Wilde, die Spur eines Leichenhandels bis in ein Hotel im East End zu verfolgen | Klappentext (Fanseite), Fandom |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-24-der-knochenhaendler\|OWMH 24 — Der Knochenhändler]] (27.11.2019) | hilft Wilde, die Spur eines Leichenhandels bis in ein Hotel im East End zu verfolgen | Klappentext (Fanseite), Fandom |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-25-altes-blut\|OWMH 25 — Altes Blut]] (31.01.2020) | in der Besetzung | Fandom |
-| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-26-dunkle-fluten\|OWMH 26 — Dunkle Fluten]] (27.03.2020) | in der Besetzung | Fandom |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-26-dunkle-fluten\|OWMH 26 — Dunkle Fluten]] (03.04.2020) | in der Besetzung | Fandom |
 | [[wiki/folgen/phileas-fogg-39-die-afrika-verschwoerung\|DNAPF 39 — Die Afrika-Verschwörung]] (09.02.2024) | „der Jäger Hawthorn"; gerät mit Challenger wegen der Vorgänge auf ihrer Schiffsfahrt unter Druck der Behörden | Klappentext; Identität **angenommen** |
 | [[wiki/folgen/phileas-fogg-40-im-land-der-tausend-gefahren\|DNAPF 40 — Im Land der tausend Gefahren]] (05.04.2024) | „Abel Hawthorn"; entkommt mit Challenger in Saint Noire knapp dem Henker | Klappentext; Identität **angenommen** |
 | [[wiki/folgen/phileas-fogg-41-aufbruch\|DNAPF 41 — Aufbruch]] (07.06.2024) | findet mit Challenger das Dorf der Affenmenschen zerstört, verfolgt die französischen Soldaten | Klappentext; Identität **angenommen** |

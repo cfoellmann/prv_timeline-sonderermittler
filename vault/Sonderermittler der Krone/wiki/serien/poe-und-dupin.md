@@ -3,7 +3,7 @@ type: serie
 titel: Edgar Allan Poe & Auguste Dupin
 verlag: Maritim
 genre: Krimi
-start: 2018-08-17
+start: 2018-07-13
 status: entwurf
 zirkel: true
 folgen_count: 36
@@ -25,7 +25,7 @@ tags: []
 
 - **Verlag:** Maritim
 - **Genre:** Krimi
-- **Erstveröffentlichung:** 17.08.2018.
+- **Erstveröffentlichung:** 13.07.2018 (HolyShop-Ersterscheinung und Apple; bis 12.10.2026 im Vault 17.08.2018 nach der Löchel-Chronologie).
 - **Folgenstand (Hauptlinie):** 36 (2026-08-17) — lückenlos im Vault dokumentiert.
 - **Crossover-Block 35–36:** In beiden Folgen stoßen die Sonderermittler der Krone zur Poe-Linie; in Folge 36 ermitteln [[wiki/figuren/irene-adler|Irene Adler]] und [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] direkt mit. Damit ist die Reihe erstmals eng an die Krimi-Hauptlinien gekoppelt.
 - **Bezug zum Zirkel:** sekundär. **Erst ab Folge 13 „Aufnahmeprüfung"** spielt der [[wiki/konzepte/zirkel-der-sieben|Zirkel]] eine wichtige Rolle — dort wird [[wiki/figuren/gaston-morell|Gaston Morell]] als 7. Mitglied aufgenommen. Davor: vereinzelte Zirkel-Erscheinungen (Dracula als „Sapriel" ab Folge 2).
@@ -42,8 +42,8 @@ tags: []
 
 | # | Titel | Datum | Zirkel | Crossover | Notizen |
 |---|---|---|---|---|---|
-| 01 | [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel\|Insel der tödlichen Rätsel]] | 17.08.2018 | indirekt |   | Erstauftritt Gaston Morell |
-| 02 | [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst\|Im Bann der Angst]] | 21.09.2018 | indirekt |   | Dracula tritt als „Sapriel" auf |
+| 01 | [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel\|Insel der tödlichen Rätsel]] | 13.07.2018 | indirekt |   | Erstauftritt Gaston Morell |
+| 02 | [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst\|Im Bann der Angst]] | 17.08.2018 | indirekt |   | Dracula tritt als „Sapriel" auf |
 | 03 | [[wiki/folgen/poe-und-dupin-03-die-toten-augen-von-paris\|Die toten Augen von Paris]] | 14.09.2018 | indirekt |   | Mordserie |
 | 04 | [[wiki/folgen/poe-und-dupin-04-ein-leben-im-jenseits\|Ein Leben im Jenseits]] | 21.12.2018 | indirekt |   | Scheintod, lebendig begraben |
 | 05 | [[wiki/folgen/poe-und-dupin-05-der-fluch-des-falschen-koenigs\|Der Fluch des falschen Königs]] | 10.05.2019 | indirekt |   | Ägyptologie-Betrug |

@@ -18,7 +18,7 @@ tags:
 
 ## Eckdaten
 
-- **Erstauftritt:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-04-tod-der-koenigin|OWMH 4 — Tod der Königin]] (14.07.2016).
+- **Erstauftritt:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-04-tod-der-koenigin|OWMH 4 — Tod der Königin]] (15.07.2016).
 - **Rolle:** Wissenschaftler; tritt laut Löchel-Chronologie in Dienste des Zirkels.
 - **Einordnung:** Verbündeter des Zirkels, aber nach aktuellem Repo-Stand kein Mitglied der „Sieben" selbst.
 
@@ -26,7 +26,7 @@ tags:
 
 | Folge | Rolle | Notiz |
 |---|---|---|
-| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-04-tod-der-koenigin\|OWMH 4 — Tod der Königin]] (14.07.2016) | Erstauftritt | Arbeitet mit dem Zirkel gegen das Königshaus |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-04-tod-der-koenigin\|OWMH 4 — Tod der Königin]] (15.07.2016) | Erstauftritt | Arbeitet mit dem Zirkel gegen das Königshaus |
 
 ## Beziehungen
 

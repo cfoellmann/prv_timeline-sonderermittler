@@ -3,7 +3,7 @@ type: folge
 serie: sherlock-holmes
 nummer: 1
 titel: Dunkle Kräfte, Teil 1
-erschienen: 2022-11-25
+erschienen: 2022-12-09
 verlag: Maritim
 autor: ""
 sprecher: []
@@ -16,6 +16,7 @@ status: entwurf
 quellen:
   - raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md
   - https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge01-dunkle-kraefte-teil-1/
+  - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
 tags:
   - sherlock-holmes
   - maritim
@@ -28,7 +29,7 @@ tags:
 
 ## Eckdaten
 
-- **Erscheinungsdatum:** 25.11.2022.
+- **Erscheinungsdatum:** 09.12.2022. Bis 12.10.2026 führte der Vault den 25.11.2022; korrigiert nach HolyShop-Ersterscheinung und Apple Music (Entscheidung Christian, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 4]]).
 - **Angabe auf der offiziellen Seite:** 2022.
 - **Spielzeit:** 72 Minuten.
 - **Verlag:** Maritim.
@@ -60,3 +61,4 @@ England hat sich kaum von einem Schlag des Zirkels der Sieben erholt, als Mycrof
 
 - [raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md](../../raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge01-dunkle-kraefte-teil-1/>
+- [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).

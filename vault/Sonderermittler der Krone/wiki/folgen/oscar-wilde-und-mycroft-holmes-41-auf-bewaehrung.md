@@ -3,7 +3,7 @@ type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 41
 titel: Auf Bewährung
-erschienen: 2023-01-27
+erschienen: 2022-12-02
 verlag: Maritim
 autor: Silke Walter
 spielzeit_min: 58
@@ -16,6 +16,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge41-auf-bewaehrung/
   - https://bastei-luebbe.de/Audio/Krimis-Thriller/Oscar-Wilde-Mycroft-Holmes-Folge-41/9783785784624
   - https://www.buchtips.net/rez11306-folge-41-auf-bewaehrung.htm
+  - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
 tags:
   - sonderermittler
 ---
@@ -27,7 +28,7 @@ tags:
 ## Eckdaten
 
 - **Fandom-Abgleich (2026-04-30):** Folge 41 hat auf Fandom eine verlinkte Einzelseite.
-- **Erscheinungsdatum:** 27.01.2023.
+- **Erscheinungsdatum:** 02.12.2022. Bis 12.10.2026 führte der Vault den 27.01.2023; korrigiert nach HolyShop-Ersterscheinung und Apple Music (Entscheidung Christian, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 4]]).
 - **Angabe auf der offiziellen Fan-Seite:** 2022.
 - **Spielzeit:** 58 Minuten.
 - **Verlag:** Maritim.
@@ -62,6 +63,7 @@ Im Londoner East End werden in mehreren Nächten entstellte Leichen gefunden, wa
 - Bastei Lübbe / Lübbe Audio: <https://bastei-luebbe.de/Audio/Krimis-Thriller/Oscar-Wilde-Mycroft-Holmes-Folge-41/9783785784624>
 - Buchtips-Rezension: <https://www.buchtips.net/rez11306-folge-41-auf-bewaehrung.htm>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+- [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
 
 
 

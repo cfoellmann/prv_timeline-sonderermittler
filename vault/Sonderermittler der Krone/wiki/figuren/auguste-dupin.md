@@ -22,7 +22,7 @@ tags:
 - **Rolle:** Sonderermittler der Krone, Detektiv
 - **Fraktion:** Helden
 - **Hauptserie:** [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]]
-- **Erstauftritt:** EAPAD 1 – Insel der tödlichen Rätsel (17.08.2018)
+- **Erstauftritt:** EAPAD 1 – Insel der tödlichen Rätsel (13.07.2018)
 
 ## Charakterisierung
 
@@ -32,7 +32,7 @@ Auguste Dupin ist eine literarische Figur aus Edgar Allan Poes Geschichten und g
 
 ### Edgar Allan Poe & Auguste Dupin
 
-- **EAPAD 1 – Insel der tödlichen Rätsel** (17.08.2018) — Serienauftakt
+- **EAPAD 1 – Insel der tödlichen Rätsel** (13.07.2018) — Serienauftakt
 - **EAPAD 2 – Der Mann, der sich selbst entführte** — Zweite Folge
 - Weitere 32 Folgen der Hauptserie (derzeit im Repo nur teilweise dokumentiert)
 - **EAPAD 13 – Aufnahmeprüfung** — Wichtige Zirkel-Episode (Gaston Morell wird aufgenommen)
@@ -51,9 +51,9 @@ Alle 36 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 
 | Folge | Rolle (laut Folgenseite) |
 |---|---|
-| [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel\|EAPAD 1 — Insel der tödlichen Rätsel]] (17.08.2018) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel\|EAPAD 1 — Insel der tödlichen Rätsel]] (13.07.2018) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst\|EAPAD 2 — Im Bann der Angst]] (17.08.2018) | gelistet, ohne Rollenangabe |
 | [[wiki/folgen/poe-und-dupin-03-die-toten-augen-von-paris\|EAPAD 3 — Die toten Augen von Paris]] (14.09.2018) | gelistet, ohne Rollenangabe |
-| [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst\|EAPAD 2 — Im Bann der Angst]] (21.09.2018) | gelistet, ohne Rollenangabe |
 | [[wiki/folgen/poe-und-dupin-04-ein-leben-im-jenseits\|EAPAD 4 — Ein Leben im Jenseits]] (21.12.2018) | gelistet, ohne Rollenangabe |
 | [[wiki/folgen/poe-und-dupin-05-der-fluch-des-falschen-koenigs\|EAPAD 5 — Der Fluch des falschen Königs]] (10.05.2019) | gelistet, ohne Rollenangabe |
 | [[wiki/folgen/poe-und-dupin-06-im-kreise-der-roten-kutten\|EAPAD 6 — Im Kreise der roten Kutten]] (26.07.2019) | gelistet, ohne Rollenangabe |

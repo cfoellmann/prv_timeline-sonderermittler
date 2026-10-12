@@ -20,7 +20,7 @@ tags:
 
 - **Zentrale Reihe:** [[wiki/serien/dracula|Dracula und der Zirkel der Sieben]].
 - **Rolle im Kosmos:** Anführer des Zirkels, Scharnierfigur zwischen frühen Abenteuerreihen und späteren Krimi- und Horrorlinien.
-- **Erstauftritt im aktuellen Repo-Stand:** [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|DNAPF 12 - Entscheidung in den Karpaten]] am 17.11.2017.
+- **Erstauftritt im aktuellen Repo-Stand:** [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|DNAPF 12 - Entscheidung in den Karpaten]] am 10.11.2017.
 
 ## Auftritte im aktuellen Repo-Stand
 
@@ -37,7 +37,7 @@ Alle 48 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 
 | Folge | Rolle (laut Folgenseite) |
 |---|---|
-| [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst\|EAPAD 2 — Im Bann der Angst]] (21.09.2018) | als „Sapriel" |
+| [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst\|EAPAD 2 — Im Bann der Angst]] (17.08.2018) | als „Sapriel" |
 | [[wiki/folgen/phileas-fogg-16-gefahr-fuer-die-propellerinsel\|DNAPF 16 — Gefahr für die Propellerinsel]] (12.10.2018) | wird auf der offiziellen Seite als altbekannter Gegner direkt genannt |
 | [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis\|DNAPF 21 — Die sieben Seelen des Anubis]] (18.10.2019) | ist laut Chronologienotiz direkt mit Frankensteins Rückkehr verknüpft |
 | [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel\|DNAPF 24 — Die geheimnisvolle Insel]] (08.05.2020) | bleibt über die Ankernotiz als Machtfaktor im Hintergrund relevant |
@@ -82,7 +82,7 @@ Alle 48 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 | [[wiki/folgen/dracula-15-das-mal-der-frevler\|DRAC 15 — Das Mal der Frevler]] (11.10.2024) | verfolgt einen Plan, der den Zirkel zu zerbrechen droht |
 | [[wiki/folgen/dracula-16-der-sohn-des-verderbens\|DRAC 16 — Der Sohn des Verderbens]] (25.10.2024) | kehrt in seine Heimat zurück und stellt sich seiner Vergangenheit |
 | [[wiki/folgen/moriarty-16-wo-alles-endet\|MOR 16 — Wo alles endet]] (25.10.2024) | ist auf der offiziellen Seite als Figur gelistet |
-| [[wiki/folgen/frankenstein-26-doppelte-tarnung\|FRANK 26 — Doppelte Tarnung]] (13.07.2026) | nur über sein Labor als Reiseziel präsent |
+| [[wiki/folgen/frankenstein-26-doppelte-tarnung\|FRANK 26 — Doppelte Tarnung]] (17.07.2026) | nur über sein Labor als Reiseziel präsent |
 | [[wiki/folgen/frankenstein-27-finsteres-erbe\|FRANK 27 — Finsteres Erbe]] (11.09.2026) | als Vorbesitzer der verschwundenen Schätze |
 | [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho\|SH 23 — Der Wiedergänger von Soho]] (09.10.2026) | alles deutet laut Klappentext auf seine Befreiung hin |
 

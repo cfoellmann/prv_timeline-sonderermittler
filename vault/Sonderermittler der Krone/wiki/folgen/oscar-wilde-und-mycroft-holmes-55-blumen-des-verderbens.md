@@ -3,7 +3,7 @@ type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 55
 titel: Blumen des Verderbens
-erschienen: 2026-01-30
+erschienen: 2025-11-28
 verlag: Maritim
 autor: "Silke Walter"
 sprecher:
@@ -23,6 +23,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge55-blumen-des-verderbens/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
 tags:
   - sonderermittler
 ---
@@ -33,7 +34,7 @@ tags:
 
 ## Eckdaten
 
-- **Erscheinungsdatum:** 30.01.2026.
+- **Erscheinungsdatum:** 28.11.2025. Bis 12.10.2026 führte der Vault den 30.01.2026; korrigiert nach HolyShop-Ersterscheinung und Apple Music (Entscheidung Christian, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 4]]).
 - **Angabe auf der offiziellen Seite:** 2025.
 - **Fandom-Abgleich (2026-04-30):** Auf der Fandom-OWMH-Serienseite aktuell nicht gelistet.
 - **Spielzeit:** 54 Minuten.
@@ -66,5 +67,6 @@ Bei einem missglückten Diebstahl im Bray-Museum werden auch Wilde, Sherlock und
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge55-blumen-des-verderbens/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Serienseiten-Abgleich: Folgen 55 und 56 sind dort derzeit nicht aufgeführt.
 - [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Besetzung OWMH 45–60 (Audible, Hörspieltalk, Raute Media, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
 
 

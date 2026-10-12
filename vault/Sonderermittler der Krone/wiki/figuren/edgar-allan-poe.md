@@ -23,7 +23,7 @@ tags:
 
 ## Rolle im Kosmos
 
-Poe ist Titel- und Hauptfigur von [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]] (Maritim, seit 17.08.2018, aktuell 36 Folgen) und tritt im aktuellen Repo-Stand schon zwei Jahre vor dem Serienstart auf: Die Chronologie führt [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx|DNAPF 5 „Das Geheimnis der Eissphinx"]] (12.08.2016) als seinen Erstauftritt im Kosmos. Damit ist er eine der Figuren, die den Kosmos früh quer zu ihrer eigenen Reihe verklammern.
+Poe ist Titel- und Hauptfigur von [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]] (Maritim, seit 13.07.2018, aktuell 36 Folgen) und tritt im aktuellen Repo-Stand schon zwei Jahre vor dem Serienstart auf: Die Chronologie führt [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx|DNAPF 5 „Das Geheimnis der Eissphinx"]] (12.08.2016) als seinen Erstauftritt im Kosmos. Damit ist er eine der Figuren, die den Kosmos früh quer zu ihrer eigenen Reihe verklammern.
 
 Innerhalb der Reihe hat er eine klar umrissene Doppelrolle: Er ist der **Schriftsteller und Chronist**, der die Fälle [[wiki/figuren/auguste-dupin|Auguste Dupins]] aufschreibt — die Klappentexte nennen ihn ausdrücklich „Freund und Chronist" ([[wiki/folgen/poe-und-dupin-19-hochverrat|EAPAD 19]], Archiv-Folge 3) —, und er ist gleichzeitig der Partner, der ins Feld geschickt wird. Immer wieder ist er derjenige, der als Lockvogel oder verdeckter Ermittler den ersten Kontakt zum Gegner herstellt und dabei in akute Gefahr gerät ([[wiki/folgen/poe-und-dupin-07-der-tod-der-schwarzen-schafe|EAPAD 7]], Archiv-Folge 12). Wenn Dupin ausfällt, ermittelt Poe eigenständig weiter ([[wiki/folgen/poe-und-dupin-11-die-daemonen-des-auguste-dupin|EAPAD 11]]).
 
@@ -52,9 +52,9 @@ Alle 41 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 
 | Folge | Rolle (laut Folgenseite) |
 |---|---|
-| [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel\|EAPAD 1 — Insel der tödlichen Rätsel]] (17.08.2018) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel\|EAPAD 1 — Insel der tödlichen Rätsel]] (13.07.2018) | gelistet, ohne Rollenangabe |
+| [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst\|EAPAD 2 — Im Bann der Angst]] (17.08.2018) | gelistet, ohne Rollenangabe |
 | [[wiki/folgen/poe-und-dupin-03-die-toten-augen-von-paris\|EAPAD 3 — Die toten Augen von Paris]] (14.09.2018) | gelistet, ohne Rollenangabe |
-| [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst\|EAPAD 2 — Im Bann der Angst]] (21.09.2018) | gelistet, ohne Rollenangabe |
 | [[wiki/folgen/poe-und-dupin-04-ein-leben-im-jenseits\|EAPAD 4 — Ein Leben im Jenseits]] (21.12.2018) | gelistet, ohne Rollenangabe |
 | [[wiki/folgen/poe-und-dupin-05-der-fluch-des-falschen-koenigs\|EAPAD 5 — Der Fluch des falschen Königs]] (10.05.2019) | gelistet, ohne Rollenangabe |
 | [[wiki/folgen/poe-und-dupin-06-im-kreise-der-roten-kutten\|EAPAD 6 — Im Kreise der roten Kutten]] (26.07.2019) | gelistet, ohne Rollenangabe |

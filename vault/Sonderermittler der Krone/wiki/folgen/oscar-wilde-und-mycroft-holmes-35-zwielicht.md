@@ -3,7 +3,7 @@ type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 35
 titel: Zwielicht
-erschienen: 2021-09-24
+erschienen: 2021-10-15
 verlag: Maritim
 autor: "Marc Freund"
 spielzeit_min: 62
@@ -15,6 +15,7 @@ quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge35-zwielicht/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
 tags:
   - sonderermittler
 ---
@@ -26,7 +27,7 @@ tags:
 ## Eckdaten
 
 - **Fandom-Abgleich (2026-04-30):** Folge 35 hat auf Fandom eine verlinkte Einzelseite.
-- **Erscheinungsdatum:** 24.09.2021.
+- **Erscheinungsdatum:** 15.10.2021. Bis 12.10.2026 führte der Vault den 24.09.2021; korrigiert nach HolyShop-Ersterscheinung und Apple Music (Entscheidung Christian, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 4]]).
 - **Erscheinungsjahr (offizielle Seite):** 2021.
 - **Spielzeit:** 62 Minuten.
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
@@ -57,6 +58,7 @@ Die Regierung ist gefallen und wichtige Ämter werden von Verschwörern besetzt,
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — paraphrasierte Recherche-Notiz aus den offiziellen Folgenseiten 5–56.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge35-zwielicht/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
+- [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
 
 
 

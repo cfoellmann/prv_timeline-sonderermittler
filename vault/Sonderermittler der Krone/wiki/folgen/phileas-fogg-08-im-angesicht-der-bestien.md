@@ -3,7 +3,7 @@ type: folge
 serie: phileas-fogg
 nummer: 8
 titel: Im Angesicht der Bestien
-erschienen: 2017-01-27
+erschienen: 2017-01-20
 verlag: Maritim
 autor: "Marc Freund"
 spielzeit_min: 62
@@ -16,6 +16,7 @@ quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
+  - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
 tags:
   - ankerfolge
 ---
@@ -26,7 +27,7 @@ tags:
 
 ## Eckdaten
 
-- **Erscheinungsdatum:** 27.01.2017.
+- **Erscheinungsdatum:** 20.01.2017. Bis 12.10.2026 führte der Vault den 27.01.2017; korrigiert nach HolyShop-Ersterscheinung und Apple Music (Entscheidung Christian, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 4]]).
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
 - **Arbeitsstand:** Zurzeit nur als Chronologie-Anker erschlossen.
@@ -50,3 +51,4 @@ tags:
 
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md)
 - [raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md](../../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md)
+- [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).

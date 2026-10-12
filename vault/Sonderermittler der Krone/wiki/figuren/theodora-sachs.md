@@ -115,7 +115,7 @@ Alle 89 Folgenseiten, die die Figur unter „Hauptfiguren“ (WPO 3–4: „Anta
 | [[wiki/folgen/sherlock-holmes-20-verhaengnisvolles-meisterwerk\|SH 20 — Verhängnisvolles Meisterwerk]] (24.04.2026) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/frankenstein-25-truegerische-hoffnung\|FRANK 25 — Trügerische Hoffnung]] (22.05.2026) | offiziell gelistet |
 | [[wiki/folgen/irene-adler-33-ein-altes-problem\|IADK 33 — Ein altes Problem]] (12.06.2026) | offiziell gelistet |
-| [[wiki/folgen/frankenstein-26-doppelte-tarnung\|FRANK 26 — Doppelte Tarnung]] (13.07.2026) | reist mit |
+| [[wiki/folgen/frankenstein-26-doppelte-tarnung\|FRANK 26 — Doppelte Tarnung]] (17.07.2026) | reist mit |
 | [[wiki/folgen/sherlock-holmes-22-der-zweite-blutfleck\|SH 22 — Der zweite Blutfleck]] (14.08.2026) | offiziell gelistet |
 | [[wiki/folgen/tesla-09-traumgespinst\|TES 9 — Traumgespinst]] (14.08.2026) | reist mit nach Italien |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-59-die-spur-der-echse\|OWMH 59 — Die Spur der Echse]] (04.09.2026) | laut Klappentext dicht hinter Wilde |

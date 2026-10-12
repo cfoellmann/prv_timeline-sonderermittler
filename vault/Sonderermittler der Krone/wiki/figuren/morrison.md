@@ -17,7 +17,7 @@ tags:
 
 ## Auftritte
 
-- [[wiki/folgen/moriarty-25-ein-hauch-von-ewigkeit|MOR 25 — Ein Hauch von Ewigkeit]] (06.05.2026) — bei ihr trifft Moriarty den Wahrsager [[wiki/figuren/edgar-cayce|Edgar Cayce]].
+- [[wiki/folgen/moriarty-25-ein-hauch-von-ewigkeit|MOR 25 — Ein Hauch von Ewigkeit]] (05.06.2026) — bei ihr trifft Moriarty den Wahrsager [[wiki/figuren/edgar-cayce|Edgar Cayce]].
 
 ## Beziehungen
 

@@ -22,7 +22,7 @@ tags:
 
 ## Rolle im Kosmos
 
-Sherlock Holmes ist im Repo die Figur mit den meisten belegten Fremdauftritten. Sein eigener Strang ist [[wiki/serien/sherlock-holmes|Sherlock Holmes – Sonderermittler der Krone]] (ab 25.11.2022, Stand 17.08.2026: 22 erschienene Folgen plus eine Watchlist-Folge). Diese Reihe ist von der ersten Folge an im laufenden Konflikt verankert: Der Auftakt setzt **nach** einem bereits erfolgten Schlag des [[wiki/konzepte/zirkel-der-sieben|Zirkels der Sieben]] ein, und [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] sowie [[wiki/figuren/james-moriarty|James Moriarty]] rahmen den Start.
+Sherlock Holmes ist im Repo die Figur mit den meisten belegten Fremdauftritten. Sein eigener Strang ist [[wiki/serien/sherlock-holmes|Sherlock Holmes – Sonderermittler der Krone]] (ab 09.12.2022, Stand 17.08.2026: 22 erschienene Folgen plus eine Watchlist-Folge). Diese Reihe ist von der ersten Folge an im laufenden Konflikt verankert: Der Auftakt setzt **nach** einem bereits erfolgten Schlag des [[wiki/konzepte/zirkel-der-sieben|Zirkels der Sieben]] ein, und [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] sowie [[wiki/figuren/james-moriarty|James Moriarty]] rahmen den Start.
 
 Dramaturgisch arbeitet die Reihe in Blöcken: Killjoy und Grail's Hollow (Folgen 5–6), der Artefakt- und Paganini-Bogen um [[wiki/figuren/theodora-sachs|Theodora Sachs]], [[wiki/figuren/aleister-crowley|Aleister Crowley]] und [[wiki/figuren/rasputin|Rasputin]] (8–12), der Hafen-/Lebensstein-Block mit [[wiki/figuren/robur|Robur]] und [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] (13–16), die Suche nach dem Buch des Alchemisten Gordon Adrik (17–20) und schließlich der Voodoo-Strang um [[wiki/figuren/bastien-lavache|Bastien Lavache]] (21–22), der die Holmes-Linie direkt an [[wiki/serien/tesla|Tesla]] anschließt.
 
@@ -72,7 +72,7 @@ Historisch reicht die Figur hinter die Sonderermittler-Reihen zurück: In der Vo
 | [[wiki/folgen/irene-adler-00-hinter-den-kulissen\|IADK 0 — Hinter den Kulissen]] (22.11.2019) | ermittelt mit Watson an Irene Adlers Seite, während sie selbst unter Mordverdacht steht |
 | [[wiki/folgen/moriarty-01-das-raetsel-der-marie-celeste\|MOR 1 — Das Rätsel der Marie Celeste]] (25.09.2020) | offiziell gelistete Figur im Moriarty-Reihenstart |
 | [[wiki/folgen/moriarty-00-perlen-des-todes\|MOR 0 — Perlen des Todes]] (13.08.2021) | offiziell gelistete Figur |
-| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung\|OWMH 41 — Auf Bewährung]] (27.01.2023) | unterstützt laut Sekundärquelle Oscar Wilde bei der Mordserie im East End |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung\|OWMH 41 — Auf Bewährung]] (02.12.2022) | unterstützt laut Sekundärquelle Oscar Wilde bei der Mordserie im East End |
 | [[wiki/folgen/irene-adler-25-engel-und-suender\|IADK 25 — Engel und Sünder]] (24.01.2025) | unterstützt Adler in Los Angeles |
 | [[wiki/folgen/irene-adler-26-schatten-des-ruhmes\|IADK 26 — Schatten des Ruhmes]] (21.03.2025) | ermittelt weiter an Adlers Seite |
 | [[wiki/folgen/irene-adler-27-im-feuer-des-zorns\|IADK 27 — Im Feuer des Zorns]] (23.05.2025) | begleitet die Ermittlungen weiter |

@@ -26,7 +26,7 @@ Die Charles Darwin Gesellschaft betreibt im Universum verdeckte Forschung an Gen
 |---|---|---|
 | Abspaltung | 1875 — Wissenschaftler trennen sich, weil sie genetische Versuche am Menschen ablehnen | OWMH 5 „Kalter Fels" (09.09.2016) |
 | Folge der Abspaltung | Gründung des [[wiki/konzepte/zirkel-der-sieben\|Zirkels der Sieben]] durch die Abtrünnigen | OWMH 5 |
-| Forschungsprogramm „Schwarzwald" | Ab 1878: Hybrid-Experimente, Proband 3 (genetisch aus Wolf, Falke, Schwarzbär; später „Adrian") | OWMH 6 „Hexenwald" (18.11.2016) |
+| Forschungsprogramm „Schwarzwald" | Ab 1878: Hybrid-Experimente, Proband 3 (genetisch aus Wolf, Falke, Schwarzbär; später „Adrian") | OWMH 6 „Hexenwald" (11.11.2016) |
 | Forschungsprogramm „Azoren / Demeter" | Experimente mit Draculas Blut; Versuchspersonen werden auf der Demeter weggebracht, Schiff sinkt vor Whitby | OWMH 19 „Blutdurst" (31.01.2019), OWMH 20 „Blutzoll" (29.03.2019) |
 | Forschungsprogramm „Spitzbergen / Medusa" | Dr. Cappelli forscht an einer Gorgone-Medusa-Substanz, die Menschen versteinert | OWMH 23 „Das Medusa-Syndrom" (30.09.2019) |
 
@@ -44,10 +44,10 @@ Auch [[wiki/figuren/dracula|Dracula]] steht „in irgendeiner Beziehung" zur Cha
 
 | Person | Rolle | Auftritt / Beleg | Verbleib |
 |---|---|---|---|
-| **Dr. Alfons Grell** (gesp. K. Dieter Klebsch) | Wissenschaftler, später Zirkel-Verbündeter | OWMH 4 „Tod der Königin" (14.07.2016) | Tritt in Zirkel-Dienste; überlebt Schweizer Bergvorfall |
+| **Dr. Alfons Grell** (gesp. K. Dieter Klebsch) | Wissenschaftler, später Zirkel-Verbündeter | OWMH 4 „Tod der Königin" (15.07.2016) | Tritt in Zirkel-Dienste; überlebt Schweizer Bergvorfall |
 | **Dorothy Cooper** | Feldforscherin, betreute Schwarzwald-Projekt | OWMH 6 | Verstorben (verweste Leiche im Haus) |
 | **Charles Darwin** (Gründer) | Konzeptioneller Kopf hinter dem „ultimativen Soldaten" | OWMH 6 (Hintergrund) | — |
-| **Archer** (gesp. Wolf Frass) | Ehemaliger Wissenschaftler der Gesellschaft | OWMH 14 „Labyrinth der Angst" (29.03.2018) | Lebend |
+| **Archer** (gesp. Wolf Frass) | Ehemaliger Wissenschaftler der Gesellschaft | OWMH 14 „Labyrinth der Angst" (30.03.2018) | Lebend |
 | **Dr. Cappelli** | Wissenschaftler im Medusa-Projekt | OWMH 23 (30.09.2019) | Im Stoff aktiv |
 
 ## Forschungs-Hintergrund (Zusammenfassung aus Folgen)

@@ -3,7 +3,7 @@ type: serie
 titel: Sherlock Holmes – Sonderermittler der Krone
 verlag: Maritim
 genre: Krimi
-start: 2022-11-25
+start: 2022-12-09
 status: recherchiert
 zirkel: true
 folgen_count: 23
@@ -26,12 +26,12 @@ tags:
 
 # Sherlock Holmes – Sonderermittler der Krone
 
-> Maritim, seit dem 25.11.2022. Die Holmes-Linie der Sonderermittler-Reihe startet als Nachbeben eines Zirkel-Schlags und entwickelt sich spätestens ab Folge 5 zu einer eigenen Front im laufenden Machtkampf gegen den [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]].
+> Maritim, seit dem 09.12.2022. Die Holmes-Linie der Sonderermittler-Reihe startet als Nachbeben eines Zirkel-Schlags und entwickelt sich spätestens ab Folge 5 zu einer eigenen Front im laufenden Machtkampf gegen den [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]].
 
 ## Übersicht
 
 - **Verlag:** Maritim.
-- **Erstveröffentlichung der Hauptlinie:** 25.11.2022 mit `Folge 1: Dunkle Kräfte, Teil 1`.
+- **Erstveröffentlichung der Hauptlinie:** 09.12.2022 mit `Folge 1: Dunkle Kräfte, Teil 1` (HolyShop-Ersterscheinung, Apple, Deezer; bis 12.10.2026 im Vault 25.11.2022).
 - **Stand am 17.08.2026:** 22 veröffentlichte Folgen (`1` bis `22`); `Folge 22: Der zweite Blutfleck` erschien am 14.08.2026. Zusätzlich ist `Folge 23: Der Wiedergänger von Soho` als HolyShop-Vormerkung für den 09.10.2026 gelistet und im Vault als Watchlist-Eintrag geführt. **Stand 06.09.2026:** zusätzlich ist `Folge 24: Die Straßen der Angst` für den 04.12.2026 angekündigt. Der zunächst gemeldete Reihenfolgewiderspruch (Folge 24 vor Folge 23) ist damit aufgelöst — die Forenangabe 25.09.2026 war falsch, Apple Music und Deezer nennen übereinstimmend den 04.12.2026.
 - **Stand 12.10.2026:** 23 veröffentlichte Folgen — [[wiki/folgen/sherlock-holmes-23-der-wiedergaenger-von-soho|Folge 23 „Der Wiedergänger von Soho“]] ist am 09.10.2026 erschienen (HolyShop, Apple Music, Deezer). Folge 24 bleibt Vormerkung für den 04.12.2026, jetzt zusätzlich durch die HolyShop-Produktseite bestätigt (58 min). Die Fanseite nennt für Folge 23 fälschlich den 10.09.2026.
 - **Stand der offiziellen Serienseite am 28.04.2026 (historisch):** 21 Folgen (`1` bis `21`), davon zu diesem Datum 20 veröffentlicht.
@@ -69,7 +69,7 @@ tags:
 
 | # | Titel | Datum | Zirkel | Crossover | Notizen |
 |---|---|---|---|---|---|
-| 01 | [[wiki/folgen/sherlock-holmes-01-dunkle-kraefte-teil-1\|Dunkle Kräfte, Teil 1]] | 25.11.2022 | direkt | [[wiki/serien/moriarty\|Moriarty]] | Mycroft Holmes und James Moriarty sind laut offizieller Seite beteiligt; Auftakt nach einem Zirkel-Schlag. |
+| 01 | [[wiki/folgen/sherlock-holmes-01-dunkle-kraefte-teil-1\|Dunkle Kräfte, Teil 1]] | 09.12.2022 | direkt | [[wiki/serien/moriarty\|Moriarty]] | Mycroft Holmes und James Moriarty sind laut offizieller Seite beteiligt; Auftakt nach einem Zirkel-Schlag. |
 | 02 | [[wiki/folgen/sherlock-holmes-02-dunkle-kraefte-teil-2\|Dunkle Kräfte, Teil 2]] | 16.12.2022 | direkt | [[wiki/serien/moriarty\|Moriarty]] | Holmes und van Dusen jagen denselben Gegner weiter; Moriarty bleibt Teil des Falls. |
 | 03 | [[wiki/folgen/sherlock-holmes-03-verraeterische-lilien\|Verräterische Lilien]] | 17.03.2023 | unklar |   | Nach aktuellem Stand eher isolierter Forschungs-/Vertrauensfall ohne klaren Kosmos-Marker. |
 | 04 | [[wiki/folgen/sherlock-holmes-04-unter-falschem-verdacht\|Unter falschem Verdacht]] | 30.06.2023 | indirekt | [[wiki/serien/moriarty\|Moriarty]] | Moriarty steht im Zentrum eines Erpresser-Falls; Mycroft ist laut Figurenliste beteiligt. |

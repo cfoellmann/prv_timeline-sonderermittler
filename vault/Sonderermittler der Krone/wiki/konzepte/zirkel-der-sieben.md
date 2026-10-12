@@ -34,13 +34,13 @@ Laut Löchel-Kommentar (Februar 2023) ist der Zirkel mit der Aufnahme von [[wiki
 
 | # | Name | Rolle | Eigene Serie | Erstauftritt | Wiki |
 |---|---|---|---|---|---|
-| 1 | Dracula | Anführer | [[wiki/serien/dracula]] | DNAPF 12 (17.11.2017) | [[wiki/figuren/dracula]] |
+| 1 | Dracula | Anführer | [[wiki/serien/dracula]] | DNAPF 12 (10.11.2017) | [[wiki/figuren/dracula]] |
 | 2 | Viktor Frankenstein | Wissenschaftler | [[wiki/serien/frankenstein]] | DNAPF 4 (22.04.2016) | [[wiki/figuren/victor-frankenstein]] |
 | 3 | Robur | „Herr der Lüfte" / Erfinder | – (Auftritt in [[wiki/serien/phileas-fogg]]) | DNAPF 3 (26.02.2016) | [[wiki/figuren/robur]] |
 | 4 | Der Maharadscha | – | – | OWMH 17 „Der Maharadscha der Nacht" (28.09.2018) | [[wiki/figuren/der-maharadscha]] |
 | 5 | Rasputin | – | – | IADK 4 „Sankt Petersburg Express" (15.02.2020) | [[wiki/figuren/rasputin]] |
 | 6 | Aleister Crowley | Okkultist | – | OWMH 21 „Boleskine House" (31.05.2019) | [[wiki/figuren/aleister-crowley]] |
-| 7 | **Gaston Morell** | – | – | EAPAD 1 „Insel der tödlichen Rätsel" (17.08.2018), Aufnahme in EAPAD 13 „Aufnahmeprüfung" | [[wiki/figuren/gaston-morell]] |
+| 7 | **Gaston Morell** | – | – | EAPAD 1 „Insel der tödlichen Rätsel" (13.07.2018), Aufnahme in EAPAD 13 „Aufnahmeprüfung" | [[wiki/figuren/gaston-morell]] |
 
 > Schreibweise: **Gaston Morell** mit Doppel-l (laut Löchel-Kommentar; im Hauptartikel taucht „Morel" als Tippfehler auf).
 
@@ -50,7 +50,7 @@ Personen, die für den Zirkel arbeiten oder ihn unterstützen, aber nicht zu den
 
 | Person | Rolle | Erstauftritt | Wiki |
 |---|---|---|---|
-| Dr. Alfons Grell | Wissenschaftler, in Zirkel-Diensten | OWMH 4 „Tod der Königin" (14.07.2016) | [[wiki/figuren/alfons-grell]] |
+| Dr. Alfons Grell | Wissenschaftler, in Zirkel-Diensten | OWMH 4 „Tod der Königin" (15.07.2016) | [[wiki/figuren/alfons-grell]] |
 | Theodora Sachs | Hypnose-Begabte, Crowley-Umfeld | OWMH 10 „Eine Nacht am Brocken" (21.07.2017) | [[wiki/figuren/theodora-sachs]] |
 | Paul Hiller (& Bande) | Auftragsmörder | OWMH 18 „Feindberührung" (30.11.2018), getötet in OWMH 28 (28.07.2020) | [[wiki/figuren/paul-hiller]] |
 

@@ -3,7 +3,7 @@ type: folge
 serie: oscar-wilde-und-mycroft-holmes
 nummer: 56
 titel: Tödliche Farben
-erschienen: 2026-03-27
+erschienen: 2026-03-20
 verlag: Maritim
 autor: "Silke Walter"
 sprecher:
@@ -25,6 +25,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge56-toedliche-farben/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
 tags:
   - sonderermittler
 ---
@@ -35,7 +36,7 @@ tags:
 
 ## Eckdaten
 
-- **Erscheinungsdatum:** 27.03.2026.
+- **Erscheinungsdatum:** 20.03.2026. Bis 12.10.2026 führte der Vault den 27.03.2026; korrigiert nach HolyShop-Ersterscheinung und Apple Music (Entscheidung Christian, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 4]]).
 - **Angabe auf der offiziellen Seite:** 20.03.2026.
 - **Fandom-Abgleich (2026-04-30):** Auf der Fandom-OWMH-Serienseite aktuell nicht gelistet.
 - **Spielzeit:** 58 Minuten.
@@ -67,5 +68,6 @@ Irene Adler, Oscar Wilde und Sherlock Holmes ahnen nicht, dass Moriarty sie mit 
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge56-toedliche-farben/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Serienseiten-Abgleich: Folgen 55 und 56 sind dort derzeit nicht aufgeführt.
 - [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Besetzung OWMH 45–60 (Audible, Hörspieltalk, Raute Media, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
 
 

@@ -82,7 +82,7 @@ tags:
 | 23 | [[wiki/folgen/frankenstein-23-jaeger-und-gejagter\|Jäger und Gejagter]] | 2026 | 50 min | ✓ | — |
 | 24 | [[wiki/folgen/frankenstein-24-toedliche-dosis\|Tödliche Dosis]] | 2026-03-27 | 52 min | ✓ | Moriarty, Sherlock Holmes |
 | 25 | [[wiki/folgen/frankenstein-25-truegerische-hoffnung\|Trügerische Hoffnung]] | 2026-05-22 | 56 min | ✓ | Moriarty, Sherlock Holmes |
-| 26 | [[wiki/folgen/frankenstein-26-doppelte-tarnung\|Doppelte Tarnung]] | 2026-07-13 | 52 min | ✓ | Dracula |
+| 26 | [[wiki/folgen/frankenstein-26-doppelte-tarnung\|Doppelte Tarnung]] | 2026-07-17 | 52 min | ✓ | Dracula |
 | 27 | [[wiki/folgen/frankenstein-27-finsteres-erbe\|Finsteres Erbe]] | 2026-09-11 | 53 min | ✓ | Dracula, Moriarty |
 | 28 | [[wiki/folgen/frankenstein-28-gegen-jeden-widerstand\|Gegen jeden Widerstand]] | 2026-11-13 (geplant) | 54 min | ✓ | Dracula, Moriarty, Sherlock Holmes |
 

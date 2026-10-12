@@ -38,7 +38,7 @@ Alle 35 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 | [[wiki/folgen/irene-adler-00-hinter-den-kulissen\|IADK 0 — Hinter den Kulissen]] (22.11.2019) | gemeinsam mit [[wiki/figuren/sherlock-holmes\|Sherlock Holmes]]: ermitteln im offiziellen Serienauftakt an Irenes Seite |
 | [[wiki/folgen/moriarty-01-das-raetsel-der-marie-celeste\|MOR 1 — Das Rätsel der Marie Celeste]] (25.09.2020) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/moriarty-00-perlen-des-todes\|MOR 0 — Perlen des Todes]] (13.08.2021) | ist auf der offiziellen Seite als Figur gelistet |
-| [[wiki/folgen/sherlock-holmes-01-dunkle-kraefte-teil-1\|SH 1 — Dunkle Kräfte, Teil 1]] (25.11.2022) | ist auf der offiziellen Seite als Figur gelistet |
+| [[wiki/folgen/sherlock-holmes-01-dunkle-kraefte-teil-1\|SH 1 — Dunkle Kräfte, Teil 1]] (09.12.2022) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/sherlock-holmes-02-dunkle-kraefte-teil-2\|SH 2 — Dunkle Kräfte, Teil 2]] (16.12.2022) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/sherlock-holmes-03-verraeterische-lilien\|SH 3 — Verräterische Lilien]] (17.03.2023) | begleitet Holmes laut offizieller Seite |
 | [[wiki/folgen/sherlock-holmes-04-unter-falschem-verdacht\|SH 4 — Unter falschem Verdacht]] (30.06.2023) | ist auf der offiziellen Seite als Figur gelistet |

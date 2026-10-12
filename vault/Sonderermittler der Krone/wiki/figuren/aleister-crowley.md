@@ -72,7 +72,7 @@ Aleister Crowley wird im Kosmos als einer der gefährlichsten Zirkel-Antagoniste
 - [[wiki/folgen/frankenstein-19-der-weg-der-schlange|FRANK 19 – Der Weg der Schlange]] (23.05.2025) — reist mit nach Griechenland
 - [[wiki/folgen/frankenstein-20-ewiges-leid|FRANK 20 – Ewiges Leid]] (25.07.2025) — gefangen in der Geheimgesellschaft
 - [[wiki/folgen/frankenstein-25-truegerische-hoffnung|FRANK 25 – Trügerische Hoffnung]] (22.05.2026) — offiziell gelistet
-- [[wiki/folgen/frankenstein-26-doppelte-tarnung|FRANK 26 – Doppelte Tarnung]] (13.07.2026) — reist mit
+- [[wiki/folgen/frankenstein-26-doppelte-tarnung|FRANK 26 – Doppelte Tarnung]] (17.07.2026) — reist mit
 - [[wiki/folgen/frankenstein-27-finsteres-erbe|FRANK 27 – Finsteres Erbe]] (11.09.2026) — durchsucht mit
 - [[wiki/folgen/frankenstein-28-gegen-jeden-widerstand|FRANK 28 – Gegen jeden Widerstand]] (geplant, 13.11.2026) — macht Lavache für die Schwierigkeiten verantwortlich
 
@@ -86,7 +86,7 @@ Aleister Crowley wird im Kosmos als einer der gefährlichsten Zirkel-Antagoniste
 - [[wiki/folgen/moriarty-22-gruenes-feuer|MOR 22 – Grünes Feuer]] (05.12.2025) — ist auf der offiziellen Seite als Figur gelistet
 - [[wiki/folgen/moriarty-23-jagdinstinkt|MOR 23 – Jagdinstinkt]] (06.02.2026) — ist auf der offiziellen Seite als Figur gelistet
 - [[wiki/folgen/moriarty-24-ausgeliefert|MOR 24 – Ausgeliefert]] (10.04.2026) — ist auf der offiziellen Seite als Figur gelistet
-- [[wiki/folgen/moriarty-25-ein-hauch-von-ewigkeit|MOR 25 – Ein Hauch von Ewigkeit]] (06.05.2026) — offiziell gelistet
+- [[wiki/folgen/moriarty-25-ein-hauch-von-ewigkeit|MOR 25 – Ein Hauch von Ewigkeit]] (05.06.2026) — offiziell gelistet
 
 ## Beziehungen
 

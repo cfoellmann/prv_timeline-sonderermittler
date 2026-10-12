@@ -62,11 +62,11 @@ Alle 59 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 | [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx\|DNAPF 5 — Das Geheimnis der Eissphinx]] (12.08.2016) | Titelheld der Reihe |
 | [[wiki/folgen/phileas-fogg-06-der-leuchtturm-am-ende-der-welt\|DNAPF 6 — Der Leuchtturm am Ende der Welt]] (07.10.2016) | muss den Leuchtturm und seine Begleiter gegen ein Komplott verteidigen |
 | [[wiki/folgen/phileas-fogg-07-die-stadt-unter-der-erde\|DNAPF 7 — Die Stadt unter der Erde]] (25.11.2016) | folgt der Spur unter Tage und untersucht die Sabotage |
-| [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien\|DNAPF 8 — Im Angesicht der Bestien]] (27.01.2017) | Titelheld der Reihe |
+| [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien\|DNAPF 8 — Im Angesicht der Bestien]] (20.01.2017) | Titelheld der Reihe |
 | [[wiki/folgen/phileas-fogg-09-im-reich-des-zaren\|DNAPF 9 — Im Reich des Zaren]] (24.03.2017) | reist in den Zarenpalast und später in die sibirische Krise hinein |
 | [[wiki/folgen/phileas-fogg-10-der-herrscher-der-meere\|DNAPF 10 — Der Herrscher der Meere]] (16.06.2017) | Titelheld der Reihe |
-| [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant\|DNAPF 11 — Die Jagd nach Kapitän Grant]] (17.11.2017) | Titelheld der Reihe |
-| [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten\|DNAPF 12 — Entscheidung in den Karpaten]] (17.11.2017) | Titelheld der Reihe |
+| [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant\|DNAPF 11 — Die Jagd nach Kapitän Grant]] (01.09.2017) | Titelheld der Reihe |
+| [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten\|DNAPF 12 — Entscheidung in den Karpaten]] (10.11.2017) | Titelheld der Reihe |
 | [[wiki/folgen/phileas-fogg-13-der-untergang-der-welt\|DNAPF 13 — Der Untergang der Welt]] (19.01.2018) | erhält den Geheimauftrag, Professor Xirdal aufzusuchen |
 | [[wiki/folgen/phileas-fogg-14-der-goldvulkan\|DNAPF 14 — Der Goldvulkan]] (16.03.2018) | reist mit seinen Gefährten nach Dawson City und in die Wildnis des Klondike |
 | [[wiki/folgen/phileas-fogg-15-die-schwimmende-stadt\|DNAPF 15 — Die schwimmende Stadt]] (18.05.2018) | folgt dem Gerücht über die Insel der Milliardäre |

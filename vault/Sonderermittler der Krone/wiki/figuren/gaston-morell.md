@@ -17,7 +17,7 @@ tags:
 ## Eckdaten
 
 - **Zirkel-Position:** Mitglied #7 (letztes aufgenommenes Mitglied)
-- **Erstauftritt:** [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin 1 – Insel der tödlichen Rätsel]] (17.08.2018)
+- **Erstauftritt:** [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin 1 – Insel der tödlichen Rätsel]] (13.07.2018)
 - **Aufnahme in den Zirkel:** EAPAD 13 "Aufnahmeprüfung"
 - **Fraktion:** [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]]
 - **Schreibweise:** Gaston **Morell** mit Doppel-l (laut Löchel-Kommentar)
@@ -30,7 +30,7 @@ Gaston Morell ist das siebte und letzte Mitglied, das in den Zirkel aufgenommen 
 
 ### Edgar Allan Poe & Auguste Dupin
 
-- [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel|EAPAD 1 – Insel der tödlichen Rätsel]] (17.08.2018) — Erstauftritt
+- [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel|EAPAD 1 – Insel der tödlichen Rätsel]] (13.07.2018) — Erstauftritt
 - [[wiki/folgen/poe-und-dupin-13-die-aufnahmepruefung|EAPAD 13 – Die Aufnahmeprüfung]] (14.05.2021) — Aufnahme als 7. Mitglied in den Zirkel der Sieben
 - [[wiki/folgen/poe-und-dupin-14-nachts-auf-der-seine|EAPAD 14 – Nachts auf der Seine]] (13.08.2021) — erwähnt; eine neue Wunderdroge weckt sein Interesse und das seiner Verbündeten
 - [[wiki/folgen/poe-und-dupin-17-entfesselter-wahn|EAPAD 17 – Entfesselter Wahn]] (24.06.2022) — plant die Befreiung des wahnsinnigen Professor Deragon, um eine Massenvernichtungswaffe zu erschaffen
