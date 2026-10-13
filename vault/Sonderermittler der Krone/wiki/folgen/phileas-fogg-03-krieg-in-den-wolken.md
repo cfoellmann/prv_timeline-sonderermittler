@@ -11,7 +11,7 @@ sprecher:
     name: Christian Brückner
   - rolle: Phileas Fogg
     name: Sascha Draeger
-spielzeit_min: 60
+spielzeit_min: 59
 zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
@@ -38,7 +38,7 @@ tags:
 
 - **Setting:** Whedon-Institut in den Vereinigten Staaten, danach an Bord eines Luftschiffs.
 - **Erscheinungsdatum:** 26.02.2016.
-- **Spielzeit:** 60 Minuten laut Vault; Fanseite, Gratis-Hoerspiele.de und Audible nennen **59 Minuten** (siehe offene Fragen).
+- **Spielzeit:** 59 Minuten (Fanseite, Gratis-Hoerspiele.de und Audible; bis 13.10.2026 führte der Vault 60 Minuten, korrigiert nach der Regel „Fanseite vor Apple-Trackssumme“).
 - **Vorlage:** „Nach Motiven aus ‚Robur der Eroberer‘“ (Gratis-Hoerspiele.de; Einzelquelle).
 - **Autor:in:** Markus Topf & Dominik Ahrens (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Verlag:** Maritim.
@@ -71,8 +71,6 @@ tags:
 - **Spielt vor:** [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl|DNAPF 4 „Der Elefant aus Stahl“]].
 
 ## Theorien & offene Fragen
-
-- **Spielzeit 59 oder 60 Minuten?** Fanseite, Gratis-Hoerspiele.de und Audible nennen 59 Minuten, Vault und `folgen.json` führen 60. Nach der Regel „Fanseite vor Apple-Trackssumme“ wäre 59 richtig. Nicht geändert, Entscheidung Christian.
 
 > [!warning]- Spoiler: Chronologie-Notiz (aufklappen)
 > Aus der Löchel-Chronologie (Zauberspiegel-Online), Sekundärquelle, bereits vor dem 13.10.2026 im Vault geführt: „Jekyll/Hyde stirbt“ in dieser Folge.

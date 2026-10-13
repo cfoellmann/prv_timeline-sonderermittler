@@ -774,3 +774,10 @@ Das Fandom war am 06.09.2026 nicht erreichbar (HTTP 402, auch über die MediaWik
 - **[[wiki/queries/quellenlage-und-kanonkarte|Kanonkarte]]:** Merksatz „Zeitzeilen stehen nur auf der CD“, neuer Abschnitt mit Löchel-Einzelrezensionen, Traumwelt-Hoerspiel, Gratis-Hoerspiele.de, Apple Books (`description`), fantasy-foren.de, Merksatz Klappentext; Ergänzungen Black-Stone-Chronologie und Fandom; Datenfehler DNAPF 2.
 - **[[wiki/queries/lint-2026-10-12|Lint 2026-10-12]], Nachtrag 8:** Stubs 40 → 17, Chronologie-Zählung vorher/nachher, Befunde, 8 offene Entscheidungen an Christian; Tabelle „Stand der offenen Punkte“ (Stubs, In-Universe-Chronologie) fortgeschrieben. Index: Lint-, Kanonkarten- und Hörreihenfolgen-Zeile, Quellen-Übersicht.
 - Keine Abgleichsfelder, kein `sprecher`/`autor`/`spielzeit_min` geändert; `raw/` (außer den zwei neuen Dateien), `app/`, Schema und `changelog.md` unverändert.
+
+## [2026-10-13] lint | Entscheidungen Nachtrag 8 umgesetzt
+
+- IADK 9 „Tunguska“: In-Universe-Jahr 1898 als `geschaetzt` eingetragen (Löchel-Rezension, Einzelquelle); revidiert die Schließung ohne Eintrag aus Nachtrag 7. Folgenseite (Setting / Zeit), `folgen.json`, Hör-Reihenfolgen.
+- Spielzeiten nach der Regel „Fanseite vor Apple-Trackssumme“ korrigiert: DNAPF 3 60 → 59 min, DNAPF 11 62 → 61 min (Wiki und `folgen.json`).
+- OWMH 26–29: Vorbehalt zur Enge des Jahres 1896 in `story_anmerkung` ergänzt, Wert 1896 bleibt.
+- Bestätigt ohne Datenänderung: DRAC 1 bleibt `geschaetzt`, OWMH 7, 8, 9, 12, 13 als Einzelquelle akzeptiert, Spoiler-Callouts bleiben, `zirkel` DNAPF 10/11 vorerst unverändert, unbelegte Annahmen bleiben markiert ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 8]]).

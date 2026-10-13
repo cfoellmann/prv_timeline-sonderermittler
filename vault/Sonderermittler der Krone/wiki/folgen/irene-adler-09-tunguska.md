@@ -46,6 +46,7 @@ crossover_mit:
 spoiler_level: grob
 status: entwurf
 quellen:
+  - raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md
   - raw/maritim/2026-04-30_irene-adler_folgen-00-bis-10.md
   - https://www.sonderermittler-der-krone.de/serien/irene-adler/folge09-tunguska/
   - https://music.apple.com/de/album/sonderermittlerin-der-krone-folge-9-tunguska/1561783767
@@ -64,6 +65,7 @@ tags:
 
 ## Eckdaten
 
+- **Setting / Zeit:** Sibirien, Tunguska-Region; laut Ingo Löchels Rezension spielt die Katastrophe im Hörspiel „zehn Jahre früher, also im Jahr 1898“ (historisch 1908). Einzelquelle, im Verlagstext keine Jahresangabe; in `folgen.json` als 1898 geschätzt.
 - **Erscheinungsdatum:** 23.04.2021.
 - **Spielzeit:** 71 Minuten.
 - **Autor:in:** Marc-Oliver Bischoff (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
@@ -96,6 +98,7 @@ Mycroft Holmes entsendet Irene Adler nach Sibirien, wo sie in der Tunguska-Regio
 
 ## Quellen
 
+- [raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md](../../raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md) — Löchel-Rezension mit der Jahresangabe 1898 (In-Universe-Chronologie, 13.10.2026).
 - [raw/maritim/2026-04-30_irene-adler_folgen-00-bis-10.md](../../raw/maritim/2026-04-30_irene-adler_folgen-00-bis-10.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge09-tunguska/>
 - Apple Music: <https://music.apple.com/de/album/sonderermittlerin-der-krone-folge-9-tunguska/1561783767>

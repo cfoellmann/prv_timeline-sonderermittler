@@ -15,7 +15,7 @@ sprecher:
     name: Annina Braunmiller-Jest
   - rolle: Passepartout
     name: Marius Clarén
-spielzeit_min: 62
+spielzeit_min: 61
 zirkel: direkt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
@@ -43,7 +43,7 @@ tags:
 
 - **Setting:** Patagonien, später „bis ans andere Ende der Welt“.
 - **Erscheinungsdatum:** 01.09.2017. Bis 12.10.2026 führte der Vault den 17.11.2017; korrigiert nach HolyShop-Ersterscheinung und Apple Music (Entscheidung Christian, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 4]]).
-- **Spielzeit:** 62 Minuten laut Vault; Fanseite und Gratis-Hoerspiele.de nennen **61 Minuten** (siehe offene Fragen).
+- **Spielzeit:** 61 Minuten (Fanseite und Gratis-Hoerspiele.de; bis 13.10.2026 führte der Vault 62 Minuten, korrigiert nach der Regel „Fanseite vor Apple-Trackssumme“).
 - **Autor:in:** Markus Topf & Dominik Ahrens (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt). Gratis-Hoerspiele.de nennt ebenfalls Dominik Ahrens und Markus Topf.
 - **Verlag:** Maritim.
 - **Timeline-Notiz:** Fortsetzung der ersten Zusammenarbeit Fogg × Wilde (Doppelfolge, Löchel-Chronologie).
@@ -76,7 +76,7 @@ tags:
 
 ## Theorien & offene Fragen
 
-- **Spielzeit 61 oder 62 Minuten?** Fanseite und Gratis-Hoerspiele.de nennen 61 Minuten, Vault und `folgen.json` führen 62. Nach der Regel „Fanseite vor Apple-Trackssumme“ wäre 61 richtig. Nicht geändert, Entscheidung Christian.
+- Keine offenen Fragen (Spielzeit am 13.10.2026 geklärt).
 
 ## Quellen
 
