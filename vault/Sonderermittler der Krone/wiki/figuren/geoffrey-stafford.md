@@ -13,6 +13,7 @@ quellen:
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
 tags:
   - scotland-yard
   - wiederkehrende-figur
@@ -24,7 +25,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecher:** Björn Schalla — rollengenau in den Fandom-Besetzungstabellen OWMH 32, 34–36, 41, SHC 48, 53, 55, SH 1/2 („Dunkle Kräfte“) und MOR 2, 3; die DNB-Titelangabe (245 $c) der CDs SHC 48 und 53 nennt „Geoffrey Stafford – Björn Schalla“ als zweite, von Fandom unabhängige Rollenquelle. Eine Fanseiten-Figurenseite zu Stafford gibt es nicht.
+- **Sprecher:** Björn Schalla — rollengenau in den Fandom-Besetzungstabellen OWMH 32, 34–36, 41, SHC 48, 53, 55, SH 1/2 („Dunkle Kräfte“) und MOR 2, 3; die DNB-Titelangabe (245 $c) der CDs SHC 48 und 53 nennt „Geoffrey Stafford – Björn Schalla“ als zweite, von Fandom unabhängige Rollenquelle. Eine Fanseiten-Figurenseite zu Stafford gibt es nicht. Seit dem 13.10.2026 außerdem „Inspector Stafford – Björn Schalla“ in der Rollenliste der CD-Ausgabe von [[wiki/folgen/wilde-mycroft-ungeloeste-01-der-riese-von-griffin|WMU 1]] (pop.de; vorher stand Schalla dort ohne belegte Rolle).
 
 ## Rolle im Kosmos
 
@@ -39,6 +40,7 @@ Stafford ist die polizeiliche Konstante des Kosmos: Er steht für Scotland Yard,
 | [[wiki/folgen/sherlock-holmes-und-co-58-unheilvolle-beute\|SHC 58 — Unheilvolle Beute]] (29.01.2021) | Sprecher Björn Schalla |
 | [[wiki/folgen/sherlock-holmes-und-co-64-puppenspieler\|SHC 64 — Puppenspieler]] (24.09.2021) | Sprecher Björn Schalla; vermutet den Zirkel hinter den Erpressungen |
 | [[wiki/folgen/sherlock-holmes-und-co-68-der-kalte-hauch-der-rache\|SHC 68 — Der kalte Hauch der Rache]] (22.07.2022) | Sprecher Björn Schalla; verliert seine Frau |
+| [[wiki/folgen/wilde-mycroft-ungeloeste-01-der-riese-von-griffin\|WMU 1 — Der Riese von Griffin]] (23.01.2026) | „Inspector Stafford“ laut Rollenliste der CD-Ausgabe (pop.de), Sprecher Björn Schalla; Funktion in der Folge nicht belegt, im Klappentext nicht genannt |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-57-zwietracht\|OWMH 57 — Zwietracht]] (15.05.2026) | bittet [[wiki/figuren/oscar-wilde\|Oscar Wilde]] darum, die Themse-Mordserie zu übernehmen |
 
 ## Beziehungen
@@ -65,3 +67,4 @@ Stafford ist die polizeiliche Konstante des Kosmos: Er steht für Scotland Yard,
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR und FRANK: DNB, Raute Media, Fandom MOR 0–8, Hörspieltalk (12.10.2026)
+- [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).

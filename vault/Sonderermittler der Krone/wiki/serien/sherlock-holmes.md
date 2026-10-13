@@ -19,6 +19,8 @@ quellen:
   - raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md
   - raw/Sonderermittler_Update_2026-08-17.md
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
+  - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
 tags:
   - sonderermittler
   - maritim
@@ -76,7 +78,7 @@ tags:
 | 05 | [[wiki/folgen/sherlock-holmes-05-toedliche-rituale\|Tödliche Rituale]] | 20.10.2023 | direkt |   | Holmes vermutet ausdrücklich den Zirkel hinter den Vorfällen in Grail's Hollow. |
 | 06 | [[wiki/folgen/sherlock-holmes-06-das-geheimnis-des-earls\|Das Geheimnis des Earls]] | 09.02.2024 | direkt | [[wiki/serien/oscar-wilde-und-mycroft-holmes\|Oscar Wilde & Mycroft Holmes]], [[wiki/serien/irene-adler\|Irene Adler]] | Oscar Wilde liefert die Ausgangsinformation, Irene Adler ist offiziell als Figur gelistet, Killjoy bleibt aktiv. |
 | 07 | [[wiki/folgen/sherlock-holmes-07-gefaehrliche-expeditionen\|Gefährliche Expeditionen]] | 17.05.2024 | direkt |   | Die offizielle Figurenliste verknüpft den Fall mit Theodora Sachs und Aleister Crowley. |
-| 08 | [[wiki/folgen/sherlock-holmes-08-die-sieben-leben-des-carter-roth\|Die sieben Leben des Carter Roth]] | 21.06.2024 | direkt | [[wiki/serien/oscar-wilde-und-mycroft-holmes\|Oscar Wilde & Mycroft Holmes]], [[wiki/serien/irene-adler\|Irene Adler]] | Ein für den Zirkel wichtiges Objekt lagert offenbar in Carter Roths Umfeld. |
+| 08 | [[wiki/folgen/sherlock-holmes-08-die-sieben-leben-des-carter-roth\|Die sieben Leben des Carter Roth]] | 21.06.2024 | direkt | [[wiki/serien/oscar-wilde-und-mycroft-holmes\|Oscar Wilde & Mycroft Holmes]], [[wiki/serien/irene-adler\|Irene Adler]] | Ein für den Zirkel wichtiges Objekt lagert offenbar in Carter Roths Umfeld. ⚠️ Die Crossover-Angabe beruht auf der Figurenliste der Fanseite, die sehr wahrscheinlich von SH 6 kopiert ist — unter Vorbehalt, Entscheidung offen ([[wiki/queries/lint-2026-10-12\|Lint 2026-10-12, Nachtrag 7]]). |
 | 09 | [[wiki/folgen/sherlock-holmes-09-das-vermaechtnis-des-geigers\|Das Vermächtnis des Geigers]] | 19.07.2024 | unklar |   | Auftakt eines Geigen-/Sammlerplots, dessen Kosmos-Relevanz erst im Folgefall sichtbar wird. |
 | 10 | [[wiki/folgen/sherlock-holmes-10-teufelsmelodie\|Teufelsmelodie]] | 06.09.2024 | direkt |   | Crowley, Theodora Sachs und Rasputin werden als aktive Gegenseite geführt. |
 | 11 | [[wiki/folgen/sherlock-holmes-11-gesang-der-toten\|Gesang der Toten]] | 11.10.2024 | direkt |   | Holmes und Watson wollen verhindern, dass ein zentrales Objekt in Zirkel-Hände fällt. |
@@ -122,8 +124,8 @@ tags:
 |---|---|---|---|
 | 01 | Ein Fall vom Kontinent | **SHC 11** | Holmes/Dupin-Crossover; keine Folgenseite im Vault |
 | 02 | Der Arrest | **SHC 15** | [[wiki/figuren/irene-adler\|Irene Adler]] als Nebenrolle; Kriterium nicht erfüllt |
-| 03 | Eine Stadt in Angst, Teil 1 | **SHC 19** | ⚠️ siehe Hinweis unten |
-| 04 | Eine Stadt in Angst, Teil 2 | **SHC 19** | ⚠️ siehe Hinweis unten |
+| 03 | Eine Stadt in Angst, Teil 1 | **SHC 19** | eine Originalfolge, für die Archiv-Linie geteilt — siehe Hinweis unten |
+| 04 | Eine Stadt in Angst, Teil 2 | **SHC 19** | eine Originalfolge, für die Archiv-Linie geteilt — siehe Hinweis unten |
 | 05 | Tod am Dock | **SHC 22** | Lestrade als Reihenpersonal |
 | 06 | Der Schrei der Banshee, Teil 1 | **SHC 26** | [[wiki/folgen/sherlock-holmes-und-co-26-der-schrei-der-banshee-episode-1\|Folgenseite im Vault]] — erster Holmes-Wilde-Schaltpunkt |
 | 07 | Der Schrei der Banshee, Teil 2 | **SHC 27** | [[wiki/folgen/sherlock-holmes-und-co-27-der-schrei-der-banshee-episode-2\|Folgenseite im Vault]] |
@@ -131,7 +133,7 @@ tags:
 | 09 | Der Verlust des amerikanischen Gentlemans, Teil 2 | **SHC 32** | keine Folgenseite im Vault |
 | 10 | Der bleiche Tod | **SHC 51** | Adler bringt Holmes auf die Spur einer „geheimnisvollen Gruppierung"; als **unklar, eher nicht** eingestuft |
 
-> ⚠️ **Offen: SHC 19 steht zweimal.** Die Rohdatei ordnet den Archiv-Folgen 3 **und** 4 dieselbe Originalnummer SHC 19 zu. Das ist nicht stillschweigend geglättet: Entweder war „Eine Stadt in Angst" im Original ein Zweiteiler, dessen zweiter Teil in der SHC-Zählung eine eigene Nummer trägt (dann fehlt sie in der Rohdatei), oder eine einzelne SHC-Folge wurde für die Archivlinie auf zwei Veröffentlichungen aufgeteilt. Die Folgenliste der Rohdatei führt für SHC 19 nur **einen** Titel. **Zu klären.**
+> ✅ **Geklärt am 13.10.2026: SHC 19 steht zu Recht zweimal.** „Eine Stadt in Angst“ ist im Original eine einzige Folge auf Doppel-CD (DNB „2 CDs“, Fandom „ca. 95“ Minuten, je ein Eintrag bei DNB-Digital und Apple Books). Die Archiv-Linie teilt sie in Folge 3 (49 min) und Folge 4 (46 min); es fehlt keine Nummer. Bis dahin stand hier als offen, dass die Rohdatei beiden Archiv-Folgen dieselbe Originalnummer zuordnet ([Rohdaten](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md), Abschnitt 8).
 
 > Mapping ergänzt am 06.09.2026 aus [raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md](../../raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md) (Titelgleichheit zwischen den Album-Katalogen, in beide Richtungen geprüft). Basisnotiz: [raw/reviews/2026-04-27_re-releases_recherche-notiz.md](../../raw/reviews/2026-04-27_re-releases_recherche-notiz.md).
 
@@ -159,3 +161,5 @@ tags:
 - Hörspieltalk-Forum (Re-Release-Diskussion): <https://www.xn--hrspieltalk-rfb.de/forum/thread/23759-sherlock-holmes-aus-den-archiven-1-ein-fall-vom-kontinent/>
 - HolyShop (Verkauf, Booklet-Infos): <https://shop.holysoft.de/serien/sherlock-holmes-sonderermittler-der-krone-aus-den-archiven-501/>
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche vom 17.08.2026: offizielle Folgen-Detailseiten (Daten, Spielzeiten, Klappentexte, Figuren).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft, Datum und Altfälle: DNB, Raute Media, Apple Books, Fanseite (13.10.2026).
+- [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).

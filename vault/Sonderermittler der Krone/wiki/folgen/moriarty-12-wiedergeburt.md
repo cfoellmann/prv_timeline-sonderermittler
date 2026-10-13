@@ -5,7 +5,7 @@ nummer: 12
 titel: Wiedergeburt
 erschienen: 2024-02-16
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 sprecher:
   - rolle: James Moriarty
     name: Andreas Fröhlich
@@ -19,6 +19,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge12-wiedergeburt/
   - https://shop.holysoft.de/produkte/moriarty-12-wiedergeburt-4470/
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - moriarty
   - maritim
@@ -33,6 +34,7 @@ tags:
 - **Erscheinungsdatum:** 16.02.2024.
 - **Spielzeit:** 70 Minuten.
 - **Verlag:** Maritim.
+- **Autor:** Marc Freund (DNB-Digitalausgabe und Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
 - **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Martin Keßler, Norbert Langer, Marcel Collé, Daniel Zillmann, Engelbert von Nordhausen, Maria Koschny, Friedel Morgenstern, Jörg Pintsch, Dagmar Dempe, Kaspar Eichel, Magdalena Höfner, Mario Klischies, Reinhard Scheunemann, Katja Keßler, Lutz Mackensy (DNB; identisch bei Raute Media). Audible ohne Dagmar Dempe, Jörg Pintsch, Kaspar Eichel, Magdalena Höfner.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge12-wiedergeburt/>
 
@@ -60,3 +62,4 @@ Nach den schicksalhaften Ereignissen im Sanatorium des ermordeten Doktor Lorrain
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge12-wiedergeburt/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-12-wiedergeburt-4470/>
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

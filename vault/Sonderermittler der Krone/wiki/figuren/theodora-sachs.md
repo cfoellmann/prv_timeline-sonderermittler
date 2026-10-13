@@ -8,6 +8,7 @@ quellen:
   - raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md
   - https://www.sonderermittler-der-krone.de/figuren/theodora-sachs/
   - https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge23-der-wiedergaenger-von-soho/
+  - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
 tags:
   - hauptfigur
   - zirkel-umfeld
@@ -19,7 +20,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecherin:** Gabrielle Pietermann.
+- **Sprecherin:** Gabrielle Pietermann. Offen (Nachrecherche 13.10.2026): Für OWEP 3/4 steht sie nur in der Box-Gesamtliste, ein folgengenauer Beleg fehlt weiter — kein Sprechereintrag. In OWMH 43 steht Pietermann in allen Sprecherlisten, die Figur aber weder im Klappentext noch in der Figurenliste — ebenfalls nicht eingetragen ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md)).
 - **Wichtigste Reihe im aktuellen Repo-Stand:** [[wiki/serien/moriarty|Moriarty – Zwischen Genie und Verbrechen]].
 - **Rolle im Kosmos:** Vermittlerin, Helferin und gefährliche Gegenspielerin mit hypnotischen Fähigkeiten.
 
@@ -134,3 +135,4 @@ Alle 89 Folgenseiten, die die Figur unter „Hauptfiguren“ (WPO 3–4: „Anta
 - [raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md](../../raw/maritim/2026-04-28_moriarty_folgen-00-bis-24.md)
 - Offizielle Figuren-Seite: <https://www.sonderermittler-der-krone.de/figuren/theodora-sachs/>
 - Offizielle Folgenseite SH 23 (Figurenliste): <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge23-der-wiedergaenger-von-soho/>
+- [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).

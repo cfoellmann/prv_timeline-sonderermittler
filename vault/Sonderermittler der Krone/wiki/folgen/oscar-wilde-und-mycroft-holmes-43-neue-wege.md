@@ -22,6 +22,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge43-neue-wege/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
 tags:
   - sonderermittler
   - zirkel
@@ -38,7 +39,7 @@ tags:
 - **Fandom-Abgleich (2026-04-30):** Fandom-Einzelseite markiert Folge 43 weiterhin als „angekündigt" (veraltet), nennt den Zirkel aber explizit.
 - **Spielzeit:** 60 Minuten.
 - **Autor:in:** Silke Walter (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
-- **Sprecher (Auswahl):** Oscar Wilde – Sascha Rotermund, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle, die für diese Folge nur Oscar Wilde, Mycroft Holmes und die Ansage führt; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD. ⚠️ **Widerspruch:** Fandom nennt Mycroft Holmes – Reent Reins, die vollständige Sprecherliste der DNB (Digitalausgabe, endet mit der Ansage) und Audible führen Reent Reins nicht. Mycroft ist deshalb nicht eingetragen (Entscheidung Christian 12.10.2026: Fandom allein reicht gegen die vollständigen Listen nicht); ob Reins mitspricht, bleibt offen. Vollständige Liste ohne Rollen: Sascha Rotermund, Charles Rettinghaus, Florian Halm, Yvonne Greitzke, Tetje Mierendorf, Gabrielle Pietermann, Daniel Zillmann, Björn Schalla, Reinhard Scheunemann, Tobias Lelle, Robert Louis Griesbach, Marion Gretchen Schmitz, Erich Räuker, Janis Zaurins, Sebastian Fitzner, Lutz Mackensy (DNB; Audible gleich, ohne die Ansage). Weitere Stammsprecher:innen in der Liste — Charles Rettinghaus (Sherlock Holmes), Florian Halm (John Watson), Yvonne Greitzke (Irene Adler), Tetje Mierendorf (Rasputin), Gabrielle Pietermann (Theodora Sachs), Daniel Zillmann (Aleister Crowley), Björn Schalla (Geoffrey Stafford) — sind keiner Rolle zugeordnet, weil diese Figuren weder im offiziellen Klappentext noch in der Figurenliste der Fanseite stehen.
+- **Sprecher (Auswahl):** Oscar Wilde – Sascha Rotermund, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle, die für diese Folge nur Oscar Wilde, Mycroft Holmes und die Ansage führt; Oscar Wilde – Sascha Rotermund zusätzlich im DNB-Katalogsatz der CD. ⚠️ **Widerspruch:** Fandom nennt Mycroft Holmes – Reent Reins, die vollständige Sprecherliste der DNB (Digitalausgabe, endet mit der Ansage) und Audible führen Reent Reins nicht. Mycroft ist deshalb nicht eingetragen (Entscheidung Christian 12.10.2026: Fandom allein reicht gegen die vollständigen Listen nicht); **Geklärt (Nachrecherche 13.10.2026):** Laut Poldi-Rezension kommt Mycroft in dieser Folge „gar nicht erst vor“, auch BookBeat (16 Namen) führt Reins nicht — die Fandom-Rumpftabelle ist für diese Folge falsch, Mycroft bleibt ohne Sprechereintrag. Vollständige Liste ohne Rollen: Sascha Rotermund, Charles Rettinghaus, Florian Halm, Yvonne Greitzke, Tetje Mierendorf, Gabrielle Pietermann, Daniel Zillmann, Björn Schalla, Reinhard Scheunemann, Tobias Lelle, Robert Louis Griesbach, Marion Gretchen Schmitz, Erich Räuker, Janis Zaurins, Sebastian Fitzner, Lutz Mackensy (DNB; Audible gleich, ohne die Ansage). Weitere Stammsprecher:innen in der Liste — Charles Rettinghaus (Sherlock Holmes), Florian Halm (John Watson), Yvonne Greitzke (Irene Adler), Tetje Mierendorf (Rasputin), Gabrielle Pietermann (Theodora Sachs), Daniel Zillmann (Aleister Crowley), Björn Schalla (Geoffrey Stafford) — sind keiner Rolle zugeordnet, weil diese Figuren weder im offiziellen Klappentext noch in der Figurenliste der Fanseite stehen. Ein Höreindruck im Hoergruselspiele-Forum (Thread 36931) nennt Sherlock Holmes, Dr. Watson, Irene Adler und Rasputin als auftretende Figuren — Einzelquelle, nicht eingetragen.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge43-neue-wege/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-43-neue-wege.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-43-neue-wege.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-43.jpg>)*
@@ -47,7 +48,7 @@ tags:
 ## Hauptfiguren
 
 - [[wiki/figuren/oscar-wilde|Oscar Wilde]] — Titelheld und operative Hauptfigur des Falls.
-- [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — strategischer Auftraggeber der Krone im Hintergrund.
+- [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — in der Figurenliste der Fanseite geführt, die Titelfiguren pauschal zuordnet. **Laut Poldi-Rezension tritt er in dieser Folge nicht auf**; ein Sprechereintrag fehlt deshalb (Nachrecherche 13.10.2026, siehe Sprecher-Zeile der Eckdaten).
 
 ## Handlung (grob)
 
@@ -68,3 +69,4 @@ Wilde untersucht, ob Dr. Hoffman verunglückt ist oder ermordet wurde, und stö�
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Abgleich mit explizitem Zirkel-Hinweis im Verlags-Teaser.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge43-neue-wege/>
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
+- [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).

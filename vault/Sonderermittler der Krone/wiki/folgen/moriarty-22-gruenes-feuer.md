@@ -5,7 +5,7 @@ nummer: 22
 titel: Grünes Feuer
 erschienen: 2025-12-05
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 sprecher:
   - rolle: James Moriarty
     name: Andreas Fröhlich
@@ -31,6 +31,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge22-gruenes-feuer/
   - https://shop.holysoft.de/produkte/moriarty-22-gruenes-feuer-5467/
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - moriarty
   - maritim
@@ -46,6 +47,7 @@ tags:
 - **Erscheinungsdatum:** 05.12.2025.
 - **Spielzeit:** 68 Minuten.
 - **Verlag:** Maritim.
+- **Autor:** Marc Freund (DNB-Digitalausgabe und Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
 - **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich, Theodora Sachs – Gabrielle Pietermann, Aleister Crowley – Daniel Zillmann, Nikola Tesla – Patrick Winczewski, Victor Frankenstein – Dietmar Wunder, Mata Hari – Katja Keßler. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Gabrielle Pietermann, Daniel Zillmann, Patrick Winczewski, Dietmar Wunder, Katja Keßler, Mario Klischies, Kaspar Eichel, Tobias Schmitz, Oliver Stritzel, Dirc Simpson (DNB; identisch bei Raute Media, Audible und Hörspieltalk). Raute Media und Hörspieltalk schreiben „Dietmar Wundee“.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge22-gruenes-feuer/>
 
@@ -79,3 +81,4 @@ In der Nähe von Epping Forest kommt es zu seltsamen Lichtphänomenen. Ein Augen
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge22-gruenes-feuer/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-22-gruenes-feuer-5467/>
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

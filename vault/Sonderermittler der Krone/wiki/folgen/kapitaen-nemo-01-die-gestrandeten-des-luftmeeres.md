@@ -5,7 +5,7 @@ nummer: 1
 titel: Die Gestrandeten des Luftmeeres
 erschienen: 2026-02-13
 verlag: Blitz Verlag
-autor: ""
+autor: "Anton Serkalow"
 sprecher:
   - rolle: Kapitän Nemo
     name: K. Dieter Klebsch
@@ -25,6 +25,7 @@ quellen:
   - raw/maritim/2026-04-29_kapitaen-nemo_folgen-01-02.md
   - https://www.sonderermittler-der-krone.de/serien/kapitaen-nemo/folge01-die-gestrandeten-des-luftmeeres/
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - blitz
   - abenteuer
@@ -40,7 +41,7 @@ tags:
 - **Erscheinungsdatum:** 13.02.2026.
 - **Spielzeit:** 60 Minuten.
 - **Verlag:** Blitz Verlag.
-- **Autor:** noch nicht im Repo verifiziert.
+- **Autor:** Anton Serkalow (DNB-CD-Satz, „Dialogbuch: Anton Serkalow“; Verlagsvorschau im Hörspieltalk, „Von: Anton Serkalow“; nachgetragen 13.10.2026).
 - **Sprecher (Auswahl):** Kapitän Nemo – K. Dieter Klebsch, Phileas Fogg – Sascha Draeger, Gillian Spilett – Sarah Alles, Maatene Huatare – Mario Klischies. Kapitän Nemo laut DNB (MARC 245 $c); übrige Rollen *abgeleitet, keine Rollenliste*: Phileas Fogg über die Fanseiten-Figurenseite, Gillian Spilett und Maatene Huatare über die Rollenliste von [[wiki/folgen/kapitaen-nemo-02-das-geheimnis-der-insel|NEM 2]] (Hörspieltalk). Alle vier Namen nennen Hörspieltalk-Thread 29988 („u. a.“) und Audible (Feld „Autor“); eine vollständige Sprecherliste ist nicht veröffentlicht.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/kapitaen-nemo/folge01-die-gestrandeten-des-luftmeeres/>
 - **Cover:** <https://www.sonderermittler-der-krone.de/cover/kapitaen-nemo/cover-xl-kapitaen-nemo-1.jpg> *(noch nicht lokal abgelegt)*
@@ -69,3 +70,4 @@ Bei einem gemeinsamen Dinner im Reform Club erzählt Kapitän Nemo von einer Beg
 - [raw/maritim/2026-04-29_kapitaen-nemo_folgen-01-02.md](../../raw/maritim/2026-04-29_kapitaen-nemo_folgen-01-02.md) — paraphrasierte Arbeitsnotiz aus den offiziellen Folgen-Seiten.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/kapitaen-nemo/folge01-die-gestrandeten-des-luftmeeres/>
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB-CD-Satz, Hörspieltalk (13.10.2026).

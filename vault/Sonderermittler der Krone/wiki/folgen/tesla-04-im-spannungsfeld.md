@@ -5,7 +5,7 @@ nummer: 4
 titel: Im Spannungsfeld
 erschienen: 2025-06-27
 verlag: Blitz Verlag
-autor: ""
+autor: "Silke Walter"
 sprecher:
   - rolle: Nikola Tesla
     name: Patrick Winczewski
@@ -41,6 +41,7 @@ quellen:
   - raw/maritim/2026-04-28_tesla_folgen-01-08.md
   - https://www.sonderermittler-der-krone.de/serien/tesla/folge04-im-spannungsfeld/
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - sonderermittler
   - blitz
@@ -56,7 +57,7 @@ tags:
 - **Erscheinungsdatum:** 27.06.2025.
 - **Spielzeit:** 54 Minuten.
 - **Verlag:** Blitz Verlag.
-- **Autor:** noch nicht im Repo verifiziert.
+- **Autor:** Silke Walter (Raute Media, CD-Feld „Künstler“, und Audiolibrix; der DNB-Reihensatz der CD-Ausgabe nennt „Dialogbuch: Silke Walter“; nachgetragen 13.10.2026).
 - **Sprecher (Auswahl):** Nikola Tesla – Patrick Winczewski, James Moriarty – Andreas Fröhlich, Irene Adler – Yvonne Greitzke, Killjoy – Matti Klemm, Theodora Sachs – Gabrielle Pietermann, Aleister Crowley – Daniel Zillmann, Rasputin – Tetje Mierendorf, Mata Hari – Katja Keßler, Dr. Victor Frankenstein – Dietmar Wunder, Robur – Milton Welsh, Mister Wu – Michael Pan. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Patrick Winczewski, Andreas Fröhlich, Gabrielle Pietermann, Katja Keßler, Tetje Mierendorf, Dietmar Wunder, Daniel Zillmann, Yvonne Greitzke, Michael Pan, Milton Welsh, Matti Klemm, Detlef Tams, Dirc Simpson, Thomas Nero Wolff, Brian Sommer (Raute Media, CD-Ausgabe; Audible nennt keine weiteren Namen).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/tesla/folge04-im-spannungsfeld/>
 - **Auffälligkeit:** Die offizielle Website verwendet diesen Titel fälschlich auch für Folge 1. Folge 1 ist im Repo auf den korrekten Titel [[wiki/folgen/tesla-01-die-kraft-des-lichts|„Die Kraft des Lichts"]] korrigiert; „Im Spannungsfeld" ist der echte Titel **dieser** Folge 4.
@@ -88,3 +89,4 @@ Tesla, Theodora Sachs, Rasputin und Mata Hari schaffen es zunächst, das Treppen
 - [raw/maritim/2026-04-28_tesla_folgen-01-08.md](../../raw/maritim/2026-04-28_tesla_folgen-01-08.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/tesla/folge04-im-spannungsfeld/>
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

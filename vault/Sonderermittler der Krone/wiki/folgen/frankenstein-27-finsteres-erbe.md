@@ -5,7 +5,7 @@ nummer: 27
 titel: Finsteres Erbe
 erschienen: 2026-09-11
 verlag: Maritim
-autor: ""
+autor: "Silke Walter"
 sprecher:
   - rolle: Victor Frankenstein
     name: Dietmar Wunder
@@ -28,6 +28,7 @@ quellen:
   - raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md
   - https://www.sonderermittler-der-krone.de/serien/frankenstein/folge27-finsteres-erbe/
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - frankenstein
   - maritim
@@ -45,7 +46,7 @@ tags:
 - **Spielzeit:** 53 Minuten (offizielle Folgenseite und Shop-Angabe; Apple-Music-Trackssumme 52,8 min).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge27-finsteres-erbe/>
 - **Verlag:** Maritim (Produktion Holysoft).
-- **Autor:in:** noch nicht im Repo verifiziert.
+- **Autor:in:** Silke Walter (DNB-Digitalausgabe und Apple Books; unabhängig bestätigt durch den DNB-CD-Satz, „Autorin: Silke Walter“; nachgetragen 13.10.2026).
 - **Sprecher (Auswahl):** Victor Frankenstein – Dietmar Wunder, Theodora Sachs – Gabrielle Pietermann, Aleister Crowley – Daniel Zillmann. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Dietmar Wunder, Gabrielle Pietermann, Daniel Zillmann, Peter Lontzek, Sönke Städtler, Tanja Lipinski, Janis Zaurins, Marcel Mann, Tilmar Kuhn, Kim Hasper, Jean Coppong, Patrick Holtheuer (DNB; identisch bei Audible und Hörspieltalk). Bastien Lavache hat keine Fanseiten-Figurenseite und ist deshalb nicht zugeordnet (Peter Lontzek steht in der Liste).
 - **Schauplatz:** Draculas ehemaliges Labor in den Karpaten.
 
@@ -90,3 +91,4 @@ tags:
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update (Datum, Spielzeit).
 - HolyShop-Serienseite: <https://shop.holysoft.de/serien/frankenstein-und-der-zirkel-der-sieben/>
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

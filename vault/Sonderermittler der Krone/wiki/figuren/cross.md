@@ -13,6 +13,7 @@ quellen:
   - raw/notes/2026-09-06_neue-folgen-scout_september-2026.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
 tags:
   - nebenfigur
   - scotland-yard
@@ -26,7 +27,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecher:** Rainer Fritzsche — rollengenau in den Fandom-Besetzungstabellen SHC 48, 53 und SH 1/2 („Dunkle Kräfte“, „Inspektor Cross“); in SH 13 und 21 nach der Ableitungsregel eingetragen. **Offen:** In SH 1/2 steht Fritzsche in keiner Sprecherliste (Raute Media, Audible), die Rolle ist dort deshalb nicht eingetragen.
+- **Sprecher:** Rainer Fritzsche — rollengenau in den Fandom-Besetzungstabellen SHC 48, 53 und SH 1/2 („Dunkle Kräfte“, „Inspektor Cross“); in SH 13 und 21 nach der Ableitungsregel eingetragen. **Offen:** In SH 1/2 steht Fritzsche in keiner Sprecherliste (Raute Media, Audible), die Rolle ist dort deshalb nicht eingetragen. Nachrecherche 13.10.2026: Fritzsche fehlt jetzt in vier Listen je Teil (zusätzlich BookBeat mit 22 bzw. 15 Namen und pop.de, das für Teil 2 die Liste von Teil 1 trägt); die Rezensionen (Poldi, Buchtips) erwähnen weder Cross noch Fritzsche. Die Fandom-Angabe bleibt unbestätigte Einzelquelle ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md)).
 
 ## Namensformen
 
@@ -70,3 +71,4 @@ Die SHC-Klappentexte und die DNB-Besetzungen schreiben **„Inspektor Cross“**
 - Folgenseiten SH 13 und SH 21 im Vault (Klappentext der offiziellen Folgenseiten).
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
+- [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).

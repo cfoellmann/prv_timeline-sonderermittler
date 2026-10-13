@@ -36,6 +36,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - https://www.sonderermittler-der-krone.de/serien/wilde/folge04-das-buch-des-grauens/
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
 tags:
   - sonderermittler
   - blitz
@@ -52,7 +53,7 @@ tags:
 - **Spielzeit:** 51 Minuten (Folgenseite und Storytel übereinstimmend).
 - **Verlag:** Blitz Verlag; ISBN 9783689849283 (Download) bzw. 3862127931 (CD); UPC 4071498541159 (Deezer).
 - **Autor:in:** noch nicht im Repo verifiziert; der Handel führt nur „Oscar Wilde" als Reihenautor.
-- **Sprecher:** Oscar Wilde – Sascha Rotermund, Professor George Edward Challenger – Konstantin Graudus, Eric Proctor – Markus Pfeiffer, Alec West – Mathias Renneisen, Captain Harding – Uwe Büschken, Derek Costa – Robert Louis Griesbach, Mary Costa – Maria Koschny, Rita Frost – Sarah Alles, Mycroft Holmes – Reent Reins. Rollen laut Hörspieltalk-Thread 30926 (Verlagsvorschau) — Einzelquelle; Oscar Wilde – Sascha Rotermund zusätzlich laut DNB-Katalogeintrag der CD (IDN 1397811838); Audible führt nur Rotermund (im Autorenfeld).
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, Professor George Edward Challenger – Konstantin Graudus, Eric Proctor – Markus Pfeiffer, Alec West – Mathias Renneisen, Captain Harding – Uwe Büschken, Derek Costa – Robert Louis Griesbach, Mary Costa – Maria Koschny, [[wiki/figuren/rita-frost|Rita Frost]] – Sarah Alles, Mycroft Holmes – Reent Reins. Rollen laut Hörspieltalk-Thread 30926 (Verlagsvorschau) und, rollen- und namensgleich, laut Rollenliste der CD-Ausgabe bei pop.de — zwei Abdrucke derselben Verlagsliste (Hörspieltalk, pop.de), keine unabhängige Zweitquelle; Oscar Wilde – Sascha Rotermund zusätzlich laut DNB-Katalogeintrag der CD (IDN 1397811838); Audible führt nur Rotermund (im Autorenfeld).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde/folge04-das-buch-des-grauens/>
 
 ## Hauptfiguren
@@ -93,3 +94,4 @@ tags:
 - Deezer API (Album 1021645111): 2026-08-14, UPC 4071498541159.
 - Hörspieltalk: <https://www.xn--hrspieltalk-rfb.de/forum/thread/30926-oscar-wilde-die-ungel%C3%B6sten-f%C3%A4lle-des-mycroft-holmes-04-das-buch-des-grauens/>
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).

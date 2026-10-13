@@ -5,7 +5,7 @@ nummer: 16
 titel: Wo alles endet
 erschienen: 2024-10-25
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 sprecher:
   - rolle: James Moriarty
     name: Andreas Fröhlich
@@ -27,6 +27,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge16-wo-alles-endet/
   - https://shop.holysoft.de/produkte/moriarty-16-wo-alles-endet-4807/
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - moriarty
   - maritim
@@ -42,6 +43,7 @@ tags:
 - **Erscheinungsdatum:** 25.10.2024.
 - **Spielzeit:** 73 Minuten.
 - **Verlag:** Maritim.
+- **Autor:** Marc Freund (DNB-Digitalausgabe und Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
 - **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich, Nikola Tesla – Patrick Winczewski, Theodora Sachs – Gabrielle Pietermann, Dracula – Torsten Michaelis. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Patrick Winczewski, Marion Gretchen Schmitz, Hennes Bender, Maria Koschny, Marc Schülert, Tilmar Kuhn, Lutz Riedel, Douglas Welbat, Victoria Sturm, Gabrielle Pietermann, Torsten Michaelis, Hans-Georg Panczak, Martin Sabel, Lutz Mackensy (DNB; identisch bei Raute Media; Audible gekürzt).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge16-wo-alles-endet/>
 
@@ -73,3 +75,4 @@ Moriarty ist von dem Wunsch beseelt, sein Leben zu ändern und einem alten Rival
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge16-wo-alles-endet/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-16-wo-alles-endet-4807/>
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

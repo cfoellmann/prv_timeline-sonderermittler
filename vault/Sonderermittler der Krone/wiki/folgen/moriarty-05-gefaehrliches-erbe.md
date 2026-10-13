@@ -5,7 +5,7 @@ nummer: 5
 titel: Gefährliches Erbe
 erschienen: 2022-03-25
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 sprecher:
   - rolle: James Moriarty
     name: Andreas Fröhlich
@@ -37,6 +37,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge05-gefaehrliches-erbe/
   - https://shop.holysoft.de/produkte/moriarty-5-gefaehrliches-erbe-3042/
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - moriarty
   - maritim
@@ -51,6 +52,7 @@ tags:
 - **Erscheinungsdatum:** 25.03.2022.
 - **Spielzeit:** 65 Minuten.
 - **Verlag:** Maritim.
+- **Autor:** Marc Freund (DNB-Digitalausgabe und Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
 - **Sprecher:** James Moriarty – Andreas Fröhlich, Rodney Lambert – Alexander Turrek, Percy White – Tim Knauer, David Randall – Erich Räuker, Shanna Randall – Luisa Wietzorek, Edward Gordon – Hans-Jürgen Dittberner, Harold Winter – Robert Louis Griesbach, Theodora Sachs – Gabrielle Pietermann, Kutscher – Detlef Tams, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (Artikel „Gefährliches Erbe“; für die Rollen Einzelquelle); die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten. Alle Namen zusätzlich durch DNB und Raute Media bestätigt.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge05-gefaehrliches-erbe/>
 
@@ -79,3 +81,4 @@ James Moriarty macht auf der Überfahrt von New York nach England die Bekanntsch
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge05-gefaehrliches-erbe/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-5-gefaehrliches-erbe-3042/>
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

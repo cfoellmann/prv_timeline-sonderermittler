@@ -5,7 +5,7 @@ nummer: 2
 titel: Dunkle Kräfte, Teil 2
 erschienen: 2022-12-16
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 sprecher:
   - rolle: Sherlock Holmes
     name: Charles Rettinghaus
@@ -50,6 +50,8 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge02-dunkle-kraefte-teil-2/
   - https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-2-dunkle-kraefte-teil-2-3912/
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - sherlock-holmes
   - maritim
@@ -66,8 +68,8 @@ tags:
 - **Angabe auf der offiziellen Seite:** 2022.
 - **Spielzeit:** 70 Minuten.
 - **Verlag:** Maritim.
-- **Autor:** noch nicht im Repo verifiziert.
-- **Sprecher:** Sherlock Holmes – Charles Rettinghaus, Dr. John H. Watson – Florian Halm, Mycroft Holmes – Reent Reins, Professor van Dusen – Martin Keßler, Hutchinson Hatch – Norbert Langer, Geoffrey Stafford – Björn Schalla, James Moriarty – Andreas Fröhlich, John Mariott – Thomas Schmuckert, Jessy Mariott – Sarah Alles, Lian Song Fu – Robert Louis Griesbach, Riley Cunningham – Detlef Tams, Mona Cunningham – Friedel Morgenstern, Harold Partlow – Peter Kirchberger, Chinese 1 – Jean Coppong, Chinese 2 – Patrick Holtheuer, Ansage – Lutz Mackensy. Rollen laut Fandom-Rollentabelle „Dunkle Kräfte“, die Teil 1 und 2 gemeinsam führt; diesem Teil zugeordnet über die vollständige CD-Liste (Raute Media, 16 Namen, alle in der Tabelle). Inspektor Cross (Rainer Fritzsche) steht in der Tabelle, aber in keiner Sprecherliste der Folge — offen. Die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten.
+- **Autor:** Marc Freund (Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
+- **Sprecher:** Sherlock Holmes – Charles Rettinghaus, Dr. John H. Watson – Florian Halm, Mycroft Holmes – Reent Reins, Professor van Dusen – Martin Keßler, [[wiki/figuren/hutchinson-hatch|Hutchinson Hatch]] – Norbert Langer, Geoffrey Stafford – Björn Schalla, James Moriarty – Andreas Fröhlich, John Mariott – Thomas Schmuckert, Jessy Mariott – Sarah Alles, Lian Song Fu – Robert Louis Griesbach, Riley Cunningham – Detlef Tams, Mona Cunningham – Friedel Morgenstern, Harold Partlow – Peter Kirchberger, Chinese 1 – Jean Coppong, Chinese 2 – Patrick Holtheuer, Ansage – Lutz Mackensy. Rollen laut Fandom-Rollentabelle „Dunkle Kräfte“, die Teil 1 und 2 gemeinsam führt; diesem Teil zugeordnet über die vollständige CD-Liste (Raute Media, 16 Namen, alle in der Tabelle). Inspektor Cross (Rainer Fritzsche) steht in der Tabelle, aber in keiner Sprecherliste der Folge — offen. Nachrecherche 13.10.2026: Auch BookBeat (15 Namen) führt Fritzsche nicht; pop.de (CD) trägt für Teil 2 die 22-Namen-Liste von Teil 1, ebenfalls ohne ihn. Die Fandom-Angabe bleibt unbestätigte Einzelquelle. Die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge02-dunkle-kraefte-teil-2/>
 
 ## Hauptfiguren
@@ -97,3 +99,5 @@ Weitere rätselhafte Verbrechen beunruhigen London und zwingen Sherlock Holmes u
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge02-dunkle-kraefte-teil-2/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-2-dunkle-kraefte-teil-2-3912/>
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
+- [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

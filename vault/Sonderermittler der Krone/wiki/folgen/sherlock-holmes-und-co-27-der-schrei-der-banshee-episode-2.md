@@ -23,6 +23,7 @@ quellen:
   - raw/reviews/2026-04-27_re-releases_recherche-notiz.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - vorgaengerreihe
   - holmes-wilde-kontakt
@@ -40,7 +41,7 @@ tags:
 - **Reihe:** [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes & Co. — Aus den Geheimakten der Meisterdetektive]] (Vorgänger-Reihe, Label Romantruhe Audio).
 - **Nummer:** 27 (zweiter Teil des Zweiteilers, Fortsetzung von Folge 26).
 - **Erscheinungsdatum:** 02.09.2016 — beide Teile tragen dasselbe Datum.
-- **Autor:** Oliver Fleischer (DNB).
+- **Autor:** Oliver Fleischer (DNB-Digitalausgabe, Apple Books). ⚠️ **Widerspruch, Entscheidung offen:** Die DNB-Sätze der CD-Ausgaben (Einzel-CD und Doppel-CD 2016, 3-CD-Box 2019) nennen „Dialogbuch: Jonas Maas“, das Fandom-Wiki „Buch: Jonas Maas“; keine Quelle trennt die beiden Namen nach Funktion. `autor` bleibt bis zur Entscheidung unverändert (geprüft 13.10.2026).
 - **Sprecher (Auswahl):** Sherlock Holmes – Charles Rettinghaus, Dr. John Watson – Florian Halm, Oscar Wilde – Sascha Rotermund. Rollen laut Fandom-Besetzungstabelle des Zweiteilers (für die Rollen Einzelquelle; deckt sich mit den Stammsprechern der Fanseiten-Figurenseiten); alle drei Namen auch im DNB-Katalogsatz dieser Episode (Digitalausgabe, nur drei Namen), Sherlock Holmes – Charles Rettinghaus zusätzlich im DNB-Satz der Doppel-CD. Fandom führt nur **eine** Tabelle für beide Teile; die übrigen Rollen sind deshalb keinem Teil sicher zuzuordnen und nicht ins Frontmatter übernommen: Noman Trent – Viktor Neumann; Josef Ullmann – Michael Pan; Lord Earing – Klaus Dittmann; Atkins, der Butler – Robin Brosch; Thaddeus Barrows – Gerald Paradies; Inspektor Masterson – Jaron Löwenberg; Arthur Wesrcott – Tim Knauer; Pandora – Djuwita Müller; Mann – Patrick Holtheuer. Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Ermittler der Folge:** Sherlock Holmes.
 - **Wiederveröffentlichung:** als [[wiki/serien/sherlock-holmes|Aus den Archiven von Sherlock Holmes]] Folge **7**.
@@ -78,3 +79,4 @@ Merkmal **(B) Kanon-Ereignis** des [Aufnahmekriteriums](../konzepte/sherlock-hol
 - [raw/reviews/2026-04-27_re-releases_recherche-notiz.md](../../raw/reviews/2026-04-27_re-releases_recherche-notiz.md)
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorfrage Oliver Fleischer / Jonas Maas (13.10.2026).

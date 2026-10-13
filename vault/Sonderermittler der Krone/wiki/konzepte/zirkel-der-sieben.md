@@ -53,6 +53,7 @@ Personen, die für den Zirkel arbeiten oder ihn unterstützen, aber nicht zu den
 | Dr. Alfons Grell | Wissenschaftler, in Zirkel-Diensten | OWMH 4 „Tod der Königin" (15.07.2016) | [[wiki/figuren/alfons-grell]] |
 | Theodora Sachs | Hypnose-Begabte, Crowley-Umfeld | OWMH 10 „Eine Nacht am Brocken" (21.07.2017) | [[wiki/figuren/theodora-sachs]] |
 | Paul Hiller (& Bande) | Auftragsmörder | OWMH 18 „Feindberührung" (30.11.2018), getötet in OWMH 28 (28.07.2020) | [[wiki/figuren/paul-hiller]] |
+| Killjoy | Dauergegner an der Seite Roburs, in fünf Reihen gelistet; ab FRANK 18 mit Racheplänen gegen Frankenstein, also kein verlässlicher Loyalist | IADK 1 „Tod im Oberhaus" (14.06.2019); ein früherer Auftritt in SHC 45 (07.06.2019) ist nur durch Fandom belegt | [[wiki/figuren/killjoy]] |
 
 ## Auftauchen in den Serien
 

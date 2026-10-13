@@ -16,6 +16,7 @@ quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
 tags:
   - nebenfigur
   - owmh
@@ -30,7 +31,7 @@ tags:
 ## Eckdaten
 
 - **Erstauftritt:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-02-finsteres-hochland|OWMH 2 — Finsteres Hochland]] (11.03.2016) laut Löchel-Chronologie und Fandom-Besetzung. Die Fandom-Seite zu OWMH 5 nennt abweichend „Kalter Fels" als ersten Auftritt — widerspricht der eigenen Besetzungstabelle zu OWMH 2.
-- **Sprecher:** Jaron Löwenberg — in OWMH 2–26 rollengenau belegt (Fandom-Besetzungstabellen, elf Folgen). Für DNAPF und WMU nennt Audible ihn in der Besetzung, aber **ohne Rollenzuordnung**; die CD-Listen von Raute Media zu DNAPF 39 und 42 und die Verlagsvorschau zu WMU 1 (Hörspieltalk) ebenso. In den Besetzungslisten OWMH 45–60 fehlt er (Prüfung 12.10.2026). Außerhalb von OWMH spricht Löwenberg laut Fandom in SHC 26/27 **Inspektor Masterson** und steht in SHC 45 ohne Rollenangabe in der Tabelle — „keine andere Rolle als Hawthorn“ gilt also nur für OWMH 1–44. Die abgeleiteten Einträge in DNAPF 39–43 und WMU 1 über die Fandom-Tabellen OWMH sind als Ausnahme der Ableitungsregel bestätigt (Entscheidung Christian 12.10.2026); dass es dieselbe Figur ist, bleibt eine Annahme.
+- **Sprecher:** Jaron Löwenberg — in OWMH 2–26 rollengenau belegt (Fandom-Besetzungstabellen, elf Folgen). Für **WMU 1** ist er seit dem 13.10.2026 rollengenau belegt: Die Rollenliste der CD-Ausgabe bei pop.de nennt „Hawthorn - Jaron Löwenberg“ (ohne Vornamen; Verlagstext, Einzelquelle) — vorher nannten ihn Audible und die Verlagsvorschau (Hörspieltalk) dort nur als Namen. Für DNAPF nennt Audible ihn weiter in der Besetzung, aber **ohne Rollenzuordnung**; die CD-Listen von Raute Media zu DNAPF 39 und 42 ebenso. In den Besetzungslisten OWMH 45–60 fehlt er (Prüfung 12.10.2026). Außerhalb von OWMH spricht Löwenberg laut Fandom in SHC 26/27 **Inspektor Masterson** und steht in SHC 45 ohne Rollenangabe in der Tabelle — „keine andere Rolle als Hawthorn“ gilt also nur für OWMH 1–44. Die abgeleiteten Einträge in DNAPF 39–43 über die Fandom-Tabellen OWMH sind als Ausnahme der Ableitungsregel bestätigt (Entscheidung Christian 12.10.2026; WMU 1 war bis zum 13.10.2026 ebenfalls abgeleitet und ist jetzt über die Rollenliste belegt); dass es dieselbe Figur ist, bleibt eine Annahme.
 - **Beruf:** „der Jäger Hawthorn" (Klappentexte DNAPF 39, 43), „der Großwildjäger Hawthorn" (Klappentext WMU 1).
 - **Schreibweise:** Fanseite und Fandom führen ab OWMH 24 auch „Abel Hawthorne"; DNAPF 40 schreibt „Abel Hawthorn". Hier als Alias geführt.
 - **Reihen:** [[wiki/serien/oscar-wilde-und-mycroft-holmes]], [[wiki/serien/phileas-fogg]], [[wiki/serien/wilde-mycroft-ungeloeste]].
@@ -55,7 +56,7 @@ tags:
 | [[wiki/folgen/phileas-fogg-41-aufbruch\|DNAPF 41 — Aufbruch]] (07.06.2024) | findet mit Challenger das Dorf der Affenmenschen zerstört, verfolgt die französischen Soldaten | Klappentext; Identität **angenommen** |
 | [[wiki/folgen/phileas-fogg-42-gefaehrliche-suche\|DNAPF 42 — Gefährliche Suche]] (18.10.2024) | ist mit Challenger Frankenstein dicht auf den Fersen | Klappentext; Identität **angenommen** |
 | [[wiki/folgen/phileas-fogg-43-afrika-in-gefahr\|DNAPF 43 — Afrika in Gefahr]] (06.12.2024) | „der Jäger Hawthorn"; kommt unter Tarzans Führung mit Challenger hinter die Drahtzieher | Klappentext; Identität **angenommen** |
-| [[wiki/folgen/wilde-mycroft-ungeloeste-01-der-riese-von-griffin\|WMU 1 — Der Riese von Griffin]] (23.01.2026) | „der Großwildjäger Hawthorn"; reist mit Wilde nach Griffin in die Highlands | Klappentext; Identität **angenommen** |
+| [[wiki/folgen/wilde-mycroft-ungeloeste-01-der-riese-von-griffin\|WMU 1 — Der Riese von Griffin]] (23.01.2026) | „der Großwildjäger Hawthorn"; reist mit Wilde nach Griffin in die Highlands | Klappentext; Sprecher rollengenau laut Rollenliste der CD-Ausgabe bei pop.de („Hawthorn“, 13.10.2026); Identität **angenommen** |
 
 **Nicht als Auftritt gezählt** (nur Indizien): [[wiki/folgen/phileas-fogg-38-von-feinden-umgeben|DNAPF 38]] — Klappentext nennt nur Challenger auf der Schiffspassage Richtung Kongo, DNAPF 39 spricht danach von „ihrer" Schiffsfahrt; Jaron Löwenberg steht in der Audible-Besetzung. [[wiki/folgen/phileas-fogg-44-giganten|DNAPF 44]] — Klappentext spricht nur von den „Gefährten um Professor Challenger und Tarzan"; Löwenberg ebenfalls besetzt.
 
@@ -71,12 +72,12 @@ tags:
 
 ## Theorien & offene Fragen
 
-- **Derselbe Hawthorn in OWMH, DNAPF und WMU? — Annahme, gut gestützt (Prüfung 12.10.2026).** Keine Quelle sagt es ausdrücklich, und für DNAPF und WMU ordnet keine Quelle die Rolle einem Sprecher zu. Dafür sprechen:
+- **Derselbe Hawthorn in OWMH, DNAPF und WMU? — Annahme, gut gestützt (Prüfung 12.10.2026).** Keine Quelle sagt es ausdrücklich. Für WMU 1 ordnet seit dem 13.10.2026 die Rollenliste bei pop.de die Rolle „Hawthorn“ Jaron Löwenberg zu; für DNAPF ordnet weiter keine Quelle die Rolle einem Sprecher zu. Dafür sprechen:
   1. identischer Name — „Abel Hawthorn" (DNAPF 40) wie in OWMH 2; die Variante „Hawthorne" kommt innerhalb von OWMH selbst vor (OWMH 24–26);
   2. derselbe Beruf und dieselbe Funktion — „Jäger" (DNAPF 39, 43) bzw. „Großwildjäger" (WMU 1), in WMU 1 wieder als Begleiter Wildes in den Highlands wie in OWMH 2;
-  3. **derselbe Sprecher als starkes Indiz** — Jaron Löwenberg spricht laut Fandom in OWMH 1–44 ausschließlich Hawthorn (in SHC 26/27 dagegen Inspektor Masterson) und steht laut Audible in der Besetzung jeder DNAPF-Folge mit Hawthorn im Klappentext (39–43) sowie in WMU 1 (dort nur drei Sprecher); in DNAPF 37 ohne Challenger und Hawthorn fehlt er;
+  3. **derselbe Sprecher als starkes Indiz** — Jaron Löwenberg spricht laut Fandom in OWMH 1–44 ausschließlich Hawthorn (in SHC 26/27 dagegen Inspektor Masterson) und steht laut Audible in der Besetzung jeder DNAPF-Folge mit Hawthorn im Klappentext (39–43) sowie in WMU 1 (dort seit dem 13.10.2026 rollengenau als „Hawthorn“, Rollenliste pop.de); in DNAPF 37 ohne Challenger und Hawthorn fehlt er;
   4. gemeinsamer Kosmos — Wilde und Mycroft Holmes treten im selben Block auf (DNAPF 39, 41, 42).
-  Gegenbelege: keine. Als „belegt" gilt die Identität erst, wenn eine Besetzungsliste mit Rollen (Booklet, Verlagsseite) für DNAPF 39–43 oder WMU 1 „Abel Hawthorn — Jaron Löwenberg" nennt.
+  Gegenbelege: keine. Als „belegt" gilt die Identität erst, wenn eine Besetzungsliste mit Rollen (Booklet, Verlagsseite) für DNAPF 39–43 oder WMU 1 „Abel Hawthorn — Jaron Löwenberg" nennt. **Stand 13.10.2026:** Für WMU 1 liegt eine solche Rollenliste vor (pop.de, Verlagstext der CD) — sie schreibt aber nur „Hawthorn“ ohne Vornamen und ist eine Einzelquelle. Der Sprecherbeleg ist damit rollengenau; dass dieser Hawthorn der Abel Hawthorn aus OWMH ist, bleibt eine — jetzt stärker gestützte — Annahme. Für DNAPF 39–43 fehlt die Rollenliste weiter ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md)).
 - **Hawthorn auch in DNAPF 38 und 44?** Siehe oben; Indizien, kein Klappentextbeleg.
 - **Spätere OWMH-Folgen:** In den Fandom-Besetzungen OWMH 27–44 fehlt er. **OWMH 45–60 geprüft (12.10.2026): kein Auftritt.** Jaron Löwenberg steht in keiner Sprecherliste dieser Folgen — weder bei Audible noch in den vollständigen Listen von Hörspieltalk und Raute Media (52–56) noch in den Rollenlisten 58–60 —, und kein Klappentext 45–60 nennt Hawthorn. Einschränkung: Audible kürzt auf 15 Namen; für 45–50 und 57 gibt es keine zweite, vollständige Liste, die Audible-Listen enden dort aber mit der Ansage bzw. haben weniger als 15 Namen. Nach OWMH 26 taucht er damit erst wieder im Afrika-Block der Fogg-Reihe (2024) und in WMU 1 (2026) auf.
 - **Funktion im Krone-Umfeld:** Ermittler, Kontaktmann oder freier Begleiter Wildes? Aus den Klappentexten nicht ableitbar.
@@ -92,3 +93,4 @@ tags:
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md) — DNAPF 39–43.
 - [raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md](../../raw/maritim/2026-04-28_wilde-mycroft-ungeloeste_folgen-01-02.md) — WMU 1.
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).

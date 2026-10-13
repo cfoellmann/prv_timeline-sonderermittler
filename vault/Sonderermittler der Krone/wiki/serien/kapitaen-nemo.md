@@ -20,6 +20,7 @@ quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md
   - raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - blitz
   - jules-verne
@@ -80,7 +81,7 @@ tags:
 
 - Auffälligkeit der Quelle: Die offizielle Serienseite zeigte beim Abruf noch nur Folge `01`, während Figuren-Seiten und die direkte Folgen-URL Folge `02` bereits belegen.
 - Die Reihe wurde fortgesetzt: Die globale Serienübersicht zählte am 17.08.2026 drei Folgen, während die Serienunterseite noch nur Folgen 1 und 2 zeigte. Titel und Metadaten von Folge 3 stammen aus Apple Music, Spotify und Google Play.
-- **Autoren-Angabe für Folge 3 bleibt unbelegt:** Die offizielle Folgenseite nennt keinen Autor. Die Zuschreibung „Marc Freund" (nach Jules Verne) stammt ausschließlich aus Google-Play-Metadaten und ist im Repo daher **nicht** als Autor gesetzt.
+- **Autoren-Angabe für Folge 3 — belegt (13.10.2026):** Die offizielle Folgenseite nennt keinen Autor. Der DNB-Katalogsatz der CD nennt „Dialogbuch: Marc Freund“ (Folge 3, auch Folge 4), für Folge 1 und 2 „Dialogbuch: Anton Serkalow“. Die frühere Zuschreibung „Marc Freund“ aus Google-Play-Metadaten ist damit bestätigt, `autor` ist auf den Folgenseiten 1–3 nachgetragen ([Rohdaten](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md)).
 - **Spielzeit-Abweichung Folge 3:** offizielle Folgenseite 66 min, Google Play „1 h 5 min". Im Repo gilt die offizielle Angabe.
 - **Offene Frage zur Rahmenhandlung:** Für Folge 3 ist Phileas Fogg nicht mehr als Figur gelistet, Oscar Wilde dagegen schon. Ob die Fogg-Rahmenhandlung entfällt, ist beim Hören zu klären.
 - **Fortsetzung bestätigt:** Mit Folge 5 läuft die Reihe über die ersten vier Folgen hinaus weiter (Apple Music, Hörspieltalk; dort der Forenkommentar, die Staffel sei „von Anfang an bestätigt“ gewesen). Ob der Vermerk `mini_serie: true` damit noch trägt, ist eine Einordnungsfrage für Christian.
@@ -99,3 +100,4 @@ tags:
 - [raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md](../../raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md) — Recherche vom 12.10.2026: Folge 5 erschienen.
 - Offizielle Serien-Seite: <https://www.sonderermittler-der-krone.de/serien/kapitaen-nemo/>
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche vom 17.08.2026: offizielle Folgen-Detailseiten (Daten, Spielzeiten, Klappentexte, Figuren).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft, Datum und Altfälle: DNB, Raute Media, Apple Books, Fanseite (13.10.2026).

@@ -11,6 +11,7 @@ quellen:
   - raw/maritim/2026-04-27_owmh_serien-und-folge-01.md
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
+  - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
 tags:
   - hauptfigur
   - sonderermittler
@@ -119,7 +120,7 @@ Alle 100 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersc
 | [[wiki/folgen/irene-adler-20-meister-der-alchemie\|IADK 20 — Meister der Alchemie]] (22.03.2024) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-48-quelle-des-leidens\|OWMH 48 — Quelle des Leidens]] (29.03.2024) | Titelheld und operative Hauptfigur des Falls |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-49-albtraum\|OWMH 49 — Albtraum]] (07.06.2024) | Titelheld und operative Hauptfigur des Falls |
-| [[wiki/folgen/sherlock-holmes-08-die-sieben-leben-des-carter-roth\|SH 8 — Die sieben Leben des Carter Roth]] (21.06.2024) | ist auf der offiziellen Seite als Figur gelistet |
+| [[wiki/folgen/sherlock-holmes-08-die-sieben-leben-des-carter-roth\|SH 8 — Die sieben Leben des Carter Roth]] (21.06.2024) | ist auf der offiziellen Seite als Figur gelistet — ⚠️ **Auftritt zweifelhaft (13.10.2026):** Die Figurenliste der Fanseite ist sehr wahrscheinlich von SH 6 kopiert, Sascha Rotermund steht in keiner der vier Sprecherlisten, und laut Höreindruck tritt niemand aus dem Zirkel-Umfeld auf. Zeile bleibt bis zur Entscheidung stehen ([[wiki/queries/lint-2026-10-12\|Lint 2026-10-12, Nachtrag 7]]) |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis\|OWMH 50 — Bittere Erkenntnis]] (27.09.2024) | Titelheld und operative Hauptfigur des Falls |
 | [[wiki/folgen/phileas-fogg-42-gefaehrliche-suche\|DNAPF 42 — Gefährliche Suche]] (18.10.2024) | arbeitet hier direkt an Foggs Seite mit |
 | [[wiki/folgen/oscar-wilde-und-irene-adler-01-das-schottische-stueck\|WIA 1 — Das schottische Stück]] (25.10.2024) | begleitet Irene Adler nach Edinburgh und nimmt die Ermittlungen mit auf |
@@ -179,3 +180,4 @@ Oscar Wilde ist die zentrale Heldenfigur des gesamten Maritim-Kosmos. Seine Seri
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md)
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md)
 - Offizielle Figurenseite: <https://www.sonderermittler-der-krone.de/figuren/oscar-wilde/>
+- [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).

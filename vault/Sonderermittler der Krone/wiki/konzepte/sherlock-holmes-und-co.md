@@ -8,6 +8,7 @@ quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md
   - raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md
   - raw/notes/2026-09-06_shc-ingest_klappentexte-und-kanonpruefung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - vorgaengerreihe
   - meta
@@ -102,6 +103,8 @@ Ermittelt über Titelgleichheit zwischen den Album-Katalogen beider Reihen (Appl
 | 8 | Der Verlust des amerikanischen Gentlemans, 1. Teil | 31 |
 | 9 | Der Verlust des amerikanischen Gentlemans, 2. Teil | 32 |
 | 10 | Der bleiche Tod | 51 |
+
+Archiv-Folge 3 und 4 gehen beide auf **SHC 19** zurück: „Eine Stadt in Angst“ ist im Original eine einzige Folge auf Doppel-CD (DNB „2 CDs“, Fandom „ca. 95“ Minuten) und wurde für die Archiv-Linie in zwei Veröffentlichungen geteilt (49 + 46 Minuten). Es fehlt keine SHC-Nummer — geklärt am 13.10.2026 ([Rohdaten](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md), Abschnitt 8).
 
 > Die bisher notierte Regel „ausgelassen sind die Winterzeit-Folgen 1, 3, 5, 7, 8, 9" trägt nicht: ausgelassen sind auch 13, 18, 21, 24, 29, 34, 36, 37 und alles ab 61, während umgekehrt SHC 12 „Das Blut junger Frauen" trotz Markus Winter als Autor als Poe-Archiv-Folge 1 erschien.
 
@@ -241,3 +244,4 @@ Für die fünf verbleibenden Scotland-Yard-Folgen wurde der Klappentext über H�
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md)
 - Wikipedia (Abgrenzung zur älteren Sherlock-Holmes-Reihe von Maritim): <https://de.wikipedia.org/wiki/Sherlock_Holmes_(H%C3%B6rspielserie_von_Maritim)>
 - Hörspielforen-Threads zur Re-Release-Reihe (siehe Re-Release-Notiz).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft, Datum und Altfälle: DNB, Raute Media, Apple Books, Fanseite (13.10.2026).

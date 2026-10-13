@@ -5,7 +5,7 @@ nummer: 3
 titel: Verschollen im Eis
 erschienen: 2026-06-12
 verlag: Blitz Verlag
-autor: ""
+autor: "Marc Freund"
 sprecher:
   - rolle: Kapitän Nemo
     name: K. Dieter Klebsch
@@ -38,6 +38,7 @@ quellen:
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - https://www.sonderermittler-der-krone.de/serien/kapitaen-nemo/folge03-verschollen-im-eis/
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - blitz
   - abenteuer
@@ -53,7 +54,7 @@ tags:
 - **Erscheinungsdatum:** 12.06.2026.
 - **Spielzeit:** 66 Minuten laut offizieller Folgenseite (Google Play: „1 h 5 min" — geringe Abweichung).
 - **Verlag:** Blitz Verlag / Vertrieb All Ears GmbH.
-- **Autor:in:** **offen.** Die offizielle Folgenseite nennt keinen Autor. Google Play führt „Marc Freund" (nach Jules Verne) — ⚠️ **nur Handelsmetadatum, nicht durch die Primärquelle gedeckt.**
+- **Autor:in:** Marc Freund nach Jules Verne (DNB-CD-Satz, „Dialogbuch: Marc Freund“; deckt sich mit der Handelsangabe bei Google Play. Die offizielle Folgenseite nennt keinen Autor; nachgetragen 13.10.2026).
 - **Sprecher:** Kapitän Nemo – K. Dieter Klebsch, Kapitän Nemo (jung) – Peter Sura, Oscar Wilde – Sascha Rotermund, Professor Challenger – Konstantin Graudus, Navin – Brian Sommer, Pekka – Dirk Hardegen, Dr. Melvin Adams – Lutz Riedel, Jessica Fell – Tanja Lipinski, Colby Morris – Sebastian Fitzner, Claude Lagasse – Robert Louis Griesbach. Rollen laut Verlagsvorschau im Hörspieltalk-Thread 29995 (für die Rollen Einzelquelle). Die Liste nennt den alten Nemo nicht; Kapitän Nemo – K. Dieter Klebsch ist durch DNB (MARC 245 $c) und die Audible-Sprecherliste belegt. Audible nennt zusätzlich nur Namen ohne Rollen (K. Dieter Klebsch, Sascha Rotermund, Peter Sura, Konstantin Graudus, Brian Sommer).
 - **Schauplatz:** Nordatlantik / Eismeer.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/kapitaen-nemo/folge03-verschollen-im-eis/>
@@ -95,3 +96,4 @@ tags:
 - Apple Music: <https://music.apple.com/us/artist/die-abenteuer-des-kapit%C3%A4n-nemo/1870953044>
 - Spotify: <https://open.spotify.com/intl-de/album/7iyseKKtaaJ5SITxcw6dfm>
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB-CD-Satz (13.10.2026).

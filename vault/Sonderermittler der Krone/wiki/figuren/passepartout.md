@@ -9,6 +9,7 @@ quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
 tags:
   - held
   - phileas-fogg-begleiter
@@ -25,7 +26,7 @@ tags:
 - **Fraktion:** Helden
 - **Hauptserie:** [[wiki/serien/phileas-fogg|Jules Verne – Die neuen Abenteuer des Phileas Fogg]]
 - **Crossover:** [[wiki/serien/irene-adler|Irene Adler]]
-- **Sprecher:** Marius Clarén — Stammsprecher laut Fanseiten-Figurenseite und Verlagsmitteilung zur Stammbesetzung der Fogg-Reihe (2015); rollengenau in den Rollenlisten DNAPF 1, 7, 8. In DNAPF 2–5 und 33 nicht zugeordnet, weil er dort in keiner Sprecherliste steht.
+- **Sprecher:** Marius Clarén — Stammsprecher laut Fanseiten-Figurenseite und Verlagsmitteilung zur Stammbesetzung der Fogg-Reihe (2015); rollengenau in den Rollenlisten DNAPF 1, 7, 8. In DNAPF 2–5 und 33 nicht zugeordnet, weil er dort in keiner Sprecherliste steht. Nachrecherche 13.10.2026: Für DNAPF 2 nennt die Poldi-Rezension Clarén als Passepartout (deckt sich mit der Verlagsmitteilung 2015) — nicht eingetragen, weil Rezensionen keine Rollenquelle sind; Entscheidung offen. Für DNAPF 4, 5 und 33 weiter kein Beleg (in der 14-Namen-Liste von DNAPF 33 fehlt Clarén auch bei BookBeat). Die Folgenübersicht der Fanseiten-Figurenseite führt für Passepartout keine DNAPF-Folgen ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md)).
 
 ## Charakterisierung
 
@@ -65,3 +66,4 @@ Passepartout ist eine wichtige Brückenfigur zwischen verschiedenen Serien des M
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md)
 - [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA: Verlagsmitteilung zur Stammbesetzung 2015, Rollenlisten, DNB 245 $c (12.10.2026)
+- [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).

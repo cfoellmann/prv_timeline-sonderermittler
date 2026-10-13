@@ -12,6 +12,7 @@ quellen:
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
 tags:
   - zirkel-verbuendete
   - antagonist
@@ -27,7 +28,7 @@ tags:
 - **Fraktion:** [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] (Verbündete)
 - **Erstauftritt im Kosmos:** [[wiki/folgen/moriarty-17-dem-tod-entrissen|Moriarty 17 – Dem Tod entrissen]] (31.01.2025) — auf der offiziellen Seite als Figur gelistet
 - **Rolle:** Spionin, Femme Fatale, operative Zirkel-Kraft
-- **Sprecher:** Katja Keßler — Stammsprecherin laut Fanseiten-Figurenseite (dort „Katja Kessler“; Audible, Raute Media und DNB schreiben „Keßler“, im Vault einheitlich so); in MOR, FRANK und IADK nach der Ableitungsregel eingetragen. In MOR 18 steht sie nur bei Raute Media und Hörspieltalk, DNB/Audible führen an derselben Stelle Milton Welsh (offen).
+- **Sprecher:** Katja Keßler — Stammsprecherin laut Fanseiten-Figurenseite (dort „Katja Kessler“; Audible, Raute Media und DNB schreiben „Keßler“, im Vault einheitlich so); in MOR, FRANK und IADK nach der Ableitungsregel eingetragen. In MOR 18 steht sie nur bei Raute Media und Hörspieltalk, DNB/Audible führen an derselben Stelle Milton Welsh (offen). Nachrecherche 13.10.2026: MOR 18 bleibt offen (Digitalkanal Welsh, CD-Kanal Keßler; die Folgenübersicht der Fanseite führt Mata Hari für MOR 17 und 22–27, nicht für 18). In SH 8 steht Katja Keßler in allen vier Sprecherlisten, eine Rolle ist nicht belegt — laut Höreindruck tritt dort niemand aus dem Zirkel-Umfeld auf ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md)).
 
 ## Charakterisierung
 
@@ -97,3 +98,4 @@ Mata Hari wird im Maritim-Kosmos als exotische Femme Fatale und geschickte Spion
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR und FRANK: DNB, Raute Media, Fandom MOR 0–8, Hörspieltalk (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK und EAPAD: Fandom-Rollentabellen IADK 0–15, Fanseite, Raute Media, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
+- [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).

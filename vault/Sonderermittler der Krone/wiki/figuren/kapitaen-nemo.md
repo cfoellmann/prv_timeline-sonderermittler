@@ -19,6 +19,7 @@ quellen:
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
 tags:
   - hauptfigur
   - abenteuer
@@ -86,7 +87,7 @@ Die Liste ist beim aktuellen Repo-Stand **vollständig** — es sind alle Folgen
 - **Was Nemo im Afrika-Block antreibt, ist unbelegt.** Die Klappentexte zeigen ihn handelnd (Verfolgung, Waffenlieferung, Frankenstein-Jagd), nennen aber kein Motiv und keine Auftraggeber. Ob er dort für Mycroft arbeitet wie Fogg, ist **Annahme, nicht belegt**.
 - **Die Nautilus ist erst ab NEM 3 im Repo belegt.** Für die früheren Auftritte sagt keine Quelle, ob und mit welchem Schiff Nemo unterwegs ist.
 - **Verhältnis zur Romanvorlage bewusst offen gelassen.** Die Repo-Quellen beschreiben Nemo als Abenteuerfigur der Verne-Achse; Herkunft, Vorgeschichte und Charakterzeichnung aus Jules Vernes Romanen sind hier **nicht** als Kanon übernommen.
-- **Sprecher (aktualisiert 12.10.2026):** K. Dieter Klebsch ist nicht mehr nur für DNAPF 1 belegt, sondern auch für die Eigenreihe (Rollenlisten NEM 2–4, DNB 245 $c NEM 1 und 3) und als Stammsprecher der Fogg-Reihe (Verlagsmitteilung 2015); siehe Eckdaten. In DNAPF 2 bleibt die Rolle offen, weil die Sprecherliste der Folge nur drei Namen nennt.
+- **Sprecher (aktualisiert 12.10.2026):** K. Dieter Klebsch ist nicht mehr nur für DNAPF 1 belegt, sondern auch für die Eigenreihe (Rollenlisten NEM 2–4, DNB 245 $c NEM 1 und 3) und als Stammsprecher der Fogg-Reihe (Verlagsmitteilung 2015); siehe Eckdaten. In DNAPF 2 bleibt die Rolle offen, weil die Sprecherliste der Folge nur drei Namen nennt. Nachrecherche 13.10.2026: Die Poldi-Rezension nennt Klebsch für DNAPF 2 als Kapitän Nemo (deckt sich mit der Verlagsmitteilung 2015) — nicht eingetragen, weil Rezensionen keine Rollenquelle sind; Entscheidung offen. Die Folgenübersicht der Fanseiten-Figurenseite führt für Nemo keine DNAPF-Folgen ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md)).
 
 ## Quellen
 
@@ -101,3 +102,4 @@ Die Liste ist beim aktuellen Repo-Stand **vollständig** — es sind alle Folgen
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
 - [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).

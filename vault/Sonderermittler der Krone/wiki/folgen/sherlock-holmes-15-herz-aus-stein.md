@@ -5,7 +5,7 @@ nummer: 15
 titel: Herz aus Stein
 erschienen: 2025-05-30
 verlag: Maritim
-autor: ""
+autor: "Silke Walter"
 sprecher:
   - rolle: Sherlock Holmes
     name: Charles Rettinghaus
@@ -25,6 +25,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge15-herz-aus-stein/
   - https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-15-herz-aus-stein-5216/
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - sherlock-holmes
   - maritim
@@ -41,7 +42,7 @@ tags:
 - **Im HolyShop erhältlich ab:** 04.06.2025.
 - **Spielzeit:** 58 Minuten.
 - **Verlag:** Maritim.
-- **Autor:** noch nicht im Repo verifiziert.
+- **Autor:** Silke Walter (Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
 - **Sprecher (Auswahl):** Sherlock Holmes – Charles Rettinghaus, Dr. John H. Watson – Florian Halm, Theodora Sachs – Gabrielle Pietermann, Mata Hari – Katja Keßler. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Charles Rettinghaus, Florian Halm, Gabrielle Pietermann, Katja Keßler, Uwe Büschken, Felix Strüven, Peter Sura, Kim Hasper, Kaspar Eichel, Tilmar Kuhn, Tim Knauer, Marcel Mann, Janis Zaurins (Raute Media, CD-Ausgabe; Hörspieltalk nennt keine weiteren Namen).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge15-herz-aus-stein/>
 
@@ -72,3 +73,4 @@ Holmes und Watson können kaum glauben, was sie am Hafen erfahren haben, und suc
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge15-herz-aus-stein/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-15-herz-aus-stein-5216/>
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

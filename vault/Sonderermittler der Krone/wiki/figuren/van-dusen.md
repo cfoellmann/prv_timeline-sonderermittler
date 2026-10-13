@@ -45,6 +45,7 @@ Die Romantruhe-Anthologie [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — Auftraggeber: van Dusen untersucht die Vergiftungsserie auf seine Bitte (SH 1).
 - [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] — stößt in SH 1 zu seinen Ermittlungen, in SH 2 Partner auf Zeit.
 - [[wiki/figuren/james-moriarty|James Moriarty]] — Ziel der Spur in SH 2.
+- [[wiki/figuren/hutchinson-hatch|Hutchinson Hatch]] — in SH 1/2 und OWMH 35, 36 laut Fandom-Besetzung an seiner Seite (Sprecher Norbert Langer); das Verhältnis ist im Vault nicht ausdrücklich belegt.
 
 ## Bezug zum Zirkel der Sieben
 

@@ -5,7 +5,7 @@ nummer: 24
 titel: Ausgeliefert
 erschienen: 2026-04-10
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 sprecher:
   - rolle: James Moriarty
     name: Andreas Fröhlich
@@ -31,6 +31,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge24-ausgeliefert/
   - https://shop.holysoft.de/produkte/moriarty-24-ausgeliefert-5639/
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - moriarty
   - maritim
@@ -46,6 +47,7 @@ tags:
 - **Erscheinungsdatum:** 10.04.2026.
 - **Spielzeit:** 65 Minuten.
 - **Verlag:** Maritim.
+- **Autor:** Marc Freund (DNB-Digitalausgabe und Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
 - **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich, Theodora Sachs – Gabrielle Pietermann, Aleister Crowley – Daniel Zillmann, Nikola Tesla – Patrick Winczewski, Victor Frankenstein – Dietmar Wunder, Mata Hari – Katja Keßler. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Gabrielle Pietermann, Daniel Zillmann, Patrick Winczewski, Dietmar Wunder, Katja Keßler, Mario Klischies, Kaspar Eichel, Jessica Neumann, Lutz Riedel, Jörg Pintsch (DNB; identisch bei Raute Media, Audible und Hörspieltalk).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge24-ausgeliefert/>
 
@@ -78,3 +80,4 @@ Endlich ist es James Moriarty gelungen, den Strahlenapparat des Professor Payne 
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge24-ausgeliefert/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-24-ausgeliefert-5639/>
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

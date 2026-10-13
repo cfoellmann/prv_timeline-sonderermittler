@@ -50,6 +50,7 @@ quellen:
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - https://www.sonderermittler-der-krone.de/serien/wilde/folge03-das-fledermausamulett/
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
 tags:
   - blitz
   - mini-serie
@@ -66,7 +67,7 @@ tags:
 - **Spielzeit:** 52 Minuten.
 - **Verlag:** Blitz Verlag / Vertrieb All Ears GmbH.
 - **Autor:in:** noch nicht im Repo verifiziert.
-- **Sprecher:** Oscar Wilde – Sascha Rotermund, Rita Frost – Sarah Alles, Mycroft Holmes – Reent Reins, Abraham Van Helsing – Douglas Welbat, Inspector Manning – Dirk Hardegen, Ruby Dan – Lea Kalbhenn, Norman Gregson – Dirc Simpson, Miranda Hindle – Daniela Hoffmann, Anne Sellers – Sina Zadra, Greg Jarvis – Tobias Schmitz, Joe Wilcox – Detlef Tams, Neal Forrest – Sebastian Fitzner, Wächter – Gordon Piedesack, Wächter – Tobias Lelle, Juliania Matei – Julia Fölster, Zofe – Julia Casper. Rollen laut Hörspieltalk-Thread 31082 (Verlagsvorschau) — Einzelquelle; Oscar Wilde – Sascha Rotermund zusätzlich laut DNB-Katalogeintrag der CD (IDN 139781165X); die Namen Rotermund, Welbat, Hardegen, Kalbhenn und Hoffmann auch bei Audible.
+- **Sprecher:** Oscar Wilde – Sascha Rotermund, [[wiki/figuren/rita-frost|Rita Frost]] – Sarah Alles, Mycroft Holmes – Reent Reins, Abraham Van Helsing – Douglas Welbat, [[wiki/figuren/manning|Inspector Manning]] – Dirk Hardegen, Ruby Dan – Lea Kalbhenn, Norman Gregson – Dirc Simpson, Miranda Hindle – Daniela Hoffmann, Anne Sellers – Sina Zadra, Greg Jarvis – Tobias Schmitz, Joe Wilcox – Detlef Tams, Neal Forrest – Sebastian Fitzner, Wächter – Gordon Piedesack, Wächter – Tobias Lelle, Juliania Matei – Julia Fölster, Zofe – Julia Casper. Rollen laut Hörspieltalk-Thread 31082 (Verlagsvorschau) und, rollen- und namensgleich, laut Rollenliste der CD-Ausgabe bei pop.de — zwei Abdrucke derselben Verlagsliste (Hörspieltalk, pop.de), keine unabhängige Zweitquelle; Oscar Wilde – Sascha Rotermund zusätzlich laut DNB-Katalogeintrag der CD (IDN 139781165X); die Namen Rotermund, Welbat, Hardegen, Kalbhenn und Hoffmann auch bei Audible.
 - **Schauplatz:** Umgebung von Glastonbury.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde/folge03-das-fledermausamulett/>
 
@@ -105,3 +106,4 @@ tags:
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche-Notiz.
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update (Titel-Listung).
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).

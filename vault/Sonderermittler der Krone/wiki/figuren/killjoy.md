@@ -24,6 +24,8 @@ quellen:
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - antagonist
   - zirkel-umfeld
@@ -62,7 +64,7 @@ Die Fandom-Besetzungstabelle zu [[wiki/folgen/sherlock-holmes-und-co-45-hinter-d
 
 **Was nicht belegt ist:** dass „Mister Killroy" dieselbe Figur ist wie Killjoy. Die Rollenauflösung steht **allein** in der Fandom-Besetzungstabelle. Die Nachrecherche vom 06.09.2026 ([Protokoll](../../raw/notes/2026-09-06_shc-ingest_klappentexte-und-kanonpruefung.md)) hat dafür **keine zweite Quelle** gefunden: Händlerlistings (Audioteka, BookBeat, jpc, Apple Books, Amazon, Audiolibrix, pop.de) führen nur Sprechernamen ohne Rollen, die Rezension auf buchtips.net nennt weder „Killroy" noch „Killjoy", und das Fandom war beim Abruf nicht erreichbar (HTTP 402).
 
-**Konsequenz:** Der Erstauftritt bleibt bis auf Weiteres bei IADK 1 (14.06.2019). Sollte sich die Rollenbezeichnung bestätigen, ist SHC 45 nachzutragen — und die Folge erfüllte das SHC-Aufnahmekriterium dann gleich zweifach.
+**Konsequenz:** Der Erstauftritt bleibt bis auf Weiteres bei IADK 1 (14.06.2019). Sollte sich die Rollenbezeichnung bestätigen, ist SHC 45 nachzutragen — und die Folge erfüllte das SHC-Aufnahmekriterium dann gleich zweifach. **Nachrecherche 13.10.2026:** weiterhin keine zweite Rollenquelle — die Folgenübersicht der Fanseiten-Figurenseite beginnt bei IADK 1 und führt Folge 0 nicht, Klappentext und Figurenliste von IADK 0 nennen ihn nicht ([Rohdaten](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md), Abschnitt 11).
 
 ## Auftritte
 
@@ -89,7 +91,7 @@ Vollständig nach den offiziellen Figurenlisten im Repo-Stand. Wo der Klappentex
 | [[wiki/folgen/frankenstein-25-truegerische-hoffnung\|FRANK 25 — Trügerische Hoffnung]] | offiziell gelistet im Tarnmantel-Auftrag um Bastien Lavache |
 | [[wiki/folgen/sherlock-holmes-05-toedliche-rituale\|SH 5 — Tödliche Rituale]] (2023) | Ermittlungsziel: der „Kampf gegen Killjoy" wird in Grail's Hollow explizit |
 | [[wiki/folgen/sherlock-holmes-06-das-geheimnis-des-earls\|SH 6 — Das Geheimnis des Earls]] (2024) | Holmes und Watson stoßen auf „einen weiteren Ort des Killjoy-Komplexes" |
-| [[wiki/folgen/sherlock-holmes-08-die-sieben-leben-des-carter-roth\|SH 8 — Die sieben Leben des Carter Roth]] (2024) | offiziell gelistet im Unterwassertechnik-Fall |
+| [[wiki/folgen/sherlock-holmes-08-die-sieben-leben-des-carter-roth\|SH 8 — Die sieben Leben des Carter Roth]] (2024) | offiziell gelistet im Unterwassertechnik-Fall — ⚠️ **Auftritt zweifelhaft (13.10.2026):** Die Figurenliste der Fanseite ist sehr wahrscheinlich von SH 6 kopiert, Matti Klemm steht in keiner der vier Sprecherlisten, und laut Höreindruck tritt niemand aus dem Zirkel-Umfeld auf. Zeile bleibt bis zur Entscheidung stehen ([[wiki/queries/lint-2026-10-12\|Lint 2026-10-12, Nachtrag 7]]) |
 | [[wiki/folgen/sherlock-holmes-14-wut-und-verzweiflung\|SH 14 — Wut und Verzweiflung]] (2025) | offiziell gelistet, während Holmes und Watson in Roburs Gewalt sind |
 | [[wiki/folgen/sherlock-holmes-16-polarlichter\|SH 16 — Polarlichter]] (2025) | offiziell gelistet im Lebensstein-Arc |
 | [[wiki/folgen/tesla-04-im-spannungsfeld\|Tesla 4 — Im Spannungsfeld]] (2025) | rückt gemeinsam mit Robur und Barry Wood auf Cedric Manor vor |
@@ -112,7 +114,7 @@ Vollständig nach den offiziellen Figurenlisten im Repo-Stand. Wo der Klappentex
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt, aber nicht als Mitglied.** Die Mitgliederliste auf [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] führt Killjoy nicht — weder unter den Sieben noch (Stand jetzt) in der Tabelle „Verbündete (nicht Mitglied)". Sachlich gehört er dort hin: Er operiert dauerhaft an der Seite des Zirkel-Mitglieds Robur, seine Kunstkörper-Transplantationen stammen aus dem Zirkel-Projekt der künstlichen Menschen, und die Tesla-Klappentexte lassen ihn unmittelbar am Angriff auf das Königshaus mitarbeiten.
+- **Direkt, aber nicht als Mitglied.** Die Mitgliederliste auf [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] führt Killjoy nicht unter den Sieben, seit dem 13.10.2026 aber in der Tabelle „Verbündete (nicht Mitglied)". Er operiert dauerhaft an der Seite des Zirkel-Mitglieds Robur, seine Kunstkörper-Transplantationen stammen aus dem Zirkel-Projekt der künstlichen Menschen, und die Tesla-Klappentexte lassen ihn unmittelbar am Angriff auf das Königshaus mitarbeiten.
 - **Er ist ein Frühindikator.** In den Irene-Adler-Folgen 1–3 nennt die offizielle Seite den Zirkel überhaupt nicht; die Repo-Quellen halten fest, dass die Folgen *„über Killjoy"* an das Gegnernetzwerk angebunden bleiben. Killjoy funktioniert im Kosmos damit als Marker für Zirkel-Nähe, bevor der Begriff selbst fällt.
 - **Zugleich kein verlässlicher Netzwerk-Loyalist:** Die Rachepläne gegen Frankenstein ab FRANK 18 belegen internen Konflikt statt geschlossener Front.
 
@@ -123,7 +125,7 @@ Vollständig nach den offiziellen Figurenlisten im Repo-Stand. Wo der Klappentex
 - **Ist Killjoy Mensch, Kunstkörper oder Hybrid?** FRANK 10 belegt Transplantationen künstlichen Fleisches und künstlicher Haut. Wie weit die Veränderungen gehen — Teilersatz oder vollständige Rekonstruktion — sagt keine Quelle im Repo. Ob er vor FRANK 10 verletzt oder entstellt war und die Transplantation eine Reparatur ist, ist **offen**.
 - **Warum liegen zwischen IADK 1 (2019) und FRANK 10 (2023) vier Jahre Figurenlistung ohne greifbare Handlung?** In IADK 1–12 ist Killjoy fast immer gelistet, aber in keinem Klappentext handelnd. Zwei Lesarten, beide **nicht belegt:** (a) er agiert dort verdeckt und wird erst rückblickend zuordenbar, oder (b) die offiziellen Figurenlisten führen ihn pauschal als Reihen-Antagonisten. Klärung nur durch Hören.
 - **Der „Killjoy-Komplex" (SH 5/6).** Die Quellparaphrase spricht von mehreren „Orten des Killjoy-Komplexes". Ob das eine benannte In-Universe-Struktur (Anlagen, Netzwerk, Ritualorte) ist oder eine Formulierung des Recherche-Autors, lässt sich aus dem Repo **nicht entscheiden**. Wäre es Ersteres, wäre eine eigene Konzept-Seite gerechtfertigt.
-- **Lücke auf der Zirkel-Seite.** [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] listet Killjoy in keiner der beiden Tabellen, obwohl er quantitativ der präsenteste Nicht-Mitglied-Gegner im Repo ist. Ergänzung in „Verbündete (nicht Mitglied)" wäre konsequent — bewusst nicht in diesem Arbeitsschritt vorgenommen.
+- **Lücke auf der Zirkel-Seite.** [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] listet Killjoy in keiner der beiden Tabellen, obwohl er quantitativ der präsenteste Nicht-Mitglied-Gegner im Repo ist. Ergänzung in „Verbündete (nicht Mitglied)" wäre konsequent — bewusst nicht in diesem Arbeitsschritt vorgenommen. **Erledigt am 13.10.2026:** Killjoy steht jetzt in der Tabelle „Verbündete (nicht Mitglied)“.
 
 ## Quellen
 
@@ -138,3 +140,5 @@ Vollständig nach den offiziellen Figurenlisten im Repo-Stand. Wo der Klappentex
 - [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK und EAPAD: Fandom-Rollentabellen IADK 0–15, Fanseite, Raute Media, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft, Datum und Altfälle: DNB, Raute Media, Apple Books, Fanseite (13.10.2026).

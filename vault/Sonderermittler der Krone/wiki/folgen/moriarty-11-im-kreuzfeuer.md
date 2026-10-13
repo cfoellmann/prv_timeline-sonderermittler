@@ -5,7 +5,7 @@ nummer: 11
 titel: Im Kreuzfeuer
 erschienen: 2023-11-10
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 sprecher:
   - rolle: James Moriarty
     name: Andreas Fröhlich
@@ -19,6 +19,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge11-im-kreuzfeuer/
   - https://shop.holysoft.de/produkte/moriarty-11-im-kreuzfeuer-4407/
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - moriarty
   - maritim
@@ -33,6 +34,7 @@ tags:
 - **Erscheinungsdatum:** 10.11.2023.
 - **Spielzeit:** 64 Minuten.
 - **Verlag:** Maritim.
+- **Autor:** Marc Freund (DNB-Digitalausgabe und Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
 - **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Martin Keßler, Engelbert von Nordhausen, Maria Koschny, Friedel Morgenstern, Tilmar Kuhn, Jörg Pintsch, Marcel Mann, Brian Sommer, Kaspar Eichel, Robert Louis Griesbach, Mario Klischies, Christin Marquitan, Reinhard Scheunemann, Lutz Mackensy (DNB; identisch bei Raute Media; Audible gekürzt).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge11-im-kreuzfeuer/>
 
@@ -60,3 +62,4 @@ James Moriarty ist zwischen die Fronten einer erbitterten Familienfehde geraten.
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge11-im-kreuzfeuer/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-11-im-kreuzfeuer-4407/>
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

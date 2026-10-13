@@ -5,7 +5,7 @@ nummer: 1
 titel: Das Rätsel der Marie Celeste
 erschienen: 2020-09-25
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 sprecher:
   - rolle: James Moriarty
     name: Andreas Fröhlich
@@ -41,6 +41,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge01-das-raetsel-der-marie-celeste/
   - https://shop.holysoft.de/produkte/moriarty-1-das-raetsel-der-marie-celeste-3037/
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - moriarty
   - maritim
@@ -55,6 +56,7 @@ tags:
 - **Erscheinungsdatum:** 25.09.2020.
 - **Spielzeit:** 73 Minuten.
 - **Verlag:** Maritim.
+- **Autor:** Marc Freund (DNB-Digitalausgabe und Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
 - **Sprecher:** James Moriarty – Andreas Fröhlich, Sherlock Holmes – Charles Rettinghaus, Dr. John H. Watson – Florian Halm, Brady Leonard – Stefan Krause, Norman Giles – Joachim Tennstedt, Hayden Anderson – Romanus Fuhrmann, Thomas Hamilton – Marc Schülert, Connor Brennan – Detlef Tams, Ruby Hamilton – Magdalena Höfner, Dora Ginter – Liane Rudolph, Robert Griffin – Ingo Abel, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (Artikel „Das Rätsel der Marie Celeste“; sechs Rollen zusätzlich in der Instagram-Vorschau des Verlags, zitiert im Hörspieltalk-Thread 19659); die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten. Alle Namen zusätzlich durch DNB und Raute Media bestätigt.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge01-das-raetsel-der-marie-celeste/>
 
@@ -84,3 +86,4 @@ Zwei Tote werden auf einem Friedhof in Südengland beigesetzt. Unter der Trauerg
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge01-das-raetsel-der-marie-celeste/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-1-das-raetsel-der-marie-celeste-3037/>
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

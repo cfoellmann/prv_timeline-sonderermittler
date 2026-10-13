@@ -5,7 +5,7 @@ nummer: 2
 titel: Die Wiege des Verbrechens
 erschienen: 2020-11-27
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 sprecher:
   - rolle: James Moriarty
     name: Andreas Fröhlich
@@ -50,6 +50,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge02-die-wiege-des-verbrechens/
   - https://shop.holysoft.de/produkte/moriarty-2-die-wiege-des-verbrechens-3038/
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - moriarty
   - maritim
@@ -64,6 +65,7 @@ tags:
 - **Erscheinungsdatum:** 27.11.2020.
 - **Spielzeit:** 65 Minuten.
 - **Verlag:** Maritim.
+- **Autor:** Marc Freund (DNB-Digitalausgabe und Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
 - **Sprecher:** James Moriarty – Andreas Fröhlich, Theodora Sachs – Gabrielle Pietermann, Dracula – Torsten Michaelis, Geoffrey Stafford – Björn Schalla, Mycroft Holmes – Reent Reins, Milton Moriarty – Tobias Kluckert, Cassandra Moriarty – Anke Reitzenstein, Rebecca Moriarty – Sarah Alles, Daniel Moriarty – Till Hagen, Ernest Filmore – Uwe Büschken, Dwain Harlan – Werner Wilkening, Harold – Wolfgang Bahro, Walther – Rüdiger Schulzki, Huck – Dirc Simpson, Professor – Hans-Eckart Eckhardt, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (Artikel „Die Wiege des Verbrechens“; vollständig gleichlautend in der Verlagsvorschau, zitiert im Hörspieltalk-Thread 19659); die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten. Alle Namen zusätzlich durch DNB und Raute Media bestätigt. Schreibweise Anke Reitzenstein nach DNB und Raute Media (Fandom und Hörspieltalk: „Reizenstein“).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge02-die-wiege-des-verbrechens/>
 
@@ -95,3 +97,4 @@ Das Verbrechen hat einen neuen Namen: James Moriarty. Er ist ein Mann, den niema
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge02-die-wiege-des-verbrechens/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-2-die-wiege-des-verbrechens-3038/>
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

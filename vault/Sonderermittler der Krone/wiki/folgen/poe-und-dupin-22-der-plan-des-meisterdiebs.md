@@ -5,6 +5,7 @@ nummer: 22
 titel: Der Plan des Meisterdiebs
 erschienen: 2024-04-05
 verlag: Maritim
+autor: "Markus Duschek"
 sprecher:
   - rolle: Erzähler
     name: Douglas Welbat
@@ -23,6 +24,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - zirkel-der-sieben
   - arsene-lupin
@@ -40,6 +42,7 @@ tags:
 - **Erscheinungsjahr:** 2024
 - **Erscheinungsdatum:** 05.04.2024 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 56 min
+- **Autor:** Markus Duschek (DNB-Digitalausgabe und Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
 - **Zirkel-Bezug:** Direkt
 - **Sprecher (Auswahl):** Erzähler – Douglas Welbat, Edgar Allan Poe – Uve Teschner, Auguste Dupin – Manfred Lehmann, Dracula – Torsten Michaelis. Erzähler laut Serienseite der Fanseite. *Übrige Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite bzw. im Klappentext, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Douglas Welbat, Manfred Lehmann, Uve Teschner, Markus Pfeiffer, Torsten Michaelis, Gabrielle Pietermann, Dietmar Wunder, Timo Weisschnur, Leonhard Mahlich, Katja Keßler, Michael Pan, Stefan Krause, Patrick Holtheuer, Brian Sommer, Till Hagen, Christian Dabeler, Arianne Borbach, Julia Fölster, Jean Coppong, Lutz Mackensy (Raute Media, CD; Audible).
 
@@ -57,3 +60,4 @@ Während Auguste Dupin und Edgar Allan Poe mithilfe des Entfesselungskünstlers 
 - [raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md](../../raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md)
 - Offizielle Seite: <https://www.sonderermittler-der-krone.de/serien/poe-und-dupin/folge22-der-plan-des-meisterdiebs/>
 - [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

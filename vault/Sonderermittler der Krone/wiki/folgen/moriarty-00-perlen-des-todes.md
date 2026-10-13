@@ -5,7 +5,7 @@ nummer: 0
 titel: Perlen des Todes
 erschienen: 2021-08-13
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 sprecher:
   - rolle: Sherlock Holmes
     name: Charles Rettinghaus
@@ -28,6 +28,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge00-perlen-des-todes/
   - https://shop.holysoft.de/produkte/moriarty-perlen-des-todes-3041/
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - moriarty
   - maritim
@@ -47,6 +48,7 @@ tags:
 - **Erscheinungsdatum:** 13.08.2021.
 - **Spielzeit:** 65 Minuten.
 - **Verlag:** Maritim.
+- **Autor:** Marc Freund (DNB-Digitalausgabe und Apple Books; unabhängig bestätigt durch den DNB-CD-Satz der Erstveröffentlichung als SHC 55, „Buch: Marc Freund“; nachgetragen 13.10.2026).
 - **Sprecher:** Sherlock Holmes – Charles Rettinghaus, Dr. John Watson – Florian Halm, Geoffrey Stafford – Björn Schalla, James Moriarty – Andreas Fröhlich, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (Artikel „Perlen des Todes“; Einzelquelle, nur diese Rollen aufgelöst; sie decken sich mit den Stammsprechern der Fanseiten-Figurenseiten). Vollständige Liste ohne Rollen: Charles Rettinghaus, Florian Halm, Björn Schalla, Andreas Fröhlich, Udo Schenk, Torsten Münchow, Arianne Borbach, Stefan Krause, Jörg Pintsch, Sina Zadra, Janis Zaurins, Tom Solo, Ilona Otto, Bodo Wolf, Alexander Turrek, Patrick Holtheuer, André Teuber, Lutz Mackensy (DNB; identisch mit der Romantruhe-Vorschau im Hörspieltalk und der DNB-Liste zu SHC 55).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge00-perlen-des-todes/>
 
@@ -76,3 +78,4 @@ In einem Gasthaus in Plymouth taucht eines Abends ein rätselhafter Fremder auf,
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge00-perlen-des-todes/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-perlen-des-todes-3041/>
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

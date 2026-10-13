@@ -5,7 +5,7 @@ nummer: 1
 titel: Dunkle Kräfte, Teil 1
 erschienen: 2022-12-09
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 sprecher:
   - rolle: Sherlock Holmes
     name: Charles Rettinghaus
@@ -62,6 +62,8 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge01-dunkle-kraefte-teil-1/
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - sherlock-holmes
   - maritim
@@ -78,8 +80,8 @@ tags:
 - **Angabe auf der offiziellen Seite:** 2022.
 - **Spielzeit:** 72 Minuten.
 - **Verlag:** Maritim.
-- **Autor:** noch nicht im Repo verifiziert.
-- **Sprecher:** Sherlock Holmes – Charles Rettinghaus, Dr. John H. Watson – Florian Halm, Mycroft Holmes – Reent Reins, Professor van Dusen – Martin Keßler, Hutchinson Hatch – Norbert Langer, Geoffrey Stafford – Björn Schalla, James Moriarty – Andreas Fröhlich, John Mariott – Thomas Schmuckert, Jessy Mariott – Sarah Alles, Robert Freeman – Lutz Riedel, Harriet Freeman – Dagmar Dempe, Lian Song Fu – Robert Louis Griesbach, Morgan Jarvis – Erich Räuker, Henry Jarvis – Wanja Gerick, Scott Jarvis – Brian Sommer, Belinda Jarvis – Sina Zadra, Ben Morrison – Marc Schülert, Miss Monroe – Ilona Otto, Edward – Romanus Fuhrmann, Chinese 1 – Jean Coppong, Chinese 2 – Patrick Holtheuer, Ansage – Lutz Mackensy. Rollen laut Fandom-Rollentabelle „Dunkle Kräfte“, die Teil 1 und 2 gemeinsam führt; diesem Teil zugeordnet über die vollständige CD-Liste (Raute Media, 22 Namen, alle in der Tabelle). Inspektor Cross (Rainer Fritzsche) steht in der Tabelle, aber in keiner Sprecherliste der Folge — offen. Die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten.
+- **Autor:** Marc Freund (Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
+- **Sprecher:** Sherlock Holmes – Charles Rettinghaus, Dr. John H. Watson – Florian Halm, Mycroft Holmes – Reent Reins, Professor van Dusen – Martin Keßler, [[wiki/figuren/hutchinson-hatch|Hutchinson Hatch]] – Norbert Langer, Geoffrey Stafford – Björn Schalla, James Moriarty – Andreas Fröhlich, John Mariott – Thomas Schmuckert, Jessy Mariott – Sarah Alles, Robert Freeman – Lutz Riedel, Harriet Freeman – Dagmar Dempe, Lian Song Fu – Robert Louis Griesbach, Morgan Jarvis – Erich Räuker, Henry Jarvis – Wanja Gerick, Scott Jarvis – Brian Sommer, Belinda Jarvis – Sina Zadra, Ben Morrison – Marc Schülert, Miss Monroe – Ilona Otto, Edward – Romanus Fuhrmann, Chinese 1 – Jean Coppong, Chinese 2 – Patrick Holtheuer, Ansage – Lutz Mackensy. Rollen laut Fandom-Rollentabelle „Dunkle Kräfte“, die Teil 1 und 2 gemeinsam führt; diesem Teil zugeordnet über die vollständige CD-Liste (Raute Media, 22 Namen, alle in der Tabelle). Inspektor Cross (Rainer Fritzsche) steht in der Tabelle, aber in keiner Sprecherliste der Folge — offen. Nachrecherche 13.10.2026: Auch BookBeat (22 Namen) und pop.de (CD, 22 Namen) führen Fritzsche nicht, die Rezensionen (Poldi, Buchtips) erwähnen weder Cross noch Fritzsche; die Fandom-Angabe bleibt unbestätigte Einzelquelle. Die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge01-dunkle-kraefte-teil-1/>
 
 ## Hauptfiguren
@@ -109,3 +111,5 @@ England hat sich kaum von einem Schlag des Zirkels der Sieben erholt, als Mycrof
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge01-dunkle-kraefte-teil-1/>
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
+- [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

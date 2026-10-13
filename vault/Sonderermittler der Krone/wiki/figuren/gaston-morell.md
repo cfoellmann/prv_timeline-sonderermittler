@@ -8,6 +8,7 @@ quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - zirkel-mitglied
   - antagonist
@@ -23,7 +24,7 @@ tags:
 - **Erstauftritt:** [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin 1 – Insel der tödlichen Rätsel]] (13.07.2018)
 - **Aufnahme in den Zirkel:** EAPAD 13 "Aufnahmeprüfung"
 - **Fraktion:** [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]]
-- **Schreibweise:** Gaston **Morell** mit Doppel-l (laut Löchel-Kommentar)
+- **Schreibweise:** Gaston **Morell** mit Doppel-l (laut Löchel-Kommentar) — die Verlagstexte schreiben dagegen „Morel“, Entscheidung offen (siehe „Anmerkung zur Schreibweise“)
 - **Sprecher:** Wolfgang Condrus — rollengenau in den Fandom-Besetzungstabellen OWMH 31, 33–36 (Fandom schreibt „Gaston Morel“).
 
 ## Charakterisierung
@@ -60,8 +61,11 @@ Die Aufnahme Morells ist ein wichtiger Wendepunkt in der Zirkel-Geschichte: Erst
 
 In manchen Quellen taucht die Schreibweise "Gaston Morel" (mit einem l) auf. Laut Löchel-Kommentar ist die korrekte Schreibweise jedoch **Gaston Morell** mit Doppel-l.
 
+**Nachrecherche 13.10.2026:** Die Verlagstexte zu EAPAD 14 und 17 (Fanseite und Apple Books) schreiben „Gaston Morel“, ebenso Fandom; „Morell“ ist in keiner Verlagsquelle belegt, die Fanseite hat keine Figurenseite. Ob Titel, Fließtext und Slug auf „Morel“ umgestellt werden, ist **offen** (Entscheidung Christian) — bis dahin bleibt diese Seite unverändert bei „Morell“ ([Rohdaten](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md), Abschnitt 6; [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 7]], Entscheidung 9).
+
 ## Quellen
 
 - [raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md](../../raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft, Datum und Altfälle: DNB, Raute Media, Apple Books, Fanseite (13.10.2026).

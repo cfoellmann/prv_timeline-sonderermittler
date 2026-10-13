@@ -5,7 +5,7 @@ nummer: 19
 titel: Auf blutiger Spur
 erschienen: 2025-06-27
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 sprecher:
   - rolle: James Moriarty
     name: Andreas Fröhlich
@@ -24,6 +24,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge19-auf-blutiger-spur/
   - https://shop.holysoft.de/produkte/moriarty-19-auf-blutiger-spur-5195/
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - moriarty
   - maritim
@@ -38,6 +39,7 @@ tags:
 - **Erscheinungsdatum:** 27.06.2025.
 - **Spielzeit:** 70 Minuten.
 - **Verlag:** Maritim.
+- **Autor:** Marc Freund (DNB-Digitalausgabe und Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
 - **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich, Victor Frankenstein – Dietmar Wunder, Theodora Sachs – Gabrielle Pietermann. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Dietmar Wunder, Gabrielle Pietermann, Peter Sura, Sönke Städtler, Gosta Liptow, Kim Hasper, Tobias Lelle, Julia Fölster, Jessica Neumann, Kaspar Eichel (DNB; identisch bei Raute Media, Audible und Hörspieltalk).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge19-auf-blutiger-spur/>
 
@@ -68,3 +70,4 @@ Nur mit knapper Not entkommt James Moriarty einem sinkenden Schiff, nur um gleic
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge19-auf-blutiger-spur/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-19-auf-blutiger-spur-5195/>
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

@@ -5,7 +5,7 @@ nummer: 5
 titel: Tödliche Rituale
 erschienen: 2023-10-20
 verlag: Maritim
-autor: ""
+autor: "Silke Walter"
 sprecher:
   - rolle: Sherlock Holmes
     name: Charles Rettinghaus
@@ -22,6 +22,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge05-toedliche-rituale/
   - https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-5-toedliche-rituale-4335/
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - sherlock-holmes
   - maritim
@@ -38,7 +39,7 @@ tags:
 - **Angabe auf der offiziellen Seite:** 2023.
 - **Spielzeit:** 65 Minuten.
 - **Verlag:** Maritim.
-- **Autor:** noch nicht im Repo verifiziert.
+- **Autor:** Silke Walter (Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
 - **Sprecher (Auswahl):** Sherlock Holmes – Charles Rettinghaus, Dr. John H. Watson – Florian Halm. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Charles Rettinghaus, Florian Halm, Engelbert von Nordhausen, Arianne Borbach, Tobias Lelle, Uwe Büschken, Luisa Wietzorek, Magdalena Höfner, Brian Sommer, Florentine Draeger, Liane Rudolph, Lutz Mackensy (Raute Media, CD-Ausgabe; Audible nennt keine weiteren Namen).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge05-toedliche-rituale/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=YDA4-rmoZMs> — freigegeben 03.10.2026 (Schlagzeile der Fanseite).
@@ -68,3 +69,4 @@ In Grail's Hollow häufen sich brutale und scheinbar ritualhafte Vorkommnisse, v
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge05-toedliche-rituale/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-5-toedliche-rituale-4335/>
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

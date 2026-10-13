@@ -5,7 +5,7 @@ nummer: 8
 titel: Im Schatten des Giganten
 erschienen: 2023-02-03
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 sprecher:
   - rolle: James Moriarty
     name: Andreas Fröhlich
@@ -51,6 +51,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge08-im-schatten-des-giganten/
   - https://shop.holysoft.de/produkte/moriarty-8-im-schatten-des-giganten-3045/
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - moriarty
   - maritim
@@ -66,6 +67,7 @@ tags:
 - **Erscheinungsdatum:** 03.02.2023.
 - **Spielzeit:** 65 Minuten.
 - **Verlag:** Maritim.
+- **Autor:** Marc Freund (DNB-Digitalausgabe und Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
 - **Sprecher:** James Moriarty – Andreas Fröhlich, Theodora Sachs – Gabrielle Pietermann, Oscar Wilde – Sascha Rotermund, Shanna Randall – Luisa Wietzorek, Maxime De Groot – Lutz Mackensy, Benjamin Knowles – Wanja Gerick, Poppy Palmer – Sina Zadra, Tassilo Baxter – Thomas Schmuckert, Dracula – Torsten Michaelis, Lady Lydia Edgeware – Ulrike Möckel, Nigel Green – Brian Sommer, Christine Umbridge – Katja Keßler, Oberst Mortimer Basso – Till Hagen, Kutscher – Detlef Tams, Kopf – Patrick Holtheuer, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (Artikel „Im Schatten des Giganten“; für die Rollen Einzelquelle); die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten. Alle Namen zusätzlich durch DNB und Raute Media bestätigt.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge08-im-schatten-des-giganten/>
 
@@ -97,3 +99,4 @@ In belgischen Gent kommt es zu einem dramatischen Kampf auf Leben und Tod. Die M
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge08-im-schatten-des-giganten/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-8-im-schatten-des-giganten-3045/>
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

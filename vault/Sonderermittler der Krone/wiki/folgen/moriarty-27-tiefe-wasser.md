@@ -5,7 +5,7 @@ nummer: 27
 titel: Tiefe Wasser
 erschienen: 2026-09-25
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 sprecher:
   - rolle: James Moriarty
     name: Andreas Fröhlich
@@ -27,6 +27,7 @@ quellen:
   - raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge27-tiefe-wasser/
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - sonderermittler
   - maritim
@@ -45,7 +46,7 @@ tags:
 - **Spielzeit:** 70 Minuten (offizielle Folgenseite und HolyShop; Apple-Music-Trackssumme 70,2 min) — damit eine der längsten Folgen der Reihe.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge27-tiefe-wasser/> — gelistete Figuren: James Moriarty, Victor Frankenstein, Mata Hari.
 - **Verlag:** Maritim.
-- **Autor:in:** noch nicht im Repo verifiziert.
+- **Autor:in:** Marc Freund (⚠️ folgengenau Einzelquelle: DNB-Digitalausgabe, Apple Books und Audiolibrix geben dieselben Verlagsmetadaten wieder; kein Raute-Media-Eintrag, der DNB-CD-Satz nennt keine Autorschaft. Für Folge 1–24 ist Marc Freund unabhängig bestätigt; nachgetragen 13.10.2026).
 - **Schauplatz:** Nassau (Bahamas), North Bimini, Meeresgrund.
 - **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich, Victor Frankenstein – Dietmar Wunder, Mata Hari – Katja Keßler. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Dietmar Wunder, Katja Keßler, Kim Hasper, Daniela Hoffmann, Florian Clyde, Lea Kalbhenn, Lutz Riedel, Sina Zadra, Mathias Renneisen, Peter Sura, Erich Räuker (DNB; identisch bei Audible und Hörspieltalk).
 
@@ -89,3 +90,4 @@ tags:
 - Apple Music (iTunes Lookup API, Artist 1578682459): 2026-09-25.
 - Ankündigung mit Klappentext und Besetzung: <https://www.xn--hrspieltalk-rfb.de/forum/thread/31576-moriarty-zwischen-genie-und-verbrechen-27-tiefe-wasser/>
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

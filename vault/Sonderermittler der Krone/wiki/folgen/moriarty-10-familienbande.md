@@ -5,7 +5,7 @@ nummer: 10
 titel: Familienbande
 erschienen: 2023-09-01
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 sprecher:
   - rolle: James Moriarty
     name: Andreas Fröhlich
@@ -19,6 +19,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge10-familienbande/
   - https://shop.holysoft.de/produkte/moriarty-10-familienbande-4269/
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - moriarty
   - maritim
@@ -33,6 +34,7 @@ tags:
 - **Erscheinungsdatum:** 01.09.2023.
 - **Spielzeit:** 62 Minuten.
 - **Verlag:** Maritim.
+- **Autor:** Marc Freund (DNB-Digitalausgabe und Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
 - **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Martin Keßler, Engelbert von Nordhausen, Maria Koschny, Friedel Morgenstern, Jörg Pintsch, Susanne Meikl, Marcel Mann, Dagmar Dempe, Brian Sommer, Kaspar Eichel, Christian Rudolf, Magdalena Höfner, Lutz Riedel, Lutz Mackensy (DNB; identisch bei Raute Media; Audible gekürzt).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge10-familienbande/>
 
@@ -60,3 +62,4 @@ James Moriarty ist in den Vereinigten Staaten von Amerika im Hause der Familie L
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge10-familienbande/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-10-familienbande-4269/>
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

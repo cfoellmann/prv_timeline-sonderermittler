@@ -5,7 +5,7 @@ nummer: 6
 titel: Das Geheimnis des Earls
 erschienen: 2024-02-09
 verlag: Maritim
-autor: ""
+autor: "Silke Walter"
 sprecher:
   - rolle: Sherlock Holmes
     name: Charles Rettinghaus
@@ -29,6 +29,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge06-das-geheimnis-des-earls/
   - https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-6-das-geheimnis-des-earls-4469/
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - sherlock-holmes
   - maritim
@@ -45,7 +46,7 @@ tags:
 - **Angabe auf der offiziellen Seite:** 2024.
 - **Spielzeit:** 61 Minuten.
 - **Verlag:** Maritim.
-- **Autor:** noch nicht im Repo verifiziert.
+- **Autor:** Silke Walter (Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
 - **Sprecher (Auswahl):** Sherlock Holmes – Charles Rettinghaus, Dr. John H. Watson – Florian Halm, Irene Adler – Yvonne Greitzke, Oscar Wilde – Sascha Rotermund, Killjoy – Matti Klemm. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Charles Rettinghaus, Florian Halm, Yvonne Greitzke, Sascha Rotermund, Matti Klemm, Christian Dabeler, Uschi Hugo, Julia Fölster, Stefan Krause, Kaspar Eichel, Robert Louis Griesbach, Lutz Mackensy (Raute Media, CD-Ausgabe; Audible nennt keine weiteren Namen).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge06-das-geheimnis-des-earls/>
 
@@ -76,3 +77,4 @@ Sherlock Holmes beschließt, den Kampf gegen Killjoy fortzusetzen, nachdem Oscar
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge06-das-geheimnis-des-earls/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-6-das-geheimnis-des-earls-4469/>
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

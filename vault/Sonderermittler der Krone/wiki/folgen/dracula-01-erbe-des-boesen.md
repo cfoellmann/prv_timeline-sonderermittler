@@ -27,6 +27,7 @@ quellen:
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
 tags:
   - dracula
   - zirkel-der-sieben
@@ -43,7 +44,7 @@ tags:
 - **Erscheinungsdatum:** 02.10.2020 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 70 Minuten
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
-- **Sprecher (Auswahl):** Dracula – Torsten Michaelis, Abraham Van Helsing – Douglas Welbat, Jonathan Harker – Martin Sabel, Mina Harker – Victoria Sturm. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Torsten Michaelis, Felix Strüven, Christian Brückner, Ilona Otto, Ulrike Möckel, Martin Sabel, Victoria Sturm, Douglas Welbat, Marc Schülert, André Beyer, Kevin Kasper, Katja Keßler, Dietmar Wunder, Holger Löwenberg, Volker Brandt, Lutz Mackensy (DNB, Datensatz der Download-Ausgabe; Audible nennt eine gekürzte Teilmenge).
+- **Sprecher (Auswahl):** Dracula – Torsten Michaelis, Abraham Van Helsing – Douglas Welbat, Jonathan Harker – Martin Sabel, Mina Harker – Victoria Sturm. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Torsten Michaelis, Felix Strüven, Christian Brückner, Ilona Otto, Ulrike Möckel, Martin Sabel, Victoria Sturm, Douglas Welbat, Marc Schülert, André Beyer, Kevin Kasper, Katja Keßler, Dietmar Wunder, Holger Löwenberg, Volker Brandt, Lutz Mackensy (DNB, Datensatz der Download-Ausgabe; Audible nennt eine gekürzte Teilmenge; BookBeat dieselben 16 Namen). Nachrecherche 13.10.2026: Dracula – Torsten Michaelis ist für diese Folge zusätzlich durch die Buchtips-Rezension belegt („der personifizierte Dracula“); die Angabe der Poldi-Einzelrezension, Felix Strüven spreche Dracula, ist ein Fehler. **Offen:** Rolle von Felix Strüven — Heldenchaos nennt ihn unter den Nebensprechern; naheliegend, aber unbelegt ist eine Rolle im Prolog um den jungen Vlad.
 - **Verlag:** Maritim
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/dracula/folge01-erbe-des-boesen/>
 - **YouTube:** <https://www.youtube.com/watch?v=99LOcnOjtRM>
@@ -68,3 +69,4 @@ Diese Folge markiert den Auftakt der Dracula-Serie innerhalb des Zirkel-Universu
 - [raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md](../../raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/dracula/folge01-erbe-des-boesen/>
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
+- [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).

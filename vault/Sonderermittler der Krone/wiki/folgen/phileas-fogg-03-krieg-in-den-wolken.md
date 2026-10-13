@@ -21,6 +21,7 @@ quellen:
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
 tags:
   - ankerfolge
   - erstauftritt
@@ -34,7 +35,7 @@ tags:
 
 - **Erscheinungsdatum:** 26.02.2016.
 - **Autor:in:** Markus Topf & Dominik Ahrens (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
-- **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger. *Erzähler (Jules Verne) laut DNB-Katalogeintrag der CD (Titelangabe, IDN 1166080501), keine weitere Rollenliste.* *Übrige Rollen abgeleitet:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest (DNB-Katalog der Digitalausgabe, Audible). Im Klappentext genannt, Stammsprecher:in aber nicht in der Liste, Rolle daher offen: Robur (Milton Welsh). Robur sprach laut Verlagsmitteilung 2015 in der ersten Staffel Hartmut Neugebauer; er steht nicht in der (auf drei Namen gekürzten) Liste.
+- **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger. *Erzähler (Jules Verne) laut DNB-Katalogeintrag der CD (Titelangabe, IDN 1166080501), keine weitere Rollenliste.* *Übrige Rollen abgeleitet:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest (DNB-Katalog der Digitalausgabe, Audible). Im Klappentext genannt, Stammsprecher:in aber nicht in der Liste, Rolle daher offen: Robur (Milton Welsh). Robur sprach laut Verlagsmitteilung 2015 in der ersten Staffel Hartmut Neugebauer; er steht nicht in der (auf drei Namen gekürzten) Liste. Nachrecherche 13.10.2026: Die Poldi-Rezension nennt für diese Folge Hartmut Neugebauer als Robur, deckungsgleich mit der Verlagsmitteilung 2015. **Nicht eingetragen**, weil Rezensionen nach der Kanonkarte keine Rollenquelle sind und weiterhin keine Namensliste ihn führt (BookBeat ebenfalls nur drei Namen) — Entscheidung offen.
 - **Verlag:** Maritim.
 - **Arbeitsstand:** Nur als Chronologie-Anker erschlossen; Detailquelle fehlt lokal noch.
 - **Timeline-Notiz:** Erstauftritt Robur; Jekyll/Hyde stirbt.
@@ -59,3 +60,4 @@ tags:
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md)
 - [raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md](../../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md)
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).

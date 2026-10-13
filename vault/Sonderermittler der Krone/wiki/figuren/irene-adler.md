@@ -20,6 +20,7 @@ quellen:
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
 tags:
   - hauptfigur
   - sonderermittler
@@ -92,7 +93,7 @@ Alle 58 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 | [[wiki/folgen/sherlock-holmes-06-das-geheimnis-des-earls\|SH 6 — Das Geheimnis des Earls]] (09.02.2024) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/irene-adler-20-meister-der-alchemie\|IADK 20 — Meister der Alchemie]] (22.03.2024) | erkennt endlich den Mechanismus der vier Figuren |
 | [[wiki/folgen/irene-adler-21-goldene-zeiten\|IADK 21 — Goldene Zeiten]] (21.06.2024) | erkennt in den Marktverwerfungen einen größeren Plan |
-| [[wiki/folgen/sherlock-holmes-08-die-sieben-leben-des-carter-roth\|SH 8 — Die sieben Leben des Carter Roth]] (21.06.2024) | ist auf der offiziellen Seite als Figur gelistet |
+| [[wiki/folgen/sherlock-holmes-08-die-sieben-leben-des-carter-roth\|SH 8 — Die sieben Leben des Carter Roth]] (21.06.2024) | ist auf der offiziellen Seite als Figur gelistet — ⚠️ **Auftritt zweifelhaft (13.10.2026):** Die Figurenliste der Fanseite ist sehr wahrscheinlich von SH 6 kopiert, Yvonne Greitzke steht in keiner der vier Sprecherlisten, und laut Höreindruck tritt niemand aus dem Zirkel-Umfeld auf. Zeile bleibt bis zur Entscheidung stehen ([[wiki/queries/lint-2026-10-12\|Lint 2026-10-12, Nachtrag 7]]) |
 | [[wiki/folgen/irene-adler-22-eine-frage-der-identitaet\|IADK 22 — Eine Frage der Identität]] (26.07.2024) | muss zugleich um das nackte Überleben und gegen eine politische Intrige kämpfen |
 | [[wiki/folgen/irene-adler-23-taeuschungen\|IADK 23 — Täuschungen]] (20.09.2024) | gerät an Bord eines Schiffes in akute Lebensgefahr |
 | [[wiki/folgen/frankenstein-15-strom-der-gedanken\|FRANK 15 — Strom der Gedanken]] (27.09.2024) | Sonderermittlerin der Krone, kommt nach Glasgow |
@@ -114,7 +115,7 @@ Alle 58 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 | [[wiki/folgen/irene-adler-29-der-mann-aus-dartmoor\|IADK 29 — Der Mann aus Dartmoor]] (17.10.2025) | startet mit einer Suchaktion nach ihrem verletzten Verbündeten in einen neuen Block |
 | [[wiki/folgen/irene-adler-30-verdacht-und-zweifel\|IADK 30 — Verdacht und Zweifel]] (12.12.2025) | verfolgt die Spur des Fundstücks bis nach Exeter |
 | [[wiki/folgen/irene-adler-31-in-den-tiefen-des-moores\|IADK 31 — In den Tiefen des Moores]] (13.02.2026) | verfolgt die Spur des Fundstücks weiter |
-| [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume\|WMU 2 — Die Todesblume]] (10.04.2026) | ist auf der offiziellen Folgen-Seite als Figur gelistet |
+| [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume\|WMU 2 — Die Todesblume]] (10.04.2026) | ist auf der offiziellen Folgen-Seite als Figur gelistet; Irene Adler – Yvonne Greitzke rollengenau laut Rollenliste der CD-Ausgabe (pop.de, 13.10.2026) |
 | [[wiki/folgen/irene-adler-32-falsche-helden\|IADK 32 — Falsche Helden]] (24.04.2026) | sitzt gemeinsam mit Wu im Moor fest und kämpft ums nackte Überleben |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-57-zwietracht\|OWMH 57 — Zwietracht]] (15.05.2026) | gerät laut Klappentext mit Wilde über die Ermittlungen in Konflikt |
 | [[wiki/folgen/irene-adler-33-ein-altes-problem\|IADK 33 — Ein altes Problem]] (12.06.2026) | ermittelt im Mordfall und sucht Evas neues Versteck |
@@ -153,7 +154,7 @@ Alle 58 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - **Verhältnis zur literarischen Vorlage offen:** Weder die Anbindung an Doyles Irene Adler noch etwaige Pseudonyme oder Beinamen sind im Repo belegt; das `aliase`-Feld bleibt deshalb leer.
 - **Folge 12 als Bruchstelle:** Was aus ihrer Kündigung bei Mycroft folgt und wie das Verhältnis wiederhergestellt wird, ist bewusst nicht recherchiert (Spoiler-Stufe „grob"). Offene Frage für den Hördurchgang.
 - **Quellenlücken:** Autor:innen sind für die Folgen ab `11` nicht belastbar nachgezogen, Sprecherlisten liegen seit dem 12.10.2026 für alle IADK-Folgen vor (Fandom IADK 0–15, Raute Media, Audible). Die offizielle Folgen-Seite von OWIA 3 wiederholt zudem offenbar den Klappentext von OWIA 2 — Adlers Rolle in dieser Folge bleibt darum unscharf.
-- **Nur gelistet, nicht erschlossen:** Für SH 6, SH 8, SH 12, TESLA 2, WMU 2 sowie EAPAD 25 und 26 ist ihre Präsenz auf offizieller Figurenebene belegt, eine konkrete Rolle im jeweiligen Fall aber nicht.
+- **Nur gelistet, nicht erschlossen:** Für SH 6, SH 8, SH 12, TESLA 2, WMU 2 sowie EAPAD 25 und 26 ist ihre Präsenz auf offizieller Figurenebene belegt, eine konkrete Rolle im jeweiligen Fall aber nicht. Nachrecherche 13.10.2026: In WMU 2 ist sie über die Rollenliste jetzt als Sprechrolle belegt (Yvonne Greitzke); für SH 8 ist dagegen schon die Präsenz zweifelhaft — die Figurenliste der Fanseite ist sehr wahrscheinlich von SH 6 kopiert ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md)).
 
 ## Quellen
 
@@ -170,3 +171,4 @@ Alle 58 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK und EAPAD: Fandom-Rollentabellen IADK 0–15, Fanseite, Raute Media, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).

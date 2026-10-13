@@ -28,7 +28,7 @@ tags:
 - **Fraktion:** Helden
 - **Hauptserie:** [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]]
 - **Erstauftritt:** EAPAD 1 – Insel der tödlichen Rätsel (13.07.2018)
-- **Sprecher:** Manfred Lehmann — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen OWMH 32, 33, 35, 36 und IADK 6; für EAPAD 1 zusätzlich durch eine LovelyBooks-Rezension belegt. Nicht verwechseln: In DNAPF 1 spricht Manfred Lehmann laut Rollenliste Ned Land.
+- **Sprecher:** Manfred Lehmann — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen OWMH 32, 33, 35, 36 und IADK 6; für EAPAD 1 zusätzlich durch eine LovelyBooks-Rezension belegt. Nicht verwechseln: In DNAPF 1 spricht Manfred Lehmann laut Rollenliste [[wiki/figuren/ned-land|Ned Land]].
 
 ## Charakterisierung
 

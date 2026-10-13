@@ -5,7 +5,7 @@ nummer: 26
 titel: Der Teufel von Cat Rock
 erschienen: 2026-07-31
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 sprecher:
   - rolle: James Moriarty
     name: Andreas Fröhlich
@@ -24,6 +24,7 @@ quellen:
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge26-der-teufel-von-cat-rock/
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - moriarty
   - maritim
@@ -39,7 +40,7 @@ tags:
 - **Erscheinungsdatum:** 31.07.2026.
 - **Spielzeit:** 64 Minuten.
 - **Verlag:** Maritim (Produktion Holysoft).
-- **Autor:in:** noch nicht im Repo verifiziert.
+- **Autor:in:** Marc Freund (⚠️ folgengenau Einzelquelle: DNB-Digitalausgabe, Apple Books und Audiolibrix geben dieselben Verlagsmetadaten wieder; kein Raute-Media-Eintrag, der DNB-CD-Satz nennt keine Autorschaft. Für Folge 1–24 ist Marc Freund unabhängig bestätigt; nachgetragen 13.10.2026).
 - **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich, Victor Frankenstein – Dietmar Wunder, Mata Hari – Katja Keßler. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Dietmar Wunder, Katja Keßler, Kim Hasper, Daniela Hoffmann, Florian Clyde, Mario Klischies, Marc Schülert, Robert Louis Griesbach, Marcel Collé, Lea Kalbhenn, Detlef Tams, Maria Koschny, Felix Strüven, Oliver Stritzel (DNB; identisch bei Hörspieltalk; Audible gekürzt).
 - **Schauplatz:** Atlantik und die Insel Cat Rock.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge26-der-teufel-von-cat-rock/>
@@ -77,3 +78,4 @@ tags:
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche-Notiz.
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update (Datum, Spielzeit).
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

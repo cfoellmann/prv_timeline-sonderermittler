@@ -5,7 +5,7 @@ nummer: 8
 titel: König der Lüfte
 erschienen: 2026-03-27
 verlag: Blitz Verlag
-autor: ""
+autor: "Silke Walter"
 sprecher:
   - rolle: Nikola Tesla
     name: Patrick Winczewski
@@ -36,6 +36,7 @@ quellen:
   - raw/maritim/2026-04-28_tesla_folgen-01-08.md
   - https://www.sonderermittler-der-krone.de/serien/tesla/folge08-koenig-der-luefte/
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - sonderermittler
   - blitz
@@ -51,7 +52,7 @@ tags:
 - **Erscheinungsdatum:** 27.03.2026.
 - **Spielzeit:** 53 Minuten.
 - **Verlag:** Blitz Verlag.
-- **Autor:** noch nicht im Repo verifiziert.
+- **Autor:** Silke Walter (Raute Media, CD-Feld „Künstler“, und Audiolibrix; der DNB-Reihensatz der CD-Ausgabe nennt „Dialogbuch: Silke Walter“; nachgetragen 13.10.2026).
 - **Sprecher (Auswahl):** Nikola Tesla – Patrick Winczewski, Sherlock Holmes – Charles Rettinghaus, Dr. John H. Watson – Florian Halm, James Moriarty – Andreas Fröhlich, Killjoy – Matti Klemm, Theodora Sachs – Gabrielle Pietermann, Aleister Crowley – Daniel Zillmann, Robur – Milton Welsh, Bastien Lavache – Peter Lontzek. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Patrick Winczewski, Andreas Fröhlich, Gabrielle Pietermann, Daniel Zillmann, Peter Lontzek, Milton Welsh, Matti Klemm, Charles Rettinghaus, Florian Halm, Simona Pahl, Brian Sommer, Sven Plate, Tilmar Kuhn, Marc Schülert, Peter Kirchberger, Patrick Holtheuer, Jean Coppong (Raute Media, CD-Ausgabe; Audible nennt keine weiteren Namen).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/tesla/folge08-koenig-der-luefte/>
 
@@ -82,3 +83,4 @@ Tesla, Theodora Sachs und Bastien Lavache entdecken, dass ihnen Merlins Mantel u
 - [raw/maritim/2026-04-28_tesla_folgen-01-08.md](../../raw/maritim/2026-04-28_tesla_folgen-01-08.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/tesla/folge08-koenig-der-luefte/>
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

@@ -5,7 +5,7 @@ nummer: 4
 titel: Teuflische Jagd
 erschienen: 2021-06-11
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 sprecher:
   - rolle: James Moriarty
     name: Andreas Fröhlich
@@ -49,6 +49,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge04-teuflische-jagd/
   - https://shop.holysoft.de/produkte/moriarty-4-teuflische-jagd-3040/
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - moriarty
   - maritim
@@ -64,6 +65,7 @@ tags:
 - **Erscheinungsdatum:** 11.06.2021.
 - **Spielzeit:** 62 Minuten.
 - **Verlag:** Maritim.
+- **Autor:** Marc Freund (DNB-Digitalausgabe und Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
 - **Sprecher:** James Moriarty – Andreas Fröhlich, Theodora Sachs – Gabrielle Pietermann, Dracula – Torsten Michaelis, Geoffrey Stafford – Björn Schalla, Mycroft Holmes – Reent Reins, Oscar Wilde – Sascha Rotermund, Rosalind Sealer – Ulrike Möckel, Raymond Pugsley – Stefan Krause, Tom Everett – Kevin Kasper, Josh Wingfield – Marcel Collé, Charlie Adams – Torsten Münchow, Cameron Kirk – Holger Löwenberg, Bonner – Janis Zaurins, O'Brian – André Teuber, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (Artikel „Teuflische Jagd“; für die Rollen Einzelquelle); die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten. Alle Namen zusätzlich durch DNB und Raute Media bestätigt; dort steht außerdem Marc Schülert, der in der Fandom-Tabelle fehlt (Rolle offen).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge04-teuflische-jagd/>
 
@@ -96,3 +98,4 @@ Ein entsetzliches Verbrechen geschieht in der Cunningham Row. Für den rücksich
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge04-teuflische-jagd/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-4-teuflische-jagd-3040/>
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

@@ -5,7 +5,7 @@ nummer: 18
 titel: Flüsterndes Eis
 erschienen: 2025-04-11
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 sprecher:
   - rolle: James Moriarty
     name: Andreas Fröhlich
@@ -24,6 +24,8 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge18-fluesterndes-eis/
   - https://shop.holysoft.de/produkte/moriarty-18-fluesterndes-eis-5039/
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - moriarty
   - maritim
@@ -38,7 +40,8 @@ tags:
 - **Erscheinungsdatum:** 11.04.2025.
 - **Spielzeit:** 67 Minuten.
 - **Verlag:** Maritim.
-- **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich, Victor Frankenstein – Dietmar Wunder, Theodora Sachs – Gabrielle Pietermann. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Dietmar Wunder, Gabrielle Pietermann, Milton Welsh, Joachim Tennstedt, Sina Zadra, Peter Sura, Sönke Städtler, Uwe Büschken (DNB; identisch bei Audible). **Abweichung:** Raute Media und Hörspieltalk nennen statt Milton Welsh Katja Keßler; Robur (Figurenliste der Fanseite) ist deshalb nicht zugeordnet. Schreibweise Sönke Städtler nach DNB und Audible (Raute Media, Hörspieltalk: „Städler“).
+- **Autor:** Marc Freund (DNB-Digitalausgabe und Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
+- **Sprecher (Auswahl):** James Moriarty – Andreas Fröhlich, Victor Frankenstein – Dietmar Wunder, Theodora Sachs – Gabrielle Pietermann. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in allen vollständigen Besetzungslisten der Folge. Vollständige Liste ohne Rollen: Andreas Fröhlich, Dietmar Wunder, Gabrielle Pietermann, Milton Welsh, Joachim Tennstedt, Sina Zadra, Peter Sura, Sönke Städtler, Uwe Büschken (DNB; identisch bei Audible). **Abweichung:** Die CD-Angaben (Raute Media, pop.de, Hörspieltalk-Vorschau) nennen statt Milton Welsh Katja Keßler, die Digitalangaben (DNB, Audible, BookBeat, Audiolibrix) Milton Welsh; Robur (Figurenliste der Fanseite) ist deshalb nicht zugeordnet. Nachrecherche 13.10.2026: kein rollengenauer dritter Beleg — die Poldi-Rezension (Hörspieltalk-Thread 29968) nennt Katja Keßler ohne Rolle und offenbar nach der CD-Liste, die Fanseite führt Robur für MOR 18 und Mata Hari nicht; **weiter offen**. Laut derselben Rezension (Einzelquelle, nicht eingetragen): Jason Lightman – Joachim Tennstedt, John Blackburn – Peter Sura. Schreibweise Sönke Städtler nach DNB und Audible (Raute Media, Hörspieltalk: „Städler“).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge18-fluesterndes-eis/>
 
 ## Hauptfiguren
@@ -69,3 +72,5 @@ Moriarty ist mit dem Wissenschaftler Jason Lightman einen gefährlichen Pakt ein
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge18-fluesterndes-eis/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-18-fluesterndes-eis-5039/>
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

@@ -5,7 +5,7 @@ nummer: 14
 titel: Wut und Verzweiflung
 erschienen: 2025-03-28
 verlag: Maritim
-autor: ""
+autor: "Silke Walter"
 sprecher:
   - rolle: Sherlock Holmes
     name: Charles Rettinghaus
@@ -32,6 +32,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge14-wut-und-verzweiflung/
   - https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-14-wut-und-verzweiflung-4974/
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - sherlock-holmes
   - maritim
@@ -47,7 +48,7 @@ tags:
 - **Erscheinungsdatum:** 28.03.2025.
 - **Spielzeit:** 61 Minuten.
 - **Verlag:** Maritim.
-- **Autor:** noch nicht im Repo verifiziert.
+- **Autor:** Silke Walter (Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
 - **Sprecher (Auswahl):** Sherlock Holmes – Charles Rettinghaus, Dr. John H. Watson – Florian Halm, Killjoy – Matti Klemm, Theodora Sachs – Gabrielle Pietermann, Mata Hari – Katja Keßler, Dr. Victor Frankenstein – Dietmar Wunder, Robur – Milton Welsh. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher:in laut Fanseiten-Figurenseite bzw. Fandom-Rollentabelle, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Charles Rettinghaus, Florian Halm, Gabrielle Pietermann, Katja Keßler, Dietmar Wunder, Milton Welsh, Matti Klemm, Rainer Fritzsche, Uwe Büschken, Felix Strüven, Peter Sura, Thomas Schmuckert, Marc Schülert, Ulrike Sophie Kapfer (Raute Media, CD-Ausgabe; Audible und Hörspieltalk nennen keine weiteren Namen).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge14-wut-und-verzweiflung/>
 
@@ -79,3 +80,4 @@ Holmes und Watson befinden sich in Roburs Gewalt und versuchen verzweifelt, sich
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge14-wut-und-verzweiflung/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-14-wut-und-verzweiflung-4974/>
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

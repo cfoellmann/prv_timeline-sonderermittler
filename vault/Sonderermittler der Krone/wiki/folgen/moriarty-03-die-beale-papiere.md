@@ -5,7 +5,7 @@ nummer: 3
 titel: Die Beale-Papiere
 erschienen: 2021-02-26
 verlag: Maritim
-autor: ""
+autor: "Marc Freund"
 sprecher:
   - rolle: James Moriarty
     name: Andreas Fröhlich
@@ -49,6 +49,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge03-die-beale-papiere/
   - https://shop.holysoft.de/produkte/moriarty-3-die-beale-papiere-3039/
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
 tags:
   - moriarty
   - maritim
@@ -63,6 +64,7 @@ tags:
 - **Erscheinungsdatum:** 26.02.2021.
 - **Spielzeit:** 68 Minuten.
 - **Verlag:** Maritim.
+- **Autor:** Marc Freund (DNB-Digitalausgabe und Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
 - **Sprecher:** James Moriarty – Andreas Fröhlich, Theodora Sachs – Gabrielle Pietermann, Geoffrey Stafford – Björn Schalla, Ernest Filmore – Uwe Büschken, Thomas J. Beale – Peter Kirchberger, Robert Morris – Tobias Lelle, Alberta Morris – Uschi Hugo, Thornton Dandridge – Bodo Wolf, Polly Danbridge – Sina Zadra, Rodney Sherman – Helmut Gauß, Mark Braxton – Sebastian Winkler, George Ross – Volker Brandt, Herbert Bradshaw – Tom Solo, Peter Webster – Tammo Kaulbarsch, Sargträger – Patrick Holtheuer, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (Artikel „Die Beale-Papiere“; für die Rollen Einzelquelle); die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten. Alle Namen zusätzlich durch DNB und Raute Media bestätigt. Schreibweisen Peter Kirchberger (DNB, Audible; Fandom „Kirchärger“, Raute Media „Kircherger“) und Helmut Gauß (Fandom, Raute Media; DNB „Hauß“).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/moriarty/folge03-die-beale-papiere/>
 
@@ -91,3 +93,4 @@ Ein geheimnisvoller Fremder hinterlässt einen Koffer in einem kleinen Landhotel
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge03-die-beale-papiere/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-3-die-beale-papiere-3039/>
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).

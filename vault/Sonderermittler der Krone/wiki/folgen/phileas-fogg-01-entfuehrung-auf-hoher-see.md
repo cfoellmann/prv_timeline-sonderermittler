@@ -45,7 +45,7 @@ tags:
 - **Verlag:** Maritim.
 - **Arbeitsstand:** Für diese Folge liegt im Repo derzeit nur eine Chronologie-Notiz, aber noch keine lokale Detailquelle vor.
 - **Timeline-Notiz:** Erstauftritt Kapitän Nemo.
-- **Sprecher:** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Passepartout – Marius Clarén, Kapitän Nemo – K. Dieter Klebsch, Ned Land – Manfred Lehmann, Aronnax – Michael Pan. Rollen laut hoernews.de (Rezensionsseite, Besetzungstabelle mit „u. a.") — für die übrigen Rollen Einzelquelle; Erzähler, Phileas Fogg, Aouda und Passepartout sowie Kapitän Nemo und Ned Land decken sich mit der Verlagsmitteilung zur Stammbesetzung (2015), der Erzähler zusätzlich mit dem DNB-Katalogeintrag der CD. Die Handelslisten nennen nur Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest (DNB-Katalog der Digitalausgabe, Audible).
+- **Sprecher:** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Passepartout – Marius Clarén, Kapitän Nemo – K. Dieter Klebsch, [[wiki/figuren/ned-land|Ned Land]] – Manfred Lehmann, Aronnax – Michael Pan. Rollen laut hoernews.de (Rezensionsseite, Besetzungstabelle mit „u. a.") — für die übrigen Rollen Einzelquelle; Erzähler, Phileas Fogg, Aouda und Passepartout sowie Kapitän Nemo und Ned Land decken sich mit der Verlagsmitteilung zur Stammbesetzung (2015), der Erzähler zusätzlich mit dem DNB-Katalogeintrag der CD. Die Handelslisten nennen nur Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest (DNB-Katalog der Digitalausgabe, Audible).
 
 ## Hauptfiguren
 
