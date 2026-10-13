@@ -28,6 +28,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
   - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
+  - raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md
 tags:
   - dracula
   - zirkel-der-sieben
@@ -40,6 +41,7 @@ tags:
 
 ## Eckdaten
 
+- **Setting / Zeit:** Prolog mit Rückblenden in die Jahre 1431, 1441 und 1448 (Löchel, Traumwelt-Hoerspiel); Haupthandlung laut Löchels Rezension „fast 450 Jahre nach den Ereignissen des Jahres 1448“, also „vermutlich im Jahr 1898“, in seiner Chronologie schlicht „– 1898“. Ableitung, kein Verlagstext nennt ein Jahr; in `folgen.json` seit 13.10.2026 als 1898 geschätzt ([raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md](../../raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md)).
 - **Erscheinungsjahr:** 2020
 - **Erscheinungsdatum:** 02.10.2020 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 70 Minuten
@@ -70,3 +72,4 @@ Diese Folge markiert den Auftakt der Dracula-Serie innerhalb des Zirkel-Universu
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/dracula/folge01-erbe-des-boesen/>
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
 - [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
+- [raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md](../../raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md) — In-Universe-Chronologie: Zeitzeilen der CD-Klappentexte (wörtlich zitiert in Ingo Löchels Rezensionen, Black Stone Magazine), Löchel-Chronologie Teil 2 und Komplett-Update, Traumwelt-Hoerspiel (13.10.2026).

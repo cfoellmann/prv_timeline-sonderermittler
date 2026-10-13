@@ -3,9 +3,10 @@ type: figur
 titel: George Turner
 aliase:
   - Turner
-status: stub
+status: entwurf
 quellen:
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
+  - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - irene-adler
   - mordopfer
@@ -18,6 +19,7 @@ tags:
 
 ## Auftritte
 
+- [[wiki/folgen/irene-adler-05-schlag-auf-schlag|IADK 5 — Schlag auf Schlag]] (28.08.2020) — als „George Turner“ besetzt (Sprecher Dirc Simpson laut Fandom-Besetzungstabelle; Simpson steht auch in der Sprecherliste von Raute Media). In derselben Folge ist [[wiki/figuren/eva|Eva]] besetzt (Magdalena Höfner). Dass es derselbe George Turner ist, legt der Titel von IADK 33 („Ein altes Problem“) nahe; ausdrücklich belegt ist es **nicht**.
 - [[wiki/folgen/irene-adler-33-ein-altes-problem|IADK 33 — Ein altes Problem]] (12.06.2026) — sein Mord eröffnet den Eva-Arc. [[wiki/figuren/irene-adler|Irene Adler]] vermutet, dass [[wiki/figuren/robur|Robur]] oder Zirkelmitglieder ihn töteten, um an Eva zu gelangen.
 
 ## Beziehungen
@@ -32,6 +34,8 @@ tags:
 
 ## Offene Fragen
 
+- Ist der George Turner aus IADK 5 dieselbe Figur? Name und gemeinsame Besetzung mit Eva sprechen dafür; eine Quelle, die beide Folgen verbindet, fehlt.
+
 - War Turner an Evas Konstruktion beteiligt oder nur eingeweiht? Die Berufsbezeichnung „Ingenieur" legt Ersteres nahe, belegt ist es nicht.
 - Ob er für [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] arbeitete, der Evas Verlegung veranlasste, ist nicht belegt.
 
@@ -39,3 +43,4 @@ tags:
 
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge33-ein-altes-problem/>
+- [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Fandom-Besetzungstabelle IADK 5 (George Turner – Dirc Simpson), 12.10.2026.

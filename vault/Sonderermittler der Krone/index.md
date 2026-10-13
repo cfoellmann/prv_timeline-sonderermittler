@@ -9,16 +9,16 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 ## Übersicht
 
 - [[wiki/universum|Universum – Maritim-Kosmos]] — Zentrale Einstiegsseite mit allen Serien.
-- [[wiki/queries/quellenlage-und-kanonkarte|Quellenlage & Kanonkarte]] — Meta-Auswertung: welche Quelle wofür belastbar ist, Kanon-Beziehungskarte, bekannte Datenfehler der Primärquelle (seit 12.10.2026 inkl. Datumsdreher SH 23 und MOR 25; Entscheidung „zwei Datumsbegriffe“ vom 06.09. revidiert), Audible-Datumsmuster, HolyShop-Ersterscheinung, Raute Media und Fanseiten-Figurenseiten als neue Quellen; seit der Besetzungsrecherche 12.10.2026 Sprecherquellen je Quelle zusammengeführt (Fandom, DNB-Digitalausgabe = Audible, DNB 245 $c als zweite Rollenquelle der Hauptrolle, Raute Media, Hörspieltalk, Hoerspiel-Freunde u. a.) und verschärfte Ableitungsregel (Stammsprecher in allen vollständigen Listen). Seit 13.10.2026: Digital- und CD-Kanal als getrennte Verlagsfamilien, neue Quellen pop.de, BookBeat, Hoergruselspiele und Buchtips, Raute-Media-Feld „Künstler“ und DNB-CD-Sätze als unabhängige Autorenquellen, CD-Termin bis zu vier Wochen vor oder nach der Ersterscheinung, Fanseiten-Fehler SH 8 (kopierte Figurenliste).
-- [[wiki/queries/lint-2026-10-12|Lint / Health-Check 2026-10-12]] — **aktueller** Vault-Gesundheitsbericht: 320 Folgen, 0 Divergenzen Wiki ↔ `folgen.json`; korrigiert wurden 153 Index-Datumsangaben (davon 56 falsche Jahre), 79 Datumszellen in Serien-Folgenlisten, 15 Laufzeiten auf den `raw/`-Fanseitenwert (1-Minuten-Versatz der Apple-Trackssumme), 4 defekte `raw/`-Links und die Zähltabelle in `universum.md`. Nachtrag: alle sechs Rückfragen umgesetzt — 25 `zirkel`-Werte gegen `raw/` geprüft (10 auf `direkt`, 10 auf `unklar`), `story_praezision: "geschaetzt"` dokumentiert (Schema 1.1.1), Altfelder bereinigt, Figurenseite Professor Challenger. Nachtrag 2: Audible-Datumskonflikte DNAPF 42/WMU 1 geklärt (Vault bestätigt), Audible-Muster, 38 offene HolyShop-Abweichungen (u. a. MOR 25, OWMH 46–56), Besetzung OWMH 45–60 eingetragen. Nachtrag 4: 35 Erscheinungsdaten auf HolyShop-Ersterscheinung = Apple korrigiert (u. a. MOR 25, OWMH 46–56). Nachtrag 5: 9 Datumsangaben auf Figuren-/Konzeptseiten korrigiert, FRANK 20/OWMH 40/EAPAD 29 bestätigt, SH 16 auf 25.07.2025. Nachtrag 6: `sprecher` auf allen 320 Folgenseiten (vorher 30; alle 320 mit echtem Namen; 2235 Einträge nach Entscheidungen und Quellen-Scout, Rollenlisten bzw. abgeleitet je Reihe), Stammsprecher auf 27 weiteren Figurenseiten (Vermerke auf 4 weiteren aktualisiert), Schreibweise „K. Dieter Klebsch“; die acht Entscheidungen sind am 12.10.2026 getroffen und umgesetzt (u. a. Mycroft bei IADK 5 ausgetragen, Killjoy, FRANK 12 nach Raute Media, Erzähler DNAPF 19–50, TES 9 Winczewski); offen bleiben MOR 18 und drei OWEP-Fragen. Nachtrag 7 (13.10.2026): offene Punkte nachrecherchiert — `autor` auf 68 Folgenseiten nachgetragen (leer 79 → 11), 2258 Sprechereinträge (IADK 5 Mycroft wieder eingetragen, Rollenlisten WMU 1 und 2), OWMH 43 und DRAC 1 geklärt, DNAPF 36 auf 68 min, SHC 19, SHC 53 und „Dr. Duerte“ erledigt, vier neue Figuren-Stubs (62 Figurenseiten), Killjoy auf der Zirkel-Seite; 15 Entscheidungen an Christian, am 13.10.2026 bestätigt und umgesetzt (SH 8 bereinigt, MOR 19/20 auf 13.06./15.08.2025, Gaston Morel umbenannt, SHC 26/27 Jonas Maas, IADK 5/6 Story-Jahre zurückgenommen).
+- [[wiki/queries/quellenlage-und-kanonkarte|Quellenlage & Kanonkarte]] — Meta-Auswertung: welche Quelle wofür belastbar ist, Kanon-Beziehungskarte, bekannte Datenfehler der Primärquelle (seit 12.10.2026 inkl. Datumsdreher SH 23 und MOR 25; Entscheidung „zwei Datumsbegriffe“ vom 06.09. revidiert), Audible-Datumsmuster, HolyShop-Ersterscheinung, Raute Media und Fanseiten-Figurenseiten als neue Quellen; seit der Besetzungsrecherche 12.10.2026 Sprecherquellen je Quelle zusammengeführt (Fandom, DNB-Digitalausgabe = Audible, DNB 245 $c als zweite Rollenquelle der Hauptrolle, Raute Media, Hörspieltalk, Hoerspiel-Freunde u. a.) und verschärfte Ableitungsregel (Stammsprecher in allen vollständigen Listen). Seit 13.10.2026: Digital- und CD-Kanal als getrennte Verlagsfamilien, neue Quellen pop.de, BookBeat, Hoergruselspiele und Buchtips, Raute-Media-Feld „Künstler“ und DNB-CD-Sätze als unabhängige Autorenquellen, CD-Termin bis zu vier Wochen vor oder nach der Ersterscheinung, Fanseiten-Fehler SH 8 (kopierte Figurenliste). Nachtrag 13.10.2026: Merksatz „Zeitzeilen stehen nur auf der CD“, neue Quellen Löchel-Einzelrezensionen (Black Stone Magazine), Traumwelt-Hoerspiel, Gratis-Hoerspiele.de, Apple Books (`description`) und fantasy-foren.de, Fanseiten-Fehler DNAPF 2 (Klappentext von DNAPF 1, auch Apple und Audible).
+- [[wiki/queries/lint-2026-10-12|Lint / Health-Check 2026-10-12]] — **aktueller** Vault-Gesundheitsbericht: 320 Folgen, 0 Divergenzen Wiki ↔ `folgen.json`; korrigiert wurden 153 Index-Datumsangaben (davon 56 falsche Jahre), 79 Datumszellen in Serien-Folgenlisten, 15 Laufzeiten auf den `raw/`-Fanseitenwert (1-Minuten-Versatz der Apple-Trackssumme), 4 defekte `raw/`-Links und die Zähltabelle in `universum.md`. Nachtrag: alle sechs Rückfragen umgesetzt — 25 `zirkel`-Werte gegen `raw/` geprüft (10 auf `direkt`, 10 auf `unklar`), `story_praezision: "geschaetzt"` dokumentiert (Schema 1.1.1), Altfelder bereinigt, Figurenseite Professor Challenger. Nachtrag 2: Audible-Datumskonflikte DNAPF 42/WMU 1 geklärt (Vault bestätigt), Audible-Muster, 38 offene HolyShop-Abweichungen (u. a. MOR 25, OWMH 46–56), Besetzung OWMH 45–60 eingetragen. Nachtrag 4: 35 Erscheinungsdaten auf HolyShop-Ersterscheinung = Apple korrigiert (u. a. MOR 25, OWMH 46–56). Nachtrag 5: 9 Datumsangaben auf Figuren-/Konzeptseiten korrigiert, FRANK 20/OWMH 40/EAPAD 29 bestätigt, SH 16 auf 25.07.2025. Nachtrag 6: `sprecher` auf allen 320 Folgenseiten (vorher 30; alle 320 mit echtem Namen; 2235 Einträge nach Entscheidungen und Quellen-Scout, Rollenlisten bzw. abgeleitet je Reihe), Stammsprecher auf 27 weiteren Figurenseiten (Vermerke auf 4 weiteren aktualisiert), Schreibweise „K. Dieter Klebsch“; die acht Entscheidungen sind am 12.10.2026 getroffen und umgesetzt (u. a. Mycroft bei IADK 5 ausgetragen, Killjoy, FRANK 12 nach Raute Media, Erzähler DNAPF 19–50, TES 9 Winczewski); offen bleiben MOR 18 und drei OWEP-Fragen. Nachtrag 7 (13.10.2026): offene Punkte nachrecherchiert — `autor` auf 68 Folgenseiten nachgetragen (leer 79 → 11), 2258 Sprechereinträge (IADK 5 Mycroft wieder eingetragen, Rollenlisten WMU 1 und 2), OWMH 43 und DRAC 1 geklärt, DNAPF 36 auf 68 min, SHC 19, SHC 53 und „Dr. Duerte“ erledigt, vier neue Figuren-Stubs (62 Figurenseiten), Killjoy auf der Zirkel-Seite; 15 Entscheidungen an Christian, am 13.10.2026 bestätigt und umgesetzt (SH 8 bereinigt, MOR 19/20 auf 13.06./15.08.2025, Gaston Morel umbenannt, SHC 26/27 Jonas Maas, IADK 5/6 Story-Jahre zurückgenommen). Nachtrag 8 (13.10.2026): Stubs 40 → 17 (alle 13 Folgen-Stubs und `fledermausamulett` ausgebaut, 9 Figuren auf `entwurf`), In-Universe-Chronologie über die Zeitzeilen der CD-Klappentexte (OWMH 7, 8, 9 Dezember 1895, OWMH 12, 13 1896 belegt; Dracula 1 1898 geschätzt; `unbekannt` 286 → 285, `jahr`/`monat` 12 → 17, `geschaetzt` 22 → 18), Befunde DNAPF 2 (falscher Klappentext), SHC 48/53 (Holmes entfernt), Lavache ab OWMH 21; 8 offene Entscheidungen an Christian (u. a. IADK 9 Tunguska 1898).
 - [[wiki/queries/lint-2026-09-06|Lint / Health-Check 2026-09-06]] — Vault-Gesundheitsbericht: 317 Folgen, 0 Divergenzen Wiki ↔ `folgen.json`, 0 verwaiste Seiten, alle Serienzählungen korrekt. Offen sind nur inhaltliche Punkte — allen voran die fehlenden Sprecher:innen (301 von 317) und die In-Universe-Zeitachse.
 - [[wiki/queries/lint-2026-08-17|Lint / Health-Check 2026-08-17]] — Vault-Gesundheitsbericht inkl. Abarbeitung: Umlaut-Rückkorrektur (2002 Stellen), 10 Datumsfehler in `folgen.json`, `zirkel`-Vereinheitlichung, Schema 1.1.0. Offen bleiben die zentralen Figuren-Stubs und die In-Universe-Zeitachse.
 
 ## Konzepte
 
 - [[wiki/konzepte/charles-darwin-gesellschaft|Charles Darwin Gesellschaft]] — Vorläufer-Organisation des Zirkels, parallel weiter aktiv (Entwurf).
-- [[wiki/konzepte/fledermausamulett|Das Fledermausamulett]] — titelgebendes Objekt aus WMU 3; erster Berührungspunkt der Blitz-Reihe mit dem Vampir-Komplex (Stub).
-- [[wiki/konzepte/hoerreihenfolgen|Hör-Reihenfolgen]] — Alle dokumentierten Reihenfolge-Varianten (Erscheinen, Wilde-First, 4er-Zyklen, in-universe …).
+- [[wiki/konzepte/fledermausamulett|Das Fledermausamulett]] — titelgebendes Objekt aus WMU 3; der Fall um eine vor Jahren gefundene blutleere Leiche bei Glastonbury ist der erste Berührungspunkt der Blitz-Reihe mit dem Vampir-Komplex. Das Amulett selbst ist in keinem Klappentext beschrieben.
+- [[wiki/konzepte/hoerreihenfolgen|Hör-Reihenfolgen]] — Alle dokumentierten Reihenfolge-Varianten (Erscheinen, Wilde-First, 4er-Zyklen, in-universe …); In-Universe-Zeitanker Stand 13.10.2026 (35 von 320 Folgen mit `story_jahr`, 17 belegt).
 - [[wiki/konzepte/menorium|Menorium]] — seltener Stoff für Frankensteins künstliche Menschen; verbindet FRANK 11 (2022) mit dem Eva-Arc der Adler-Reihe (2026).
 - [[wiki/konzepte/phasen|Phasen des Maritim-Kosmos]] — Fünf Veröffentlichungsphasen mit Serien-Zuordnung (Entwurf).
 - [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes & Co.]] — Vorgänger-Reihe, Wurzel mehrerer Sonderermittler-Linien und Quelle der Re-Releases (Entwurf).
@@ -54,18 +54,18 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 
 ### Phileas Fogg
 
-- [[wiki/folgen/phileas-fogg-01-entfuehrung-auf-hoher-see|DNAPF 1 — Entführung auf hoher See]] (06.11.2015) — Reihenauftakt; laut Chronologie tritt Kapitän Nemo erstmals im Kosmos auf.
-- [[wiki/folgen/phileas-fogg-02-der-schatz-von-atlantis|DNAPF 2 — Der Schatz von Atlantis]] (11.12.2015) — Früher Kosmos-Anker für den Erstauftritt von Dr. Jekyll und Mr. Hyde.
-- [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken|DNAPF 3 — Krieg in den Wolken]] (26.02.2016) — Robur tritt erstmals auf; Jekyll/Hyde stirbt laut Chronologie.
-- [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl|DNAPF 4 — Der Elefant aus Stahl]] (22.04.2016) — Victor Frankenstein wird eingeführt, während Roburs erster Block endet.
-- [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx|DNAPF 5 — Das Geheimnis der Eissphinx]] (12.08.2016) — Edgar Allan Poe wird erstmals im Kosmos verzeichnet.
+- [[wiki/folgen/phileas-fogg-01-entfuehrung-auf-hoher-see|DNAPF 1 — Entführung auf hoher See]] (06.11.2015) — Reihenauftakt: Auf der Suche nach dem verschollenen Professor Aronnax trifft Fogg auf die Nautilus; Kapitän Nemo tritt laut Chronologie erstmals im Kosmos auf.
+- [[wiki/folgen/phileas-fogg-02-der-schatz-von-atlantis|DNAPF 2 — Der Schatz von Atlantis]] (11.12.2015) — Mit Nemo und Aronnax in den Ruinen von Atlantis, an Bord ein mutmaßlicher Verräter; Erstauftritt Jekyll/Hyde. Fanseite und Apple führen hier den Klappentext von Folge 1.
+- [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken|DNAPF 3 — Krieg in den Wolken]] (26.02.2016) — Robur lockt Fogg in eine Falle und entführt ihn auf ein Luftschiff; Erstauftritt Robur.
+- [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl|DNAPF 4 — Der Elefant aus Stahl]] (22.04.2016) — Mit einem Dampfelefanten durch den indischen Dschungel; laut Chronologie Erstauftritt Victor Frankenstein.
+- [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx|DNAPF 5 — Das Geheimnis der Eissphinx]] (12.08.2016) — Edgar Allan Poe schickt Fogg auf die Spur der verschollenen Pym-Expedition in der Antarktis; Poes Erstauftritt im Kosmos.
 - [[wiki/folgen/phileas-fogg-06-der-leuchtturm-am-ende-der-welt|DNAPF 6 — Der Leuchtturm am Ende der Welt]] (07.10.2016) — Insel-, Leuchtturm- und Piratenfall; exaktes Erscheinungsdatum noch offen.
 - [[wiki/folgen/phileas-fogg-07-die-stadt-unter-der-erde|DNAPF 7 — Die Stadt unter der Erde]] (25.11.2016) — Fogg verfolgt in Schottland Sabotageakte bis in vergessene Stollen.
-- [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien|DNAPF 8 — Im Angesicht der Bestien]] (20.01.2017) — Frankensteins Konflikt mit Fogg spitzt sich laut Chronologie zu.
+- [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien|DNAPF 8 — Im Angesicht der Bestien]] (20.01.2017) — Eine Afrika-Expedition führt Fogg auf einen unkartierten Fluss und zu einem Wiedersehen mit einem alten Feind.
 - [[wiki/folgen/phileas-fogg-09-im-reich-des-zaren|DNAPF 9 — Im Reich des Zaren]] (24.03.2017) — Ein Aufstand in Sibirien verstrickt Fogg in eine geheime Operation.
-- [[wiki/folgen/phileas-fogg-10-der-herrscher-der-meere|DNAPF 10 — Der Herrscher der Meere]] (16.06.2017) — Erste belegte Zusammenarbeit von Phileas Fogg und Oscar Wilde.
-- [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant|DNAPF 11 — Die Jagd nach Kapitän Grant]] (01.09.2017) — Zweiter Teil des ersten dokumentierten Fogg/Wilde-Blocks.
-- [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|DNAPF 12 — Entscheidung in den Karpaten]] (10.11.2017) — Dracula tritt hier laut Chronologie erstmals im Kosmos auf.
+- [[wiki/folgen/phileas-fogg-10-der-herrscher-der-meere|DNAPF 10 — Der Herrscher der Meere]] (16.06.2017) — Mycroft Holmes schickt Fogg nach Patagonien; erste belegte Zusammenarbeit von Fogg und Oscar Wilde.
+- [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant|DNAPF 11 — Die Jagd nach Kapitän Grant]] (01.09.2017) — In Patagonien auf Grants Telegrammspur; zweiter Teil des ersten Fogg/Wilde-Blocks.
+- [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|DNAPF 12 — Entscheidung in den Karpaten]] (10.11.2017) — Finale der Grant-Suche auf der Festung des Barons von Gortz; Dracula tritt laut Chronologie erstmals im Kosmos auf.
 - [[wiki/folgen/phileas-fogg-13-der-untergang-der-welt|DNAPF 13 — Der Untergang der Welt]] (19.01.2018) — Ein Meteor bedroht die Erde, während Fogg Professor Xirdal aufsucht.
 - [[wiki/folgen/phileas-fogg-14-der-goldvulkan|DNAPF 14 — Der Goldvulkan]] (16.03.2018) — Ein Claim im Klondike führt in einen Goldrausch- und Sabotagefall.
 - [[wiki/folgen/phileas-fogg-15-die-schwimmende-stadt|DNAPF 15 — Die schwimmende Stadt]] (18.05.2018) — Eine künstliche Insel für Milliardäre wird zum Katastrophenschauplatz.
@@ -250,8 +250,8 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 
 ### Poe & Dupin
 
-- [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel|EAPAD 1 — Insel der tödlichen Rätsel]] (13.07.2018) — Erstauftritt von Gaston Morel; Zirkel-Bezug indirekt.
-- [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst|EAPAD 2 — Im Bann der Angst]] (17.08.2018) — Dracula tritt erstmals als „Sapriel" auf; Zirkel-Bezug indirekt.
+- [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel|EAPAD 1 — Insel der tödlichen Rätsel]] (13.07.2018) — Reihenauftakt: Ein Hilferuf lockt Poe und Dupin auf eine Insel mit tödlichem Ultimatum; Erstauftritt Gaston Morel, Zirkel-Bezug indirekt.
+- [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst|EAPAD 2 — Im Bann der Angst]] (17.08.2018) — Dupin schleust sich in eine Pariser Sekte ein, um den Sohn einer Comtesse zu befreien; Zirkel-Bezug indirekt.
 - [[wiki/folgen/poe-und-dupin-03-die-toten-augen-von-paris|EAPAD 3 — Die toten Augen von Paris]] (14.09.2018) — Eine unheimliche Mordserie in Paris, bei der den Opfern die Augen herausgeschnitten werden.
 - [[wiki/folgen/poe-und-dupin-04-ein-leben-im-jenseits|EAPAD 4 — Ein Leben im Jenseits]] (21.12.2018) — Dupin und Poe ermitteln in einem Fall von vorgetäuschtem Tod und Identitätsdiebstahl.
 - [[wiki/folgen/poe-und-dupin-05-der-fluch-des-falschen-koenigs|EAPAD 5 — Der Fluch des falschen Königs]] (10.05.2019) — Eine mysteriöse Mordserie führt zu einem gefährlichen Geheimbund.
@@ -402,7 +402,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 
 ### Sherlock Holmes & Co. (Vorgänger-Reihe)
 
-> Schlüsselfolgen der Vorgänger-Reihe [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes & Co.]], die als Grundstein-/Anker-Folgen ins Universum hineinwirken. Stubs.
+> Schlüsselfolgen der Vorgänger-Reihe [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes & Co.]], die als Grundstein-/Anker-Folgen ins Universum hineinwirken.
 
 - [[wiki/folgen/sherlock-holmes-und-co-26-der-schrei-der-banshee-episode-1|SHC 26 — Der Schrei der Banshee, Episode 1]] (02.09.2016) — Erste Zusammenarbeit Sherlock Holmes × Oscar Wilde; erster Teil des Zweiteilers.
 - [[wiki/folgen/sherlock-holmes-und-co-27-der-schrei-der-banshee-episode-2|SHC 27 — Der Schrei der Banshee, Episode 2]] (02.09.2016) — Zweiter Teil des Banshee-Zweiteilers.
@@ -412,24 +412,24 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/sherlock-holmes-und-co-64-puppenspieler|SHC 64 — Puppenspieler]] (24.09.2021) — Erpresste Politiker; Stafford vermutet den Zirkel der Sieben.
 - [[wiki/folgen/sherlock-holmes-und-co-68-der-kalte-hauch-der-rache|SHC 68 — Der kalte Hauch der Rache]] (22.07.2022) — Staffords Frau Gwen wird tot aus der Themse gezogen; Mycroft greift ein.
 - [[wiki/folgen/sherlock-holmes-und-co-45-hinter-den-kulissen|SHC 45 — Hinter den Kulissen]] (07.06.2019) — Erstauftritt Mister Wu; Grundstein für die Irene-Adler-Linie.
-- [[wiki/folgen/sherlock-holmes-und-co-48-das-ende-des-inspektors|SHC 48 — Das Ende des Inspektors]] (11.10.2019) — Erstauftritt Geoffrey Stafford; erster direkter Zirkel-Eingriff.
-- [[wiki/folgen/sherlock-holmes-und-co-53-die-rueckkehr-der-angst|SHC 53 — Die Rückkehr der Angst]] (03.07.2020) — Dracula agiert als „Sapriel" in London.
+- [[wiki/folgen/sherlock-holmes-und-co-48-das-ende-des-inspektors|SHC 48 — Das Ende des Inspektors]] (11.10.2019) — Lestrade ist ermordet, Cross und Stafford ermitteln; Erstauftritt Geoffrey Stafford, Zirkel-Bezug direkt (Chronologie).
+- [[wiki/folgen/sherlock-holmes-und-co-53-die-rueckkehr-der-angst|SHC 53 — Die Rückkehr der Angst]] (03.07.2020) — Ein „Magischer Zirkus“ in London und bizarre Todesfälle; die Sapriel/Dracula-Deutung ist nur Chronologie-Theorie, Zirkel-Bezug unklar.
 - [[wiki/folgen/sherlock-holmes-und-co-55-perlen-des-todes|SHC 55 — Perlen des Todes]] (25.09.2020) — Grundstein für die Moriarty-Serie.
 
 ## Figuren
 
 - [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] — Jäger, Begleiter Oscar Wildes (Sprecher Jaron Löwenberg); Erstauftritt OWMH 2, laut Fandom in elf OWMH-Folgen bis 26, vermutlich (Annahme) auch Challengers Begleiter in DNAPF 39–43 und Wildes in WMU 1; in OWMH 45–60 nicht besetzt (Entwurf).
 - [[wiki/figuren/abraham-van-helsing|Abraham Van Helsing]] — Vampirjäger und Draculas ärgster Feind; tragend in der Dracula-Reihe, 2026 zurück in WMU 3 und SH 23.
-- [[wiki/figuren/adams|Dr. Adams]] — Forscher, sucht in NEM 3 die verschollenen Schiffe der Franklin-Expedition.
+- [[wiki/figuren/adams|Dr. Adams]] — Forscher (Rollenliste: Dr. Melvin Adams, Sprecher Lutz Riedel), sucht in NEM 3 die verschollenen Schiffe der Franklin-Expedition, in NEM 4 verlorenes Gold.
 - [[wiki/figuren/aleister-crowley|Aleister Crowley]] — Zirkel-Mitglied #6, Okkultist; Erstauftritt in OWMH 21.
-- [[wiki/figuren/alfons-grell|Dr. Alfons Grell]] — Wissenschaftler im Zirkel-Umfeld; Erstauftritt in OWMH 4.
+- [[wiki/figuren/alfons-grell|Dr. Alfons Grell]] — Wissenschaftler im Zirkel-Umfeld (Sprecher K. Dieter Klebsch); Erstauftritt OWMH 4, in acht OWMH-Folgen bis OWMH 30 besetzt.
 - [[wiki/figuren/allison|Pater Allison]] — Geistlicher, in SH 23 nachts von einem „Wiedergänger" angegriffen.
 - [[wiki/figuren/aouda|Aouda (Aouda Fogg)]] — Phileas Foggs Ehefrau und ständige Begleiterin in 20+ Episoden.
 - [[wiki/figuren/arsene-lupin|Arsène Lupin]] — Gentleman-Dieb; einer von drei Anwärtern auf den nach Morels Tod freien Zirkel-Platz (EAPAD 21–23).
 - [[wiki/figuren/auguste-dupin|Auguste Dupin]] — Co-Titelfigur von Edgar Allan Poe & Auguste Dupin, brillanter Detektiv.
-- [[wiki/figuren/bastien-lavache|Bastien Lavache]] — Voodoo-Priester; verbindet die Holmes-Linie mit Tesla und ab FRANK 25 mit dem Frankenstein-Arc.
+- [[wiki/figuren/bastien-lavache|Bastien Lavache]] — „undurchsichtiger“ Sonderermittler mit Voodoo-Hintergrund; seit OWMH 21 belegt, verbindet OWMH, Dracula, Tesla, Sherlock Holmes und den Frankenstein-Arc.
 - [[wiki/figuren/bram-stoker|Bram Stoker]] — reale historische Figur; Erstauftritt im Whitby-/Demeter-Strang OWMH 19, später Dracula-Jäger.
-- [[wiki/figuren/benjamin-payton|Dr. Benjamin Payton]] — Verbündeter, später Verräter (Erstauftritt OWMH 1, Tod OWMH 18). ⚠️ Strukturelle Spoiler.
+- [[wiki/figuren/benjamin-payton|Dr. Benjamin Payton]] — Verbündeter, später Verräter; in sieben OWMH-Folgen besetzt (Erstauftritt OWMH 1, Tod OWMH 18). ⚠️ Strukturelle Spoiler.
 - [[wiki/figuren/cross|Inspector Cross]] — Scotland-Yard-Inspektor (auch „Inspektor Cross“, Sprecher Rainer Fritzsche); Vorgesetzter Staffords im SHC-Strang (SHC 48–68), trägt Holmes in SH 13 und 21 Fälle an.
 - [[wiki/figuren/der-maharadscha|Der Maharadscha]] — Zirkel-Mitglied #4; Erstauftritt in OWMH 17.
 - [[wiki/figuren/dracula|Dracula]] — Anführer des Zirkels; im aktuellen Repo-Stand zuerst über DNAPF 12 verankert.
@@ -441,10 +441,10 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/figuren/eva|Eva]] — Maschinenmensch und Gegenstand des Eva-Arcs (IADK 33/34); Teil von Mycrofts Vermächtnis.
 - [[wiki/figuren/gaston-morel|Gaston Morel]] — Zirkel-Mitglied #7, vervollständigt den Zirkel in EAPAD 13. Bis 13.10.2026 „Gaston Morell“; der alte Slug `gaston-morell` ist eine Weiterleitung.
 - [[wiki/figuren/geoffrey-stafford|Geoffrey Stafford]] — Inspector bei Scotland Yard, Nachfolger des ermordeten Lestrade; SHC 48, MOR 2, OWMH 57.
-- [[wiki/figuren/george-turner|George Turner]] — ermordeter Ingenieur und Eva-Eingeweihter; sein Tod eröffnet IADK 33.
+- [[wiki/figuren/george-turner|George Turner]] — ermordeter Ingenieur und Eva-Eingeweihter; sein Tod eröffnet IADK 33. Vermutlich schon in IADK 5 besetzt (Dirc Simpson).
 - [[wiki/figuren/georges-lorant|Georges Lorant]] — unterbricht in EAPAD 36 die Grimoire-Suche von Poe und Dupin.
 - [[wiki/figuren/harry-houdini|Harry Houdini]] — Entfesselungskünstler; einst Anwärter auf einen Zirkel-Posten (EAPAD 21–23), 2026 Helfer in EAPAD 35.
-- [[wiki/figuren/henry-wheeler|Henry Wheeler]] — Nebenfigur, Umfeld Wilde (Erstauftritt OWMH 1).
+- [[wiki/figuren/henry-wheeler|Henry Wheeler]] — Nebenfigur im Umfeld Wildes und Mycrofts (Sprecher Holger Löwenberg); elf OWMH-Folgen von 1 bis 33, Wildes Begleiter im Sizilien-Zweiteiler OWMH 31/32.
 - [[wiki/figuren/hutchinson-hatch|Hutchinson Hatch]] — Begleitrolle zu Professor van Dusen in OWMH 35, 36 und SH 1–2 (Sprecher Norbert Langer); nur über Besetzungstabellen belegt (Stub).
 - [[wiki/figuren/irene-adler|Irene Adler]] — Bühnenkünstlerin und Sonderermittlerin der Krone; Titelfigur der 35-teiligen IADK-Reihe und mit Auftritten in acht Reihen die dichteste Crossover-Achse des Kosmos. Debüt bereits in OWMH 16.
 - [[wiki/figuren/jack-renfield|Jack Renfield]] — Detektiv der Anti-Dracula-Gruppe (DRAC 3, 5).
@@ -454,7 +454,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/figuren/kapitaen-nemo|Kapitän Nemo]] — Verne-Frühfigur mit Kosmos-Erstauftritt in DNAPF 1, lange Rahmen- und Nebenfigur bei Phileas Fogg, seit 2026 Titelheld einer eigenen Blitz-Mini-Reihe.
 - [[wiki/figuren/killjoy|Killjoy]] — reihenübergreifender Dauergegner ohne eigene Serie, von IADK 1 (2019) bis Tesla 8 in fünf Reihen gelistet; engster Weggefährte Roburs. Klarname im Repo nicht belegt.
 - [[wiki/figuren/kirk|Miss Kirk]] — Haushälterin Pater Allisons und Augenzeugin des „Wiedergängers" in SH 23.
-- [[wiki/figuren/lestrade|Inspektor Lestrade]] — Scotland-Yard-Inspektor; in SHC 48 vom Zirkel ermordet, Vorgänger Staffords.
+- [[wiki/figuren/lestrade|Inspektor Lestrade]] — Scotland-Yard-Inspektor; sein Mord ist der Ausgangspunkt von SHC 48 und des Scotland-Yard-Strangs um Cross und Stafford.
 - [[wiki/figuren/manning|Inspector Manning]] — Polizeirolle in WMU 3 (Sprecher Dirk Hardegen); nur über die Rollenliste belegt (Stub).
 - [[wiki/figuren/mata-hari|Mata Hari]] — Spionin und Verbündete des Zirkels, häufig im Verbund mit Rasputin und Theodora Sachs.
 - [[wiki/figuren/mina-harker|Mina Harker]] — Draculas Erzfeindin und zeitweise seine Beschützerin; sucht ihren verschollenen Sohn [[wiki/figuren/quentin|Quentin]].
@@ -465,7 +465,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/figuren/oscar-wilde|Oscar Wilde]] — Titelheld, Sonderermittler ab OWMH 1.
 - [[wiki/figuren/paisley|Mr. Paisley]] — Mitgefangener von Holmes und Watson in SH 22; seine Aussage dreht den Fall.
 - [[wiki/figuren/passepartout|Passepartout]] — Phileas Foggs treuer Diener in 20+ Episoden, auch Crossover in IADK 6.
-- [[wiki/figuren/paul-hiller|Paul Hiller]] — Auftragsmörder im Dienst des Zirkels, mit eigener Bande.
+- [[wiki/figuren/paul-hiller|Paul Hiller]] — Auftragsmörder im Dienst des Zirkels mit eigener Bande (Sprecher Timo Kinzel); Gegenspieler Mycrofts in OWMH 18 und 28.
 - [[wiki/figuren/phileas-fogg|Phileas Fogg]] — Titelheld der ältesten und mit 52 Folgen umfangreichsten Reihe des Kosmos; in seinen Abenteuern treten Nemo, Robur, Frankenstein, Poe und Dracula erstmals überhaupt auf.
 - [[wiki/figuren/professor-challenger|Professor Challenger]] — Wissenschaftler und Abenteurer; Mitspieler des Afrika-Blocks DNAPF 38–44 (ab 39 mit Abel Hawthorn), 2026 Ratgeber Oscar Wildes in WMU 4 (Entwurf).
 - [[wiki/figuren/quentin|Quentin]] — Mina Harkers verschollener Sohn, Ziel ihrer Suche in DRAC 3–4; nur als Gesuchter belegt.
@@ -478,11 +478,13 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/figuren/van-dusen|Professor van Dusen]] — untersucht in SH 1–2 im Auftrag Mycrofts eine Vergiftungsserie, zusammen mit Sherlock Holmes; in SHC Ermittler eines eigenen, kosmosfremden Strangs.
 - [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] — Zirkel-Wissenschaftler mit früher DNAPF-Verankerung und eigener Spin-off-Reihe.
 - [[wiki/figuren/vidocq|Vidocq]] — Pariser Ermittler und Konkurrent Dupins in EAPAD 10.
-- [[wiki/figuren/violet-ishiguro|Violet Ishiguro]] — Verbündete Wildes; für OWMH 40 als Begleiterin nach Rom belegt.
+- [[wiki/figuren/violet-ishiguro|Violet Ishiguro]] — Verbündete Wildes (Sprecherin Mia Diekow); elf OWMH-Folgen von OWMH 5 bis 40, in OWMH 40 Begleiterin nach Rom.
 - [[wiki/figuren/wu|Wu]] — Irene Adlers ständiger Ermittlungspartner, in 27 der 35 IADK-Folgen offiziell gelistet; in IADK 29 ist er selbst der Fall. Klarname unbelegt.
 
 ## Quellen-Übersicht
 
+- [raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md](raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md) — In-Universe-Chronologie vom 13.10.2026: Zeitzeilen der CD-Klappentexte OWMH 2, 6–10, 12–14, 19–21, 25 (wörtlich zitiert in Ingo Löchels Rezensionen, Black Stone Magazine), Löchel-Chronologie Teil 2 und Komplett-Update (Dracula 1 = 1898), Jahresaussage IADK 9, Traumwelt-Hoerspiel, Negativbefunde Fanseite, Audible, Fandom, Foren.
+- [raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md](raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md) — Stub-Ausbau vom 13.10.2026: Klappentexte wörtlich für DNAPF 1–5, 8, 10–12, EAPAD 1, 2, SHC 48, 53 und WMU 3 (Fanseite, Apple Books, Gratis-Hoerspiele.de, Fandom, pop.de, fantasy-foren.de); Befund DNAPF 2, Spielzeit-Abweichungen DNAPF 3 und 11.
 - [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen vom 13.10.2026: Poldi-Rezensionen, BookBeat (vollständige Digital-Sprecherlisten), pop.de (Rollenlisten WMU 1–4), Hoergruselspiele-Forum, DNB, Buchtips/Heldenchaos; IADK 5, OWMH 42/43, SH 1/2, SH 8, DRAC 1, MOR 18, OWEP, DNAPF 2–5.
 - [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft, Datum und Altfälle vom 13.10.2026: DNB-SRU (Digital- und CD-Sätze), Raute Media (Feld „Künstler“), Apple Books, Audiolibrix, Fanseite; `autor` für 68 Folgen, SHC 26/27, SHC 53, Gaston Morel, DNAPF 36, SHC 19, Raute-CD-Termine, MOR 19/20.
 - [raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md](raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md) — Besetzung TES 9 (Tesla – Patrick Winczewski, DNB 245 $c) und OWEP 1–4 (Audible je Folge, Raute-Media-Box, Storytel); Autor Silke Walter.

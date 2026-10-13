@@ -17,8 +17,8 @@ sprecher:
     name: Lutz Mackensy
 spielzeit_min: 57
 zirkel: unklar
-spoiler_level: stub
-status: stub
+spoiler_level: grob
+status: recherchiert
 quellen:
   - raw/reviews/2026-04-27_re-releases_recherche-notiz.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
@@ -26,6 +26,9 @@ quellen:
   - raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
+  - raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md
+  - https://books.apple.com/de/audiobook/sherlock-holmes-co-folge-53-die-r%C3%BCckkehr-der-angst/id1517115423
+  - https://sherlockholmes.fandom.com/de/wiki/Die_R%C3%BCckkehr_der_Angst
 tags:
   - vorgaengerreihe
   - sapriel-these
@@ -33,33 +36,44 @@ tags:
 
 # Die Rückkehr der Angst
 
-> Folge 53 der Vorgänger-Reihe [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes & Co.]], Scotland-Yard-Strang. Ein Fall um einen „Magischen Zirkus"; die verbreitete Deutung, der Gegner sei [[wiki/figuren/dracula|Dracula]] unter dem Decknamen „Sapriel", ist **nicht primär belegt** — siehe [[#Theorien & offene Fragen]].
+> Ein „Magischer Zirkus“ begeistert die Londoner Oberschicht. Nach den Vorstellungen häufen sich bizarre Todesfälle, und Geoffrey Stafford erinnert sich an ähnliche Fälle in Frankreich. Die verbreitete Deutung, der Gegner sei [[wiki/figuren/dracula|Dracula]] unter dem Decknamen „Sapriel“, ist **nicht primär belegt**, siehe [[#Theorien & offene Fragen]].
 
-## Übersicht
+## Eckdaten
 
-- **Reihe:** [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes & Co.]] (Vorgänger-Reihe)
+- **Reihe:** [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes & Co.]] (Vorgänger-Reihe), Scotland-Yard-Strang.
 - **Nummer:** 53
-- **Titel:** Die Rückkehr der Angst
-- **Erschienen:** 2020-07-03 (doppelt belegt)
-- **Verlag:** Maritim
-- **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
+- **Setting:** London, Vorstellungen eines „Magischen Zirkus“.
+- **Erschienen:** 2020-07-03 (doppelt belegt; Apple Books bestätigt am 13.10.2026).
+- **Spielzeit:** 57 Minuten (Fandom: „ca. 60“).
+- **Verlag:** Maritim. Laut Fandom im Auftrag von Romantruhe Audio produziert; Produktion HighScore Music, Regie Sebastian Pobot, Musik Alexander Schibor.
+- **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt). Fandom nennt als Buch ebenfalls Markus Duschek.
 - **Sprecher:** Geoffrey Stafford – Björn Schalla, Inspektor Cross – Rainer Fritzsche, Mycroft Holmes – Reent Reins, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (für die Rollen Einzelquelle; die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten), Geoffrey Stafford – Björn Schalla zusätzlich im DNB-Katalogsatz der CD. Alle 12 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe); Audible nennt die ersten 6 Namen in derselben Reihenfolge. Ohne Rollenangabe in der Fandom-Tabelle: Torsten Michaelis, Victoria Sturm, Wolfgang Bahro, Gordon Piedesack, Eckart Dux, Rüdiger Schulzki, Stefan Krause, Benjamin Oechsle. Rollennamen in der Schreibweise des Fandom-Wikis.
-- **Zirkel-Bezug:** `unklar` — siehe unten. Bis zum 06.09.2026 stand hier `direkt`; das stützte sich allein auf die Löchel-Chronologie.
-
-## Inhalt laut Klappentext
-
-Der Fall dreht sich um einen **„Magischen Zirkus"** und einen Gegner, „den schon andere Ermittler vergeblich zu stellen versucht haben", mit ausdrücklichem Verweis auf **ähnliche Fälle in Frankreich**.
-
-Der Klappentext nennt **weder Dracula noch „Sapriel" noch den Zirkel der Sieben**.
+- **Zirkel-Bezug:** `unklar`, siehe unten. Bis zum 06.09.2026 stand hier `direkt`; das stützte sich allein auf die Löchel-Chronologie.
 
 ## Hauptfiguren
 
-- [[wiki/figuren/sherlock-holmes|Sherlock Holmes]]
-- [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — Besetzung Reent Reins, rollenaufgelöst über den Fandom-Artikel belegt
+- [[wiki/figuren/geoffrey-stafford|Geoffrey Stafford]] — schöpft als Einziger Verdacht und erinnert sich an einen Bericht über ähnliche Fälle in Frankreich.
+- [[wiki/figuren/cross|Inspektor Cross]] — ermittelt mit Stafford.
+- [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — Besetzung Reent Reins, rollenaufgelöst über den Fandom-Artikel belegt; im Klappentext nicht genannt.
+- Ein „gefährlicher Feind“, den „schon andere Ermittler vergeblich zu stellen versucht haben“ — im Klappentext ohne Namen.
+
+## Handlung (grob)
+
+- **Setup:** Die Auftritte eines „Magischen Zirkus“ begeistern die oberen Zehntausend von London. Die Vorstellungen sind im Nu ausverkauft, denn was dort zu sehen ist, übertrifft alles bisher Dagewesene.
+- **Aufhänger:** Nach den Shows kommt es unter den Gästen zu bizarren Todesfällen und irrationalen Handlungen rund um Geld und Wertgegenstände. Nur Geoffrey Stafford wird misstrauisch.
+- **Bogen:** Stafford erinnert sich vage an einen Bericht über ähnliche Fälle in Frankreich. Er gerät damit auf die Spur eines gefährlichen Feindes, an dem schon andere Ermittler gescheitert sind, und Cross und Stafford versuchen, ihm das Handwerk zu legen.
+
+Der Klappentext nennt **weder Dracula noch „Sapriel“ noch den Zirkel der Sieben**.
 
 ## Bezug zum Universum
 
-Der Verweis des Klappentextes auf **frühere, gescheiterte Ermittlungen in Frankreich** passt zur Pariser „Sapriel"-Spur in [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst|Poe & Dupin 2]]. Der Klappentext stellt diese Verbindung aber **nicht selbst her** — sie ist eine naheliegende Lesart, kein Beleg.
+Der Verweis des Klappentextes auf **frühere, gescheiterte Ermittlungen in Frankreich** passt zur Pariser Sekte in [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst|Poe & Dupin 2]]. Der Klappentext stellt diese Verbindung aber **nicht selbst her**; sie ist eine naheliegende Lesart, kein Beleg.
+
+## Crossover & Querverweise
+
+- **Fandom-Reihenverlauf** (führt nur die Folgen mit Holmes-Bezug): davor „Der bleiche Tod“ (SHC 51), danach „Perlen des Todes“ (SHC 55).
+- Setzt den Scotland-Yard-Strang aus [[wiki/folgen/sherlock-holmes-und-co-48-das-ende-des-inspektors|SHC 48 „Das Ende des Inspektors“]] fort.
+- **Sherlock Holmes als Hauptfigur:** Bis 13.10.2026 stand [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] hier unter den Hauptfiguren. Weder Klappentext noch Fandom-Besetzung nennen ihn, deshalb ist er aus der Liste genommen.
 
 ## Theorien & offene Fragen
 
@@ -81,3 +95,6 @@ Der Verweis des Klappentextes auf **frühere, gescheiterte Ermittlungen in Frank
 - [raw/reviews/2026-04-27_re-releases_recherche-notiz.md](../../raw/reviews/2026-04-27_re-releases_recherche-notiz.md)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 - [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Datumsprüfung 13.10.2026: 03.07.2020 bestätigt (Apple Books, Deezer); die Fandom-Infobox „8. Mai 2020“ trägt den Termin von SHC 52.
+- [raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md](../../raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md) — Klappentexte und Gegenprobe (Fanseite, Apple Books, Gratis-Hoerspiele.de, Fandom; 13.10.2026).
+- Apple Books (Beschreibung): <https://books.apple.com/de/audiobook/sherlock-holmes-co-folge-53-die-r%C3%BCckkehr-der-angst/id1517115423>
+- Sherlock-Holmes-Wiki (Fandom), Artikel mit Verlagstext: <https://sherlockholmes.fandom.com/de/wiki/Die_R%C3%BCckkehr_der_Angst>

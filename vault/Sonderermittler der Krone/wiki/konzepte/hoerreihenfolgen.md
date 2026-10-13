@@ -6,6 +6,7 @@ zirkel: false
 quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
+  - raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md
 tags:
   - meta
   - reihenfolge
@@ -99,10 +100,12 @@ Foren-Beobachtung (Hörgruselspiele/Hörspieltalk): Die Serien sind in **abgesch
 
 ## Variante 5 — In-Universe-chronologisch
 
-Anhand der In-Universe-Jahresangaben aus den Folgen sortiert. Stand 17.08.2026 sind **35 von 301 Folgen** mit einem `story_jahr` erfasst — davon nur **12 direkt belegt** (alle aus der Löchel-Chronologie, alle OWMH), die übrigen 23 sind Ableitungen mit `story_praezision: "geschaetzt"`. Am 13.10.2026 sind die Schätzungen für IADK 5 und IADK 6 zurückgenommen worden (siehe „Ungelöste Widersprüche“).
+Anhand der In-Universe-Jahresangaben aus den Folgen sortiert. Stand 13.10.2026 sind **35 von 320 Folgen** mit einem `story_jahr` erfasst – davon **17 als `jahr`/`monat` belegt** (12 × `jahr`, 5 × `monat`; alle OWMH) und **18 als `geschaetzt`**. Neu belegt sind seit dem 13.10.2026 OWMH 7, 8, 9, 12 und 13 über die Zeitzeilen der CD-Klappentexte (zitiert in Ingo Löchels Rezensionen); neu geschätzt ist Dracula 1 (1898). Zum Vergleich: Am 17.08.2026 waren es 35 von 301 Folgen, davon 12 belegt (alle aus der Löchel-Chronologie). Am 13.10.2026 sind die Schätzungen für IADK 5 und IADK 6 zurückgenommen worden (siehe „Ungelöste Widersprüche“).
 
 > [!warning] Die Zeitachse ist nicht ungepflegt, sondern unbelegt.
 > Am 17.08.2026 wurden alle 301 Folgen systematisch gegen sämtliche `raw/`-Quellen geprüft. Ergebnis: In **keiner** Folge von Dracula, Frankenstein, Moriarty, Tesla, Sherlock Holmes (2022er Reihe), Kapitän Nemo und den drei Blitz-Reihen steht eine Jahreszahl — weder im Klappentext noch auf der Wiki-Seite. Ein Regex über alle Folgen-Seiten nach Jahreszahlen 1800–1999 liefert dort **null Treffer**. Die Löchel-Chronologie, die einzige echte In-Universe-Quelle im Repo, vergibt Jahresangaben **ausschließlich an OWMH-Folgen**; bei allen anderen Reihen ist ihre In-Universe-Spalte leer. Weitere Datierung ist ohne Hören oder zusätzliche Quellen nicht möglich.
+>
+> **Nachtrag 13.10.2026:** Ein Teil der Lücke war ein Abschreibeverlust. Die CD-Klappentexte vieler OWMH-Folgen beginnen mit einer Zeitzeile („Anfang Dezember 1895.“, „Spätsommer 1896.“), die Fanseite, Audible und die Händlertexte (VLB) weglassen. Löchel zitiert in seinen Rezensionen die CD-Fassung. Außerhalb von OWMH nennen seine 215 Rezensionen nur zwei Handlungsjahre: Dracula 1 (1898, abgeleitet) und IADK 9 (1898, siehe „Ungelöste Widersprüche“). Quelle: [raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md](../../raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md).
 
 ### Bekannte In-Universe-Zeitanker
 
@@ -111,10 +114,12 @@ Anhand der In-Universe-Jahresangaben aus den Folgen sortiert. Stand 17.08.2026 s
 | 1875 | — | (Rückblende in OWMH 5) | Abspaltung / Gründung des Zirkels |
 | 1895 | 4 | OWMH 1 | Wilde wird Sonderermittler (Frühjahr) |
 | 1895 | — | OWMH 2, 4, 5 | Erstauftritte Hawthorn, Grell, Charles-Darwin-Hintergrund |
-| 1895 | 11 | OWMH 6 | Schwarzwald-Proband-3-Fall |
-| 1895 | — | OWMH 7, 8, 9 | Zwischen Nov und Dez 1895 |
-| 1895 | 12 | OWMH 10 | Erstauftritt Theodora Sachs, Brocken |
-| 1896 | — | OWMH 11–13 | Übergang Dez 1895 → 1896 |
+| 1895 | 11 | OWMH 6 | Schwarzwald-Proband-3-Fall; „Mitte November 1895.“ (CD-Klappentext, zitiert bei Löchel; Löchel-Chronologie „November 1895“) |
+| 1895 | 12 | OWMH 7, 8 | „Anfang Dezember 1895.“ (CD-Klappentext, zitiert bei Löchel; Einzelquelle); OWMH 8 in Würzburg |
+| 1895 | 12 | OWMH 9, 10 | „Dezember 1895.“ (CD-Klappentext, zitiert bei Löchel; OWMH 9 Einzelquelle, OWMH 10 zusätzlich Löchel-Chronologie); OWMH 10 Erstauftritt Theodora Sachs, Brocken |
+| 1896 | — | OWMH 11 | nicht belegt: zwischen Dez 1895 (Folge 10) und Spätsommer 1896 (Folge 12), geschätzt 1896 |
+| 1896 | — | OWMH 12 | „Spätsommer 1896.“ (CD-Klappentext, zitiert bei Löchel; Einzelquelle) |
+| 1896 | — | OWMH 13 | „1896.“ (CD-Klappentext, zitiert bei Löchel; Einzelquelle) |
 | 1896 | — | OWMH 14–29 | Hauptteil des Zirkel-Plots (Labyrinth bis Brennender Zorn) |
 
 ### Serienübergreifende Anker-Constraints
@@ -133,13 +138,13 @@ Folgende Erstauftritte erzeugen Reihenfolge-Bedingungen:
 | Jahr | Folge | Ableitung |
 |---:|---|---|
 | 1895 | OWMH 3 | zwischen den datierten Folgen 2 und 4 |
-| 1895 | OWMH 8 | Röntgens Entdeckung ist in der Handlung bereits erfolgt → nicht vor Nov. 1895 |
 | 1895 | SHC 26/27 | erste Zusammenarbeit Holmes × Wilde; Wilde ist ab OWMH 1 (Frühjahr 1895) im Amt; bei Löchel zwischen OWMH 4 und 5 |
 | 1896 | SHC 48 | Zirkel-Schlag gegen Scotland Yard; bei Löchel zwischen OWMH 23 und 25 (beide 1896) |
 | 1896 | SHC 53 | Dracula als „Sapriel" in London, nach seiner Ankunft in England (OWMH 19/20, 1896) |
 | 1897 | DNAPF 14 | Klondike-Goldrausch mit ausdrücklicher Nennung von Dawson City (hist. 1896–1899) |
+| 1898 | Dracula 1 | Löchel-Chronologie „– 1898“; Rezension: Haupthandlung „fast 450 Jahre nach den Ereignissen des Jahres 1448“, „vermutlich im Jahr 1898“. Kein Verlagstext nennt ein Jahr (seit 13.10.2026) |
 
-Dazu wurden **16 OWMH-Folgen von `"jahr"` auf `"geschaetzt"` herabgestuft** (4, 5, 7, 9, 11–13, 15, 18, 22, 24, 26–29): ihr Jahr stammt nicht aus einem Beleg, sondern aus der Interpolation zwischen datierten Nachbarfolgen. Die Jahre bleiben, nur die behauptete Genauigkeit war falsch. Ebenso zurückgenommen: OWMH 1 stand auf `"monat"` (April), belegt ist im Klappentext aber nur „Frühjahr 1895" → jetzt `"jahr"`.
+Dazu wurden **16 OWMH-Folgen von `"jahr"` auf `"geschaetzt"` herabgestuft** (4, 5, 7, 9, 11–13, 15, 18, 22, 24, 26–29): ihr Jahr stammt nicht aus einem Beleg, sondern aus der Interpolation zwischen datierten Nachbarfolgen. Die Jahre bleiben, nur die behauptete Genauigkeit war falsch. Ebenso zurückgenommen: OWMH 1 stand auf `"monat"` (April), belegt ist im Klappentext aber nur „Frühjahr 1895" → jetzt `"jahr"`. Von diesen 16 sind OWMH 7, 9, 12 und 13 seit dem 13.10.2026 wieder belegt (OWMH 7 und 9 als Monat Dezember 1895), ebenso OWMH 8 (bis dahin aus der Röntgen-Ableitung geschätzt, jetzt „Anfang Dezember 1895.“).
 
 ### Methodische Grenzen der Datierung
 
@@ -151,19 +156,22 @@ Weitere Fallen, die beim Sweep aufgefallen sind:
 - **Rückbezüge sind keine Handlungsgegenwart.** EAPAD 8 „Im Schatten der Guillotine" nennt die Französische Revolution nur in den Bekennerbriefen des Täters; DNAPF 18–20 ist eine Rückblende auf die Weltreise. Beides datiert die Folge nicht.
 - **Nur relative Constraints, keine Jahre:** die gesamte Tesla-Reihe liegt nach MOR 13 (Moriarty rekrutiert Tesla in Genf) und ist damit die späteste datierbare Reihe des Kosmos — ohne Jahr. Dracula 7/8 und Frankenstein 2/4 liegen über Theodora Sachs bzw. Crowley nach 1896; das sind die ersten belastbaren Untergrenzen, die die Horror-Reihen überhaupt haben. NEM 1/2 sind zweigeteilt (Rahmenhandlung + Insel-Rückblende „vor Nemos erster Begegnung mit Fogg").
 - **Die Tesla-Reihe hat keine historischen Anker.** Ihre Erfindungen sind fiktiv (Lichtübertragung, Strahlenapparat, Merlins Mantel) — Artefakt-Fantasy, nicht Technikhistorie.
+- **Zeitzeilen gibt es nur in der CD-Fassung des Klappentexts.** Digitalfamilie (Audible, DNB-Digital), Fanseite und VLB-Händlertexte geben denselben Text ohne die erste Zeile wieder. Wer weitere Folgen datieren will, braucht die CD-Rückseite oder eine Quelle, die sie zitiert (siehe [[wiki/queries/quellenlage-und-kanonkarte|Kanonkarte]]).
 
 ### Ungelöste Widersprüche in den vorhandenen Daten
 
 - ✅ **IADK 5 (1890) und IADK 6 (1889) lagen vor dem Debüt ihrer Titelfigur — Schätzungen zurückgenommen 13.10.2026.** Irene Adlers belegter Erstauftritt als Sonderermittlerin ist OWMH 16 = 1896 — laut der Anker-Constraints oben ausdrücklich „vor Irene-Adler-Hauptserie". Beide Werte konnten nicht gleichzeitig stimmen; zudem lag Folge 6 vor Folge 5. Beide Schätzungen stammten aus historischen Ereignissen (Stromkrieg, Pariser Weltausstellung, real 1889 **oder** 1900) und widersprachen damit der Regel oben, dass reale Daten kein Datierungsmittel sind; kein Verlagstext nennt ein Jahr. Nach Entscheidung Christian stehen beide Folgen in `folgen.json` jetzt auf `story_jahr: null` und `story_praezision: "unbekannt"`, der historische Bezug bleibt in `story_anmerkung` ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 7]]). Damit hängen auch die Poe-&-Dupin-Untergrenzen nicht mehr an diesen beiden Schätzungen.
-- **IADK 9 „Tunguska"** verweist unverkennbar auf das Tunguska-Ereignis (hist. 30.06.1908). Das läge drei Jahre hinter `epoche_max_jahr: 1905` und zwölf Jahre nach dem Serien-Anker 1896. Da **keine Repo-Quelle** ein Jahr nennt, wurde bewusst **nichts** eingetragen. Zum Eintragen müsste die Epoche erweitert werden — Christians Entscheidung. ✅ **Geschlossen 13.10.2026 ohne Eintrag:** Auch der Verlagstext zu IADK 9 nennt nur die Region und eine „nahende Katastrophe“, kein Jahr; `epoche_max_jahr` bleibt bei 1905 (Entscheidung Christian, [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 7]]).
-- **OWMH 15 „Goldrausch"** steht auf 1896 (aus Löchels Klammer 14–29), spielt aber am Klondike und nennt Wyatt Earp: der Ansturm lief 1897–99, Earp zog ab 1897 nordwärts. Auf `"geschaetzt"` heruntergestuft und der Konflikt in `story_anmerkung` notiert.
+- **IADK 9 „Tunguska"** verweist unverkennbar auf das Tunguska-Ereignis (hist. 30.06.1908). Das läge drei Jahre hinter `epoche_max_jahr: 1905` und zwölf Jahre nach dem Serien-Anker 1896. Da **keine Repo-Quelle** ein Jahr nennt, wurde bewusst **nichts** eingetragen. Zum Eintragen müsste die Epoche erweitert werden — Christians Entscheidung. ✅ **Geschlossen 13.10.2026 ohne Eintrag:** Auch der Verlagstext zu IADK 9 nennt nur die Region und eine „nahende Katastrophe“, kein Jahr; `epoche_max_jahr` bleibt bei 1905 (Entscheidung Christian, [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 7]]). **Neu 13.10.2026:** Löchels Rezension zu IADK 9 sagt, die Katastrophe geschehe im Hörspiel „zehn Jahre früher, also im Jahr 1898“. Damit läge die Folge innerhalb der Epoche; die Begründung der Schließung („kein Jahr in einer Quelle“) trifft nicht mehr zu. Einzelquelle, Löchels eigene Chronologie gibt IADK 9 kein Jahr. Nicht eingetragen, Entscheidung Christian ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 8]]).
+- **OWMH 15 „Goldrausch"** steht auf 1896 (aus Löchels Klammer 14–29), spielt aber am Klondike und nennt Wyatt Earp: der Ansturm lief 1897–99, Earp zog ab 1897 nordwärts. Auf `"geschaetzt"` heruntergestuft und der Konflikt in `story_anmerkung` notiert. Seit 13.10.2026 entschärft: Nach Folge 12 (Spätsommer 1896) passt ein Setting im Herbst 1896 zum Klondike-Fund im August 1896.
 - **Epochen-Rahmen sind dreifach verschieden:** `folgen.json` sagt 1875–1905, `universum.md` „ca. 1895–1905", der Deep-Research-Report „um 1900". Alle belegten OWMH-Anker liegen in 1895/96.
 
 ### Offene Lücken
 
 - Phileas-Fogg-Serie: kein In-Universe-Jahr außer der Ableitung zu DNAPF 14
 - Poe & Dupin: kein In-Universe-Jahr, nur relative Anker (frühester harter Anker: „nach 1889" über Eiffelturm in EAPAD 20 und Moulin Rouge in EAPAD 33)
-- Dracula, Frankenstein, Moriarty, Tesla, Sherlock Holmes (2022er Reihe), Kapitän Nemo: keine Zeitdaten, nur relative Constraints
+- Frankenstein, Moriarty, Tesla, Sherlock Holmes (2022er Reihe), Kapitän Nemo: keine Zeitdaten, nur relative Constraints
+- Dracula: Folge 1 geschätzt 1898; Folgen 2–4 schließen erzählerisch an, sind aber nicht eingeklammert. Löchel setzt Dracula 5–8 vor OWMH 35 (der Maharadscha lebt noch) – das ergibt mit Dracula 1 = 1898 die relative Bedingung „OWMH 35 nicht vor 1898“, ohne eigenes Jahr.
+- OWMH 14–29 liegen bei Belegtreue alle im Herbst/Winter 1896 (Folge 12 = Spätsommer 1896, Folge 25 = 1896). Die Fortschreibung „1896“ für OWMH 26–29 ist dadurch eng; 1897 ist für diese vier nicht ausgeschlossen.
 - OWMH 30–58: Fortlauf nach 1896 (wahrscheinlich 1896–1897), aber keine Quellenbestätigung — diese Vermutung ist **nicht** in Daten übersetzt worden
 
 > **Nächster Schritt:** Nicht mehr aus den vorhandenen Quellen zu holen. Weitere Datierung erfordert Hören (dann `story_jahr` + `story_praezision` pro Folge nachtragen) oder eine zusätzliche Chronologie-Quelle, die über OWMH hinausgeht.
@@ -191,4 +199,5 @@ Die beiden Re-Release-Reihen ([[wiki/serien/poe-und-dupin#Re-Release-„Aus-den-
 - Hörspieltalk-Forum „Der Zirkel der Sieben": <https://www.xn--hrspieltalk-rfb.de/forum/thread/21260-der-zirkel-der-sieben/>
 - Hörgruselspiele-Forum „Von Fogg über Wilde bis Frankenstein": <https://www.hoergruselspiele.de/forum/index.php?thread/32155-von-fogg-%C3%BCber-wilde-bis-frankenstein-das-gro%C3%9Fe-maritim-serienuniversum/>
 - Black Stone Magazine, Chronologie Teil 1: <https://blackbookmagazine.blogspot.com/2023/02/das-maritim-horspiel-universum.html>
+- [raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md](../../raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md) — Zeitzeilen der CD-Klappentexte (zitiert in Löchels Einzelrezensionen), Löchel-Chronologie Teil 2 und Komplett-Update, Traumwelt-Hoerspiel (13.10.2026).
 - Black Stone Magazine, Chronologie Teil 3: <https://blackbookmagazine.blogspot.com/2023/11/das-maritim-horspiel-universum-chronologie-teil-3.html>

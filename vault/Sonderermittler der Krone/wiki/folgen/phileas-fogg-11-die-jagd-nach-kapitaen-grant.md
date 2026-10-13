@@ -19,14 +19,17 @@ spielzeit_min: 62
 zirkel: direkt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
-spoiler_level: stub
-status: stub
+spoiler_level: grob
+status: recherchiert
 quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md
+  - https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge11-die-jagd-nach-kapitaen-grant/
+  - https://www.gratis-hoerspiele.de/jules-verne-11-die-jagd-nach-kapitaen-grant/
 tags:
   - ankerfolge
   - crossover
@@ -34,34 +37,46 @@ tags:
 
 # Jules Verne – Die neuen Abenteuer des Phileas Fogg – 11: Die Jagd nach Kapitän Grant
 
-> Zweiter belegter Teil des ersten Fogg/Wilde-Crossovers.
+> In Patagonien folgen Fogg und seine Mitstreiter der rätselhaften Telegrammspur Kapitän Grants, verfolgt von den Helfern ihres Feindes.
 
 ## Eckdaten
 
+- **Setting:** Patagonien, später „bis ans andere Ende der Welt“.
 - **Erscheinungsdatum:** 01.09.2017. Bis 12.10.2026 führte der Vault den 17.11.2017; korrigiert nach HolyShop-Ersterscheinung und Apple Music (Entscheidung Christian, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 4]]).
-- **Autor:in:** Markus Topf & Dominik Ahrens (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
-- **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Passepartout – Marius Clarén. *Erzähler (Jules Verne) laut DNB-Katalogeintrag der CD (Titelangabe, IDN 1166079694), keine weitere Rollenliste.* *Übrige Rollen abgeleitet:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Sascha Rotermund, Holger Mahlich, Thomas Karallus, Wolf Frass, Douglas Welbat, Torsten Sense, Jaron Löwenberg, Torsten Michaelis (DNB-Katalog der Digitalausgabe, Audible).
+- **Spielzeit:** 62 Minuten laut Vault; Fanseite und Gratis-Hoerspiele.de nennen **61 Minuten** (siehe offene Fragen).
+- **Autor:in:** Markus Topf & Dominik Ahrens (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt). Gratis-Hoerspiele.de nennt ebenfalls Dominik Ahrens und Markus Topf.
 - **Verlag:** Maritim.
-- **Arbeitsstand:** Bislang nur als Chronologie-Anker vorhanden.
-- **Timeline-Notiz:** Erste Zusammenarbeit Fogg x Wilde (Doppelfolge).
+- **Timeline-Notiz:** Fortsetzung der ersten Zusammenarbeit Fogg × Wilde (Doppelfolge, Löchel-Chronologie).
+- **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Passepartout – Marius Clarén. *Erzähler (Jules Verne) laut DNB-Katalogeintrag der CD (Titelangabe, IDN 1166079694), keine weitere Rollenliste.* *Übrige Rollen abgeleitet:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Sascha Rotermund, Holger Mahlich, Thomas Karallus, Wolf Frass, Douglas Welbat, Torsten Sense, Jaron Löwenberg, Torsten Michaelis (DNB-Katalog der Digitalausgabe, Audible).
+- **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge11-die-jagd-nach-kapitaen-grant/>
+- **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=ZWUgDui2aj8>
 
 ## Hauptfiguren
 
-- [[wiki/figuren/phileas-fogg|Phileas Fogg]] — Titelheld der Reihe.
-- [[wiki/figuren/oscar-wilde|Oscar Wilde]] — im Repo-Stand weiter Teil des ersten gemeinsamen Blocks mit Fogg.
+- [[wiki/figuren/phileas-fogg|Phileas Fogg]], [[wiki/figuren/aouda|Aouda]] und [[wiki/figuren/passepartout|Passepartout]] — auf Grants Spur in Patagonien.
+- [[wiki/figuren/oscar-wilde|Oscar Wilde]] — im Klappentext nicht genannt; sein Stammsprecher Sascha Rotermund steht aber in den Sprecherlisten (DNB/Audible, Gratis-Hoerspiele.de), und die Chronologie führt die Folge als zweiten Teil des Fogg/Wilde-Blocks.
+- Ayrton — kundiger Führer, der eine sichere Reise durch Patagonien verspricht (keine Figurenseite).
+- Kapitän Grant — Ziel der Suche (keine Figurenseite).
+- Die „finsteren Helfer ihres Feindes“ — Verfolger, im Klappentext ohne Namen.
 
 ## Handlung (grob)
 
-- Eine lokal archivierte Detailbeschreibung fehlt derzeit noch.
-- Gesichert ist vor allem, dass die in DNAPF 10 begonnene Zusammenarbeit hier fortgesetzt wird.
+- **Setup:** Auf der Spur Kapitän Grants erreichen Fogg und seine Mitstreiter endlich Patagonien. Das Telegramm, das sie auf die Spur brachte, gibt aber weiter Rätsel auf.
+- **Aufhänger:** Der Führer Ayrton verspricht ihnen eine sichere Reise durch die raue Landschaft. Kaum am Ziel, überschlagen sich die Ereignisse: Zwischen verfeindeten Landbesitzern und den Naturgewalten müssen die Reisenden einen kühlen Kopf bewahren.
+- **Bogen:** Verfolgt von den Helfern ihres Feindes führt die Suche viel weiter als geplant, bis ans andere Ende der Welt.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt kosmosrelevant** als frühe Vernetzung der Fogg-Reihe mit der später zentralen Wilde-Linie.
+- **Direkt** (Einstufung aus dem Bestand, unverändert). Der Klappentext nennt nur einen ungenannten „Feind“; als frühe Vernetzung der Fogg-Reihe mit der Wilde-Linie relevant.
 
 ## Crossover & Querverweise
 
-- Setzt den in [[wiki/folgen/phileas-fogg-10-der-herrscher-der-meere|DNAPF 10]] markierten Fogg/Wilde-Block fort.
+- **Spielt nach:** [[wiki/folgen/phileas-fogg-10-der-herrscher-der-meere|DNAPF 10 „Der Herrscher der Meere“]].
+- **Spielt vor:** [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|DNAPF 12 „Entscheidung in den Karpaten“]], in dem die Grant-Suche ihr Finale erreicht.
+
+## Theorien & offene Fragen
+
+- **Spielzeit 61 oder 62 Minuten?** Fanseite und Gratis-Hoerspiele.de nennen 61 Minuten, Vault und `folgen.json` führen 62. Nach der Regel „Fanseite vor Apple-Trackssumme“ wäre 61 richtig. Nicht geändert, Entscheidung Christian.
 
 ## Quellen
 
@@ -69,3 +84,6 @@ tags:
 - [raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md](../../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md)
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md](../../raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md) — Klappentexte und Gegenprobe (Fanseite, Apple Books, Gratis-Hoerspiele.de, Fandom; 13.10.2026).
+- Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge11-die-jagd-nach-kapitaen-grant/>
+- Gratis-Hoerspiele.de (Inhaltsangabe, Quelle „Maritim Verlag / YouTube“): <https://www.gratis-hoerspiele.de/jules-verne-11-die-jagd-nach-kapitaen-grant/>

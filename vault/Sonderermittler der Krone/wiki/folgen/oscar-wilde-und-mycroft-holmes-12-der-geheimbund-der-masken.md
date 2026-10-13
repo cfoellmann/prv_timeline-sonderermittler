@@ -41,6 +41,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge12-der-geheimbund-der-masken/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md
 tags:
   - sonderermittler
 ---
@@ -51,6 +52,7 @@ tags:
 
 ## Eckdaten
 
+- **Setting / Zeit:** Spätsommer 1896, Sussex. Zeitzeile des CD-Klappentexts („Spätsommer 1896.“), wörtlich zitiert in Ingo Löchels Rezension; Fanseite und Audible führen sie nicht (Einzelquelle, [raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md](../../raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md)). In `folgen.json` seit 13.10.2026 als Jahr geführt (vorher geschätzt); kein Monat, weil „Spätsommer“ keinen festlegt.
 - **Fandom-Abgleich (2026-04-30):** Folge 12 hat auf Fandom eine verlinkte Einzelseite.
 - **Erscheinungsdatum:** 24.11.2017.
 - **Erscheinungsjahr (offizielle Seite):** 2017.
@@ -86,6 +88,7 @@ Nach einem erschreckenden Einbruch in ein abgelegenes Haus untersucht Oscar Wild
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge12-der-geheimbund-der-masken/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md](../../raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md) — In-Universe-Chronologie: Zeitzeilen der CD-Klappentexte (wörtlich zitiert in Ingo Löchels Rezensionen, Black Stone Magazine), Löchel-Chronologie Teil 2 und Komplett-Update, Traumwelt-Hoerspiel (13.10.2026).
 
 
 

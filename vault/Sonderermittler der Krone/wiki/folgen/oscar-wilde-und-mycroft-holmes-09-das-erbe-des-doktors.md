@@ -59,6 +59,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge09-das-erbe-des-doktors/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md
 tags:
   - sonderermittler
   - zirkel
@@ -70,6 +71,7 @@ tags:
 
 ## Eckdaten
 
+- **Setting / Zeit:** Dezember 1895, Paris. Zeitzeile des CD-Klappentexts („Dezember 1895.“), wörtlich zitiert in Ingo Löchels Rezension; Fanseite und Audible führen sie nicht (Einzelquelle, [raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md](../../raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md)). In `folgen.json` seit 13.10.2026 als Monat geführt (vorher 1895 geschätzt).
 - **Fandom-Abgleich (2026-04-30):** Folge 9 hat auf Fandom eine verlinkte Einzelseite.
 - **Erscheinungsdatum:** 26.05.2017.
 - **Erscheinungsjahr (offizielle Seite):** 2017.
@@ -106,6 +108,7 @@ In der Botschaft Österreich-Ungarns in Paris löst ein britischer Kulturattach�
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge09-das-erbe-des-doktors/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md](../../raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md) — In-Universe-Chronologie: Zeitzeilen der CD-Klappentexte (wörtlich zitiert in Ingo Löchels Rezensionen, Black Stone Magazine), Löchel-Chronologie Teil 2 und Komplett-Update, Traumwelt-Hoerspiel (13.10.2026).
 
 
 

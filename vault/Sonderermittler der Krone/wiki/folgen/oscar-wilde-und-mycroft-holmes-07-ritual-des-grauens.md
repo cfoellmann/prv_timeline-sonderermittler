@@ -40,6 +40,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md
 tags:
   - sonderermittler
 ---
@@ -50,6 +51,7 @@ tags:
 
 ## Eckdaten
 
+- **Setting / Zeit:** Anfang Dezember 1895, London. Zeitzeile des CD-Klappentexts („Anfang Dezember 1895.“), wörtlich zitiert in Ingo Löchels Rezension; Fanseite und Audible führen sie nicht (Einzelquelle, [raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md](../../raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md)). In `folgen.json` seit 13.10.2026 als Monat geführt (vorher 1895 geschätzt).
 - **Fandom-Abgleich (2026-04-30):** Folge 7 hat auf Fandom eine verlinkte Einzelseite.
 - **Erscheinungsdatum:** 13.01.2017. Bis 12.10.2026 führte der Vault den 27.01.2017; korrigiert nach HolyShop-Ersterscheinung und Apple Music (Entscheidung Christian, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 4]]).
 - **Erscheinungsjahr (offizielle Seite):** 2017.
@@ -86,6 +88,7 @@ London wird von brutalen Morden erschüttert, deren Opfer Wissenschaftler und Do
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md](../../raw/maritim/2026-10-13_blackstone-zauberspiegel-traumwelt-audible-fanseite_in-universe-chronologie.md) — In-Universe-Chronologie: Zeitzeilen der CD-Klappentexte (wörtlich zitiert in Ingo Löchels Rezensionen, Black Stone Magazine), Löchel-Chronologie Teil 2 und Komplett-Update, Traumwelt-Hoerspiel (13.10.2026).
 
 
 
