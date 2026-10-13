@@ -12,7 +12,7 @@ sprecher:
   - rolle: Dr. John H. Watson
     name: Florian Halm
 spielzeit_min: 60
-zirkel: direkt
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -50,7 +50,7 @@ tags:
 - [[wiki/figuren/john-watson|John Watson]] — ist auf der offiziellen Seite als Figur gelistet.
 
 > [!note] Figurenliste der Fanseite kopiert — bereinigt am 13.10.2026
-> Die Figurenliste der Fanseite führt Irene Adler, Oscar Wilde und Killjoy — identisch mit der Liste von [[wiki/folgen/sherlock-holmes-06-das-geheimnis-des-earls|SH 6]] und **sehr wahrscheinlich von dort kopiert**. Die Stammsprecher:innen der drei fehlen in allen vier Sprecherlisten der Folge; ein Höreindruck (Hoergruselspiele-Forum) hält fest, dass niemand aus dem Zirkel-Umfeld vorkommt, und die Poldi-Rezension nennt nur Holmes, Watson, Marble Roth und Gastsprecher. Nach Entscheidung Christian sind die drei deshalb aus Hauptfiguren, Logline und `crossover_mit` genommen; `zirkel: direkt` bleibt, weil er sich auf den Klappentext stützt (Entscheidung Christian, Nachtrag 7; beim Zirkel-Audit vom 13.10.2026 bestätigt, siehe Abschnitt „Bezug zum Zirkel der Sieben“) ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md); [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 7]]).
+> Die Figurenliste der Fanseite führt Irene Adler, Oscar Wilde und Killjoy — identisch mit der Liste von [[wiki/folgen/sherlock-holmes-06-das-geheimnis-des-earls|SH 6]] und **sehr wahrscheinlich von dort kopiert**. Die Stammsprecher:innen der drei fehlen in allen vier Sprecherlisten der Folge; ein Höreindruck (Hoergruselspiele-Forum) hält fest, dass niemand aus dem Zirkel-Umfeld vorkommt, und die Poldi-Rezension nennt nur Holmes, Watson, Marble Roth und Gastsprecher. Nach Entscheidung Christian sind die drei deshalb aus Hauptfiguren, Logline und `crossover_mit` genommen; `zirkel` blieb zunächst `direkt`, weil er sich auf den Klappentext stützt (Entscheidung Christian, Nachtrag 7). **Entschieden 13.10.2026 (Christian): `indirekt`** nach dem Zirkel-Maßstab — die offene Frage aus Nachtrag 10 ist damit geschlossen, siehe Abschnitt „Bezug zum Zirkel der Sieben“ ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md); [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 7]]).
 
 ## Handlung (grob)
 
@@ -58,8 +58,8 @@ Carter Roth wird nach einem Sturz schwer verletzt ins Krankenhaus eingeliefert, 
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — der offizielle Klappentext nennt ausdrücklich ein Objekt von großem Interesse für den [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]]. Der Wert folgt einer ausdrücklichen Entscheidung Christians vom 13.10.2026 ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 7]], Entscheidung 3/5).
-- **Offene Frage an Christian (Nachtrag 10):** Nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]] ergäbe sich eher `indirekt` — der Zirkel selbst handelt nicht, und laut Höreindruck (Hoergruselspiele-Forum, Poldi) kommt niemand aus dem Zirkel-Umfeld vor (wie DNAPF 13). Das Zirkel-Audit vom 13.10.2026 hatte den Wert deshalb auf `indirekt` gesetzt; mit Rücksicht auf die Entscheidung vom selben Tag ist er zurückgesetzt ([Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md)).
+- **Indirekt** — der offizielle Klappentext nennt ein Objekt von großem Interesse für den [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]], der Zirkel selbst handelt aber nicht, und laut Höreindruck (Hoergruselspiele-Forum, Poldi) kommt niemand aus dem Zirkel-Umfeld vor (wie DNAPF 13). Das entspricht dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]] ([Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md)).
+- **Entschieden 13.10.2026 (Christian): `indirekt`.** Die frühere Entscheidung `direkt` ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 7]], Entscheidung 3/5) ist damit revidiert; die offene Frage aus Nachtrag 10 (Z5, Punkt 1) ist geschlossen.
 
 ## Crossover & Querverweise
 

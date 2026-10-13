@@ -300,6 +300,12 @@ label.radio input, label.check input { accent-color: var(--accent); }
 .folge-card .body .anm {
   font-size: 12px;
   color: var(--text-dim);
+  /* In der Liste höchstens zwei Zeilen; der volle Text steht im Detailbereich. */
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  overflow: hidden;
 }
 
 .folge-card .zirkel-pill {
