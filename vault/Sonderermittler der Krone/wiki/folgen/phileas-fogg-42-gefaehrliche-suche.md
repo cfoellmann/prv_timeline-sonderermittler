@@ -28,7 +28,7 @@ sprecher:
   - rolle: Professor Challenger
     name: Konstantin Graudus
 spielzeit_min: 60
-zirkel: direkt
+zirkel: indirekt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
   - kapitaen-nemo
@@ -43,6 +43,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md
 tags:
   - oscar-wilde
   - saint-noire
@@ -69,6 +70,7 @@ tags:
 - [[wiki/figuren/aouda|Aouda]] — an Foggs Seite bei der Angelegenheit für Mycroft Holmes.
 - [[wiki/figuren/kapitaen-nemo|Kapitän Nemo]] — sucht mit Passepartout in Saint Noire nach einer Waffenlieferung (zweiter Handlungsstrang).
 - [[wiki/figuren/passepartout|Passepartout]] — ermittelt gemeinsam mit Nemo in Saint Noire.
+- [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] — wird von Challenger und Hawthorn verfolgt.
 - [[wiki/figuren/professor-challenger|Professor Challenger]] — ist mit Hawthorn Frankenstein dicht auf den Fersen.
 - [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] — „Hawthorn“ an Challengers Seite; dass es der Hawthorn aus OWMH ist, ist eine gut gestützte **Annahme** (gleicher Name, Beruf Jäger, Sprecher Jaron Löwenberg in der Audible-Besetzung), siehe Figurenseite.
 
@@ -78,7 +80,7 @@ Gemeinsam mit Aouda und Oscar Wilde kümmert sich Phileas Fogg um eine wichtige 
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt relevant** über Oscar Wilde, Mycroft und Frankenstein.
+- **Indirekt** (seit 13.10.2026, vorher `direkt`; der Bestand begründete den Wert nur über Frankenstein). [[wiki/figuren/victor-frankenstein|Victor Frankenstein]], ein Mitglied des Zirkels, handelt laut Klappentext; Dracula und der Zirkel selbst sind weder im Klappentext noch in Ingo Löchels Rezension noch über die Sprecherliste belegt (Torsten Michaelis, Draculas Stammsprecher, fehlt). Mycroft Holmes und seine Leute sind Gegenspieler des Zirkels, keine Mitglieder. Einstufung nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Fogg-Maßstab]] ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 9, L5]]). Beleg: [Rohdaten](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md).
 
 ## Quellen
 
@@ -86,3 +88,4 @@ Gemeinsam mit Aouda und Oscar Wilde kümmert sich Phileas Fogg um eine wichtige 
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge42-gefaehrliche-suche/>
 - [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Abel-Hawthorn-Recherche 12.10.2026 (Fanseite-Volltextsuche, Fandom-Besetzung, Audible-Sprecherlisten).
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md) — Fogg-Grenzfälle nach dem Zirkel-Maßstab (YouTube-Komplettfolgen und Couchfesseln-Podcast, Löchel-Volltext, Hörspieltalk, Fanseite, Fandom; 13.10.2026).

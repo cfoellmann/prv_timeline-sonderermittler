@@ -16,7 +16,7 @@ sprecher:
   - rolle: Mycroft Holmes
     name: Reent Reins
 spielzeit_min: 62
-zirkel: direkt
+zirkel: indirekt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
   - frankenstein
@@ -29,6 +29,7 @@ quellen:
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md
 tags:
   - westafrika
   - mycroft-holmes
@@ -60,10 +61,11 @@ Während Mycroft Holmes ein neues Hauptquartier errichten lässt, erhält er Hin
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt relevant** über Frankenstein und Mycrofts Kosmos-Achse.
+- **Indirekt** (seit 13.10.2026, vorher `direkt`; der Bestand begründete den Wert nur über Frankenstein). [[wiki/figuren/victor-frankenstein|Victor Frankenstein]], ein Mitglied des Zirkels, handelt laut Klappentext; Dracula und der Zirkel selbst sind weder im Klappentext noch in Ingo Löchels Rezension noch über die Sprecherliste belegt (Torsten Michaelis, Draculas Stammsprecher, fehlt). Mycroft Holmes und seine Leute sind Gegenspieler des Zirkels, keine Mitglieder. Einstufung nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Fogg-Maßstab]] ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 9, L5]]). Beleg: [Rohdaten](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md).
 
 ## Quellen
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge37-die-stunde-null/>
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md) — Fogg-Grenzfälle nach dem Zirkel-Maßstab (YouTube-Komplettfolgen und Couchfesseln-Podcast, Löchel-Volltext, Hörspieltalk, Fanseite, Fandom; 13.10.2026).

@@ -14,7 +14,7 @@ sprecher:
   - rolle: Aouda
     name: Annina Braunmiller-Jest
 spielzeit_min: 56
-zirkel: kein
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: recherchiert
@@ -28,6 +28,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge02-der-schatz-von-atlantis/
   - https://www.gratis-hoerspiele.de/jules-verne-02-der-schatz-von-atlantis/
   - https://www.fantasy-foren.de/threads/die-neuen-abenteuer-des-phileas-fogg-folge-02-der-schatz-von-atlantis.5146/
+  - raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md
 tags:
   - ankerfolge
   - erstauftritt
@@ -65,7 +66,10 @@ tags:
 
 ## Bezug zum Zirkel der Sieben
 
-- **Kein Bezug** im Klappentext. Für den Kosmos zählt die Folge wegen des ersten Auftritts von Jekyll/Hyde.
+- **Indirekt** (seit 13.10.2026, vorher `kein`). Der Klappentext nennt keinen Zirkel-Bezug; im Hörspiel handelt aber eine Organisation, die als Vorläufer des Zirkels gilt (aufklappbarer Hinweis). Der Name „Zirkel der Sieben“ fällt nicht, ein Zirkel-Mitglied wird nicht benannt. Einstufung nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Fogg-Maßstab]] (Roburs Organisation ohne Mitglied → `indirekt`, Entscheidung Hauptagent im Auftrag, 13.10.2026; [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 9, L5]]). Für den Kosmos zählt die Folge außerdem wegen des ersten Auftritts von Jekyll/Hyde. Beleg: [Rohdaten](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md).
+
+> [!warning]- Spoiler: Wer hinter der Meuterei steht (aufklappen)
+> Dr. Jekyll handelt im Auftrag einer Organisation: „unser gemeinsamer Freund hat mich geschickt“ und „damit unsere Organisation nichts und niemand im Weg steht“ (automatisches Transkript der YouTube-Komplettfolge, etwa Minute 40–42). Im Epilog meldet er einem ungenannten Anführer das Scheitern. Fandom ordnet die Gegner der Folgen 1–4 [[wiki/figuren/robur|Roburs]] Organisation zu, der auch Jekyll/Hyde angehört; der Podcast „Die Couchfesseln“ beschreibt dieselbe „riesen Organisation“ hinter dem „Herrn der Welt“.
 
 ## Crossover & Querverweise
 
@@ -87,3 +91,4 @@ tags:
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge02-der-schatz-von-atlantis/>
 - Gratis-Hoerspiele.de (Inhaltsangabe, Quelle „Maritim Verlag / YouTube“): <https://www.gratis-hoerspiele.de/jules-verne-02-der-schatz-von-atlantis/>
 - fantasy-foren.de, Startbeitrag mit Klappentext: <https://www.fantasy-foren.de/threads/die-neuen-abenteuer-des-phileas-fogg-folge-02-der-schatz-von-atlantis.5146/>
+- [raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md) — Fogg-Grenzfälle nach dem Zirkel-Maßstab (YouTube-Komplettfolgen und Couchfesseln-Podcast, Löchel-Volltext, Hörspieltalk, Fanseite, Fandom; 13.10.2026).

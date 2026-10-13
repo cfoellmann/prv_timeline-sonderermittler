@@ -14,6 +14,8 @@ quellen:
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
   - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
   - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
+  - raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md
+  - raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md
 tags:
   - zirkel-mitglied
   - antagonist
@@ -35,8 +37,10 @@ tags:
 
 | Folge / Reihe | Rolle | Notiz |
 |---|---|---|
+| [[wiki/folgen/phileas-fogg-02-der-schatz-von-atlantis\|DNAPF 2 - Der Schatz von Atlantis]] | Bezug ohne Auftritt | seit 13.10.2026 belegt (Transkript, Fandom, Podcast „Die Couchfesseln“), siehe Spoiler-Hinweis unter der Tabelle |
 | [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken\|DNAPF 3 - Krieg in den Wolken]] | Erstauftritt | früher Kosmos-Anker |
 | [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl\|DNAPF 4 - Der Elefant aus Stahl]] | früher Konfliktpunkt | Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
+| [[wiki/folgen/phileas-fogg-09-im-reich-des-zaren\|DNAPF 9 - Im Reich des Zaren]] | Bezug ohne Auftritt, nur erinnert | seit 13.10.2026 belegt (Transkript, Fandom, Podcast „Die Couchfesseln“), siehe Spoiler-Hinweis unter der Tabelle |
 | [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette\|DNAPF 26 - Die Küste der Skelette]] | Wiederauftritt | Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
 | [[wiki/serien/tesla\|Tesla]] | späterer Gegenspieler | wiederkehrend im Blitz-Block |
 | [[wiki/serien/sherlock-holmes\|Sherlock Holmes]] | späterer Gegenspieler | Hafen-/Lebensstein-Arc |
@@ -44,6 +48,15 @@ tags:
 > [!warning]- Spoiler: Chronologie-Notizen zu DNAPF 4 und DNAPF 26 (aufklappen)
 > Laut Löchel-Chronologie (Sekundärquelle) stirbt Robur früh in DNAPF 4, kehrt aber in DNAPF 26 in einem neuen Körper zurück.
 > Löchels Rezension zu DNAPF 26 nennt dazu den Sprecher: „Robur (gesprochen von Milton Welsh) kehrt von den Toten zurück …“ — nach Löchel die erste Folge mit Welsh als Robur, was den Sprecherwechsel von Hartmut Neugebauer erklärt. In DNAPF 26 nicht eingetragen, weil die Rolle an die Rückkehr gebunden ist ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
+
+> [!warning]- Spoiler zu DNAPF 1, 2 und 9: Roburs Organisation (aufklappen)
+> Fandom fasst die Gegner der Folgen 1–4 als Roburs Organisation zusammen, die dort noch keinen Namen hat; ihr gehören auch Dr. Jekyll/Mr. Hyde und Victor Frankenstein an. Ob sie mit dem späteren [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] gleichzusetzen ist, bleibt offen.
+>
+> - **[[wiki/folgen/phileas-fogg-02-der-schatz-von-atlantis|DNAPF 2]]:** Dr. Jekyll handelt für „unsere Organisation“ und meldet im Epilog einem ungenannten Anführer das Scheitern (Transkript der YouTube-Komplettfolge); der Podcast „Die Couchfesseln“ deutet den Anführer als Robur, im Hörspiel fällt der Name nicht.
+> - **[[wiki/folgen/phileas-fogg-09-im-reich-des-zaren|DNAPF 9]]:** Der Gegenspieler ist Agent „einer äußerst mächtigen Organisation“; Fogg denkt an Robur und Frankenstein, die er für tot hält (Transkript). Fandom: „ein weiteres Mitglied aus Roburs Organisation“.
+> - **[[wiki/folgen/phileas-fogg-01-entfuehrung-auf-hoher-see|DNAPF 1]]:** Dass die Organisation schon hier handelt, steht nur im Fandom-Blocktext; Transkript und Couchfesseln haben keinen Treffer — nicht übernommen.
+>
+> Nach der Festlegung „Roburs Organisation ohne Mitglied → `indirekt`“ (Entscheidung Hauptagent im Auftrag, 13.10.2026) stehen DNAPF 2 und 9 seitdem auf `indirekt`, DNAPF 1 bleibt `kein` ([Rohdaten](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md); [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 9, L5]]).
 
 ### Vollständige Auftrittsliste
 
@@ -97,3 +110,5 @@ Alle 30 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR und FRANK: DNB, Raute Media, Fandom MOR 0–8, Hörspieltalk (12.10.2026)
 - [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
 - [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).
+- [raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md) — Zirkel-Abgleich DNAPF 1–52 nach dem Fogg-Maßstab (YouTube-Transkripte, Löchel-Fließtext, Fandom; 13.10.2026).
+- [raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md) — Fogg-Grenzfälle nach dem Zirkel-Maßstab (YouTube-Komplettfolgen und Couchfesseln-Podcast, Löchel-Volltext, Hörspieltalk, Fanseite, Fandom; 13.10.2026).

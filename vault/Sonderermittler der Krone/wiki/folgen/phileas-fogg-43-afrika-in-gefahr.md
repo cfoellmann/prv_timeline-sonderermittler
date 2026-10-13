@@ -24,7 +24,7 @@ sprecher:
   - rolle: Professor Challenger
     name: Konstantin Graudus
 spielzeit_min: 59
-zirkel: direkt
+zirkel: indirekt
 crossover_mit:
   - kapitaen-nemo
   - frankenstein
@@ -38,6 +38,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md
 tags:
   - tarzan
   - afrika
@@ -61,6 +62,7 @@ tags:
 
 - [[wiki/figuren/phileas-fogg|Phileas Fogg]] — bereitet in London einen Gegenschlag vor.
 - [[wiki/figuren/kapitaen-nemo|Kapitän Nemo]] — bleibt auf Frankensteins Spur.
+- [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] — ist auf der Flucht, Nemo und Passepartout folgen ihm.
 - [[wiki/figuren/professor-challenger|Professor Challenger]] — kommt unter Tarzans Führung mit Hawthorn hinter die Drahtzieher.
 - [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] — „der Jäger Hawthorn“ an Challengers Seite; dass es der Hawthorn aus OWMH ist, ist eine gut gestützte **Annahme** (gleicher Name, Beruf Jäger, Sprecher Jaron Löwenberg in der Audible-Besetzung), siehe Figurenseite.
 
@@ -70,7 +72,7 @@ In Afrika steht die Revolution kurz bevor. Unter Tarzans Führung erkennen [[wik
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt relevant** über Frankenstein und die angeschlossenen Kosmos-Achsen.
+- **Indirekt** (seit 13.10.2026, vorher `direkt`; der Bestand begründete den Wert nur über Frankenstein). [[wiki/figuren/victor-frankenstein|Victor Frankenstein]], ein Mitglied des Zirkels, handelt laut Klappentext; Dracula und der Zirkel selbst sind weder im Klappentext noch über die 20-Namen-Liste noch im Hörspieltalk-Thread der Folge belegt (Torsten Michaelis, Draculas Stammsprecher, fehlt). Einstufung nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Fogg-Maßstab]] ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 9, L5]]). Beleg: [Rohdaten](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md).
 
 ## Quellen
 
@@ -78,3 +80,4 @@ In Afrika steht die Revolution kurz bevor. Unter Tarzans Führung erkennen [[wik
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge43-afrika-in-gefahr/>
 - [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Abel-Hawthorn-Recherche 12.10.2026 (Fanseite-Volltextsuche, Fandom-Besetzung, Audible-Sprecherlisten).
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md) — Fogg-Grenzfälle nach dem Zirkel-Maßstab (YouTube-Komplettfolgen und Couchfesseln-Podcast, Löchel-Volltext, Hörspieltalk, Fanseite, Fandom; 13.10.2026).

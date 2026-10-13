@@ -16,7 +16,7 @@ sprecher:
   - rolle: Passepartout
     name: Marius Clarén
 spielzeit_min: 56
-zirkel: kein
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -27,6 +27,7 @@ quellen:
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md
 tags:
   - russland
   - sibirien
@@ -58,7 +59,10 @@ Ein glanzvolles Fest am Hof des Zaren bekommt für Fogg, Aouda und Passepartout 
 
 ## Bezug zum Zirkel der Sieben
 
-- **Kein ausdrücklich belegter Zirkel-Bezug** in der offiziellen Beschreibung; der Fall wirkt aber größer als ein isoliertes Abenteuer.
+- **Indirekt** (seit 13.10.2026, vorher `kein`). Die offizielle Beschreibung nennt keinen Zirkel-Bezug; im Hörspiel handelt aber eine Organisation, die als Vorläufer des Zirkels gilt (aufklappbarer Hinweis). Der Name „Zirkel der Sieben“ fällt nicht (automatisches Transkript der YouTube-Komplettfolge), Robur und Frankenstein werden nur erinnert. Einstufung nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Fogg-Maßstab]] (Roburs Organisation ohne Mitglied → `indirekt`, Entscheidung Hauptagent im Auftrag, 13.10.2026; [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 9, L5]]). Beleg: [Rohdaten](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md).
+
+> [!warning]- Spoiler: Für wen der Attentäter arbeitet (aufklappen)
+> Der Gegenspieler gibt sich als Agent „einer äußerst mächtigen Organisation“ zu erkennen, Fogg denkt dabei an [[wiki/figuren/robur|Robur]] und [[wiki/figuren/victor-frankenstein|Frankenstein]], die er für tot hält (Transkript, etwa Minute 46–51). Fandom nennt ihn „ein weiteres Mitglied aus Roburs Organisation“; der Podcast „Die Couchfesseln“ beschreibt ihn ebenfalls als „Agent einer Organisation“.
 
 ## Crossover & Querverweise
 
@@ -70,3 +74,4 @@ Ein glanzvolles Fest am Hof des Zaren bekommt für Fogg, Aouda und Passepartout 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge09-im-reich-des-zaren/>
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md) — Fogg-Grenzfälle nach dem Zirkel-Maßstab (YouTube-Komplettfolgen und Couchfesseln-Podcast, Löchel-Volltext, Hörspieltalk, Fanseite, Fandom; 13.10.2026).

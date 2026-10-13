@@ -16,6 +16,8 @@ quellen:
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
   - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
   - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
+  - raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md
+  - raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md
 tags:
   - zirkel-mitglied
   - antagonist
@@ -37,12 +39,22 @@ tags:
 | Folge / Reihe | Rolle | Notiz |
 |---|---|---|
 | [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten\|DNAPF 12 - Entscheidung in den Karpaten]] | früher Kosmos-Auftritt | laut Chronologie Erstauftritt; Löchel-Rezension „Erster Auftritt von Dracula (gesprochen von Torsten Michaelis)“, Sprechereintrag seit 13.10.2026 |
+| [[wiki/folgen/phileas-fogg-15-die-schwimmende-stadt\|DNAPF 15 - Die schwimmende Stadt]] | Auftritt | seit 13.10.2026 belegt (Transkript, Löchel, Fandom); Einzelheiten im Spoiler-Hinweis unter der Tabelle |
+| [[wiki/folgen/phileas-fogg-28-herrscher-der-luefte\|DNAPF 28 - Herrscher der Lüfte]] | Auftritt | seit 13.10.2026 belegt (Löchel, Podcast „Die Couchfesseln“); Einzelheiten im Spoiler-Hinweis unter der Tabelle |
+| [[wiki/folgen/phileas-fogg-32-abrechnung\|DNAPF 32 - Abrechnung]] | beteiligt | seit 13.10.2026 belegt (Löchel, Sprecherliste); Einzelheiten im Spoiler-Hinweis unter der Tabelle |
 | [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]] | Titel- und Zentralfigur | eigene Maritim-Reihe seit 2020 |
 | [[wiki/serien/moriarty\|Moriarty]] | Gegenspieler / Machtfaktor | mehrfach direkt verlinkt |
 | [[wiki/serien/phileas-fogg\|Phileas Fogg]] | früher Vorlauf | DNAPF führt Dracula bereits vor der Eigenreihe ein |
 
 > [!warning]- Spoiler zu DNAPF 11/12: Kurzauftritt vor dem „ersten Auftritt“ (aufklappen)
-> Fandom führt für [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant|DNAPF 11]] einen „Gastauftritt“ Draculas, Löchel setzt den ersten Auftritt auf DNAPF 12. Laut automatischem Transkript der YouTube-Komplettfolge zeigt die Schlussszene von DNAPF 11 kurz den neuen Anführer der Organisation, ohne dass der Name Dracula fällt; benannt wird er erst in DNAPF 12. Beide Angaben stimmen also. Für DNAPF 11 gibt es keinen Sprechereintrag ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), Abschnitt 6).
+> Fandom führt für [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant|DNAPF 11]] einen „Gastauftritt“ Draculas, Löchel setzt den ersten Auftritt auf DNAPF 12. Laut automatischem Transkript der YouTube-Komplettfolge zeigt die Schlussszene von DNAPF 11 kurz den neuen Anführer der Organisation, ohne dass der Name Dracula fällt; benannt wird er erst in DNAPF 12. Beide Angaben stimmen also. Für DNAPF 11 gibt es keinen Sprechereintrag ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), Abschnitt 6). Nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Fogg-Maßstab]] zählt dieser Kurzauftritt ohne Namen nicht als Handeln; DNAPF 11 bleibt `indirekt` (Entscheidung Hauptagent im Auftrag, 13.10.2026).
+
+> [!warning]- Spoiler zu DNAPF 15, 28 und 32: Rolle in den Folgen (aufklappen)
+> - **[[wiki/folgen/phileas-fogg-15-die-schwimmende-stadt|DNAPF 15]]:** Dracula befindet sich auf der künstlichen Insel und tritt in der Schlussphase selbst auf; laut Löchel will er die Insel sabotieren. Belege: Transkript der YouTube-Komplettfolge, Löchel, Fandom („Gastauftritt“). Kein Sprechereintrag, weil Torsten Michaelis in der Sieben-Namen-Liste fehlt.
+> - **[[wiki/folgen/phileas-fogg-28-herrscher-der-luefte|DNAPF 28]]:** Dracula ist mit Frankenstein an Bord der „Medusa“ und tritt selbst auf (Löchel: Kopfangabe und Fließtext; Podcast „Die Couchfesseln“: Nacherzählung und Besetzungsansage Torsten Michaelis). Kein Sprechereintrag, weil Michaelis in der 13-Namen-Liste fehlt.
+> - **[[wiki/folgen/phileas-fogg-32-abrechnung|DNAPF 32]]:** Laut Löchel handelt ein Handlanger auf Draculas Befehl, und der Zirkel steckt hinter der Verschwörung gegen Fogg; Michaelis steht in der Sprecherliste.
+>
+> Rohdaten: [Zirkel-Maßstab](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md), [Fogg-Grenzfälle](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md).
 
 ### Vollständige Auftrittsliste
 
@@ -102,6 +114,7 @@ Alle 48 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 ## Bezug zum Zirkel der Sieben
 
 - **Zentral** — laut Sekundärquellen ist Dracula der Anführer des Zirkels.
+- **Fogg-Reihe, Afrika-Block DNAPF 37–44:** Ein Auftritt ist dort nicht belegt — Klappentexte, Löchel-Rezensionen (37, 38, 41, 42) und Sprecherlisten nennen ihn nicht; nur der Klappentext von [[wiki/folgen/phileas-fogg-39-die-afrika-verschwoerung|DNAPF 39]] erwähnt ihn als erhofften Helfer (Prüfung 13.10.2026, [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 9, L5]]).
 - **Offene Kanon-Frage:** Eine DNAPF-Lesart deutet sogar an, dass Dracula den Zirkel selbst gegründet habe, während OWMH die Charles-Darwin-Abspaltung von 1875 stärker ausarbeitet.
 
 ## Quellen
@@ -117,3 +130,5 @@ Alle 48 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA: Verlagsmitteilung zur Stammbesetzung 2015, Rollenlisten, DNB 245 $c (12.10.2026)
 - [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
 - [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).
+- [raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md) — Zirkel-Abgleich DNAPF 1–52 nach dem Fogg-Maßstab (YouTube-Transkripte, Löchel-Fließtext, Fandom; 13.10.2026).
+- [raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md) — Fogg-Grenzfälle nach dem Zirkel-Maßstab (YouTube-Komplettfolgen und Couchfesseln-Podcast, Löchel-Volltext, Hörspieltalk, Fanseite, Fandom; 13.10.2026).

@@ -15,6 +15,8 @@ quellen:
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
+  - raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md
+  - raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md
 tags:
   - zirkel-mitglied
   - antagonist
@@ -36,9 +38,16 @@ tags:
 | Folge / Reihe | Rolle | Notiz |
 |---|---|---|
 | [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl\|DNAPF 4 - Der Elefant aus Stahl]] | Erstauftritt | früher Kosmos-Anker |
+| [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx\|DNAPF 5 - Das Geheimnis der Eissphinx]] | Auftritt | seit 13.10.2026 belegt (Transkript, Löchel, Fandom); siehe Spoiler-Hinweis unter der Tabelle |
+| [[wiki/folgen/phileas-fogg-06-der-leuchtturm-am-ende-der-welt\|DNAPF 6 - Der Leuchtturm am Ende der Welt]] | Auftritt | dto. |
+| [[wiki/folgen/phileas-fogg-07-die-stadt-unter-der-erde\|DNAPF 7 - Die Stadt unter der Erde]] | Auftritt | dto., dazu Rollenliste der Verlagsvorschau |
 | [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien\|DNAPF 8 - Im Angesicht der Bestien]] | früher Konflikt mit Fogg | Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
 | [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis\|DNAPF 21 - Die sieben Seelen des Anubis]] | Wiederauftritt | offizielle Folgenseite nennt `Seelen`; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
+| [[wiki/folgen/phileas-fogg-23-verschwoerung-auf-dem-atlantik\|DNAPF 23 - Verschwörung auf dem Atlantik]] | beteiligt | seit 13.10.2026 belegt (Löchel, Sprecherliste, Fandom-Bogen 21–24); siehe Spoiler-Hinweis |
 | [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel\|DNAPF 24 - Die geheimnisvolle Insel]] | Kosmos-Anker | Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
+| [[wiki/folgen/phileas-fogg-25-diamantenjaeger\|DNAPF 25 - Diamantenjäger]] | beteiligt | seit 13.10.2026 belegt (Löchel, Sprecherliste, Podcast „Die Couchfesseln“); siehe Spoiler-Hinweis |
+| [[wiki/folgen/phileas-fogg-28-herrscher-der-luefte\|DNAPF 28 - Herrscher der Lüfte]] | Auftritt | seit 13.10.2026 belegt (Löchel, Sprecherliste, Podcast „Die Couchfesseln“); siehe Spoiler-Hinweis |
+| [[wiki/folgen/phileas-fogg-33-von-der-erde-zum-mond\|DNAPF 33 - Von der Erde zum Mond]] | Auftritt | seit 13.10.2026 belegt (Löchel, Sprecherliste); siehe Spoiler-Hinweis |
 | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Titel- und Zentralfigur | eigene Spin-off-Reihe |
 | [[wiki/serien/moriarty\|Moriarty]], [[wiki/serien/sherlock-holmes\|Sherlock Holmes]], [[wiki/serien/tesla\|Tesla]] | spätere Querverbindungen | mehrfach im aktuellen Repo-Stand belegt |
 
@@ -49,9 +58,20 @@ tags:
 > - **DNAPF 21:** Rückkehr; Dracula rettete ihn zuvor.
 > - **DNAPF 24:** Konflikt mit Dracula, direkter Zweikampf.
 
+> [!warning]- Spoiler zu DNAPF 5–7, 23, 25, 28 und 33: Rolle in den Folgen (aufklappen)
+> - **[[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx|DNAPF 5]], [[wiki/folgen/phileas-fogg-06-der-leuchtturm-am-ende-der-welt|6]], [[wiki/folgen/phileas-fogg-07-die-stadt-unter-der-erde|7]]:** Frankenstein tritt nach DNAPF 4 in jeder Folge des Blocks wieder auf und macht Fogg und seinen Gefährten mit seinen Kreaturen zu schaffen (Transkripte der YouTube-Komplettfolgen, Löchel, Fandom „Erste Auftritte“ DNAPF 4–8; zu DNAPF 7 dazu die Rollenliste der Verlagsvorschau).
+> - **[[wiki/folgen/phileas-fogg-23-verschwoerung-auf-dem-atlantik|DNAPF 23]]:** Laut Löchel steckt er hinter Foggs Sturz über Bord; Aouda und Passepartout entdecken ihn später in San Francisco.
+> - **[[wiki/folgen/phileas-fogg-25-diamantenjaeger|DNAPF 25]]:** Er ist an Aoudas Entführung beteiligt und handelt für einen in der Folge ungenannten Auftraggeber (Couchfesseln); Löchel nennt Dracula und den Zirkel als Auftraggeber (Einzelquelle).
+> - **[[wiki/folgen/phileas-fogg-28-herrscher-der-luefte|DNAPF 28]]:** Er ist mit Dracula an Bord der „Medusa“ (Löchel, Couchfesseln).
+> - **[[wiki/folgen/phileas-fogg-33-von-der-erde-zum-mond|DNAPF 33]]:** Er gehört zu den Zirkel-Mitgliedern im Hotel in Florida und konfrontiert mit Theodora Sachs Aouda und Passepartout (Löchel).
+>
+> Dietmar Wunder steht in den Sprecherlisten von DNAPF 23, 25, 28 und 33; eingetragen ist er dort nicht, weil die Rolle nur über Rezensionen belegt ist. Rohdaten: [Zirkel-Maßstab](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md), [Fogg-Grenzfälle](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md).
+
+**Afrika-Block DNAPF 37–44:** Frankenstein steht in sieben der acht Klappentexte und Sprecherlisten (nicht in DNAPF 40); seit 13.10.2026 führen auch die Folgenseiten 38, 41, 42 und 43 ihn unter „Hauptfiguren“. Der Zirkel selbst ist in diesem Block nicht belegt, deshalb stehen 37, 38 und 41–44 nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Fogg-Maßstab]] auf `indirekt`; DNAPF 39 bleibt über Dracula `direkt` ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 9, L5]]).
+
 ### Vollständige Auftrittsliste
 
-Alle 64 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Erscheinungsdatum. Die Rollenangabe ist der jeweiligen Folgenseite entnommen; geplante Folgen sind markiert.
+Alle 68 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Erscheinungsdatum. Die Rollenangabe ist der jeweiligen Folgenseite entnommen; geplante Folgen sind markiert.
 
 | Folge | Rolle (laut Folgenseite) |
 |---|---|
@@ -78,15 +98,19 @@ Alle 64 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 | [[wiki/folgen/frankenstein-09-neuanfang\|FRANK 9 — Neuanfang]] (09.06.2023) | plant sein ambitioniertestes Projekt |
 | [[wiki/folgen/frankenstein-10-auf-dunklen-pfaden\|FRANK 10 — Auf dunklen Pfaden]] (18.08.2023) | erreicht einen Durchbruch in seiner Forschung |
 | [[wiki/folgen/phileas-fogg-37-die-stunde-null\|DNAPF 37 — Die Stunde Null]] (25.08.2023) | versucht, Einfluss auf den Stamm der Affenmenschen zu gewinnen |
+| [[wiki/folgen/phileas-fogg-38-von-feinden-umgeben\|DNAPF 38 — Von Feinden umgeben]] (27.10.2023) | setzt mit seinen Verbündeten den fliehenden Affenmenschen nach |
 | [[wiki/folgen/frankenstein-11-gefangene-der-finsternis\|FRANK 11 — Gefangene der Finsternis]] (27.10.2023) | auf der Suche nach Menorium |
 | [[wiki/folgen/frankenstein-12-erweckung\|FRANK 12 — Erweckung]] (02.02.2024) | auf der Suche nach wichtigen Stoffen |
 | [[wiki/folgen/phileas-fogg-39-die-afrika-verschwoerung\|DNAPF 39 — Die Afrika-Verschwörung]] (09.02.2024) | bleibt mitten im Afrika-Komplex aktiv |
 | [[wiki/folgen/frankenstein-13-necropolis\|FRANK 13 — Necropolis]] (19.04.2024) | beginnt eine problematische Zusammenarbeit |
+| [[wiki/folgen/phileas-fogg-41-aufbruch\|DNAPF 41 — Aufbruch]] (07.06.2024) | gerät im aufziehenden Sturm mit einem französischen General aneinander |
 | [[wiki/folgen/frankenstein-14-wasser-und-tod\|FRANK 14 — Wasser und Tod]] (05.07.2024) | im Polizeigewahrsam nach einem Überfall |
 | [[wiki/folgen/dracula-14-blutsuehne\|DRAC 14 — Blutsühne]] (30.08.2024) | soll etwas Unglaubliches erschaffen |
 | [[wiki/folgen/frankenstein-15-strom-der-gedanken\|FRANK 15 — Strom der Gedanken]] (27.09.2024) | kämpft ums Überleben in den Gewölben |
 | [[wiki/folgen/dracula-15-das-mal-der-frevler\|DRAC 15 — Das Mal der Frevler]] (11.10.2024) | hilft Dracula bei der Schöpfung eines besonderen Wesens |
+| [[wiki/folgen/phileas-fogg-42-gefaehrliche-suche\|DNAPF 42 — Gefährliche Suche]] (18.10.2024) | wird von Challenger und Hawthorn verfolgt |
 | [[wiki/folgen/frankenstein-16-macht-und-manipulation\|FRANK 16 — Macht und Manipulation]] (18.10.2024) | auf der Suche nach Theodora |
+| [[wiki/folgen/phileas-fogg-43-afrika-in-gefahr\|DNAPF 43 — Afrika in Gefahr]] (06.12.2024) | ist auf der Flucht, Nemo und Passepartout folgen ihm |
 | [[wiki/folgen/frankenstein-17-sklave-der-wissenschaft\|FRANK 17 — Sklave der Wissenschaft]] (24.01.2025) | erhält einen erneuten Auftrag von Moriarty |
 | [[wiki/folgen/moriarty-17-dem-tod-entrissen\|MOR 17 — Dem Tod entrissen]] (31.01.2025) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/sherlock-holmes-13-faustrecht\|SH 13 — Faustrecht]] (31.01.2025) | ist auf der offiziellen Seite als Figur gelistet |
@@ -134,3 +158,5 @@ Alle 64 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR und FRANK: DNB, Raute Media, Fandom MOR 0–8, Hörspieltalk (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
 - [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).
+- [raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md) — Zirkel-Abgleich DNAPF 1–52 nach dem Fogg-Maßstab (YouTube-Transkripte, Löchel-Fließtext, Fandom; 13.10.2026).
+- [raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md) — Fogg-Grenzfälle nach dem Zirkel-Maßstab (YouTube-Komplettfolgen und Couchfesseln-Podcast, Löchel-Volltext, Hörspieltalk, Fanseite, Fandom; 13.10.2026).

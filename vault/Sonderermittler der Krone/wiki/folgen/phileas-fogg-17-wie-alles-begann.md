@@ -12,7 +12,7 @@ sprecher:
   - rolle: Phileas Fogg
     name: Sascha Draeger
 spielzeit_min: 58
-zirkel: unklar
+zirkel: kein
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -23,6 +23,7 @@ quellen:
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md
 tags:
   - quellenkonflikt
   - fortsetzungsblock
@@ -53,7 +54,7 @@ Die offizielle Folgenseite führt aktuell keinen klar unterscheidbaren eigenen K
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — wegen der dubiosen Quellenlage lässt sich der Zirkel-Bezug dieser Einzelfolge nicht sauber von DNAPF 16 trennen.
+- **Kein Bezug** (seit 13.10.2026, vorher `unklar`). Weder der Zirkel noch eines seiner Mitglieder kommt vor: Das automatische Transkript der YouTube-Komplettfolge hat keinen Treffer für Zirkel, Dracula, Frankenstein oder Robur, die Besprechung im Podcast „Die Couchfesseln“ (Folgen 17 und 18) ebenso; keiner der Stammsprecher der Zirkel-Mitglieder steht in der 20-Namen-Liste. Fandom beschreibt den Block 17–20 als Rückblick auf die Weltreise. Damit ist auch die Trennung von DNAPF 16 geklärt, deren Klappentext die Fanseite hier dupliziert. Einstufung nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Fogg-Maßstab]] (Entscheidung Hauptagent im Auftrag, 13.10.2026; [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 9, L5]]). Beleg: [Rohdaten](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md).
 
 ## Crossover & Querverweise
 
@@ -65,3 +66,4 @@ Die offizielle Folgenseite führt aktuell keinen klar unterscheidbaren eigenen K
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge17-wie-alles-begann/>
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md) — Fogg-Grenzfälle nach dem Zirkel-Maßstab (YouTube-Komplettfolgen und Couchfesseln-Podcast, Löchel-Volltext, Hörspieltalk, Fanseite, Fandom; 13.10.2026).

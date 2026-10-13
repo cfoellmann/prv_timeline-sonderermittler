@@ -18,7 +18,7 @@ sprecher:
   - rolle: Irene Adler
     name: Yvonne Greitzke
 spielzeit_min: 62
-zirkel: direkt
+zirkel: kein
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
   - irene-adler
@@ -32,6 +32,7 @@ quellen:
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md
 tags:
   - frankreich
   - isais
@@ -62,10 +63,11 @@ Eine rätselhafte Karte führt Phileas Fogg und seine Freunde nach Frankreich, w
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt relevant** über die offene Verknüpfung mit Holmes, Irene Adler und Oscar Wilde.
+- **Kein Bezug** (seit 13.10.2026, vorher `direkt`). Der Bestand begründete `direkt` mit der Verknüpfung zu Sherlock Holmes, Irene Adler und Oscar Wilde — das sind Ermittler der Krone, keine Zirkel-Mitglieder. Weder der Klappentext noch die 13-Namen-Liste (kein Stammsprecher eines Mitglieds) noch der Hörspieltalk-Thread der Folge zeigen den Zirkel oder eines seiner Mitglieder; der übrige Isais-Block DNAPF 45, 46, 48–50 steht ebenfalls auf `kein`. Die Folge bleibt als Crossover mit den Krimi-Reihen wichtig. Einstufung nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Fogg-Maßstab]] ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 9, L5]]). Beleg: [Rohdaten](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md).
 
 ## Quellen
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge47-der-schwarze-spiegel/>
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md) — Fogg-Grenzfälle nach dem Zirkel-Maßstab (YouTube-Komplettfolgen und Couchfesseln-Podcast, Löchel-Volltext, Hörspieltalk, Fanseite, Fandom; 13.10.2026).

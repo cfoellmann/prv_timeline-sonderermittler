@@ -24,7 +24,7 @@ sprecher:
   - rolle: Professor Challenger
     name: Konstantin Graudus
 spielzeit_min: 60
-zirkel: direkt
+zirkel: indirekt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
   - frankenstein
@@ -39,6 +39,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md
 tags:
   - mycroft-holmes
   - kapitaen-nemo
@@ -63,6 +64,7 @@ tags:
 - [[wiki/figuren/phileas-fogg|Phileas Fogg]] — ist für Mycroft Holmes im Einsatz.
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — sendet Fogg in den nächsten Konflikt.
 - [[wiki/figuren/kapitaen-nemo|Kapitän Nemo]] — verfolgt mit Passepartout Harriet Malone.
+- [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] — gerät im aufziehenden Sturm mit einem französischen General aneinander.
 - [[wiki/figuren/professor-challenger|Professor Challenger]] — findet mit Hawthorn das Dorf der Affenmenschen zerstört und verfolgt die französischen Soldaten.
 - [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] — „Hawthorn“ an Challengers Seite; dass es der Hawthorn aus OWMH ist, ist eine gut gestützte **Annahme** (gleicher Name, Beruf Jäger, Sprecher Jaron Löwenberg in der Audible-Besetzung), siehe Figurenseite.
 
@@ -72,7 +74,7 @@ Phileas Fogg ist im Auftrag von Mycroft Holmes unterwegs, als er mit einer Grupp
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt relevant** über Mycroft, Frankenstein und die Nemo-Achse.
+- **Indirekt** (seit 13.10.2026, vorher `direkt`; der Bestand begründete den Wert nur über Frankenstein). [[wiki/figuren/victor-frankenstein|Victor Frankenstein]], ein Mitglied des Zirkels, handelt laut Klappentext; Dracula und der Zirkel selbst sind weder im Klappentext noch in Ingo Löchels Rezension noch über die Sprecherliste belegt (Torsten Michaelis, Draculas Stammsprecher, fehlt). Mycroft Holmes und seine Leute sind Gegenspieler des Zirkels, keine Mitglieder. Einstufung nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Fogg-Maßstab]] ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 9, L5]]). Beleg: [Rohdaten](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md).
 
 ## Quellen
 
@@ -80,3 +82,4 @@ Phileas Fogg ist im Auftrag von Mycroft Holmes unterwegs, als er mit einer Grupp
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge41-aufbruch/>
 - [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Abel-Hawthorn-Recherche 12.10.2026 (Fanseite-Volltextsuche, Fandom-Besetzung, Audible-Sprecherlisten).
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md) — Fogg-Grenzfälle nach dem Zirkel-Maßstab (YouTube-Komplettfolgen und Couchfesseln-Podcast, Löchel-Volltext, Hörspieltalk, Fanseite, Fandom; 13.10.2026).

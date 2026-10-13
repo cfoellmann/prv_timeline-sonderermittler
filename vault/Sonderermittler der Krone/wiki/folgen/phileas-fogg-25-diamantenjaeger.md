@@ -34,6 +34,7 @@ quellen:
   - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
   - https://blackbookmagazine.blogspot.com/2023/05/die-neuen-abenteuer-des-phileas-fogg-folge-25.html
   - raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md
+  - raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md
 tags:
   - aouda
   - diamanten
@@ -77,7 +78,7 @@ Während Phileas Fogg außer Haus ist, bittet Daphne Pratchett Aouda um Hilfe un
 ## Theorien & offene Fragen
 
 > [!warning]- Spoiler: offene Frage zum Zirkel-Bezug (aufklappen)
-> **`direkt` oder `indirekt`?** Nur Ingo Löchel stellt den Bezug zu Dracula und dem Zirkel her; Torsten Michaelis steht nicht in der Sprecherliste. Bis zu einem zweiten Beleg `indirekt`.
+> **`direkt` oder `indirekt`?** Nur Ingo Löchel stellt den Bezug zu Dracula und dem Zirkel her; Torsten Michaelis steht nicht in der Sprecherliste. Bis zu einem zweiten Beleg `indirekt`. **Geprüft 13.10.2026:** Der Podcast „Die Couchfesseln“ hört in der Folge einen „gemeinsamen Auftraggeber“ Frankensteins und seiner Helfer, der „aber noch nicht genannt wird“ — Dracula und der Zirkel kommen dort nur als Vermutung der Podcaster vor. Damit spricht die zweite Quelle eher gegen eine Nennung in der Folge; `indirekt` bleibt ([Rohdaten](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md)).
 
 ## Quellen
 
@@ -87,3 +88,4 @@ Während Phileas Fogg außer Haus ist, bittet Daphne Pratchett Aouda um Hilfe un
 - [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen, Rollen-Sprecher-Angaben (Black Stone Magazine; 13.10.2026).
 - Ingo Löchel, Rezension vom 21.05.2023: <https://blackbookmagazine.blogspot.com/2023/05/die-neuen-abenteuer-des-phileas-fogg-folge-25.html>
 - [raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md) — Zirkel-Abgleich DNAPF 1–52 nach dem Fogg-Maßstab (YouTube-Transkripte, Löchel-Fließtext, Fandom; 13.10.2026).
+- [raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md) — Fogg-Grenzfälle nach dem Zirkel-Maßstab (YouTube-Komplettfolgen und Couchfesseln-Podcast, Löchel-Volltext, Hörspieltalk, Fanseite, Fandom; 13.10.2026).

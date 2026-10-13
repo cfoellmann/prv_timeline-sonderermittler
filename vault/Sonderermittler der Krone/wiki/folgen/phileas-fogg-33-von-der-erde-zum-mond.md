@@ -32,6 +32,7 @@ quellen:
   - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
   - https://blackbookmagazine.blogspot.com/2023/07/die-neuen-abenteuer-des-phileas-fogg-folge-33.html
   - raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md
+  - raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md
 tags:
   - florida
   - mond
@@ -68,7 +69,7 @@ Der Kanonenclub von Baltimore arbeitet seit Jahren daran, eine bemannte Raumkaps
 
 ## Theorien & offene Fragen
 
-- **`direkt` oder `indirekt`?** Löchel spricht ausdrücklich von Zirkel-Mitgliedern als Gruppe; ein zweiter Beleg (Hörspiel, Fandom) fehlt. Bis dahin `indirekt`.
+- **`direkt` oder `indirekt`?** Löchel spricht ausdrücklich von Zirkel-Mitgliedern als Gruppe; ein zweiter Beleg (Hörspiel, Fandom) fehlt. Bis dahin `indirekt`. **Geprüft 13.10.2026:** weiter kein zweiter Beleg — keine YouTube-Komplettfolge, keine Besprechung im Podcast „Die Couchfesseln“ (reicht bis DNAPF 28), Fandom ohne Angaben nach Episode 24, Foren nur mit dem Klappentext ([Rohdaten](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md)).
 
 ## Quellen
 
@@ -78,3 +79,4 @@ Der Kanonenclub von Baltimore arbeitet seit Jahren daran, eine bemannte Raumkaps
 - [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen, Rollen-Sprecher-Angaben (Black Stone Magazine; 13.10.2026).
 - Ingo Löchel, Rezension vom 22.07.2023: <https://blackbookmagazine.blogspot.com/2023/07/die-neuen-abenteuer-des-phileas-fogg-folge-33.html>
 - [raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md) — Zirkel-Abgleich DNAPF 1–52 nach dem Fogg-Maßstab (YouTube-Transkripte, Löchel-Fließtext, Fandom; 13.10.2026).
+- [raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md) — Fogg-Grenzfälle nach dem Zirkel-Maßstab (YouTube-Komplettfolgen und Couchfesseln-Podcast, Löchel-Volltext, Hörspieltalk, Fanseite, Fandom; 13.10.2026).

@@ -37,6 +37,7 @@ quellen:
   - https://www.gratis-hoerspiele.de/jules-verne-01-entfuehrung-auf-hoher-see/
   - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
   - https://blackbookmagazine.blogspot.com/2023/01/phileas-fogg-folge-1-entfuehrung-auf-hoher-see.html
+  - raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md
 tags:
   - ankerfolge
   - erstauftritt
@@ -77,6 +78,7 @@ tags:
 ## Bezug zum Zirkel der Sieben
 
 - **Kein Bezug** im Klappentext und in den übrigen Quellen. Die Folge ist als Reihenauftakt und als Einführung Nemos wichtig.
+- **Geprüft 13.10.2026:** Nach der Festlegung „Roburs Organisation ohne Mitglied → `indirekt`“ wäre die Folge höher einzustufen, wenn die Organisation hier schon handelt. Das stützt nur der Fandom-Text zum Block 1–4; das automatische Transkript der YouTube-Komplettfolge und die Besprechung im Podcast „Die Couchfesseln“ haben keinen Treffer für Organisation, Robur oder Zirkel. Einzelquelle, deshalb bleibt `kein` ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 9, L5]]; [Rohdaten](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md)).
 
 ## Crossover & Querverweise
 
@@ -93,3 +95,4 @@ tags:
 - Gratis-Hoerspiele.de (Inhaltsangabe, Quelle „Maritim Verlag / YouTube“): <https://www.gratis-hoerspiele.de/jules-verne-01-entfuehrung-auf-hoher-see/>
 - [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen, Rollen-Sprecher-Angaben (Black Stone Magazine; 13.10.2026).
 - Ingo Löchel, Rezension vom 25.01.2023: <https://blackbookmagazine.blogspot.com/2023/01/phileas-fogg-folge-1-entfuehrung-auf-hoher-see.html>
+- [raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md) — Fogg-Grenzfälle nach dem Zirkel-Maßstab (YouTube-Komplettfolgen und Couchfesseln-Podcast, Löchel-Volltext, Hörspieltalk, Fanseite, Fandom; 13.10.2026).
