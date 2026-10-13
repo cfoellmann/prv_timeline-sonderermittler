@@ -18,7 +18,7 @@ sprecher:
   - rolle: James T. Maston
     name: Till Hagen
 spielzeit_min: 64
-zirkel: kein
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -31,6 +31,7 @@ quellen:
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
   - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
   - https://blackbookmagazine.blogspot.com/2023/07/die-neuen-abenteuer-des-phileas-fogg-folge-33.html
+  - raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md
 tags:
   - florida
   - mond
@@ -60,7 +61,14 @@ Der Kanonenclub von Baltimore arbeitet seit Jahren daran, eine bemannte Raumkaps
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit kein ausdrücklich belegter Zirkel-Bezug** in der offiziellen Folgenbeschreibung.
+- **Indirekt** (seit 13.10.2026, vorher `kein`). Hinter den „mächtigen Feinden“ des Klappentexts stehen Zirkel-Mitglieder (aufklappbarer Hinweis). `direkt` ist möglich, wenn der Zirkel als Organisation handelt — so sieht es Ingo Löchel, als Einzelquelle; bis zu einem zweiten Beleg bleibt es nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Fogg-Maßstab]] bei `indirekt`. Beleg: [Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md).
+
+> [!warning]- Spoiler: Wer im Hotel ist (aufklappen)
+> Löchel: „einige Mitglieder des ‚Zirkels der Sieben‘“ haben sich im Hotel einquartiert, Aouda und Passepartout werden mit [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] und [[wiki/figuren/theodora-sachs|Theodora Sachs]] konfrontiert; außerdem tritt [[wiki/figuren/robur|Robur]] auf (Kopfangabe „Mit Professor van Dusen, Robur, Viktor Frankenstein und Theodora Sachs“). Dietmar Wunder, Milton Welsh und Gabrielle Pietermann stehen in der Sprecherliste der Folge (DNB, Audible).
+
+## Theorien & offene Fragen
+
+- **`direkt` oder `indirekt`?** Löchel spricht ausdrücklich von Zirkel-Mitgliedern als Gruppe; ein zweiter Beleg (Hörspiel, Fandom) fehlt. Bis dahin `indirekt`.
 
 ## Quellen
 
@@ -69,3 +77,4 @@ Der Kanonenclub von Baltimore arbeitet seit Jahren daran, eine bemannte Raumkaps
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
 - [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen, Rollen-Sprecher-Angaben (Black Stone Magazine; 13.10.2026).
 - Ingo Löchel, Rezension vom 22.07.2023: <https://blackbookmagazine.blogspot.com/2023/07/die-neuen-abenteuer-des-phileas-fogg-folge-33.html>
+- [raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md) — Zirkel-Abgleich DNAPF 1–52 nach dem Fogg-Maßstab (YouTube-Transkripte, Löchel-Fließtext, Fandom; 13.10.2026).

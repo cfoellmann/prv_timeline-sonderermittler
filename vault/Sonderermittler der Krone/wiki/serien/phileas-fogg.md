@@ -20,6 +20,7 @@ quellen:
   - raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md
   - raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md
   - raw/maritim/2026-04-29_phileas-fogg_folgen-33-bis-50.md
+  - raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md
 tags:
   - frueher-zirkel-auftritt
   - maritim
@@ -65,17 +66,17 @@ tags:
 | 02 | [[wiki/folgen/phileas-fogg-02-der-schatz-von-atlantis\|Der Schatz von Atlantis]] | 11.12.2015 | kein |   | Erstauftritt Dr. Jekyll/Mr. Hyde |
 | 03 | [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken\|Krieg in den Wolken]] | 26.02.2016 | indirekt |   | Erstauftritt Robur; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
 | 04 | [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl\|Der Elefant aus Stahl]] | 22.04.2016 | indirekt |   | Erstauftritt Victor Frankenstein; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
-| 05 | [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx\|Das Geheimnis der Eissphinx]] | 12.08.2016 | kein | [[wiki/serien/poe-und-dupin\|Edgar Allan Poe & Auguste Dupin]] | Erstauftritt Edgar Allan Poe |
-| 06 | [[wiki/folgen/phileas-fogg-06-der-leuchtturm-am-ende-der-welt\|Der Leuchtturm am Ende der Welt]] | 07.10.2016 | kein |   | Insel-/Leuchtturm-Fall; exaktes Datum noch offen |
-| 07 | [[wiki/folgen/phileas-fogg-07-die-stadt-unter-der-erde\|Die Stadt unter der Erde]] | 25.11.2016 | kein |   | Schottland, Mine und Sabotage |
+| 05 | [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx\|Das Geheimnis der Eissphinx]] | 12.08.2016 | indirekt | [[wiki/serien/poe-und-dupin\|Edgar Allan Poe & Auguste Dupin]] | Erstauftritt Edgar Allan Poe |
+| 06 | [[wiki/folgen/phileas-fogg-06-der-leuchtturm-am-ende-der-welt\|Der Leuchtturm am Ende der Welt]] | 07.10.2016 | indirekt |   | Insel-/Leuchtturm-Fall; exaktes Datum noch offen |
+| 07 | [[wiki/folgen/phileas-fogg-07-die-stadt-unter-der-erde\|Die Stadt unter der Erde]] | 25.11.2016 | indirekt |   | Schottland, Mine und Sabotage |
 | 08 | [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien\|Im Angesicht der Bestien]] | 20.01.2017 | indirekt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Afrika-Expedition, Wiedersehen mit einem alten Feind; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
 | 09 | [[wiki/folgen/phileas-fogg-09-im-reich-des-zaren\|Im Reich des Zaren]] | 24.03.2017 | kein |   | Sibirien-Aufstand und geheime Operation |
 | 10 | [[wiki/folgen/phileas-fogg-10-der-herrscher-der-meere\|Der Herrscher der Meere]] | 16.06.2017 | indirekt | [[wiki/serien/oscar-wilde-und-mycroft-holmes\|Oscar Wilde & Mycroft Holmes]] | erste belegte Zusammenarbeit Fogg x Wilde |
 | 11 | [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant\|Die Jagd nach Kapitän Grant]] | 01.09.2017 | indirekt | [[wiki/serien/oscar-wilde-und-mycroft-holmes\|Oscar Wilde & Mycroft Holmes]] | zweiter Teil des ersten Fogg/Wilde-Blocks |
 | 12 | [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten\|Entscheidung in den Karpaten]] | 10.11.2017 | direkt | [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]] | Erstauftritt Dracula |
-| 13 | [[wiki/folgen/phileas-fogg-13-der-untergang-der-welt\|Der Untergang der Welt]] | 19.01.2018 | kein |   | Meteor- und Xirdal-Plot |
+| 13 | [[wiki/folgen/phileas-fogg-13-der-untergang-der-welt\|Der Untergang der Welt]] | 19.01.2018 | indirekt |   | Meteor- und Xirdal-Plot |
 | 14 | [[wiki/folgen/phileas-fogg-14-der-goldvulkan\|Der Goldvulkan]] | 16.03.2018 | kein |   | Klondike-Block um einen goldenen Vulkan |
-| 15 | [[wiki/folgen/phileas-fogg-15-die-schwimmende-stadt\|Die schwimmende Stadt]] | 18.05.2018 | kein |   | künstliche Insel der Milliardäre |
+| 15 | [[wiki/folgen/phileas-fogg-15-die-schwimmende-stadt\|Die schwimmende Stadt]] | 18.05.2018 | direkt |   | künstliche Insel der Milliardäre |
 | 16 | [[wiki/folgen/phileas-fogg-16-gefahr-fuer-die-propellerinsel\|Gefahr für die Propellerinsel]] | 12.10.2018 | direkt | [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]] | Dracula taucht auf der Propellerinsel auf |
 | 17 | [[wiki/folgen/phileas-fogg-17-wie-alles-begann\|Wie alles begann]] | 23.11.2018 | unklar |   | offizielle Folgenseite dupliziert derzeit den Text von Folge 16 |
 | 18 | [[wiki/folgen/phileas-fogg-18-hetzjagd-durch-asien\|Hetzjagd durch Asien]] | 25.01.2019 | kein | [[wiki/serien/kapitaen-nemo\|Die Abenteuer des Kapitän Nemo]] | Nemo hört einen weiteren Weltreise-Abschnitt |
@@ -83,17 +84,17 @@ tags:
 | 20 | [[wiki/folgen/phileas-fogg-20-wettlauf-mit-der-zeit\|Wettlauf mit der Zeit]] | 31.05.2019 | kein | [[wiki/serien/kapitaen-nemo\|Die Abenteuer des Kapitän Nemo]] | offizieller Teaser nur als Finale des Weltreise-Blocks |
 | 21 | [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis\|Die sieben Seelen des Anubis]] | 18.10.2019 | direkt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]], [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]] | offizieller Seitentitel `Seelen`; Chronologienotiz nennt `Steine` |
 | 22 | [[wiki/folgen/phileas-fogg-22-die-gasse-der-fluesternden-schatten\|Die Gasse der flüsternden Schatten]] | 17.01.2020 | direkt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Paris-Fall; Fogg vermutet Frankenstein hinter dem Spukhaus |
-| 23 | [[wiki/folgen/phileas-fogg-23-verschwoerung-auf-dem-atlantik\|Verschwörung auf dem Atlantik]] | 27.03.2020 | kein |   | Schiffbruch- und `Ghost`-Block um Wolf Larsen |
+| 23 | [[wiki/folgen/phileas-fogg-23-verschwoerung-auf-dem-atlantik\|Verschwörung auf dem Atlantik]] | 27.03.2020 | indirekt |   | Schiffbruch- und `Ghost`-Block um Wolf Larsen |
 | 24 | [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel\|Die geheimnisvolle Insel]] | 08.05.2020 | direkt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]], [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]] | unbekannte Insel, Aoudas Spur; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
-| 25 | [[wiki/folgen/phileas-fogg-25-diamantenjaeger\|Diamantenjäger]] | 14.08.2020 | kein |   | Aoudas Verschwinden führt an die Küste der Skelette |
+| 25 | [[wiki/folgen/phileas-fogg-25-diamantenjaeger\|Diamantenjäger]] | 14.08.2020 | indirekt |   | Aoudas Verschwinden führt an die Küste der Skelette |
 | 26 | [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette\|Die Küste der Skelette]] | 20.11.2020 | direkt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Skelettküste und Diamantenmine; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
 | 27 | [[wiki/folgen/phileas-fogg-27-der-fluch-der-harpyie\|Der Fluch der Harpyie]] | 19.03.2021 | direkt | [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]] | Dracula, Diamanten und Harpyien-Artefakt |
-| 28 | [[wiki/folgen/phileas-fogg-28-herrscher-der-luefte\|Herrscher der Lüfte]] | 02.07.2021 | kein |   | Forschungsgondel über der `Medusa` wird zur Falle |
+| 28 | [[wiki/folgen/phileas-fogg-28-herrscher-der-luefte\|Herrscher der Lüfte]] | 02.07.2021 | indirekt |   | Forschungsgondel über der `Medusa` wird zur Falle |
 | 29 | [[wiki/folgen/phileas-fogg-29-die-verschwoerung\|Die Verschwörung]] | 12.11.2021 | kein |   | Fogg wird im Reform Club zum Verdächtigen einer Intrige |
 | 30 | [[wiki/folgen/phileas-fogg-30-der-schatz-der-verdammten\|Der Schatz der Verdammten]] | 25.03.2022 | kein |   | Chateau-d'If-Flucht und Inseljagd mit Edmond Dantes |
 | 31 | [[wiki/folgen/phileas-fogg-31-gefaehrliche-wiederkehr\|Gefährliche Wiederkehr]] | 29.04.2022 | kein |   | Aoudas Vergangenheit und Foggs Rückreise verknüpfen sich |
-| 32 | [[wiki/folgen/phileas-fogg-32-abrechnung\|Abrechnung]] | 24.06.2022 | indirekt | [[wiki/serien/oscar-wilde-und-mycroft-holmes\|Oscar Wilde & Mycroft Holmes]] | Mycroft Holmes verknüpft den Abschluss des Verschwörungs-Blocks |
-| 33 | [[wiki/folgen/phileas-fogg-33-von-der-erde-zum-mond\|Von der Erde zum Mond]] | 26.08.2022 | kein |   | Mondprojekt in Florida gerät unter Sabotageverdacht |
+| 32 | [[wiki/folgen/phileas-fogg-32-abrechnung\|Abrechnung]] | 24.06.2022 | direkt | [[wiki/serien/oscar-wilde-und-mycroft-holmes\|Oscar Wilde & Mycroft Holmes]] | Mycroft Holmes verknüpft den Abschluss des Verschwörungs-Blocks |
+| 33 | [[wiki/folgen/phileas-fogg-33-von-der-erde-zum-mond\|Von der Erde zum Mond]] | 26.08.2022 | indirekt |   | Mondprojekt in Florida gerät unter Sabotageverdacht |
 | 34 | [[wiki/folgen/phileas-fogg-34-irrfahrt-ins-ungewisse\|Irrfahrt ins Ungewisse]] | 16.12.2022 | direkt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]], [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]] | Fogg sitzt mit Frankenstein in der Raumkapsel; Dracula kreuzt den Key-Largo-Strang |
 | 35 | [[wiki/folgen/phileas-fogg-35-roburs-rache\|Roburs Rache]] | 20.04.2023 | direkt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Rückkehr der Mondkapsel und Roburs Vernichtungsplan |
 | 36 | [[wiki/folgen/phileas-fogg-36-der-letzte-tag-auf-erden\|Der letzte Tag auf Erden]] | 05.05.2023 | direkt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Fogg jagt Robur mit Hilfe Frankensteins bis nach Indonesien |
@@ -114,6 +115,16 @@ tags:
 | 51 | [[wiki/folgen/phileas-fogg-51-der-blaue-lotus\|Der Blaue Lotus]] | 01.05.2026 | kein |   | Ein Brief holt den nach einem Trauerfall isolierten Fogg nach Hongkong; 73 min |
 | 52 | [[wiki/folgen/phileas-fogg-52-im-tal-der-inkas\|Im Tal der Inkas]] | 26.06.2026 | kein |   | Hilferuf von [[wiki/figuren/ethan-ramsay\|Sir Ethan Ramsay]]; Suche nach Paititi mit [[wiki/figuren/elena-vargas\|Elena Vargas]]; 68 min |
 | 53 | [[wiki/folgen/phileas-fogg-53-der-verschollene-zug\|Der verschollene Zug]] | 16.10.2026 (geplant) | unklar |   | Luxuszug *L'Ombre d'Or* verschwindet zwischen Paris und Istanbul, Passepartout an Bord; Spur in die Karpaten. Watchlist; Titel doppelt belegt (Forum, DNB), Termin Einzelquelle |
+
+### Zirkel-Maßstab
+
+Die Spalte „Zirkel“ folgt seit dem 13.10.2026 einem festen Maßstab für die Fogg-Reihe (bestätigt von Christian, [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 9]], Entscheidungen 2–4):
+
+- **`direkt`:** Dracula oder der [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] handelt in der Folge — auch wenn der Name „Zirkel der Sieben“ nicht fällt (DNAPF 12, 15, 16).
+- **`indirekt`:** Der Zirkel wird nur beiläufig erwähnt, ohne dass er oder ein Mitglied handelt (DNAPF 13); oder spätere bzw. andere Mitglieder wie Robur oder Frankenstein handeln, ohne dass der Zirkel genannt wird oder handelt (DNAPF 3–8, 10, 11). Ein Kurzauftritt ohne Namen und ohne Handlungsanteil zählt nicht als Handeln (Schlussszene DNAPF 11, siehe dort).
+- **`kein`:** weder der Zirkel noch eines seiner Mitglieder ist beteiligt.
+
+Belege reichen über den Klappentext hinaus (Hörspiel-Transkript, Rezensionen, Fandom). Für einen geänderten Wert braucht es zwei Quellen; mit nur einer bleibt der niedrigere Wert stehen und die offene Frage auf der Folgenseite. Nach diesem Maßstab am 13.10.2026 geändert: DNAPF 5, 6, 7, 13, 23, 25, 28, 33 auf `indirekt`, DNAPF 15 und 32 auf `direkt` ([Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md)). Grenzfälle, die nicht geändert wurden, stehen im Lint.
 
 > [!warning]- Spoiler: Chronologie-Notizen zu den Folgen 3, 4, 8, 24 und 26 (aufklappen)
 > Aus der Löchel-Chronologie (Sekundärquelle), bis 13.10.2026 offen in der Notizen-Spalte:
@@ -143,3 +154,4 @@ tags:
 - [raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md](../../raw/notes/2026-10-03_neue-folgen-scout_oktober-2026.md) — Recherche vom 03.10.2026: Ankündigung Folge 53 und Negativbefund der Plattformen.
 - [raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md](../../raw/notes/2026-10-12_neue-folgen-scout_oktober-2026-nachtrag.md) und [raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md](../../raw/maritim/2026-10-12_sonderermittler-der-krone_de_holyshop_dnb_folgen-okt-dez-2026.md) — Recherche vom 12.10.2026: DNB-Satz zu Folge 53, Titelankündigung Folge 54.
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche vom 17.08.2026: offizielle Folgen-Detailseiten (Daten, Spielzeiten, Klappentexte, Figuren).
+- [raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md) — Zirkel-Abgleich DNAPF 1–52 nach dem Fogg-Maßstab (YouTube-Transkripte, Löchel-Fließtext, Fandom; 13.10.2026).

@@ -12,7 +12,7 @@ sprecher:
   - rolle: Phileas Fogg
     name: Sascha Draeger
 spielzeit_min: 61
-zirkel: kein
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -58,8 +58,8 @@ Ein amerikanischer Astronom entdeckt einen Meteor, der direkt auf die Erde zuras
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit kein ausdrücklich belegter Zirkel-Bezug** in der offiziellen Folgenbeschreibung.
-- **Befund 13.10.2026:** Im Hörspiel selbst wird der Zirkel der Sieben genannt — Mycroft Holmes begründet Oscar Wildes Abwesenheit damit, Wilde sei „auf den Zirkel der Sieben angesetzt“ (automatisches Transkript der YouTube-Komplettfolge, etwa Minute 10). Das deckt sich mit Fandom („In diesem Rahmen wird der Zirkel der Sieben in dieser Reihe das erste Mal erwähnt“). Ein Zirkel-Mitglied tritt nicht auf, Gegenspieler ist Aurelius Tonans (Löchel: „Mit Mycroft Holmes und Aurelius Tonans“). Die Einstufung `kein` ist damit widerlegt; ob die Nennung `indirekt` oder `direkt` trägt, ist offen und steht bis zur Entscheidung unverändert ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), Abschnitt 6).
+- **Indirekt** (seit 13.10.2026, vorher `kein`; Entscheidung Christian, [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 9]], Entscheidung 2). Die offizielle Folgenbeschreibung nennt den Zirkel nicht, im Hörspiel wird er aber beiläufig erwähnt: Mycroft Holmes begründet Oscar Wildes Abwesenheit damit, Wilde sei „auf den Zirkel der Sieben angesetzt“ (automatisches Transkript der YouTube-Komplettfolge, etwa Minute 10). Das deckt sich mit Fandom („In diesem Rahmen wird der Zirkel der Sieben in dieser Reihe das erste Mal erwähnt“).
+- Weder der Zirkel noch ein Mitglied handelt in der Folge; Gegenspieler ist Aurelius Tonans (Löchel: „Mit Mycroft Holmes und Aurelius Tonans“). Nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Fogg-Maßstab]] trägt eine bloße Nennung ohne Handlungsanteil `indirekt`, nicht `direkt` ([Rohdaten Transkript](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), Abschnitt 6).
 
 ## Crossover & Querverweise
 

@@ -14,7 +14,7 @@ sprecher:
   - rolle: Passepartout
     name: Marius Clarén
 spielzeit_min: 71
-zirkel: kein
+zirkel: direkt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -25,6 +25,7 @@ quellen:
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md
 tags:
   - san-francisco
   - kuenstliche-insel
@@ -56,15 +57,24 @@ Lord Cunningham vertraut Fogg an, dass in der Bucht von San Francisco eine gigan
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit kein ausdrücklich belegter Zirkel-Bezug** in der offiziellen Folgenbeschreibung.
+- **Direkt** (seit 13.10.2026, vorher `kein`). Die offizielle Folgenbeschreibung nennt weder den Zirkel noch eines seiner Mitglieder; im Hörspiel tritt aber ein Zirkel-Mitglied selbst auf und handelt (aufklappbarer Hinweis). Der Name „Zirkel der Sieben“ fällt nicht (automatisches Transkript der YouTube-Komplettfolge). Einstufung nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Fogg-Maßstab]] ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 9]], Entscheidung 4). Beleg: [Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md).
+
+> [!warning]- Spoiler: Wer auf der Insel ist (aufklappen)
+> [[wiki/figuren/dracula|Dracula]] befindet sich auf der Insel und tritt in der Schlussphase selbst auf: „vor ihnen stand kein anderer als der König der Vampire Graf Dracula“ (Transkript, etwa Minute 64). Das deckt sich mit Ingo Löchel („Mit Dracula“; laut Rezension will er die Propellerinsel sabotieren) und mit Fandom (Gastauftritt in DNAPF 15).
 
 ## Crossover & Querverweise
 
 - **Spielt nach:** [[wiki/folgen/phileas-fogg-14-der-goldvulkan|DNAPF 14 „Der Goldvulkan“]].
 - **Spielt vor:** [[wiki/folgen/phileas-fogg-16-gefahr-fuer-die-propellerinsel|DNAPF 16 „Gefahr für die Propellerinsel“]].
 
+## Theorien & offene Fragen
+
+> [!warning]- Spoiler: offene Frage zum Zirkel-Bezug (aufklappen)
+> **Sprecher Draculas offen:** Torsten Michaelis, Draculas Stammsprecher, fehlt in der Sieben-Namen-Liste der Folge (DNB-Digitalausgabe, Audible). Vermutlich ist die Katalogliste unvollständig (Annahme; ähnlich DNAPF 10). Deshalb kein Sprechereintrag.
+
 ## Quellen
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge15-die-schwimmende-stadt/>
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md) — Zirkel-Abgleich DNAPF 1–52 nach dem Fogg-Maßstab (YouTube-Transkripte, Löchel-Fließtext, Fandom; 13.10.2026).

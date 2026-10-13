@@ -16,7 +16,7 @@ sprecher:
   - rolle: Passepartout
     name: Marius Clarén
 spielzeit_min: 67
-zirkel: kein
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -27,6 +27,7 @@ quellen:
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md
 tags:
   - atlantik
   - luftfahrt
@@ -57,15 +58,24 @@ Die Foggs und Passepartout befinden sich mit dem Schiff `Medusa` auf dem Rückwe
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit kein ausdrücklich belegter Zirkel-Bezug** in der offiziellen Folgenbeschreibung.
+- **Indirekt** (seit 13.10.2026, vorher `kein`). Hinter den „Feinden“ des Klappentexts stehen Zirkel-Mitglieder (aufklappbarer Hinweis). Nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Fogg-Maßstab]] könnte auch `direkt` zutreffen; der dafür nötige Auftritt ist bisher nur durch eine Quelle belegt (Hinweis). Beleg: [Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md).
+
+> [!warning]- Spoiler: Wer an Bord ist (aufklappen)
+> Löchel beschreibt den Kampf Foggs mit „seinen beiden Kontrahenten Viktor Frankenstein und Dracula“ an Bord der „Medusa“. Dietmar Wunder ([[wiki/figuren/victor-frankenstein|Victor Frankenstein]]) steht in der 13-Namen-Liste der Folge (DNB, Audible), Torsten Michaelis ([[wiki/figuren/dracula|Dracula]]) nicht.
 
 ## Crossover & Querverweise
 
 - **Spielt nach:** [[wiki/folgen/phileas-fogg-27-der-fluch-der-harpyie|DNAPF 27 „Der Fluch der Harpyie“]].
 - **Spielt vor:** [[wiki/folgen/phileas-fogg-29-die-verschwoerung|DNAPF 29 „Die Verschwörung“]].
 
+## Theorien & offene Fragen
+
+> [!warning]- Spoiler: offene Frage zum Zirkel-Bezug (aufklappen)
+> **Tritt Dracula auf?** Nur Ingo Löchel nennt ihn; Torsten Michaelis fehlt in der 13-Namen-Liste (DNB, Audible). Bestätigt sich der Auftritt, wäre `direkt` zu setzen.
+
 ## Quellen
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge28-herrscher-der-luefte/>
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md) — Zirkel-Abgleich DNAPF 1–52 nach dem Fogg-Maßstab (YouTube-Transkripte, Löchel-Fließtext, Fandom; 13.10.2026).

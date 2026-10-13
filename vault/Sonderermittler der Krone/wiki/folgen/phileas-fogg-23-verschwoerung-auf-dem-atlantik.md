@@ -20,7 +20,7 @@ sprecher:
   - rolle: Maud Brewster
     name: Kerstin Draeger
 spielzeit_min: 67
-zirkel: kein
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -33,6 +33,7 @@ quellen:
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
   - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
   - https://blackbookmagazine.blogspot.com/2023/05/die-neuen-abenteuer-des-phileas-fogg-folge-23.html
+  - raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md
 tags:
   - atlantik
   - seefahrt
@@ -63,7 +64,10 @@ Während seiner Reise über den Atlantik wird Phileas Fogg Opfer einer Verschwö
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit kein ausdrücklich belegter Zirkel-Bezug** in der offiziellen Folgenbeschreibung.
+- **Indirekt** (seit 13.10.2026, vorher `kein`). Hinter der Verschwörung des Klappentexts steht ein Zirkel-Mitglied (aufklappbarer Hinweis); der Zirkel selbst wird in keiner Quelle genannt. Einstufung nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Fogg-Maßstab]]. Beleg: [Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md).
+
+> [!warning]- Spoiler: Wer hinter der Verschwörung steht (aufklappen)
+> Laut Ingo Löchel steckt [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] hinter Foggs Sturz über Bord; Aouda und Passepartout entdecken ihn später in San Francisco. Stützen: Dietmar Wunder, Frankensteins Stammsprecher, steht in der Sprecherliste der Folge (DNB, Audible), und Fandom fasst DNAPF 21–24 als Bogen um Dracula und Frankenstein zusammen. Kein Rollenbeleg, deshalb kein Sprechereintrag.
 
 ## Crossover & Querverweise
 
@@ -77,3 +81,4 @@ Während seiner Reise über den Atlantik wird Phileas Fogg Opfer einer Verschwö
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
 - [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen, Rollen-Sprecher-Angaben (Black Stone Magazine; 13.10.2026).
 - Ingo Löchel, Rezension vom 09.05.2023: <https://blackbookmagazine.blogspot.com/2023/05/die-neuen-abenteuer-des-phileas-fogg-folge-23.html>
+- [raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md) — Zirkel-Abgleich DNAPF 1–52 nach dem Fogg-Maßstab (YouTube-Transkripte, Löchel-Fließtext, Fandom; 13.10.2026).

@@ -20,7 +20,7 @@ sprecher:
   - rolle: Kapitän Stanford Judd
     name: Helmut Krauss
 spielzeit_min: 63
-zirkel: kein
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -33,6 +33,7 @@ quellen:
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
   - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
   - https://blackbookmagazine.blogspot.com/2023/05/die-neuen-abenteuer-des-phileas-fogg-folge-25.html
+  - raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md
 tags:
   - aouda
   - diamanten
@@ -63,12 +64,20 @@ Während Phileas Fogg außer Haus ist, bittet Daphne Pratchett Aouda um Hilfe un
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit kein ausdrücklich belegter Zirkel-Bezug** in der offiziellen Folgenbeschreibung.
+- **Indirekt** (seit 13.10.2026, vorher `kein`). Ein Zirkel-Mitglied ist an Aoudas Entführung beteiligt (aufklappbarer Hinweis). Ob die Folge `direkt` trägt, weil der Zirkel als Auftraggeber handelt, ist offen — diesen Bezug stellt nur Ingo Löchel her (Einzelquelle). Einstufung nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Fogg-Maßstab]]. Beleg: [Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md).
+
+> [!warning]- Spoiler: Wer hinter der Entführung steht (aufklappen)
+> Laut Löchel („Mit Viktor Frankenstein“) bekommt es die entführte Aouda erneut mit [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] zu tun, der „wieder für Dracula und den ‚Zirkel der Sieben‘“ arbeite. Dietmar Wunder steht in der Sprecherliste der Folge (DNB, Audible), Torsten Michaelis nicht.
 
 ## Crossover & Querverweise
 
 - **Spielt nach:** [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel|DNAPF 24 „Die geheimnisvolle Insel“]].
 - **Spielt vor:** [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette|DNAPF 26 „Die Küste der Skelette“]].
+
+## Theorien & offene Fragen
+
+> [!warning]- Spoiler: offene Frage zum Zirkel-Bezug (aufklappen)
+> **`direkt` oder `indirekt`?** Nur Ingo Löchel stellt den Bezug zu Dracula und dem Zirkel her; Torsten Michaelis steht nicht in der Sprecherliste. Bis zu einem zweiten Beleg `indirekt`.
 
 ## Quellen
 
@@ -77,3 +86,4 @@ Während Phileas Fogg außer Haus ist, bittet Daphne Pratchett Aouda um Hilfe un
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
 - [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen, Rollen-Sprecher-Angaben (Black Stone Magazine; 13.10.2026).
 - Ingo Löchel, Rezension vom 21.05.2023: <https://blackbookmagazine.blogspot.com/2023/05/die-neuen-abenteuer-des-phileas-fogg-folge-25.html>
+- [raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md) — Zirkel-Abgleich DNAPF 1–52 nach dem Fogg-Maßstab (YouTube-Transkripte, Löchel-Fließtext, Fandom; 13.10.2026).

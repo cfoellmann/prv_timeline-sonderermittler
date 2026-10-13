@@ -14,7 +14,7 @@ sprecher:
   - rolle: Aouda
     name: Annina Braunmiller-Jest
 spielzeit_min: 71
-zirkel: kein
+zirkel: indirekt
 crossover_mit:
   - poe-und-dupin
 spoiler_level: grob
@@ -27,6 +27,7 @@ quellen:
   - raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md
   - https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge05-das-geheimnis-der-eissphinx/
   - https://www.gratis-hoerspiele.de/jules-verne-05-das-geheimnis-der-eissphinx/
+  - raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md
 tags:
   - ankerfolge
   - erstauftritt
@@ -63,7 +64,10 @@ tags:
 
 ## Bezug zum Zirkel der Sieben
 
-- **Kein Bezug** im Klappentext.
+- **Indirekt** (seit 13.10.2026, vorher `kein`). Ein späteres Zirkel-Mitglied ist an der Handlung beteiligt; der Zirkel der Sieben selbst wird nicht genannt — das automatische Transkript der YouTube-Komplettfolge hat keinen Treffer, laut Fandom fällt der Name in der Reihe erstmals in [[wiki/folgen/phileas-fogg-13-der-untergang-der-welt|DNAPF 13]]. Einstufung nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Fogg-Maßstab]] wie DNAPF 3, 4 und 8 ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 9]]). Beleg: [Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md).
+
+> [!warning]- Spoiler: Welches Mitglied (aufklappen)
+> [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] tritt auf — belegt durch das Transkript, Ingo Löchels Rezension („Mit Viktor Frankenstein“) und die Fandom-Liste seiner ersten Auftritte (DNAPF 4–8).
 
 ## Crossover & Querverweise
 
@@ -83,3 +87,4 @@ tags:
 - [raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md](../../raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md) — Klappentexte und Gegenprobe (Fanseite, Apple Books, Gratis-Hoerspiele.de, Fandom; 13.10.2026).
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge05-das-geheimnis-der-eissphinx/>
 - Gratis-Hoerspiele.de (Inhaltsangabe, Quelle „Maritim Verlag / YouTube“): <https://www.gratis-hoerspiele.de/jules-verne-05-das-geheimnis-der-eissphinx/>
+- [raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md) — Zirkel-Abgleich DNAPF 1–52 nach dem Fogg-Maßstab (YouTube-Transkripte, Löchel-Fließtext, Fandom; 13.10.2026).

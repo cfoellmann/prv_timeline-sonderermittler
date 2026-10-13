@@ -18,7 +18,7 @@ sprecher:
   - rolle: Mycroft Holmes
     name: Reent Reins
 spielzeit_min: 67
-zirkel: indirekt
+zirkel: direkt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
 spoiler_level: grob
@@ -30,6 +30,7 @@ quellen:
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md
 tags:
   - london
   - schottland
@@ -61,15 +62,24 @@ Nach seiner abenteuerlichen Rückkehr nach London findet Phileas Fogg sein Haus 
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit kein ausdrücklich belegter Zirkel-Bezug** in der offiziellen Folgenbeschreibung.
+- **Direkt** (seit 13.10.2026, vorher `indirekt`; der Bestandstext nannte keinen Beleg). Ein Zirkel-Mitglied handelt in der Folge (aufklappbarer Hinweis). Einstufung nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Fogg-Maßstab]]. Beleg: [Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md).
+
+> [!warning]- Spoiler: Wer hinter der Verschwörung steht (aufklappen)
+> Laut Ingo Löchel erfährt Fogg von Mycroft Holmes, dass der Zirkel der Sieben hinter der Verschwörung gegen ihn steckt; ein Handlanger handelt auf Befehl [[wiki/figuren/dracula|Draculas]] (Kopfangabe „Mit Irene Adler, Mycroft Holmes und Dracula“). Torsten Michaelis, Draculas Stammsprecher, steht in der Sprecherliste der Folge (DNB, Audible). Die Zirkel-Nennung stützt sich nur auf Löchel, Draculas Beteiligung auf Löchel und die Sprecherliste.
 
 ## Crossover & Querverweise
 
 - **Mycroft-Anschluss:** direkter Berührungspunkt zu [[wiki/serien/oscar-wilde-und-mycroft-holmes|Oscar Wilde & Mycroft Holmes]].
 - **Spielt nach:** [[wiki/folgen/phileas-fogg-31-gefaehrliche-wiederkehr|DNAPF 31 „Gefährliche Wiederkehr“]].
 
+## Theorien & offene Fragen
+
+> [!warning]- Spoiler: offene Frage zum Zirkel-Bezug (aufklappen)
+> **Zirkel-Nennung nur bei Löchel:** Dass Mycroft den Zirkel als Drahtzieher nennt, steht nur in Ingo Löchels Rezension. Für `direkt` reicht nach dem Maßstab schon Draculas Beteiligung (Löchel und Sprecherliste).
+
 ## Quellen
 
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge32-abrechnung/>
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md) — Zirkel-Abgleich DNAPF 1–52 nach dem Fogg-Maßstab (YouTube-Transkripte, Löchel-Fließtext, Fandom; 13.10.2026).
