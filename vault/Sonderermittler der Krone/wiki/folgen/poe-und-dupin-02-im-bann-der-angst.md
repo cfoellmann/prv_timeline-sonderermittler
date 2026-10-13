@@ -16,7 +16,7 @@ sprecher:
   - rolle: Monsieur G
     name: Helmut Krauss
 spielzeit_min: 66
-zirkel: indirekt
+zirkel: direkt
 spoiler_level: grob
 status: recherchiert
 quellen:
@@ -64,7 +64,10 @@ tags:
 
 ## Bezug zum Zirkel der Sieben
 
-- **Indirekt** (Einstufung aus dem Bestand, unverändert). Der Klappentext nennt weder den Zirkel noch eine seiner Figuren; die Einstufung beruht auf der Chronologie-Deutung in der Spoiler-Notiz.
+- **Direkt** — der Klappentext nennt weder den Zirkel noch eine seiner Figuren; die Einstufung beruht auf der Identität des Sektenoberhaupts (Callout). Bis 13.10.2026 `indirekt`; umgesetzt nach der Empfehlung im [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]] (Z5, Frage 9; [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]], [Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md)).
+
+> [!warning]- Spoiler: Grundlage der Einstufung (aufklappen)
+> Laut Ingo Löchels Rezension (Black Stone Magazine) ist das Sektenoberhaupt „Sapriel“ [[wiki/figuren/dracula|Dracula]]; Torsten Michaelis, Draculas Stammsprecher, steht in der Audible-Namensliste. Löchel und Stammsprecher sind zwei unabhängige Belege dafür, dass Dracula handelt — nach dem Maßstab `direkt`, auch wenn der Name Dracula laut Transkript der Komplettfolge nie fällt (**Entscheidung Hauptagent im Auftrag**, 13.10.2026).
 
 ## Crossover & Querverweise
 
@@ -74,7 +77,7 @@ tags:
 ## Theorien & offene Fragen
 
 > [!warning]- Spoiler: Identität des Sektenoberhaupts laut Chronologie (aufklappen)
-> Bis 13.10.2026 führte diese Seite als Fakt: „Dracula tritt erstmals als ‚Sapriel‘ auf.“ Die Angabe stammt aus der Löchel-Chronologie (Zauberspiegel-Online), einer Sekundärquelle. Weder Fanseite noch Apple Books nennen Dracula oder „Sapriel“. Sie bleibt deshalb Chronologie-Deutung, vgl. die gleichlautende Einordnung bei [[wiki/folgen/sherlock-holmes-und-co-53-die-rueckkehr-der-angst|SHC 53]]. Betroffene Figur: [[wiki/figuren/dracula|Dracula]].
+> Bis 13.10.2026 führte diese Seite als Fakt: „Dracula tritt erstmals als ‚Sapriel‘ auf.“ Die Angabe stammt aus der Löchel-Chronologie (Zauberspiegel-Online), einer Sekundärquelle. Weder Fanseite noch Apple Books nennen Dracula oder „Sapriel“. Sie bleibt deshalb Chronologie-Deutung, vgl. die gleichlautende Einordnung bei [[wiki/folgen/sherlock-holmes-und-co-53-die-rueckkehr-der-angst|SHC 53]]. Betroffene Figur: [[wiki/figuren/dracula|Dracula]]. Für die Zirkel-Einstufung reicht sie seit dem 13.10.2026 zusammen mit dem Stammsprecher in der Namensliste (siehe „Bezug zum Zirkel der Sieben“).
 
 ## Quellen
 
@@ -85,4 +88,5 @@ tags:
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/poe-und-dupin/folge02-im-bann-der-angst/>
 - Apple Books (Beschreibung): <https://books.apple.com/de/audiobook/edgar-allan-poe-auguste-dupin-folge-2-im-bann-der-angst/id1515414359>
 - [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen, Rollen-Sprecher-Angaben (Black Stone Magazine; 13.10.2026).
+- [raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md) — Zirkel-Audit nach dem Fogg-Maßstab: YouTube-Transkripte, Löchel-Fließtext, Poldi, Couchfesseln, Namenslisten (13.10.2026; enthält Spoiler-Zitate).
 - Ingo Löchel, Rezension vom 12.04.2023: <https://blackbookmagazine.blogspot.com/2023/04/edgar-allan-poe-und-auguste-dupin-folge-2-im-banne-der-angst.html>

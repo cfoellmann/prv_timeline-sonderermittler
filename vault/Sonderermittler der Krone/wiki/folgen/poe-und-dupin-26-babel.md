@@ -18,7 +18,7 @@ sprecher:
 crossover_mit:
   - irene-adler
 spielzeit_min: 58
-zirkel: unklar
+zirkel: kein
 spoiler_level: grob
 status: recherchiert
 quellen:
@@ -39,7 +39,7 @@ quellen:
 - **Erscheinungsdatum:** 25.10.2024 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Sprecher (Auswahl):** Erzähler – Douglas Welbat, Edgar Allan Poe – Uve Teschner, Auguste Dupin – Manfred Lehmann, Irene Adler – Yvonne Greitzke. Erzähler laut Serienseite der Fanseite. *Übrige Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite bzw. im Klappentext, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Douglas Welbat, Manfred Lehmann, Uve Teschner, Markus Pfeiffer, Yvonne Greitzke, Uwe Büschken, Robert Louis Griesbach, Felix Strüven, Tobias Lelle, Patrick Holtheuer, Janis Zaurins, Marcel Mann, Magdalena Höfner (Raute Media, CD; Audible).
-- **Zirkel-Bezug:** unklar — weder Klappentext noch Figurenliste der Rohdatei nennen den Zirkel oder eines seiner Mitglieder. Die Sammelaussage der Rohdatei („Folgen 14–34: Folgen mit Zirkel-Bezug“) ist nicht folgenspezifisch und trägt keine Einstufung (Lint 2026-10-12).
+- **Zirkel-Bezug:** kein — weder Klappentext noch Figurenliste der Rohdatei nennen den Zirkel oder eines seiner Mitglieder, und in den Namenslisten von Audible und Raute Media steht kein Stammsprecher eines Mitglieds. Die Sammelaussage der Rohdatei („Folgen 14–34: Folgen mit Zirkel-Bezug“) ist nicht folgenspezifisch und trägt keine Einstufung. Der Kult-Bogen 25–28 hat einen verdeckten Spielleiter; dass ein Hintermann später aufgelöst werden könnte, hält den Wert nicht offen (Merksatz „Kein Höreindruck“ der [[wiki/queries/quellenlage-und-kanonkarte|Kanonkarte]]). Bis 13.10.2026 `unklar`; umgesetzt nach der Empfehlung im [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]] (Z5, Frage 9; [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]], [Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md)).
 
 ## Hauptfiguren
 
@@ -51,3 +51,4 @@ quellen:
 
 - [raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md](../../raw/maritim/2026-04-30_poe-dupin_folgen-03-bis-34.md)
 - [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md) — Zirkel-Audit nach dem Fogg-Maßstab: YouTube-Transkripte, Löchel-Fließtext, Poldi, Couchfesseln, Namenslisten (13.10.2026).

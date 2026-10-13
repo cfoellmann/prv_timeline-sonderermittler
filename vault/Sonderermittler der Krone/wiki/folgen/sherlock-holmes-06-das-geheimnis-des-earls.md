@@ -18,7 +18,7 @@ sprecher:
   - rolle: Killjoy
     name: Matti Klemm
 spielzeit_min: 61
-zirkel: direkt
+zirkel: indirekt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
   - irene-adler
@@ -63,7 +63,7 @@ Sherlock Holmes beschließt, den Kampf gegen Killjoy fortzusetzen, nachdem Oscar
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — die Folge führt den Killjoy-/Grail's-Hollow-Komplex weiter und bindet Holmes über Oscar Wilde enger an den laufenden Kosmos-Konflikt.
+- **Indirekt** — die Folge führt den Killjoy-/Grail's-Hollow-Komplex weiter und bindet Holmes über Oscar Wilde enger an den laufenden Kosmos-Konflikt. Es handelt nur [[wiki/figuren/killjoy|Killjoy]], ein Verbündeter des [[wiki/konzepte/zirkel-der-sieben|Zirkels der Sieben]] (Klappentext; Matti Klemm in der Namensliste von Raute Media); der Klappentext nennt den Zirkel nicht, und eine Zirkel-Funktion ist in den Rohdaten nicht belegt (für SH 6 gibt es weder Transkript noch Besprechung). Ein Verbündeter, der ohne Zirkelbezug handelt, trägt nach dem Maßstab `indirekt` — wie [[wiki/folgen/sherlock-holmes-05-toedliche-rituale|SH 5]]. Bis 13.10.2026 `direkt`; umgesetzt nach der Empfehlung im [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]] (Z5, Frage 9; [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]], [Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md)).
 
 ## Crossover & Querverweise
 

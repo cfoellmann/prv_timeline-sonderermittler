@@ -40,7 +40,7 @@ sprecher:
   - rolle: Zofe
     name: Julia Casper
 spielzeit_min: 52
-zirkel: indirekt
+zirkel: kein
 crossover_mit:
   - dracula
 spoiler_level: grob
@@ -85,7 +85,7 @@ tags:
 
 ## Bezug zum Zirkel der Sieben
 
-- **Indirekt** — blutleere Leiche, Fledermäuse, ein Fledermausamulett und Abraham Van Helsing als Mitermittler verweisen deutlich auf den Vampir-Komplex um [[wiki/figuren/dracula|Dracula]], den Anführer des [[wiki/konzepte/zirkel-der-sieben|Zirkels der Sieben]]. Namentlich genannt wird er im Klappentext nicht.
+- **Kein** — blutleere Leiche, Fledermäuse, ein Fledermausamulett und Abraham Van Helsing als Mitermittler verweisen motivisch auf den Vampir-Komplex um [[wiki/figuren/dracula|Dracula]], den Anführer des [[wiki/konzepte/zirkel-der-sieben|Zirkels der Sieben]]. Weder der Zirkel noch Dracula wird im Klappentext genannt, und die vollständige Rollenliste (Hörspieltalk, pop.de) enthält kein Mitglied und keinen Verbündeten; Van Helsing ist ein Gegner Draculas, kein Zirkel-Umfeld. Ein Motiv allein trägt nach dem Maßstab kein `indirekt`. Bis 13.10.2026 `indirekt`; umgesetzt nach der Empfehlung im [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]] (Z5, Frage 4; Maßstab nach [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Phileas Fogg]]; [Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md)).
 
 ## Crossover & Querverweise
 
@@ -97,7 +97,7 @@ tags:
 
 ## Theorien & offene Fragen
 
-- **Serien-Neubewertung:** Bis Folge 2 galt die Reihe im Repo als zirkelfrei. Mit Folge 3 rückt sie über den Vampir-Komplex erstmals in Zirkel-Nähe.
+- **Serien-Neubewertung:** Bis Folge 2 galt die Reihe im Repo als zirkelfrei. Mit Folge 3 rückt sie über den Vampir-Komplex erstmals motivisch in Zirkel-Nähe; als Zirkel-Bezug der Folge zählt das nach dem Maßstab nicht (`kein`, siehe oben).
 - Ob [[wiki/konzepte/fledermausamulett|das Fledermausamulett]] ein eigenständiges Artefakt oder ein Dracula-Insigne ist, ist offen.
 
 ## Quellen

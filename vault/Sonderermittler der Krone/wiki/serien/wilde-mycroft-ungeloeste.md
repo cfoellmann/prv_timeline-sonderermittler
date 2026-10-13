@@ -33,7 +33,7 @@ tags:
 - **Genre:** Krimi
 - **Erstveröffentlichung:** 23.01.2026
 - **Folgenstand:** 4 (Stand: 2026-10-12), lückenlos dokumentiert. Dazu 1 Vormerkung mit eigener Seite (Folge 5) und drei nur dem Titel nach angekündigte Folgen (siehe Watchlist).
-- **Bezug zum Zirkel:** bis Folge 2 kein Bezug erkennbar. **Mit Folge 3 ändert sich das:** blutleere Leiche, Fledermäuse, ein Fledermausamulett und **Abraham Van Helsing** als Mitermittler rücken die Reihe in den Vampir-/[[wiki/figuren/dracula|Dracula]]-Komplex und damit indirekt an den [[wiki/konzepte/zirkel-der-sieben|Zirkel]].
+- **Bezug zum Zirkel:** bis Folge 2 kein Bezug erkennbar. **Mit Folge 3 ändert sich das:** blutleere Leiche, Fledermäuse, ein Fledermausamulett und **Abraham Van Helsing** als Mitermittler rücken die Reihe in den Vampir-/[[wiki/figuren/dracula|Dracula]]-Komplex und damit motivisch an den [[wiki/konzepte/zirkel-der-sieben|Zirkel]]. Für die Einstufung der Folge reicht das Motiv nicht: Die vollständige Rollenliste enthält kein Mitglied, WMU 3 steht seit 13.10.2026 auf `kein` ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]], Z5).
 
 ## Hauptfiguren
 

@@ -28,7 +28,7 @@ sprecher:
   - rolle: Claude Lagasse
     name: Robert Louis Griesbach
 spielzeit_min: 66
-zirkel: unklar
+zirkel: kein
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
 spoiler_level: grob
@@ -73,7 +73,7 @@ tags:
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit unklar** — wie in den Folgen 1 und 2 nennt das sichtbare Material den [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] nicht. Die Präsenz von Oscar Wilde bindet die Folge aber erstmals an die Sonderermittler-Achse.
+- **Kein** — wie in den Folgen 1 und 2 nennt das sichtbare Material den Zirkel der Sieben nicht. Die Präsenz von Oscar Wilde bindet die Folge erstmals an die Sonderermittler-Achse, ist aber kein Zirkel-Bezug. Bis 13.10.2026 `unklar`; nach der Empfehlung im [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]] (Z5, Frage 9) auf `kein` gesetzt: Klappentext und Rollenliste (Hörspieltalk) nennen weder den [[wiki/konzepte/zirkel-der-sieben|Zirkel]] noch ein Mitglied oder einen Verbündeten ([[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]], [Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md)).
 
 ## Crossover & Querverweise
 
@@ -97,3 +97,4 @@ tags:
 - Spotify: <https://open.spotify.com/intl-de/album/7iyseKKtaaJ5SITxcw6dfm>
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
 - [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB-CD-Satz (13.10.2026).
+- [raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md) — Zirkel-Audit nach dem Fogg-Maßstab, Hilfsindiz Namenslisten NEM 1–5 (13.10.2026).

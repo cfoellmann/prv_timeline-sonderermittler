@@ -43,7 +43,7 @@ tags: []
 | # | Titel | Datum | Zirkel | Crossover | Notizen |
 |---|---|---|---|---|---|
 | 01 | [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel\|Insel der tödlichen Rätsel]] | 13.07.2018 | indirekt |   | Erstauftritt Gaston Morel |
-| 02 | [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst\|Im Bann der Angst]] | 17.08.2018 | indirekt |   | Sekte in den höheren Kreisen von Paris; Chronologie-Deutung in der Spoiler-Notiz der Folgenseite |
+| 02 | [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst\|Im Bann der Angst]] | 17.08.2018 | direkt |   | Sekte in den höheren Kreisen von Paris; Chronologie-Deutung in der Spoiler-Notiz der Folgenseite |
 | 03 | [[wiki/folgen/poe-und-dupin-03-die-toten-augen-von-paris\|Die toten Augen von Paris]] | 14.09.2018 | kein |   | Mordserie |
 | 04 | [[wiki/folgen/poe-und-dupin-04-ein-leben-im-jenseits\|Ein Leben im Jenseits]] | 21.12.2018 | indirekt |   | Scheintod, lebendig begraben |
 | 05 | [[wiki/folgen/poe-und-dupin-05-der-fluch-des-falschen-koenigs\|Der Fluch des falschen Königs]] | 10.05.2019 | kein |   | Ägyptologie-Betrug |
@@ -66,10 +66,10 @@ tags: []
 | 22 | [[wiki/folgen/poe-und-dupin-22-der-plan-des-meisterdiebs\|Der Plan des Meisterdiebs]] | 05.04.2024 | direkt |   | Arsène Lupin, Houdini |
 | 23 | [[wiki/folgen/poe-und-dupin-23-der-falsche-saphir\|Der falsche Saphir]] | 07.06.2024 | direkt |   | Mata Hari, Lupin, Houdini |
 | 24 | [[wiki/folgen/poe-und-dupin-24-draculas-urteil\|Draculas Urteil]] | 12.07.2024 | direkt |   | **Entscheidung** über neues Zirkel-Mitglied |
-| 25 | [[wiki/folgen/poe-und-dupin-25-das-goldene-kalb\|Das goldene Kalb]] | 04.10.2024 | unklar | [[wiki/figuren/irene-adler\|Irene Adler]] | Kult des goldenen Kalbs (Start) |
-| 26 | [[wiki/folgen/poe-und-dupin-26-babel\|Babel]] | 25.10.2024 | unklar | [[wiki/figuren/irene-adler\|Irene Adler]] | Verschlüsselte Botschaften |
-| 27 | [[wiki/folgen/poe-und-dupin-27-sodom-und-gomorrha\|Sodom und Gomorrha]] | 28.02.2025 | unklar |   | Kult eskaliert |
-| 28 | [[wiki/folgen/poe-und-dupin-28-die-letzte-bescherung\|Die letzte Bescherung]] | 25.04.2025 | unklar |   | Kult-Ende (scheinbar) |
+| 25 | [[wiki/folgen/poe-und-dupin-25-das-goldene-kalb\|Das goldene Kalb]] | 04.10.2024 | kein | [[wiki/figuren/irene-adler\|Irene Adler]] | Kult des goldenen Kalbs (Start) |
+| 26 | [[wiki/folgen/poe-und-dupin-26-babel\|Babel]] | 25.10.2024 | kein | [[wiki/figuren/irene-adler\|Irene Adler]] | Verschlüsselte Botschaften |
+| 27 | [[wiki/folgen/poe-und-dupin-27-sodom-und-gomorrha\|Sodom und Gomorrha]] | 28.02.2025 | kein |   | Kult eskaliert |
+| 28 | [[wiki/folgen/poe-und-dupin-28-die-letzte-bescherung\|Die letzte Bescherung]] | 25.04.2025 | kein |   | Kult-Ende (scheinbar) |
 | 29 | [[wiki/folgen/poe-und-dupin-29-nebelgasse\|Nebelgasse]] | 27.06.2025 | kein |   | Unheimlicher Nebel in Paris |
 | 30 | [[wiki/folgen/poe-und-dupin-30-der-schneider-des-todes\|Der Schneider des Todes]] | 29.08.2025 | kein |   | Mordserie unter Schneider-Kunden |
 | 31 | [[wiki/folgen/poe-und-dupin-31-der-blutbrunnen\|Der Blutbrunnen]] | 24.10.2025 | kein |   | Autor tot im Brunnen |

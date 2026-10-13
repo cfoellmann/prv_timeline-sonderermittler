@@ -197,13 +197,14 @@ Aus der Prüfung aller übrigen Reihen gegen den Fogg-Maßstab ([Rohdaten OWMH/W
 |---|---|---|
 | **Klappentexte Tesla 5, 7, 9** (Verlagstext) | Einziger Verlagsbeleg für Führung und Zusammensetzung des Zirkels in der späten Phase (Einzelheiten außerhalb der Tesla-Seiten nur in Spoiler-Hinweisen, z. B. auf [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]]) | Betrifft nur die späte Phase; erlaubt keinen Rückschluss auf frühere Folgen |
 
-**Merksatz: Fogg-Maßstab gilt für alle Reihen (seit 13.10.2026).** Der [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]] (Kurzfassung auf [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]], Abschnitt „Einstufung `zirkel` in Folgen“) wird seit dem Audit vom 13.10.2026 auf jede Reihe angewendet, ausdrücklich auch auf Verbündete (Grell, Theodora Sachs, Killjoy, Pasquale): handelt nur ein Verbündeter oder ein späteres Mitglied ohne Zirkelbezug → `indirekt`. Ausdrückliche Entscheidungen Christians gehen dem Maßstab vor (SH 8 bleibt `direkt`).
+**Merksatz: Fogg-Maßstab gilt für alle Reihen (seit 13.10.2026).** Der [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]] (Kurzfassung auf [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]], Abschnitt „Einstufung `zirkel` in Folgen“) wird seit dem Audit vom 13.10.2026 auf jede Reihe angewendet, ausdrücklich auch auf Verbündete (Grell, Theodora Sachs, Killjoy, Pasquale): handelt nur ein Verbündeter oder ein späteres Mitglied ohne Zirkelbezug → `indirekt`; handelt Dracula bzw. der jeweilige Anführer des Zirkels → `direkt`, auch ohne Zirkelbezug (Zusatz vom 13.10.2026, Entscheidung Hauptagent im Auftrag; wer gemeint ist, steht im Spoiler-Hinweis auf [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]]). Ausdrückliche Entscheidungen Christians gehen dem Maßstab vor (SH 8 bleibt `direkt`).
 
 - **Zwei Quellen für „Figur X handelt“:** Löchel-Fließtext und Fandom-Rollentabelle sind voneinander unabhängig; die Zirkel-Funktion einer Handlung belegt Löchel allein nicht (OWMH 7, 8, 50: Zirkel-Auftrag nur bei Löchel, deshalb `indirekt`).
 - **Löchel zählt einmal:** Einzelrezension und Chronologie desselben Autors sind eine Quelle; bei SHC 53 trägt der Stammsprecher in der Namensliste die zweite.
 - **Verdacht ist Erwähnung:** Nennt der Klappentext den Zirkel nur als Verdacht oder Frage und tritt kein Mitglied auf, gilt `indirekt` (IADK 21, 29; SH 5); ausgenommen SH 8 (Entscheidung Christian).
 - **Kontakt eines späteren Gegenspielers zählt nicht** (SHC 26/27 wie DNAPF 47).
-- **Kein Höreindruck:** Klappentext und vollständige Namensliste ohne Zirkel und ohne Stammsprecher eines Mitglieds tragen `kein` (EAPAD 29–34, SH 17, WMU 4); bei Bögen mit verdecktem Hintermann bleibt `unklar` stehen (EAPAD 25–28).
+- **Kein Höreindruck:** Klappentext und vollständige Namensliste ohne Zirkel und ohne Stammsprecher eines Mitglieds tragen `kein` (EAPAD 29–34, SH 17, WMU 4); seit dem 13.10.2026 auch bei Bögen mit verdecktem Hintermann (EAPAD 25–28, Entscheidung Hauptagent im Auftrag) — wird ein Hintermann später aufgelöst, wird der Wert neu geprüft.
+- **Motiv ist kein Bezug:** Ein Motiv aus dem Zirkel-Umfeld (Vampire, Fledermäuse, Van Helsing) ohne Mitglied in der vollständigen Rollenliste trägt `kein` (WMU 3).
 
 ## Korpus-Stand laut Report
 

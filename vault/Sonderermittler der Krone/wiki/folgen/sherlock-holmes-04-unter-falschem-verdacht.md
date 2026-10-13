@@ -61,7 +61,10 @@ Drohbriefe versetzen die Londoner High Society in Angst und Schrecken, bis das e
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — die Folge ist kosmosrelevant durch Moriarty und Mycroft, nennt im verifizierten Klappentext aber keinen ausdrücklichen Zirkel-Bezug.
+- **Indirekt** — die Folge ist kosmosrelevant durch Moriarty und Mycroft, nennt im verifizierten Klappentext aber keinen ausdrücklichen Zirkel-Bezug; laut Transkript der Komplettfolge fällt das Wort „Zirkel“ nicht. `indirekt`, weil [[wiki/figuren/james-moriarty|James Moriarty]] handelt (Callout; [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]], [Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md)).
+
+> [!warning]- Spoiler: Moriartys spätere Rolle (aufklappen)
+> Laut Klappentext von [[wiki/folgen/tesla-09-traumgespinst|TES 9]] ist Moriarty später der Anführer des Zirkels. Vor seiner Führungsübernahme zählt er als späteres Mitglied; handelt ein späteres Mitglied ohne Zirkelbezug, gilt `indirekt` — analog MOR 0, 1, 9–15 und [[wiki/folgen/sherlock-holmes-02-dunkle-kraefte-teil-2|SH 2]]. Bestätigt am 13.10.2026 nach der Empfehlung im [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]] (Z5, Frage 6; **Entscheidung Hauptagent im Auftrag**).
 
 ## Crossover & Querverweise
 

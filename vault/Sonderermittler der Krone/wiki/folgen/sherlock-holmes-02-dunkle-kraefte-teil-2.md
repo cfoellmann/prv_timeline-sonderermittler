@@ -89,7 +89,7 @@ Weitere rätselhafte Verbrechen beunruhigen London und zwingen Sherlock Holmes u
 - **Indirekt** — der [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] wird in der Folge nicht genannt (Transkript der Komplettfolge, Couchfesseln-Besprechung), und kein Mitglied oder Verbündeter tritt auf (Rollenliste Fandom, Raute Media, Audible). Bis 13.10.2026 `direkt`; jetzt `indirekt` wie [[wiki/folgen/sherlock-holmes-04-unter-falschem-verdacht|SH 4]], weil James Moriarty handelt ([[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]], [Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md)).
 
 > [!warning]- Spoiler: Moriartys spätere Rolle (aufklappen)
-> Laut Klappentext von [[wiki/folgen/tesla-09-traumgespinst|TES 9]] ist Moriarty später der Anführer des Zirkels. Nach dem Maßstab zählt ein späteres Mitglied, das ohne Zirkelbezug handelt, als `indirekt`. Zählt Moriarty dafür nicht, wäre `kein` richtig — offene Frage.
+> Laut Klappentext von [[wiki/folgen/tesla-09-traumgespinst|TES 9]] ist Moriarty später der Anführer des Zirkels. Nach dem Maßstab zählt ein späteres Mitglied, das ohne Zirkelbezug handelt, als `indirekt`. Die Frage, ob Moriarty vor seiner Führungsübernahme als späteres Mitglied (`indirekt`) oder als Außenstehender (`kein`) zählt, ist am 13.10.2026 nach der Empfehlung im [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]] (Z5, Frage 6) entschieden: `indirekt` bleibt, analog MOR 0, 1, 9–15 (**Entscheidung Hauptagent im Auftrag**).
 
 ## Crossover & Querverweise
 

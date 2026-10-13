@@ -72,7 +72,7 @@ tags:
 | 24 | [[wiki/folgen/moriarty-24-ausgeliefert\|Ausgeliefert]] | 10.04.2026 | direkt | [[wiki/serien/tesla\|Tesla]], [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Endlich ist es James Moriarty gelungen, den Strahlenapparat des Professor Payne in seinen Besitz zu bringen. In seinem Haus in London wagt er ein gefährliches Experiment. |
 | 25 | [[wiki/folgen/moriarty-25-ein-hauch-von-ewigkeit\|Ein Hauch von Ewigkeit]] | 05.06.2026 | direkt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Der Wahrsager [[wiki/figuren/edgar-cayce\|Edgar Cayce]] erzählt Moriarty von einem magischen Stein aus einer karibischen Heilquelle. Auf der Schiffsreise nach New York sind mächtige Gegner an Bord. 68 min. |
 | 26 | [[wiki/folgen/moriarty-26-der-teufel-von-cat-rock\|Der Teufel von Cat Rock]] | 31.07.2026 | direkt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Halb bewusstlos wird Moriarty aus dem Atlantik gerettet und auf die Insel Cat Rock gebracht, wo es zu einem Mord kommt. 64 min. |
-| 27 | [[wiki/folgen/moriarty-27-tiefe-wasser\|Tiefe Wasser]] | 25.09.2026 | indirekt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Moriarty ist untergetaucht; eine Spur in Nassau, ein Wrack vor North Bimini. 70 min. |
+| 27 | [[wiki/folgen/moriarty-27-tiefe-wasser\|Tiefe Wasser]] | 25.09.2026 | direkt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Moriarty ist untergetaucht; eine Spur in Nassau, ein Wrack vor North Bimini. 70 min. |
 
 ## Quellen
 

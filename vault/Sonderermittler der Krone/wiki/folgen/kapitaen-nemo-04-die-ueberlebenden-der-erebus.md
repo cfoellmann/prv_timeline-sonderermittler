@@ -32,7 +32,7 @@ sprecher:
   - rolle: April
     name: Julia Fölster
 spielzeit_min: 65
-zirkel: unklar
+zirkel: kein
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
 spoiler_level: grob
@@ -77,7 +77,7 @@ tags:
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit unklar** — wie in den Folgen 1–3 nennt das sichtbare Material den [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] nicht. Die Bindung an die Sonderermittler-Achse läuft weiterhin allein über die Nennung von Oscar Wilde.
+- **Kein** — wie in den Folgen 1–3 nennt das sichtbare Material den Zirkel der Sieben nicht. Die Bindung an die Sonderermittler-Achse läuft weiterhin allein über die Nennung von Oscar Wilde, die kein Zirkel-Bezug ist. Bis 13.10.2026 `unklar`; nach der Empfehlung im [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]] (Z5, Frage 9) auf `kein` gesetzt: Klappentext und Rollenliste (Hörspieltalk) nennen weder den [[wiki/konzepte/zirkel-der-sieben|Zirkel]] noch ein Mitglied oder einen Verbündeten ([[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]], [Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md)).
 
 ## Crossover & Querverweise
 
@@ -99,3 +99,4 @@ tags:
 - Kobo: <https://www.kobo.com/at/de/audiobook/die-abenteuer-des-kapitan-nemo-folge-4-die-uberlebenden-der-erebus>
 - Audiolibrix: <https://www.audiolibrix.de/de/Directory/Book/161933/Hoerbuch-Die-Abenteuer-des-Kapitan-Nemo-Folge-4-Die-Uberlebenden-der-Erebus-Jules-Verne-Marc-Freund>
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
+- [raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md) — Zirkel-Audit nach dem Fogg-Maßstab, Hilfsindiz Namenslisten NEM 1–5 (13.10.2026).

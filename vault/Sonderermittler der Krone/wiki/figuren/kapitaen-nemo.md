@@ -78,7 +78,7 @@ Die Liste ist beim aktuellen Repo-Stand **vollständig** — es sind alle Folgen
 ## Bezug zum Zirkel der Sieben
 
 - **Unklar.** In keiner der drei Nemo-Folgen nennt das sichtbare Material den [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] direkt; die Konzeptseite führt Nemo nicht als Mitglied.
-- **Indirekt über die Gastauftritte:** Die DNAPF-Folgen 41 bis 43 sind im Repo als `zirkel: direkt` geführt — über Mycroft, Oscar Wilde und Frankenstein. Nemo agiert dort mitten in einer Zirkel-Handlung, ohne dass die Quellen ihn selbst an den Zirkel binden.
+- **Indirekt über die Gastauftritte:** Die DNAPF-Folgen 41 bis 43 sind im Repo seit dem 13.10.2026 als `zirkel: indirekt` geführt (vorher `direkt`; Frankenstein handelt, Dracula und der Zirkel nicht, siehe [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 9]]). Nemo agiert dort an der Seite eines späteren Zirkel-Mitglieds, ohne dass die Quellen ihn selbst an den Zirkel binden.
 - **Erster eigener Anschluss ab NEM 3:** Oscar Wilde in der Figurenliste ist die erste Verbindung der Eigenreihe zur Sonderermittler-Krimi-Linie. Was daraus folgt, ist offen.
 
 ## Theorien & offene Fragen

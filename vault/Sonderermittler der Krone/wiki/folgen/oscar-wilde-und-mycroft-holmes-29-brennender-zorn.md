@@ -46,7 +46,7 @@ sprecher:
   - rolle: Ansage
     name: Lutz Mackensy
 spielzeit_min: 68
-zirkel: direkt
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -89,7 +89,7 @@ Als ein Mensch ohne erkennbare Fremdeinwirkung verbrennt, verfolgen Wilde und Ho
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — der Fall ist im Repo klar im Zirkel-Konflikt verortet. Hinweis der offiziellen Seite: Gegner zieht im Schatten Fäden; kein direkter Zirkelname
+- **Indirekt** — [[wiki/figuren/rasputin|Rasputin]], ein Mitglied des [[wiki/konzepte/zirkel-der-sieben|Zirkels der Sieben]], handelt (Fandom-Rollentabelle mit Tetje Mierendorf; Löchel-Rezension). Der Zirkel wird weder im Verlagstext („Gegner zieht im Schatten Fäden“) noch in Löchels Rezension zu dieser Folge genannt; ein Höreindruck, der eine Zirkel-Funktion belegt, liegt in den Rohdaten nicht vor. Nach dem Maßstab ist ein Mitglied, das ohne belegte Zirkel-Funktion handelt, `indirekt`. Bis 13.10.2026 `direkt`; umgesetzt nach der Empfehlung im [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]] (Z5, Frage 3; Maßstab nach [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Phileas Fogg]]; [Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md)).
 
 ## Crossover & Querverweise
 

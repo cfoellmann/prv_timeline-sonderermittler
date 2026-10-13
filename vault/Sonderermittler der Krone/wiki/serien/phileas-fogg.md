@@ -120,11 +120,14 @@ tags:
 
 Die Spalte „Zirkel“ folgt seit dem 13.10.2026 einem festen Maßstab für die Fogg-Reihe (bestätigt von Christian, [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 9]], Entscheidungen 2–4):
 
-- **`direkt`:** Dracula oder der [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] handelt in der Folge — auch wenn der Name „Zirkel der Sieben“ nicht fällt (DNAPF 12, 15, 16).
+- **`direkt`:** Dracula — bzw. der jeweilige Anführer des Zirkels (Spoiler-Hinweis unten) — oder der [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] handelt in der Folge — auch wenn der Name „Zirkel der Sieben“ nicht fällt (DNAPF 12, 15, 16).
 - **`indirekt`:** Der Zirkel wird nur beiläufig erwähnt, ohne dass er oder ein Mitglied handelt (DNAPF 13); oder spätere bzw. andere Mitglieder wie Robur oder Frankenstein handeln, ohne dass der Zirkel genannt wird oder handelt (DNAPF 3–8, 10, 11, 23, 25, 33, 37, 38, 41–44); oder Roburs Organisation, der Vorläufer, dessen Gleichsetzung mit dem Zirkel offen bleibt, handelt, ohne dass ein Mitglied auftritt (DNAPF 2, 9; wie DNAPF 10). Ein Kurzauftritt ohne Namen und ohne Handlungsanteil zählt nicht als Handeln (Schlussszene DNAPF 11, siehe dort).
 - **`kein`:** weder der Zirkel noch eines seiner Mitglieder ist beteiligt.
 
-Die beiden Zusätze — Roburs Organisation ohne Mitglied → `indirekt`, Kurzauftritt ohne Namen zählt nicht als Handeln — sind eine **Entscheidung Hauptagent (im Auftrag), 13.10.2026** (Lint, L5).
+Die beiden Zusätze — Roburs Organisation ohne Mitglied → `indirekt`, Kurzauftritt ohne Namen zählt nicht als Handeln — sind eine **Entscheidung Hauptagent (im Auftrag), 13.10.2026** (Lint, L5). Ebenso der Zusatz „bzw. der jeweilige Anführer“ beim Wert `direkt` (**Entscheidung Hauptagent im Auftrag, 13.10.2026**, [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]], Z5, Frage 5).
+
+> [!warning]- Spoiler: Wer mit „dem jeweiligen Anführer“ gemeint ist (aufklappen)
+> Seit [[wiki/folgen/moriarty-17-dem-tod-entrissen|MOR 17]] führt [[wiki/figuren/james-moriarty|Moriarty]] den Zirkel an (Löchel-Rezension MOR 17; Klappentext [[wiki/folgen/tesla-09-traumgespinst|TES 9]]). Handelt er ab dann, gilt `direkt` wie bei Dracula, auch ohne Zirkelbezug ([[wiki/folgen/moriarty-27-tiefe-wasser|MOR 27]]). Vor seiner Führungsübernahme zählt er als späteres Mitglied (`indirekt`: MOR 0, 1, 9–15; SH 2, 4).
 
 Belege reichen über den Klappentext hinaus (Hörspiel-Transkript, Rezensionen, Podcast-Besprechungen, Fandom). Für einen geänderten Wert braucht es zwei Quellen; mit nur einer bleibt der bisherige Wert stehen und die offene Frage auf der Folgenseite. Nach diesem Maßstab am 13.10.2026 geändert: DNAPF 5, 6, 7, 13, 23, 25, 28, 33 auf `indirekt`, DNAPF 15 und 32 auf `direkt` ([Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md)); in einem zweiten Durchgang DNAPF 2 und 9 auf `indirekt`, DNAPF 17 auf `kein`, DNAPF 28 auf `direkt`, DNAPF 37, 38, 41, 42, 43, 44 auf `indirekt` und DNAPF 47 auf `kein` ([Rohdaten](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md)). Geprüft und unverändert: DNAPF 1, 25, 33; bei DNAPF 44 bleibt eine Restfrage offen (Lint, L5).
 

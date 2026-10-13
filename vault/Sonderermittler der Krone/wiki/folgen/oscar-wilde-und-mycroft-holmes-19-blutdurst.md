@@ -36,7 +36,7 @@ sprecher:
   - rolle: Ansage
     name: Lutz Mackensy
 spielzeit_min: 68
-zirkel: direkt
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -80,7 +80,7 @@ Vor der britischen Ostküste strandet in einer Gewitternacht ein Schiff mit unhe
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — der Fall ist im Repo klar im Zirkel-Konflikt verortet. Hinweis der offiziellen Seite: Kein direkter Zirkel-Hinweis im offiziellen Text.
+- **Indirekt** — [[wiki/figuren/dracula|Dracula]] tritt nicht auf (keine Dracula-Zeile in der Fandom-Rollentabelle, Löchel ohne Auftritt); Thema ist nur sein Blut, mit dem laut Löchel die [[wiki/konzepte/charles-darwin-gesellschaft|Charles Darwin Gesellschaft]] experimentiert hat. Der Verlagstext nennt den [[wiki/konzepte/zirkel-der-sieben|Zirkel]] nicht. Bis 13.10.2026 `direkt`; umgesetzt nach der Empfehlung im [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]] (Z5, Frage 2; Maßstab nach [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Phileas Fogg]]; [Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md)).
 
 ## Crossover & Querverweise
 

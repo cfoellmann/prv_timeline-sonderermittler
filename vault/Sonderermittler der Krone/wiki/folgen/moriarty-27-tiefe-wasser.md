@@ -14,7 +14,7 @@ sprecher:
   - rolle: Mata Hari
     name: Katja Keßler
 spielzeit_min: 70
-zirkel: indirekt
+zirkel: direkt
 crossover_mit:
   - frankenstein
 spoiler_level: grob
@@ -67,10 +67,10 @@ tags:
 
 ## Bezug zum Zirkel der Sieben
 
-- **Indirekt** — Moriarty verfolgt hier ohne seine bisherigen Begleiter eine eigene Spur. Der [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] als Organisation tritt nicht auf und wird im Klappentext nicht genannt. Beim Zirkel-Audit vom 13.10.2026 nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]] geprüft und belassen; eine Skalenfrage ist offen (Callout, [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]]).
+- **Direkt** — Moriarty verfolgt hier ohne seine bisherigen Begleiter eine eigene Spur. Der [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] als Organisation tritt nicht auf und wird im Klappentext nicht genannt; die Einstufung folgt aus Moriartys Stellung (Callout). Bis 13.10.2026 `indirekt`; umgesetzt nach der Empfehlung im [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]] (Z5, Frage 5; [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]]).
 
-> [!warning]- Spoiler: Moriartys Stellung zum Zirkel und die offene Skalenfrage (aufklappen)
-> Seit [[wiki/folgen/moriarty-17-dem-tod-entrissen|MOR 17]] führt Moriarty den Zirkel an (Löchel-Rezension MOR 17; Klappentext [[wiki/folgen/tesla-09-traumgespinst|TES 9]]). In MOR 27 handelt er als Anführer, aber allein und ohne Zirkelbezug — deshalb `indirekt`. Offene Frage an Christian: Zählt der Anführer wie Dracula (Maßstab „Dracula handelt → `direkt`“)? Dann wäre MOR 27 `direkt` ([Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md)).
+> [!warning]- Spoiler: Moriartys Stellung zum Zirkel und die Einstufung (aufklappen)
+> Seit [[wiki/folgen/moriarty-17-dem-tod-entrissen|MOR 17]] führt Moriarty den Zirkel an (Löchel-Rezension MOR 17; Klappentext [[wiki/folgen/tesla-09-traumgespinst|TES 9]]). In MOR 27 handelt er als Anführer, aber allein und ohne Zirkelbezug. Der Maßstab „Dracula handelt → `direkt`“ gilt seit dem 13.10.2026 für den jeweiligen Anführer des Zirkels, also auch für Moriarty ab MOR 17 — deshalb `direkt` statt bisher `indirekt` (**Entscheidung Hauptagent im Auftrag**, nach der Empfehlung zu Frage 5 im Lint; [Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md)).
 
 ## Crossover & Querverweise
 

@@ -38,7 +38,7 @@ sprecher:
   - rolle: Ansage
     name: Lutz Mackensy
 spielzeit_min: 78
-zirkel: direkt
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -82,7 +82,7 @@ Unter den Kriminellen Londons häufen sich Todesfälle, während eine unbekannte
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — der Fall ist im Repo klar im Zirkel-Konflikt verortet. Hinweis der offiziellen Seite: Kein direkter Zirkel-Hinweis; offizieller Text markiert einen alten übergeordneten Feind des Empire.
+- **Indirekt** — es handelt der [[wiki/figuren/der-maharadscha|Maharadscha der Nacht]], ein späteres Mitglied des [[wiki/konzepte/zirkel-der-sieben|Zirkels der Sieben]] (Fandom-Rollentabelle; Daniel Welbat in der DNB-Namensliste). Der Verlagstext nennt den Zirkel nicht, er markiert nur einen alten Feind; dass der Maharadscha in dieser Folge die Mitgliedschaft anstrebt, sagt allein Ingo Löchel (Rezension und Zauberspiegel-Chronologie, ein Autor). Ein späteres Mitglied, das ohne belegte Zirkel-Funktion handelt, ist nach dem Maßstab `indirekt`. Bis 13.10.2026 `direkt`; umgesetzt nach der Empfehlung im [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]] (Z5, Frage 2; Maßstab nach [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Phileas Fogg]]; [Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md)).
 
 ## Crossover & Querverweise
 

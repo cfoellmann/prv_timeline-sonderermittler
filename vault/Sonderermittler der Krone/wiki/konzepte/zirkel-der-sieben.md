@@ -71,12 +71,15 @@ Wird beim Folgen-Ingest gefüllt — Format wie in der Vorlage in [CLAUDE.md](..
 
 Der Wert `zirkel` auf Folgenseiten und in `app/data/folgen.json` folgt seit dem 13.10.2026 in **allen Reihen** dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab der Fogg-Serienseite]] (dort ausführlich mit Beispielen):
 
-- **`direkt`:** Dracula oder der Zirkel handelt in der Folge — auch ohne dass der Name „Zirkel der Sieben“ fällt.
+- **`direkt`:** Dracula — bzw. der jeweilige Anführer des Zirkels (Spoiler-Hinweis unten) — oder der Zirkel handelt in der Folge — auch ohne dass der Name „Zirkel der Sieben“ fällt.
 - **`indirekt`:** Der Zirkel wird nur erwähnt oder vermutet, ohne dass er oder ein Mitglied handelt; oder ein Mitglied, ein späteres Mitglied oder ein Verbündeter handelt, ohne dass der Zirkel genannt wird oder handelt; oder Roburs Vorläufer-Organisation handelt ohne Mitglied. Ein Kurzauftritt ohne Namen und ohne Handlungsanteil zählt nicht als Handeln.
 - **`kein`:** weder der Zirkel noch eines seiner Mitglieder oder Verbündeten ist beteiligt.
 - **`unklar`:** Beleglage reicht nicht (Default).
 
 Ein geänderter Wert braucht **zwei unabhängige Quellen** (Klappentext, Transkript, Rezension, Podcast, Fandom-Rollentabelle, Stammsprecher in einer vollständigen Namensliste als Hilfsindiz); Löchel-Chronologie und Löchel-Einzelrezensionen zählen zusammen als eine Quelle. Mit nur einer Quelle bleibt der bisherige Wert stehen. Ausdrückliche Entscheidungen Christians gehen vor (SH 8 bleibt `direkt`). Ergebnis des Audits aller Reihen: [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]]; Quellenbewertung: [[wiki/queries/quellenlage-und-kanonkarte|Quellenlage und Kanonkarte]].
+
+> [!warning]- Spoiler: Wer mit „dem jeweiligen Anführer“ gemeint ist (aufklappen)
+> Seit [[wiki/folgen/moriarty-17-dem-tod-entrissen|MOR 17]] führt [[wiki/figuren/james-moriarty|Moriarty]] den Zirkel an (Löchel-Rezension MOR 17; Klappentext [[wiki/folgen/tesla-09-traumgespinst|TES 9]]). Handelt er ab dann, gilt `direkt` wie bei Dracula ([[wiki/folgen/moriarty-27-tiefe-wasser|MOR 27]]); davor zählt er als späteres Mitglied (`indirekt`). Zusatz zum Maßstab: **Entscheidung Hauptagent im Auftrag, 13.10.2026** ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]], Z5, Frage 5).
 
 ## Bezug zu anderen Serien
 

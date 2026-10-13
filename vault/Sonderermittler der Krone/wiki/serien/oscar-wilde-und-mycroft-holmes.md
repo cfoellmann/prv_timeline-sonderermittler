@@ -67,9 +67,9 @@ Quelle: [offizielle Serien-Übersicht](../../raw/maritim/2026-04-27_owmh_serien-
 | 14 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-14-labyrinth-der-angst\|Labyrinth der Angst]] | 30.03.2018 | kein | Erstauftritt Archer (Charles Darwin) |
 | 15 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-15-goldrausch\|Goldrausch]] | 25.05.2018 | kein | Klondike; Wyatt Earp |
 | 16 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-16-der-austausch\|Der Austausch]] | 27.07.2018 | kein | Erstauftritt Irene Adler; erste Zusammenarbeit Wilde × Adler |
-| 17 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-17-der-maharadscha-der-nacht\|Der Maharadscha der Nacht]] | 28.09.2018 | direkt | Erstauftritt Maharadscha als Zirkel-Mitglied |
+| 17 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-17-der-maharadscha-der-nacht\|Der Maharadscha der Nacht]] | 28.09.2018 | indirekt | Erstauftritt Maharadscha als Zirkel-Mitglied |
 | 18 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-18-feindberuehrung\|Feindberührung]] | 30.11.2018 | direkt | Erstauftritt Paul Hiller; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
-| 19 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-19-blutdurst\|Blutdurst]] | 31.01.2019 | direkt | Erstauftritt Bram Stoker; Demeter-Strang |
+| 19 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-19-blutdurst\|Blutdurst]] | 31.01.2019 | indirekt | Erstauftritt Bram Stoker; Demeter-Strang |
 | 20 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-20-blutzoll\|Blutzoll]] | 29.03.2019 | direkt | Hintergrund Vampirblut-Forschung |
 | 21 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-21-boleskine-house\|Boleskine House]] | 31.05.2019 | direkt | Erstauftritt Aleister Crowley als Zirkel-Mitglied |
 | 22 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-22-die-vierte-macht\|Die vierte Macht]] | 31.07.2019 | kein | Wilde selbst unter Mordverdacht |
@@ -79,7 +79,7 @@ Quelle: [offizielle Serien-Übersicht](../../raw/maritim/2026-04-27_owmh_serien-
 | 26 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-26-dunkle-fluten\|Dunkle Fluten]] | 03.04.2020 | direkt | Neue Ripper-Angst an der Themse |
 | 27 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-27-dreissig-silberlinge\|Dreißig Silberlinge]] | 29.05.2020 | direkt | Uraltes Komplott und Fluch |
 | 28 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-28-der-laengste-tag\|Der längste Tag]] | 28.07.2020 | direkt | Anschläge auf Mycrofts Umfeld; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
-| 29 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-29-brennender-zorn\|Brennender Zorn]] | 25.09.2020 | direkt | Feuertod und russische Sekte; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
+| 29 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-29-brennender-zorn\|Brennender Zorn]] | 25.09.2020 | indirekt | Feuertod und russische Sekte; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
 | 30 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-30-die-stimme-des-verraeters\|Die Stimme des Verräters]] | 04.12.2020 | direkt | Grell offenbart Zirkel-Geheimnis; Island-Bedrohung |
 | 31 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-31-die-13-stufen\|Die 13 Stufen]] | 29.01.2021 | direkt | Sizilien; Zirkel-Schlupfwinkel |
 | 32 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-32-im-reich-des-feindes\|Im Reich des Feindes]] | 26.03.2021 | direkt | Zirkel-Hauptquartier unter der Erde |

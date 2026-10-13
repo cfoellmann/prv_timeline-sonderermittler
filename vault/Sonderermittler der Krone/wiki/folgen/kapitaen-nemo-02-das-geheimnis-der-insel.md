@@ -36,7 +36,7 @@ sprecher:
   - rolle: Ravi
     name: Felix Strüven
 spielzeit_min: 48
-zirkel: unklar
+zirkel: kein
 crossover_mit:
   - phileas-fogg
 spoiler_level: grob
@@ -77,7 +77,7 @@ Die Gestrandeten müssen feststellen, dass Hilma Braun entführt wurde, und woll
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit unklar** — im offiziellen Beschreibungstext ist kein direkter Zirkel-Bezug erkennbar.
+- **Kein** — im offiziellen Beschreibungstext ist kein Zirkel-Bezug erkennbar. Bis 13.10.2026 `unklar`; nach der Empfehlung im [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]] (Z5, Frage 9) auf `kein` gesetzt: Klappentext und Rollenliste (Hörspieltalk) nennen weder den [[wiki/konzepte/zirkel-der-sieben|Zirkel]] noch ein Mitglied oder einen Verbündeten ([[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]], [Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md)).
 
 ## Crossover & Querverweise
 
@@ -91,3 +91,4 @@ Die Gestrandeten müssen feststellen, dass Hilma Braun entführt wurde, und woll
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/kapitaen-nemo/folge02-das-geheimnis-der-insel/>
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
 - [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB-CD-Satz, Hörspieltalk (13.10.2026).
+- [raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md) — Zirkel-Audit nach dem Fogg-Maßstab, Hilfsindiz Namenslisten NEM 1–5 (13.10.2026).
