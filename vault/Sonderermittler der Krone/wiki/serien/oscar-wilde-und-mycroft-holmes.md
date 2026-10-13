@@ -42,7 +42,7 @@ tags:
 - [[wiki/figuren/oscar-wilde|Oscar Wilde]] (Sascha Rothemund) — irischer Schriftsteller, Sonderermittler.
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — Auftraggeber der Krone.
 - [[wiki/figuren/henry-wheeler|Henry Wheeler]] (Holger Löwenberg) — Umfeld.
-- [[wiki/figuren/benjamin-payton|Dr. Benjamin Payton]] (Leonhard Mahlich) — zunächst Verbündeter, später Verräter (siehe Folge 18).
+- [[wiki/figuren/benjamin-payton|Dr. Benjamin Payton]] (Leonhard Mahlich) — Verbündeter der frühen Serienphase (weitere Entwicklung: Spoiler-Hinweise auf der Figurenseite).
 - [[wiki/figuren/abel-hawthorn|Abel Hawthorn]] (Jaron Löwenberg) — Jäger, wiederkehrender Begleiter Wildes; Erstauftritt Folge 2, laut Fandom-Besetzung in elf Folgen bis Folge 26.
 
 ## Folgenliste
@@ -59,7 +59,7 @@ Quelle: [offizielle Serien-Übersicht](../../raw/maritim/2026-04-27_owmh_serien-
 | 06 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-06-hexenwald\|Hexenwald]] | 11.11.2016 | direkt | Adrian/Proband 3, Schwarzwald-Forschung |
 | 07 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-07-ritual-des-grauens\|Ritual des Grauens]] | 13.01.2017 |  | Mordserie an Wissenschaftlern |
 | 08 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-08-der-roentgen-zwischenfall\|Der Röntgen-Zwischenfall]] | 17.03.2017 |  | Röntgen-Entführung; Kriegsgefahr |
-| 09 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-09-das-erbe-des-doktors\|Das Erbe des Doktors]] | 26.05.2017 | direkt | Grell überlebt Schweiz; Jekyll-Elixier |
+| 09 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-09-das-erbe-des-doktors\|Das Erbe des Doktors]] | 26.05.2017 | direkt | Jekyll-Elixier; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
 | 10 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-10-eine-nacht-am-brocken\|Eine Nacht am Brocken]] | 21.07.2017 | direkt | Erstauftritt Theodora Sachs |
 | 11 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-11-die-namenlose-aus-der-seine\|Die Namenlose aus der Seine]] | 29.09.2017 | direkt | Zirkel jagt geheimnisvolle Frau |
 | 12 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-12-der-geheimbund-der-masken\|Der Geheimbund der Masken]] | 24.11.2017 | direkt | Maskierte Gegner in Schottland |
@@ -68,7 +68,7 @@ Quelle: [offizielle Serien-Übersicht](../../raw/maritim/2026-04-27_owmh_serien-
 | 15 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-15-goldrausch\|Goldrausch]] | 25.05.2018 |  | Klondike; Wyatt Earp |
 | 16 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-16-der-austausch\|Der Austausch]] | 27.07.2018 | direkt | Erstauftritt Irene Adler; erste Zusammenarbeit Wilde × Adler |
 | 17 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-17-der-maharadscha-der-nacht\|Der Maharadscha der Nacht]] | 28.09.2018 | direkt | Erstauftritt Maharadscha als Zirkel-Mitglied |
-| 18 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-18-feindberuehrung\|Feindberührung]] | 30.11.2018 | direkt | Erstauftritt Paul Hiller; **Dr. Payton enttarnt und getötet** |
+| 18 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-18-feindberuehrung\|Feindberührung]] | 30.11.2018 | direkt | Erstauftritt Paul Hiller; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
 | 19 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-19-blutdurst\|Blutdurst]] | 31.01.2019 | direkt | Erstauftritt Bram Stoker; Demeter-Strang |
 | 20 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-20-blutzoll\|Blutzoll]] | 29.03.2019 | direkt | Hintergrund Vampirblut-Forschung |
 | 21 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-21-boleskine-house\|Boleskine House]] | 31.05.2019 | direkt | Erstauftritt Aleister Crowley als Zirkel-Mitglied |
@@ -78,8 +78,8 @@ Quelle: [offizielle Serien-Übersicht](../../raw/maritim/2026-04-27_owmh_serien-
 | 25 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-25-altes-blut\|Altes Blut]] | 31.01.2020 | direkt | Theodora × Dracula in Ägypten |
 | 26 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-26-dunkle-fluten\|Dunkle Fluten]] | 03.04.2020 |  | Neue Ripper-Angst an der Themse |
 | 27 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-27-dreissig-silberlinge\|Dreißig Silberlinge]] | 29.05.2020 |  | Uraltes Komplott und Fluch |
-| 28 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-28-der-laengste-tag\|Der längste Tag]] | 28.07.2020 | direkt | Hiller-Bande tötet, Hiller stirbt |
-| 29 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-29-brennender-zorn\|Brennender Zorn]] | 25.09.2020 | direkt | Rasputin-Attentat auf Königin Viktoria scheitert |
+| 28 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-28-der-laengste-tag\|Der längste Tag]] | 28.07.2020 | direkt | Anschläge auf Mycrofts Umfeld; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
+| 29 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-29-brennender-zorn\|Brennender Zorn]] | 25.09.2020 | direkt | Feuertod und russische Sekte; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
 | 30 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-30-die-stimme-des-verraeters\|Die Stimme des Verräters]] | 04.12.2020 | direkt | Grell offenbart Zirkel-Geheimnis; Island-Bedrohung |
 | 31 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-31-die-13-stufen\|Die 13 Stufen]] | 29.01.2021 | direkt | Sizilien; Zirkel-Schlupfwinkel |
 | 32 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-32-im-reich-des-feindes\|Im Reich des Feindes]] | 26.03.2021 | direkt | Zirkel-Hauptquartier unter der Erde |
@@ -113,6 +113,14 @@ Quelle: [offizielle Serien-Übersicht](../../raw/maritim/2026-04-27_owmh_serien-
 | 60 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-60-tiefe-reue\|Tiefe Reue]] | 30.10.2026 (geplant) | indirekt | Sherlock Holmes zurück in London; Adler und Holmes suchen Wilde vergeblich; 53 min; Watchlist |
 
 > **Datums-Notation:** Datumsangaben mit Tag stammen aus der Löchel-Chronologie. Nur-Jahresangaben sind Schätzungen aus der Veröffentlichungs-Frequenz und werden präzisiert, sobald die Folgen ingestiert werden.
+
+> [!warning]- Spoiler: Chronologie-Notizen zu den Folgen 9, 18, 28 und 29 (aufklappen)
+> Aus der Löchel-Chronologie (Sekundärquelle), bis 13.10.2026 offen in der Notizen-Spalte:
+>
+> - **Folge 9:** Grell überlebt Schweiz; Jekyll-Elixier.
+> - **Folge 18:** Dr. Payton enttarnt und getötet.
+> - **Folge 28:** Hiller-Bande tötet, Hiller stirbt.
+> - **Folge 29:** Rasputin-Attentat auf Königin Viktoria scheitert.
 
 ## Crossover
 

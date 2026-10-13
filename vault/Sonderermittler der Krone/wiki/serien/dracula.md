@@ -64,8 +64,8 @@ Die lokale Serienfunktion ist klarer als der Einzelinhalt: `Dracula` verdichtet 
 |---|---|---|
 | [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten\|DNAPF 12 „Entscheidung in den Karpaten“]] | frühester lokal belegter Dracula-Auftritt im Kosmos | Chronologie-Notiz |
 | [[wiki/folgen/phileas-fogg-16-gefahr-fuer-die-propellerinsel\|DNAPF 16 „Gefahr für die Propellerinsel“]] | früher Rückgriff auf Dracula noch vor seiner Eigenreihe | offizielle Folgen-Seite lokal paraphrasiert |
-| [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis\|DNAPF 21 „Die sieben Seelen des Anubis“]] | Dracula ist mit Frankensteins Rückkehr verknüpft | Chronologie + Folgen-Seite |
-| [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel\|DNAPF 24 „Die geheimnisvolle Insel“]] | Zweikampf Frankenstein gegen Dracula kurz vor dem Serienstart 2020 | Chronologie + Folgen-Seite |
+| [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis\|DNAPF 21 „Die sieben Seelen des Anubis“]] | laut Chronologie mit dieser Folge verknüpft (Spoiler-Notiz der Folgenseite) | Chronologie + Folgen-Seite |
+| [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel\|DNAPF 24 „Die geheimnisvolle Insel“]] | Kosmos-Anker kurz vor dem Serienstart 2020 (Spoiler-Notiz der Folgenseite) | Chronologie + Folgen-Seite |
 | [[wiki/folgen/moriarty-02-die-wiege-des-verbrechens\|MOR 2 „Die Wiege des Verbrechens“]] | sehr früher direkter Anschluss der Moriarty-Reihe an Dracula | Folgen-Seite |
 | [[wiki/folgen/irene-adler-15-in-den-krallen-des-boesen\|IADK 15 „In den Krallen des Bösen“]] | Dracula bleibt auch in der Adler-Linie ein aktiver Machtfaktor | Folgen-Seite |
 | [[wiki/folgen/moriarty-16-wo-alles-endet\|MOR 16 „Wo alles endet“]] | später offener Rivalitäts- bzw. Konfliktpunkt mit Moriarty | Folgen-Seite |

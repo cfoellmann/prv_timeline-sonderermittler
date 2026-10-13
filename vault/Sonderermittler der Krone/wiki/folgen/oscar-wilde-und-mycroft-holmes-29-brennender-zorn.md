@@ -76,7 +76,7 @@ tags:
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge29-brennender-zorn/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-29-brennender-zorn.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-29-brennender-zorn.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-29.jpg>)*
-- **Timeline-Notiz:** Rasputin-Attentat auf Königin Viktoria scheitert
+- **Timeline-Notiz:** Die Chronologie-Notiz zu dieser Folge steht im Spoiler-Hinweis vor den Quellen.
 
 ## Hauptfiguren
 
@@ -95,6 +95,9 @@ Als ein Mensch ohne erkennbare Fremdeinwirkung verbrennt, verfolgen Wilde und Ho
 
 - **Spielt nach:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-28-der-laengste-tag|OWMH 28 „Der längste Tag“]].
 - **Spielt vor:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-30-die-stimme-des-verraeters|OWMH 30 „Die Stimme des Verräters“]].
+
+> [!warning]- Spoiler: Chronologie-Notiz (aufklappen)
+> Aus der Löchel-Chronologie (Zauberspiegel-Online), Sekundärquelle, bis 13.10.2026 offen als Timeline-Notiz geführt: „Rasputin-Attentat auf Königin Viktoria scheitert.“ Der Klappentext nennt weder den Gegner noch das Ziel beim Namen. Betroffene Figur: [[wiki/figuren/rasputin|Rasputin]].
 
 ## Quellen
 

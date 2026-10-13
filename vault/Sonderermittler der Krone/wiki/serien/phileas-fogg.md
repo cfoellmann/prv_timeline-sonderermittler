@@ -63,15 +63,15 @@ tags:
 |---|---|---|---|---|---|
 | 01 | [[wiki/folgen/phileas-fogg-01-entfuehrung-auf-hoher-see\|Entführung auf hoher See]] | 06.11.2015 | kein |   | Erstauftritt Kapitän Nemo |
 | 02 | [[wiki/folgen/phileas-fogg-02-der-schatz-von-atlantis\|Der Schatz von Atlantis]] | 11.12.2015 | kein |   | Erstauftritt Dr. Jekyll/Mr. Hyde |
-| 03 | [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken\|Krieg in den Wolken]] | 26.02.2016 | indirekt |   | Erstauftritt Robur; Jekyll/Hyde stirbt |
-| 04 | [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl\|Der Elefant aus Stahl]] | 22.04.2016 | indirekt |   | Erstauftritt Victor Frankenstein; Robur stirbt |
+| 03 | [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken\|Krieg in den Wolken]] | 26.02.2016 | indirekt |   | Erstauftritt Robur; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
+| 04 | [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl\|Der Elefant aus Stahl]] | 22.04.2016 | indirekt |   | Erstauftritt Victor Frankenstein; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
 | 05 | [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx\|Das Geheimnis der Eissphinx]] | 12.08.2016 | kein | [[wiki/serien/poe-und-dupin\|Edgar Allan Poe & Auguste Dupin]] | Erstauftritt Edgar Allan Poe |
 | 06 | [[wiki/folgen/phileas-fogg-06-der-leuchtturm-am-ende-der-welt\|Der Leuchtturm am Ende der Welt]] | 07.10.2016 | kein |   | Insel-/Leuchtturm-Fall; exaktes Datum noch offen |
 | 07 | [[wiki/folgen/phileas-fogg-07-die-stadt-unter-der-erde\|Die Stadt unter der Erde]] | 25.11.2016 | kein |   | Schottland, Mine und Sabotage |
-| 08 | [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien\|Im Angesicht der Bestien]] | 20.01.2017 | indirekt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Frankenstein stürzt im Kampf mit Fogg |
+| 08 | [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien\|Im Angesicht der Bestien]] | 20.01.2017 | indirekt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Afrika-Expedition, Wiedersehen mit einem alten Feind; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
 | 09 | [[wiki/folgen/phileas-fogg-09-im-reich-des-zaren\|Im Reich des Zaren]] | 24.03.2017 | kein |   | Sibirien-Aufstand und geheime Operation |
-| 10 | [[wiki/folgen/phileas-fogg-10-der-herrscher-der-meere\|Der Herrscher der Meere]] | 16.06.2017 | direkt | [[wiki/serien/oscar-wilde-und-mycroft-holmes\|Oscar Wilde & Mycroft Holmes]] | erste belegte Zusammenarbeit Fogg x Wilde |
-| 11 | [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant\|Die Jagd nach Kapitän Grant]] | 01.09.2017 | direkt | [[wiki/serien/oscar-wilde-und-mycroft-holmes\|Oscar Wilde & Mycroft Holmes]] | zweiter Teil des ersten Fogg/Wilde-Blocks |
+| 10 | [[wiki/folgen/phileas-fogg-10-der-herrscher-der-meere\|Der Herrscher der Meere]] | 16.06.2017 | indirekt | [[wiki/serien/oscar-wilde-und-mycroft-holmes\|Oscar Wilde & Mycroft Holmes]] | erste belegte Zusammenarbeit Fogg x Wilde |
+| 11 | [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant\|Die Jagd nach Kapitän Grant]] | 01.09.2017 | indirekt | [[wiki/serien/oscar-wilde-und-mycroft-holmes\|Oscar Wilde & Mycroft Holmes]] | zweiter Teil des ersten Fogg/Wilde-Blocks |
 | 12 | [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten\|Entscheidung in den Karpaten]] | 10.11.2017 | direkt | [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]] | Erstauftritt Dracula |
 | 13 | [[wiki/folgen/phileas-fogg-13-der-untergang-der-welt\|Der Untergang der Welt]] | 19.01.2018 | kein |   | Meteor- und Xirdal-Plot |
 | 14 | [[wiki/folgen/phileas-fogg-14-der-goldvulkan\|Der Goldvulkan]] | 16.03.2018 | kein |   | Klondike-Block um einen goldenen Vulkan |
@@ -84,9 +84,9 @@ tags:
 | 21 | [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis\|Die sieben Seelen des Anubis]] | 18.10.2019 | direkt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]], [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]] | offizieller Seitentitel `Seelen`; Chronologienotiz nennt `Steine` |
 | 22 | [[wiki/folgen/phileas-fogg-22-die-gasse-der-fluesternden-schatten\|Die Gasse der flüsternden Schatten]] | 17.01.2020 | direkt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Paris-Fall; Fogg vermutet Frankenstein hinter dem Spukhaus |
 | 23 | [[wiki/folgen/phileas-fogg-23-verschwoerung-auf-dem-atlantik\|Verschwörung auf dem Atlantik]] | 27.03.2020 | kein |   | Schiffbruch- und `Ghost`-Block um Wolf Larsen |
-| 24 | [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel\|Die geheimnisvolle Insel]] | 08.05.2020 | direkt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]], [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]] | Zweikampf Frankenstein gegen Dracula |
+| 24 | [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel\|Die geheimnisvolle Insel]] | 08.05.2020 | direkt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]], [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]] | unbekannte Insel, Aoudas Spur; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
 | 25 | [[wiki/folgen/phileas-fogg-25-diamantenjaeger\|Diamantenjäger]] | 14.08.2020 | kein |   | Aoudas Verschwinden führt an die Küste der Skelette |
-| 26 | [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette\|Die Küste der Skelette]] | 20.11.2020 | direkt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Robur kehrt in neuem Körper zurück |
+| 26 | [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette\|Die Küste der Skelette]] | 20.11.2020 | direkt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Skelettküste und Diamantenmine; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
 | 27 | [[wiki/folgen/phileas-fogg-27-der-fluch-der-harpyie\|Der Fluch der Harpyie]] | 19.03.2021 | direkt | [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]] | Dracula, Diamanten und Harpyien-Artefakt |
 | 28 | [[wiki/folgen/phileas-fogg-28-herrscher-der-luefte\|Herrscher der Lüfte]] | 02.07.2021 | kein |   | Forschungsgondel über der `Medusa` wird zur Falle |
 | 29 | [[wiki/folgen/phileas-fogg-29-die-verschwoerung\|Die Verschwörung]] | 12.11.2021 | kein |   | Fogg wird im Reform Club zum Verdächtigen einer Intrige |
@@ -114,6 +114,15 @@ tags:
 | 51 | [[wiki/folgen/phileas-fogg-51-der-blaue-lotus\|Der Blaue Lotus]] | 01.05.2026 | kein |   | Ein Brief holt den nach einem Trauerfall isolierten Fogg nach Hongkong; 73 min |
 | 52 | [[wiki/folgen/phileas-fogg-52-im-tal-der-inkas\|Im Tal der Inkas]] | 26.06.2026 | kein |   | Hilferuf von [[wiki/figuren/ethan-ramsay\|Sir Ethan Ramsay]]; Suche nach Paititi mit [[wiki/figuren/elena-vargas\|Elena Vargas]]; 68 min |
 | 53 | [[wiki/folgen/phileas-fogg-53-der-verschollene-zug\|Der verschollene Zug]] | 16.10.2026 (geplant) | unklar |   | Luxuszug *L'Ombre d'Or* verschwindet zwischen Paris und Istanbul, Passepartout an Bord; Spur in die Karpaten. Watchlist; Titel doppelt belegt (Forum, DNB), Termin Einzelquelle |
+
+> [!warning]- Spoiler: Chronologie-Notizen zu den Folgen 3, 4, 8, 24 und 26 (aufklappen)
+> Aus der Löchel-Chronologie (Sekundärquelle), bis 13.10.2026 offen in der Notizen-Spalte:
+>
+> - **Folge 3:** Jekyll/Hyde stirbt.
+> - **Folge 4:** Robur stirbt.
+> - **Folge 8:** Frankenstein stürzt im Kampf mit Fogg.
+> - **Folge 24:** Zweikampf Frankenstein gegen Dracula.
+> - **Folge 26:** Robur kehrt in neuem Körper zurück.
 
 ## Verwandte Serien
 

@@ -164,7 +164,7 @@ Alle 99 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - **[[wiki/figuren/henry-wheeler|Henry Wheeler]]** — Vertrauter und Begleiter
 - **[[wiki/figuren/irene-adler|Irene Adler]]** — Wichtigste Verbündete
 - **[[wiki/figuren/phileas-fogg|Phileas Fogg]]** — Crossover-Partner
-- **[[wiki/figuren/benjamin-payton|Dr. Benjamin Payton]]** — Anfangs Verbündeter, später als Verräter enttarnt (OWMH 18)
+- **[[wiki/figuren/benjamin-payton|Dr. Benjamin Payton]]** — Verbündeter der frühen Serienphase; zur weiteren Entwicklung siehe die Spoiler-Hinweise auf seiner Seite
 
 ### Feinde
 

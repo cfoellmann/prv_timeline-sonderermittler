@@ -112,7 +112,7 @@ Alle 41 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] — ermittelt in [[wiki/folgen/poe-und-dupin-36-aufstieg-und-fall|EAPAD 36]] gemeinsam mit ihm.
 - [[wiki/figuren/harry-houdini|Harry Houdini]] — erst Zirkel-Anwärter im Umfeld von EAPAD 21–23, in [[wiki/folgen/poe-und-dupin-35-auf-der-jagd|EAPAD 35]] Helfer von Poe und Dupin.
 - [[wiki/figuren/gaston-morel|Gaston Morel]] — Hauptgegenspieler der Reihe von [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel|EAPAD 1]] bis in die 2024er-Folgen; von den Klappentexten primär als **Dupins** Erzfeind geführt.
-- [[wiki/figuren/dracula|Dracula]] — Anführer des Zirkels; tritt in der Reihe zuerst unter dem Namen „Sapriel" auf ([[wiki/folgen/poe-und-dupin-02-im-bann-der-angst|EAPAD 2]]) und ist in [[wiki/folgen/poe-und-dupin-24-draculas-urteil|EAPAD 24]] direkter Gegner.
+- [[wiki/figuren/dracula|Dracula]] — Anführer des Zirkels; in [[wiki/folgen/poe-und-dupin-24-draculas-urteil|EAPAD 24]] direkter Gegner. Zu einem früheren Berührungspunkt siehe die Spoiler-Notiz auf [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst|EAPAD 2]].
 - [[wiki/figuren/mata-hari|Mata Hari]], [[wiki/figuren/arsene-lupin|Arsène Lupin]] — Gegenspieler im Zirkel-Wettbewerb EAPAD 21–24; Mata Hari zusätzlich in der Blitz-Mini-Serie, dort zusammen mit [[wiki/figuren/rasputin|Rasputin]] und [[wiki/figuren/theodora-sachs|Theodora Sachs]].
 - [[wiki/figuren/georges-lorant|Georges Lorant]] — tritt in [[wiki/folgen/poe-und-dupin-36-aufstieg-und-fall|EAPAD 36]] an Poe und Dupin heran. Erscheint in [[wiki/folgen/poe-und-dupin-33-der-letzte-tanz|EAPAD 33]] als „George Lorant" — Schreibweise noch nicht abgeglichen.
 - **Monsieur G.** — Pariser Polizeipräfekt, wiederkehrende Amtsperson und Auftraggeber (EAPAD 3, 4, 12); Verhältnis wechselt zwischen Zusammenarbeit und Konkurrenz. *Noch keine eigene Figuren-Seite.*
@@ -120,7 +120,7 @@ Alle 41 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 
 ## Bezug zum Zirkel der Sieben
 
-- **Zuerst indirekt, ab EAPAD 13 direkt.** Der [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] wird in der Poe-Reihe erst mit [[wiki/folgen/poe-und-dupin-13-die-aufnahmepruefung|EAPAD 13 „Die Aufnahmeprüfung"]] zum tragenden Element — dort wird [[wiki/figuren/gaston-morel|Gaston Morel]] als siebtes Mitglied aufgenommen und der Zirkel damit komplett. Davor gibt es nur einzelne Berührungen, etwa Draculas Auftritt als „Sapriel" ab EAPAD 2.
+- **Zuerst indirekt, ab EAPAD 13 direkt.** Der [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] wird in der Poe-Reihe erst mit [[wiki/folgen/poe-und-dupin-13-die-aufnahmepruefung|EAPAD 13 „Die Aufnahmeprüfung"]] zum tragenden Element — dort wird [[wiki/figuren/gaston-morel|Gaston Morel]] als siebtes Mitglied aufgenommen und der Zirkel damit komplett. Davor gibt es nur einzelne Berührungen, etwa in EAPAD 2 (siehe Spoiler-Notiz dort).
 - **Poe als Gegner, nicht als Zielobjekt.** Er wird in keiner Repo-Quelle als Kandidat, Werkzeug oder Verhandlungspartner des Zirkels geführt — anders als Houdini, Lupin und Mata Hari, die in EAPAD 21–24 um einen Zirkel-Platz konkurrieren. Poe steht durchgehend auf der Ermittlerseite.
 - **Zirkel-Gegner in zwei Verlagen.** In der Blitz-Mini-Serie stehen ihm mit Rasputin, Mata Hari und Theodora Sachs drei Zirkel-Figuren gegenüber; damit ist Poe die Figur, über die der Zirkel-Konflikt aus der Maritim-Linie in die Blitz-Produktion hinüberreicht.
 

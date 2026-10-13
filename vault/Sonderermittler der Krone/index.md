@@ -74,12 +74,12 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/phileas-fogg-18-hetzjagd-durch-asien|DNAPF 18 — Hetzjagd durch Asien]] (25.01.2019) — Nemo hört einen weiteren verborgenen Abschnitt von Foggs Weltreise.
 - [[wiki/folgen/phileas-fogg-19-duell-im-wilden-westen|DNAPF 19 — Duell im Wilden Westen]] (29.03.2019) — In der Neuen Welt warten Duell, Überfall und ein verdeckter Gegner.
 - [[wiki/folgen/phileas-fogg-20-wettlauf-mit-der-zeit|DNAPF 20 — Wettlauf mit der Zeit]] (31.05.2019) — Die offizielle Seite markiert vor allem das große Finale der wahren Weltreise.
-- [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis|DNAPF 21 — Die sieben Seelen des Anubis]] (18.10.2019) — Frankenstein kehrt zurück; die offizielle Folgenseite führt den Titel als `Seelen`, nicht `Steine`.
+- [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis|DNAPF 21 — Die sieben Seelen des Anubis]] (18.10.2019) — Mord in Kairo, Spur in die Tempelanlagen von Gizeh; die offizielle Folgenseite führt den Titel als `Seelen`, nicht `Steine`.
 - [[wiki/folgen/phileas-fogg-22-die-gasse-der-fluesternden-schatten|DNAPF 22 — Die Gasse der flüsternden Schatten]] (17.01.2020) — Ein Mord an der Seine führt Fogg und seine Gefährten in ein unheimliches Haus mit Frankenstein-Spur.
 - [[wiki/folgen/phileas-fogg-23-verschwoerung-auf-dem-atlantik|DNAPF 23 — Verschwörung auf dem Atlantik]] (27.03.2020) — Eine Intrige wirft Fogg während eines Sturms über Bord und auf die `Ghost`.
 - [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel|DNAPF 24 — Die geheimnisvolle Insel]] (08.05.2020) — Eine unbekannte Insel, Aoudas Spur und ein Tunnelsystem führen in einen dunklen Machtkonflikt.
 - [[wiki/folgen/phileas-fogg-25-diamantenjaeger|DNAPF 25 — Diamantenjäger]] (14.08.2020) — Aoudas Verschwinden führt Fogg und Passepartout über die hohe See an die Küste der Skelette.
-- [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette|DNAPF 26 — Die Küste der Skelette]] (20.11.2020) — Aoudas Flucht an Afrikas Skelettküste kreuzt eine Diamantenmine und Roburs Rückkehr.
+- [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette|DNAPF 26 — Die Küste der Skelette]] (20.11.2020) — Aoudas Flucht an Afrikas Skelettküste kreuzt eine Diamantenmine und die Rückkehr alter Bekannter.
 - [[wiki/folgen/phileas-fogg-27-der-fluch-der-harpyie|DNAPF 27 — Der Fluch der Harpyie]] (19.03.2021) — Dracula, geraubte Diamanten und die Harpyie treiben Fogg nach New York.
 - [[wiki/folgen/phileas-fogg-28-herrscher-der-luefte|DNAPF 28 — Herrscher der Lüfte]] (02.07.2021) — Eine Forschungsgondel macht die `Medusa` zur Falle auf Foggs Heimreise.
 - [[wiki/folgen/phileas-fogg-29-die-verschwoerung|DNAPF 29 — Die Verschwörung]] (12.11.2021) — Ein Mord im Reform Club macht Fogg zum Verdächtigen einer großen Intrige.
@@ -413,7 +413,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/folgen/sherlock-holmes-und-co-68-der-kalte-hauch-der-rache|SHC 68 — Der kalte Hauch der Rache]] (22.07.2022) — Staffords Frau Gwen wird tot aus der Themse gezogen; Mycroft greift ein.
 - [[wiki/folgen/sherlock-holmes-und-co-45-hinter-den-kulissen|SHC 45 — Hinter den Kulissen]] (07.06.2019) — Erstauftritt Mister Wu; Grundstein für die Irene-Adler-Linie.
 - [[wiki/folgen/sherlock-holmes-und-co-48-das-ende-des-inspektors|SHC 48 — Das Ende des Inspektors]] (11.10.2019) — Lestrade ist ermordet, Cross und Stafford ermitteln; Erstauftritt Geoffrey Stafford, Zirkel-Bezug direkt (Chronologie).
-- [[wiki/folgen/sherlock-holmes-und-co-53-die-rueckkehr-der-angst|SHC 53 — Die Rückkehr der Angst]] (03.07.2020) — Ein „Magischer Zirkus“ in London und bizarre Todesfälle; die Sapriel/Dracula-Deutung ist nur Chronologie-Theorie, Zirkel-Bezug unklar.
+- [[wiki/folgen/sherlock-holmes-und-co-53-die-rueckkehr-der-angst|SHC 53 — Die Rückkehr der Angst]] (03.07.2020) — Ein „Magischer Zirkus“ in London und bizarre Todesfälle; die Gegner-Deutung der Chronologie ist nur Theorie (Spoiler-Notiz auf der Seite), Zirkel-Bezug unklar.
 - [[wiki/folgen/sherlock-holmes-und-co-55-perlen-des-todes|SHC 55 — Perlen des Todes]] (25.09.2020) — Grundstein für die Moriarty-Serie.
 
 ## Figuren
@@ -429,7 +429,7 @@ Inhaltsverzeichnis aller Wiki-Seiten. Wird vom LLM bei jedem Ingest mitgepflegt.
 - [[wiki/figuren/auguste-dupin|Auguste Dupin]] — Co-Titelfigur von Edgar Allan Poe & Auguste Dupin, brillanter Detektiv.
 - [[wiki/figuren/bastien-lavache|Bastien Lavache]] — „undurchsichtiger“ Sonderermittler mit Voodoo-Hintergrund; seit OWMH 21 belegt, verbindet OWMH, Dracula, Tesla, Sherlock Holmes und den Frankenstein-Arc.
 - [[wiki/figuren/bram-stoker|Bram Stoker]] — reale historische Figur; Erstauftritt im Whitby-/Demeter-Strang OWMH 19, später Dracula-Jäger.
-- [[wiki/figuren/benjamin-payton|Dr. Benjamin Payton]] — Verbündeter, später Verräter; in sieben OWMH-Folgen besetzt (Erstauftritt OWMH 1, Tod OWMH 18). ⚠️ Strukturelle Spoiler.
+- [[wiki/figuren/benjamin-payton|Dr. Benjamin Payton]] — Arzt im Umfeld von Mycroft Holmes und Oscar Wilde; in sieben OWMH-Folgen besetzt (OWMH 1 bis 18). Weitere Entwicklung in aufklappbaren Spoiler-Hinweisen.
 - [[wiki/figuren/cross|Inspector Cross]] — Scotland-Yard-Inspektor (auch „Inspektor Cross“, Sprecher Rainer Fritzsche); Vorgesetzter Staffords im SHC-Strang (SHC 48–68), trägt Holmes in SH 13 und 21 Fälle an.
 - [[wiki/figuren/der-maharadscha|Der Maharadscha]] — Zirkel-Mitglied #4; Erstauftritt in OWMH 17.
 - [[wiki/figuren/dracula|Dracula]] — Anführer des Zirkels; im aktuellen Repo-Stand zuerst über DNAPF 12 verankert.

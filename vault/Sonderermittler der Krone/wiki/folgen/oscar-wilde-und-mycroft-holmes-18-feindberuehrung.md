@@ -65,7 +65,7 @@ tags:
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge18-feindberuehrung/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-18-feindberuehrung.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-18-feindberuehrung.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-18.jpg>)*
-- **Timeline-Notiz:** Erstauftritt Paul Hiller; Dr. Payton enttarnt und getötet
+- **Timeline-Notiz:** Erstauftritt Paul Hiller (Löchel-Chronologie); die weitere Chronologie-Notiz steht im Spoiler-Hinweis vor den Quellen.
 
 ## Hauptfiguren
 
@@ -84,6 +84,9 @@ Ein Polizeikongress führt Oscar Wilde und Mycroft Holmes nach Edinburgh, wo Hol
 
 - **Spielt nach:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-17-der-maharadscha-der-nacht|OWMH 17 „Der Maharadscha der Nacht“]].
 - **Spielt vor:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-19-blutdurst|OWMH 19 „Blutdurst“]].
+
+> [!warning]- Spoiler: Chronologie-Notiz (aufklappen)
+> Aus der Löchel-Chronologie (Zauberspiegel-Online), Sekundärquelle, bis 13.10.2026 offen als Timeline-Notiz geführt: „Erstauftritt Paul Hiller; Dr. Payton enttarnt und getötet.“ Betroffene Figur: [[wiki/figuren/benjamin-payton|Dr. Benjamin Payton]].
 
 ## Quellen
 

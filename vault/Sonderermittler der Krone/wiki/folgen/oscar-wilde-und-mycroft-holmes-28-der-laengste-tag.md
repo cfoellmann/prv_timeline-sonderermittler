@@ -65,7 +65,7 @@ tags:
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge28-der-laengste-tag/>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-28-der-laengste-tag.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-28-der-laengste-tag.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-28.jpg>)*
-- **Timeline-Notiz:** Hiller-Bande greift Mycrofts Bekannte an; Hiller stirbt
+- **Timeline-Notiz:** Die Chronologie-Notiz zu dieser Folge steht im Spoiler-Hinweis vor den Quellen.
 
 ## Hauptfiguren
 
@@ -84,6 +84,9 @@ Unbekannte bedrohen mit Botschaften nacheinander Freunde und Bekannte des sonst 
 
 - **Spielt nach:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-27-dreissig-silberlinge|OWMH 27 „Dreißig Silberlinge“]].
 - **Spielt vor:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-29-brennender-zorn|OWMH 29 „Brennender Zorn“]].
+
+> [!warning]- Spoiler: Chronologie-Notiz (aufklappen)
+> Aus der Löchel-Chronologie (Zauberspiegel-Online), Sekundärquelle, bis 13.10.2026 offen als Timeline-Notiz geführt: „Hiller-Bande greift Mycrofts Bekannte an; Hiller stirbt.“ Der Klappentext spricht nur von „Unbekannten“. Betroffene Figur: [[wiki/figuren/paul-hiller|Paul Hiller]].
 
 ## Quellen
 

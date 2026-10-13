@@ -44,7 +44,7 @@ Auch [[wiki/figuren/dracula|Dracula]] steht „in irgendeiner Beziehung" zur Cha
 
 | Person | Rolle | Auftritt / Beleg | Verbleib |
 |---|---|---|---|
-| **Dr. Alfons Grell** (gesp. K. Dieter Klebsch) | Wissenschaftler, später Zirkel-Verbündeter | OWMH 4 „Tod der Königin" (15.07.2016) | Tritt in Zirkel-Dienste; überlebt Schweizer Bergvorfall |
+| **Dr. Alfons Grell** (gesp. K. Dieter Klebsch) | Wissenschaftler, später Zirkel-Verbündeter | OWMH 4 „Tod der Königin" (15.07.2016) | Tritt in Zirkel-Dienste; weiterer Verbleib in der Spoiler-Notiz von [[wiki/folgen/oscar-wilde-und-mycroft-holmes-09-das-erbe-des-doktors\|OWMH 9]] |
 | **Dorothy Cooper** | Feldforscherin, betreute Schwarzwald-Projekt | OWMH 6 | Verstorben (verweste Leiche im Haus) |
 | **Charles Darwin** (Gründer) | Konzeptioneller Kopf hinter dem „ultimativen Soldaten" | OWMH 6 (Hintergrund) | — |
 | **Archer** (gesp. Wolf Frass) | Ehemaliger Wissenschaftler der Gesellschaft | OWMH 14 „Labyrinth der Angst" (30.03.2018) | Lebend |

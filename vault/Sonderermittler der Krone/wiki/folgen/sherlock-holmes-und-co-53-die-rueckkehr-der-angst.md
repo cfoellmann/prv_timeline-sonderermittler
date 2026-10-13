@@ -36,7 +36,7 @@ tags:
 
 # Die Rückkehr der Angst
 
-> Ein „Magischer Zirkus“ begeistert die Londoner Oberschicht. Nach den Vorstellungen häufen sich bizarre Todesfälle, und Geoffrey Stafford erinnert sich an ähnliche Fälle in Frankreich. Die verbreitete Deutung, der Gegner sei [[wiki/figuren/dracula|Dracula]] unter dem Decknamen „Sapriel“, ist **nicht primär belegt**, siehe [[#Theorien & offene Fragen]].
+> Ein „Magischer Zirkus“ begeistert die Londoner Oberschicht. Nach den Vorstellungen häufen sich bizarre Todesfälle, und Geoffrey Stafford erinnert sich an ähnliche Fälle in Frankreich. Wer der Gegner ist, sagt der Klappentext nicht; die verbreitete Deutung ist **nicht primär belegt**, siehe die Spoiler-Notiz unter [[#Theorien & offene Fragen]].
 
 ## Eckdaten
 
@@ -63,7 +63,7 @@ tags:
 - **Aufhänger:** Nach den Shows kommt es unter den Gästen zu bizarren Todesfällen und irrationalen Handlungen rund um Geld und Wertgegenstände. Nur Geoffrey Stafford wird misstrauisch.
 - **Bogen:** Stafford erinnert sich vage an einen Bericht über ähnliche Fälle in Frankreich. Er gerät damit auf die Spur eines gefährlichen Feindes, an dem schon andere Ermittler gescheitert sind, und Cross und Stafford versuchen, ihm das Handwerk zu legen.
 
-Der Klappentext nennt **weder Dracula noch „Sapriel“ noch den Zirkel der Sieben**.
+Der Klappentext nennt **weder den Gegner beim Namen noch den Zirkel der Sieben**.
 
 ## Bezug zum Universum
 
@@ -77,7 +77,7 @@ Der Verweis des Klappentextes auf **frühere, gescheiterte Ermittlungen in Frank
 
 ## Theorien & offene Fragen
 
-> [!warning] Zwei zuvor als Fakt geführte Angaben sind nicht belegt
+> [!warning]- Spoiler: Zwei zuvor als Fakt geführte Angaben zur Gegner-Identität sind nicht belegt (aufklappen)
 > Bis zum 06.09.2026 führte diese Seite den Dracula-/Sapriel-Auftritt und einen Erstauftritt von Digby Leech als gesicherte Angaben. Die Gegenprüfung über vier Quellen (Apple Music, Deezer, DNB SRU, Fandom) trägt beides nicht:
 >
 > - **Sapriel = Dracula in London:** stammt **allein aus der Löchel-Chronologie** (Zauberspiegel-Online), einer Sekundärquelle. Weder Klappentext noch Besetzungsliste noch Verlagsdaten nennen Dracula oder „Sapriel". Bleibt als **Theorie** stehen, nicht als Kanon.
@@ -85,7 +85,7 @@ Der Verweis des Klappentextes auf **frühere, gescheiterte Ermittlungen in Frank
 >
 > Folge daraus: `zirkel` von `direkt` auf `unklar` zurückgesetzt (auch in `app/data/folgen.json`). Sollte die Sapriel-Deutung durch eine Primärquelle oder durch Hören bestätigt werden, ist `direkt` wieder gerechtfertigt.
 
-- Ist der Gegner des „Magischen Zirkus" tatsächlich Dracula? Klärung nur durch Hören oder eine Verlagsquelle.
+- Wer ist der Gegner des „Magischen Zirkus"? Die Chronologie-Deutung steht in der Spoiler-Notiz; Klärung nur durch Hören oder eine Verlagsquelle.
 - Tritt Digby Leech in dieser Folge auf — und wenn ja, erstmals?
 
 ## Quellen

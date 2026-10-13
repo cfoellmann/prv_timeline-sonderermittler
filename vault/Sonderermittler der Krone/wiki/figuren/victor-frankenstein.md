@@ -35,11 +35,18 @@ tags:
 | Folge / Reihe | Rolle | Notiz |
 |---|---|---|
 | [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl\|DNAPF 4 - Der Elefant aus Stahl]] | Erstauftritt | früher Kosmos-Anker |
-| [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien\|DNAPF 8 - Im Angesicht der Bestien]] | früher Konflikt mit Fogg | stürzt laut Chronologie |
-| [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis\|DNAPF 21 - Die sieben Seelen des Anubis]] | Rückkehr | offizielle Folgenseite nennt `Seelen`; Dracula rettete ihn zuvor |
-| [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel\|DNAPF 24 - Die geheimnisvolle Insel]] | Konflikt mit Dracula | direkter Zweikampf |
+| [[wiki/folgen/phileas-fogg-08-im-angesicht-der-bestien\|DNAPF 8 - Im Angesicht der Bestien]] | früher Konflikt mit Fogg | Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
+| [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis\|DNAPF 21 - Die sieben Seelen des Anubis]] | Wiederauftritt | offizielle Folgenseite nennt `Seelen`; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
+| [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel\|DNAPF 24 - Die geheimnisvolle Insel]] | Kosmos-Anker | Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
 | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Titel- und Zentralfigur | eigene Spin-off-Reihe |
 | [[wiki/serien/moriarty\|Moriarty]], [[wiki/serien/sherlock-holmes\|Sherlock Holmes]], [[wiki/serien/tesla\|Tesla]] | spätere Querverbindungen | mehrfach im aktuellen Repo-Stand belegt |
+
+> [!warning]- Spoiler: Chronologie-Notizen zu DNAPF 8, 21 und 24 (aufklappen)
+> Laut Löchel-Chronologie (Sekundärquelle):
+>
+> - **DNAPF 8:** Frankenstein stürzt im Kampf mit Fogg.
+> - **DNAPF 21:** Rückkehr; Dracula rettete ihn zuvor.
+> - **DNAPF 24:** Konflikt mit Dracula, direkter Zweikampf.
 
 ### Vollständige Auftrittsliste
 
@@ -47,7 +54,7 @@ Alle 64 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 
 | Folge | Rolle (laut Folgenseite) |
 |---|---|
-| [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis\|DNAPF 21 — Die sieben Seelen des Anubis]] (18.10.2019) | kehrt hier laut Chronologie wieder auf die Bühne zurück |
+| [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis\|DNAPF 21 — Die sieben Seelen des Anubis]] (18.10.2019) | laut Chronologie in dieser Folge beteiligt (siehe Spoiler-Notiz) |
 | [[wiki/folgen/phileas-fogg-22-die-gasse-der-fluesternden-schatten\|DNAPF 22 — Die Gasse der flüsternden Schatten]] (17.01.2020) | wird von Fogg als treibende Kraft hinter der Angelegenheit vermutet |
 | [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel\|DNAPF 24 — Die geheimnisvolle Insel]] (08.05.2020) | ist laut Chronologie Teil des zugespitzten Konflikts |
 | [[wiki/folgen/frankenstein-01-am-abgrund-der-nacht\|FRANK 1 — Am Abgrund der Nacht]] (09.10.2020) | der geniale Arzt und Wissenschaftler kehrt in seine Schweizer Heimat zurück |

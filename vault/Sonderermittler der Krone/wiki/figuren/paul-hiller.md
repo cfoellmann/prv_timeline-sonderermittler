@@ -21,7 +21,7 @@ tags:
 - **Fraktion:** [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] (Verbündeter, laut Chronologie).
 - **Sprecher:** Timo Kinzel, rollengenau in den Fandom-Besetzungstabellen OWMH 18 („Paul Hiller“) und OWMH 28 („Paul“).
 - **Erstauftritt:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-18-feindberuehrung|OWMH 18 – Feindberührung]] (30.11.2018), laut Chronologie und Fandom.
-- **Tod:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-28-der-laengste-tag|OWMH 28 – Der längste Tag]] (28.07.2020), laut Chronologie.
+- **Verbleib:** siehe Spoiler-Hinweis unter der Auftrittstabelle.
 - **Rolle:** Auftragsmörder.
 
 ## Auftritte
@@ -30,6 +30,9 @@ tags:
 |---|---|---|
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-18-feindberuehrung\|OWMH 18 — Feindberührung]] (30.11.2018) | Erstauftritt. In Edinburgh gerät Mycroft unter Mordverdacht; der Klappentext nennt die „Cemetery Hill Gang“ als konkrete Bedrohung. Besetzt sind auch Henry Hiller (Jens Wendland) sowie „Priest“, „Lizard“ und „Knife“. | Fanseite (Paraphrase), Fandom, Chronologie |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-28-der-laengste-tag\|OWMH 28 — Der längste Tag]] (28.07.2020) | Unbekannte bedrohen nacheinander Freunde und Bekannte Mycrofts (Klappentext). Laut Chronologie wird Hillers Bande auf Mycrofts Bekannte angesetzt. Besetzt als „Paul“, wieder mit „Priest“, „Lizard“ und „Knife“ (gleiche Sprecher wie in OWMH 18). | Fanseite (Paraphrase), Fandom, Chronologie |
+
+> [!warning]- Spoiler: Verbleib der Figur (aufklappen)
+> Laut Löchel-Chronologie (Sekundärquelle) stirbt Hiller in [[wiki/folgen/oscar-wilde-und-mycroft-holmes-28-der-laengste-tag|OWMH 28 – Der längste Tag]] (28.07.2020).
 
 ## Beziehungen
 
@@ -45,4 +48,4 @@ tags:
 
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — Folgennotizen OWMH 18 und 28.
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 18 und 28.
-- [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Erstauftritt, Einsatz gegen Mycrofts Bekannte, Tod.
+- [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Erstauftritt, Einsatz gegen Mycrofts Bekannte, Verbleib.

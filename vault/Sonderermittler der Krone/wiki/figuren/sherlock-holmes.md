@@ -101,8 +101,8 @@ Historisch reicht die Figur hinter die Sonderermittler-Reihen zurück: In der Vo
 | [[wiki/folgen/sherlock-holmes-und-co-41-das-verschwinden-der-louise-m-episode-1\|SHC 41 — Das Verschwinden der Louise M., Episode 1]] (12.10.2018) | Sprecher Charles Rettinghaus |
 | [[wiki/folgen/sherlock-holmes-und-co-42-das-verschwinden-der-louise-m-episode-2\|SHC 42 — Das Verschwinden der Louise M., Episode 2]] (23.11.2018) | Sprecher Charles Rettinghaus |
 | [[wiki/folgen/sherlock-holmes-und-co-45-hinter-den-kulissen\|SHC 45 — Hinter den Kulissen]] (07.06.2019) | Grundstein-Folge für die Irene-Adler-Reihe; Erstauftritt von [[wiki/figuren/wu\|Mister Wu]] |
-| [[wiki/folgen/sherlock-holmes-und-co-48-das-ende-des-inspektors\|SHC 48 — Das Ende des Inspektors]] (11.10.2019) | Erstauftritt [[wiki/figuren/geoffrey-stafford\|Geoffrey Stafford]]; [[wiki/figuren/lestrade\|Inspektor Lestrade]] gerät ins Visier des Zirkels |
-| [[wiki/folgen/sherlock-holmes-und-co-53-die-rueckkehr-der-angst\|SHC 53 — Die Rückkehr der Angst]] (03.07.2020) | [[wiki/figuren/dracula\|Dracula]] tritt unter dem Decknamen „Sapriel" in London auf |
+| [[wiki/folgen/sherlock-holmes-und-co-48-das-ende-des-inspektors\|SHC 48 — Das Ende des Inspektors]] (11.10.2019) | Erstauftritt [[wiki/figuren/geoffrey-stafford\|Geoffrey Stafford]]; Mord an [[wiki/figuren/lestrade\|Inspektor Lestrade]] (Verlagstext) |
+| [[wiki/folgen/sherlock-holmes-und-co-53-die-rueckkehr-der-angst\|SHC 53 — Die Rückkehr der Angst]] (03.07.2020) | „Magischer Zirkus“ in London; die Gegner-Deutung der Chronologie steht in der Spoiler-Notiz der Folgenseite |
 | [[wiki/folgen/sherlock-holmes-und-co-55-perlen-des-todes\|SHC 55 — Perlen des Todes]] (Datum offen) | Grundstein-Folge für die Moriarty-Reihe |
 
 ## Beziehungen

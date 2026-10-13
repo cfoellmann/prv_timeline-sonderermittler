@@ -82,7 +82,7 @@ tags:
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge09-das-erbe-des-doktors/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=KGfTtG56Dic>
 - **Cover:** [assets/cover/oscar-wilde-und-mycroft-holmes-09-das-erbe-des-doktors.jpg](../../assets/cover/oscar-wilde-und-mycroft-holmes-09-das-erbe-des-doktors.jpg) *(noch nicht lokal abgelegt — Quelle: <https://www.sonderermittler-der-krone.de/cover/wilde-und-holmes/cover-xl-wilde-und-holmes-09.jpg>)*
-- **Timeline-Notiz:** Grell überlebt Schweiz; nutzt Jekyll-Elixier
+- **Timeline-Notiz:** Jekyll-Elixier (Klappentext); die weitere Chronologie-Notiz steht im Spoiler-Hinweis vor den Quellen.
 
 ## Hauptfiguren
 
@@ -101,6 +101,9 @@ In der Botschaft Österreich-Ungarns in Paris löst ein britischer Kulturattach�
 
 - **Spielt nach:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-08-der-roentgen-zwischenfall|OWMH 8 „Der Röntgen-Zwischenfall“]].
 - **Spielt vor:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-10-eine-nacht-am-brocken|OWMH 10 „Eine Nacht am Brocken“]].
+
+> [!warning]- Spoiler: Chronologie-Notiz (aufklappen)
+> Aus der Löchel-Chronologie (Zauberspiegel-Online), Sekundärquelle, bis 13.10.2026 offen als Timeline-Notiz geführt: „Grell überlebt die Schweiz, nutzt Jekyll-Elixier zur Monsterzucht.“ Betroffene Figur: [[wiki/figuren/alfons-grell|Dr. Alfons Grell]].
 
 ## Quellen
 

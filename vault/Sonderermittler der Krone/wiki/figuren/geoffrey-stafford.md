@@ -21,7 +21,7 @@ tags:
 
 # Geoffrey Stafford
 
-> Inspector bei Scotland Yard, im Kosmos eingeführt als Nachfolger des vom Zirkel ermordeten Inspektors Lestrade — und siebeneinhalb Jahre später Auftraggeber Oscar Wildes.
+> Inspector bei Scotland Yard, im Kosmos eingeführt als Nachfolger des ermordeten Inspektors Lestrade — und siebeneinhalb Jahre später Auftraggeber Oscar Wildes.
 
 ## Eckdaten
 
@@ -29,13 +29,13 @@ tags:
 
 ## Rolle im Kosmos
 
-Stafford ist die polizeiliche Konstante des Kosmos: Er steht für Scotland Yard, also für den regulären Apparat neben den Sonderermittlern der Krone. Eingeführt wird er in der Vorgänger-Reihe [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes & Co.]] genau in der Folge, in der der [[wiki/konzepte/zirkel-der-sieben|Zirkel]] erstmals direkt gegen Scotland Yard zuschlägt und Inspektor Lestrade ermordet.
+Stafford ist die polizeiliche Konstante des Kosmos: Er steht für Scotland Yard, also für den regulären Apparat neben den Sonderermittlern der Krone. Eingeführt wird er in der Vorgänger-Reihe [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes & Co.]] genau in der Folge, die mit dem Mord an Inspektor Lestrade beginnt; zur Einordnung in den Konflikt mit dem [[wiki/konzepte/zirkel-der-sieben|Zirkel]] siehe die Spoiler-Notiz auf der Seite von [[wiki/folgen/sherlock-holmes-und-co-48-das-ende-des-inspektors|SHC 48]].
 
 ## Auftritte
 
 | Folge | Rolle |
 |---|---|
-| [[wiki/folgen/sherlock-holmes-und-co-48-das-ende-des-inspektors\|SHC 48 — Das Ende des Inspektors]] (11.10.2019) | **Erstauftritt**, in derselben Folge, in der Inspektor Lestrade vom Zirkel ermordet wird |
+| [[wiki/folgen/sherlock-holmes-und-co-48-das-ende-des-inspektors\|SHC 48 — Das Ende des Inspektors]] (11.10.2019) | **Erstauftritt**, in derselben Folge, in der Inspektor Lestrade ermordet wird (Täterkreis: Spoiler-Notiz der Folgenseite) |
 | [[wiki/folgen/moriarty-02-die-wiege-des-verbrechens\|MOR 2 — Die Wiege des Verbrechens]] (27.11.2020) | interessiert sich als Inspektor von Scotland Yard brennend für den geheimnisvollen Fremden James Moriarty — parallel zu [[wiki/figuren/theodora-sachs\|Theodora Sachs]] |
 | [[wiki/folgen/sherlock-holmes-und-co-58-unheilvolle-beute\|SHC 58 — Unheilvolle Beute]] (29.01.2021) | Sprecher Björn Schalla |
 | [[wiki/folgen/sherlock-holmes-und-co-64-puppenspieler\|SHC 64 — Puppenspieler]] (24.09.2021) | Sprecher Björn Schalla; vermutet den Zirkel hinter den Erpressungen |
@@ -45,7 +45,7 @@ Stafford ist die polizeiliche Konstante des Kosmos: Er steht für Scotland Yard,
 
 ## Beziehungen
 
-- [[wiki/figuren/lestrade|Inspektor Lestrade]] — Vorgänger, in SHC 48 vom Zirkel ermordet.
+- [[wiki/figuren/lestrade|Inspektor Lestrade]] — Vorgänger, in SHC 48 ermordet (Verlagstext; Täterkreis in der Spoiler-Notiz der Folgenseite).
 - [[wiki/figuren/james-moriarty|James Moriarty]] — Ermittlungsziel in MOR 2.
 - [[wiki/figuren/oscar-wilde|Oscar Wilde]] — gibt ihm 2026 einen Fall weiter, den Scotland Yard nicht allein bearbeitet.
 - [[wiki/figuren/theodora-sachs|Theodora Sachs]] — konkurriert in MOR 2 um dieselbe Zielperson.

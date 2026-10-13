@@ -47,21 +47,24 @@ tags:
 - **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Passepartout – Marius Clarén. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Dietmar Wunder, Torsten Michaelis, Milton Welsh, Florentine Draeger, Björn Schalla, Helmut Krauss, Alexander Turrek, Matti Klemm, Peter Lontzek, Wolf Frass, Oliver Stritzel, Hans-Georg Panzack, Engelbert von Nordhausen, Daniel Zillmann (DNB-Katalog der Digitalausgabe, Audible). Erzähler (Jules Verne) – Christian Brückner nachgetragen am 12.10.2026 (Entscheidung Christian): Brückner steht in allen Sprecherlisten DNAPF 1–50 und ist laut DNB-Titelangabe der CDs DNAPF 1–7 und 9–18 sowie der Verlagsmitteilung zur Stammbesetzung (2015) Erzähler der Reihe; ebenfalls abgeleitet.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge26-die-kueste-der-skelette/>
-- **Timeline-Notiz:** Robur kehrt in neuem Körper zurück.
+- **Timeline-Notiz:** Die Chronologie-Notiz zu dieser Folge steht im Spoiler-Hinweis vor den Quellen.
 
 ## Hauptfiguren
 
 - [[wiki/figuren/phileas-fogg|Phileas Fogg]] — folgt der Spur von Aouda bis an die afrikanische Küste.
 - Aouda Fogg — entkommt auf dem Meer ihren Entführern und bleibt Kern der Episode.
-- [[wiki/figuren/robur|Robur]] — kehrt hier laut Chronologie erneut in den Kosmos ein.
+- [[wiki/figuren/robur|Robur]] — laut Chronologie in dieser Folge beteiligt (siehe Spoiler-Notiz).
 
 ## Handlung (grob)
 
-Vor der afrikanischen Skelettküste droht ein Schiff mit Aouda und Daphne an Bord an den Brandungswellen zu zerschellen. Die beiden Frauen können sich zwar von ihren Entführern lösen, geraten danach aber direkt in die nächste Gefahr. Währenddessen folgen Phileas Fogg und Passepartout den Spuren bis zu einer Diamantenmine, wo alte Bekannte erneut in den Konflikt eingreifen. Die Repo-Chronologie markiert die Folge zusätzlich als Punkt, an dem Robur in einem neuen Körper in den Kosmos zurückkehrt.
+Vor der afrikanischen Skelettküste droht ein Schiff mit Aouda und Daphne an Bord an den Brandungswellen zu zerschellen. Die beiden Frauen können sich zwar von ihren Entführern lösen, geraten danach aber direkt in die nächste Gefahr. Währenddessen folgen Phileas Fogg und Passepartout den Spuren bis zu einer Diamantenmine, wo alte Bekannte erneut in den Konflikt eingreifen. Die Repo-Chronologie markiert die Folge zusätzlich als Kosmos-Anker (siehe Spoiler-Notiz).
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt relevant** über Roburs Rückkehr und die weitere Verknüpfung mit Frankensteins Strang.
+- **Direkt relevant** über Roburs Beteiligung und die weitere Verknüpfung mit Frankensteins Strang.
+
+> [!warning]- Spoiler: Chronologie-Notiz (aufklappen)
+> Aus der Löchel-Chronologie (Zauberspiegel-Online), Sekundärquelle, bis 13.10.2026 offen als Timeline-Notiz geführt: „Robur kehrt in neuem Körper zurück.“ Der Klappentext spricht nur von „alten Bekannten“.
 
 ## Quellen
 

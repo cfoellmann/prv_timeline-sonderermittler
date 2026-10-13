@@ -16,7 +16,7 @@ sprecher:
   - rolle: Passepartout
     name: Marius Clarén
 spielzeit_min: 61
-zirkel: direkt
+zirkel: indirekt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
 spoiler_level: grob
@@ -28,6 +28,7 @@ quellen:
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
   - raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md
+  - raw/maritim/2026-10-13_blackstone-fandom-lovelybooks-fanseite_zirkel-dnapf-10-11.md
   - https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge11-die-jagd-nach-kapitaen-grant/
   - https://www.gratis-hoerspiele.de/jules-verne-11-die-jagd-nach-kapitaen-grant/
 tags:
@@ -67,7 +68,10 @@ tags:
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** (Einstufung aus dem Bestand, unverändert). Der Klappentext nennt nur einen ungenannten „Feind“; als frühe Vernetzung der Fogg-Reihe mit der Wilde-Linie relevant.
+- **Indirekt.** Der Zirkel der Sieben wird nicht genannt, weder im Klappentext noch in der Figurenliste der Fanseite (nur Phileas Fogg); laut Fandom fällt der Name in der Fogg-Reihe erstmals in [[wiki/folgen/phileas-fogg-13-der-untergang-der-welt|DNAPF 13]].
+- Der ungenannte „Feind“ des Klappentexts ist laut Ingo Löchel und Fandom die Organisation von [[wiki/figuren/robur|Robur]] (DNAPF 3 und 4), über deren neue Führung Kapitän Grant Auskunft geben kann. Löchel hält ausdrücklich fest, die Folge kläre nicht, ob Roburs Organisation und der Zirkel der Sieben dieselbe Organisation sind.
+- Eine Leserrezension bei LovelyBooks ordnet die Folge rückblickend dem „Hauptabenteuer um den Zirkel der Sieben“ zu; dass der Name in der Folge fällt, sagt sie nicht.
+- Einstufung nach demselben Maßstab wie DNAPF 3 und 4 (späteres Zirkel-Mitglied beteiligt, Zirkel nicht genannt). Bis 13.10.2026 stand hier `direkt`; das stützte sich allein auf die Verknüpfung Fogg/Wilde/Mycroft ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 8]], Entscheidung 7).
 
 ## Crossover & Querverweise
 
@@ -76,7 +80,8 @@ tags:
 
 ## Theorien & offene Fragen
 
-- Keine offenen Fragen (Spielzeit am 13.10.2026 geklärt).
+- **Tritt [[wiki/figuren/dracula|Dracula]] schon hier auf?** Fandom führt für DNAPF 11 einen „Gastauftritt“, Löchel setzt den ersten Auftritt erst auf DNAPF 12. Draculas Stammsprecher Torsten Michaelis steht in der Sprecherliste dieser Folge, aber ohne Rollenangabe. Nicht entschieden (Einzelquelle für die Rolle). Bestätigt sich der Auftritt, ist die Einstufung gegen [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|DNAPF 12]] (`direkt` über Dracula) neu abzugleichen.
+- Spielzeit am 13.10.2026 geklärt.
 
 ## Quellen
 
@@ -85,5 +90,6 @@ tags:
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
 - [raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md](../../raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md) — Klappentexte und Gegenprobe (Fanseite, Apple Books, Gratis-Hoerspiele.de, Fandom; 13.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom-lovelybooks-fanseite_zirkel-dnapf-10-11.md](../../raw/maritim/2026-10-13_blackstone-fandom-lovelybooks-fanseite_zirkel-dnapf-10-11.md) — Zirkel-Prüfung DNAPF 10/11 (Löchel-Einzelrezensionen, Fandom, LovelyBooks, Fanseite; 13.10.2026).
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge11-die-jagd-nach-kapitaen-grant/>
 - Gratis-Hoerspiele.de (Inhaltsangabe, Quelle „Maritim Verlag / YouTube“): <https://www.gratis-hoerspiele.de/jules-verne-11-die-jagd-nach-kapitaen-grant/>

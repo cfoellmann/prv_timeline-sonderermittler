@@ -32,7 +32,7 @@ tags:
 
 # Jules Verne – Die neuen Abenteuer des Phileas Fogg – 21: Die sieben Seelen des Anubis
 
-> In Kairo geraten Fogg und seine Gefährten in einen Anubis-Fall aus Mord, verschwundener Leiche und Frankensteins Rückkehr.
+> In Kairo geraten Fogg und seine Gefährten in einen Anubis-Fall aus Mord, verschwundener Leiche und der Konfrontation mit einem alten Bekannten.
 
 ## Eckdaten
 
@@ -44,17 +44,17 @@ tags:
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge21-die-sieben-seelen-des-anubis/>
 - **Titel-Hinweis:** Die offizielle Folgenseite nennt `Die sieben Seelen des Anubis`, während die bisherige Löchel-Chronologie im Repo `Die sieben Steine des Anubis` notiert. Für den Crawl wird der offizielle Folgentitel als primärer Titel geführt; die Chronologienotiz bleibt als abweichender Beleg erhalten.
-- **Timeline-Notiz:** Frankenstein kehrt laut Chronologie zurück; Dracula rettete ihn zuvor.
+- **Timeline-Notiz:** Die Chronologie-Notiz zu dieser Folge steht im Spoiler-Hinweis vor den Quellen.
 
 ## Hauptfiguren
 
 - [[wiki/figuren/phileas-fogg|Phileas Fogg]] — Titelheld der Reihe.
-- [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] — kehrt hier laut Chronologie wieder auf die Bühne zurück.
-- [[wiki/figuren/dracula|Dracula]] — ist laut Chronologienotiz direkt mit Frankensteins Rückkehr verknüpft.
+- [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] — laut Chronologie in dieser Folge beteiligt (siehe Spoiler-Notiz).
+- [[wiki/figuren/dracula|Dracula]] — laut Chronologienotiz mit dieser Folge verknüpft (siehe Spoiler-Notiz).
 
 ## Handlung (grob)
 
-In Kairo wird ein Antiquitätenhändler ermordet, und Phileas Fogg wird in die Ermittlungen hineingezogen. Kurz darauf ist die Leiche verschwunden, was den Fall in Richtung übernatürlicher oder zumindest stark inszenierter Vorgänge verschiebt. Die Spur führt in die unterirdischen Tempelanlagen von Gizeh, wo es laut offizieller Seite zu einer dramatischen Konfrontation mit einem alten Bekannten kommt. Aus der Repo-Chronologie ist zusätzlich belegt, dass hier Victor Frankenstein zurückkehrt und seine Verbindung zu Dracula wieder relevant wird.
+In Kairo wird ein Antiquitätenhändler ermordet, und Phileas Fogg wird in die Ermittlungen hineingezogen. Kurz darauf ist die Leiche verschwunden, was den Fall in Richtung übernatürlicher oder zumindest stark inszenierter Vorgänge verschiebt. Die Spur führt in die unterirdischen Tempelanlagen von Gizeh, wo es laut offizieller Seite zu einer dramatischen Konfrontation mit einem alten Bekannten kommt. Die Repo-Chronologie führt die Folge zusätzlich als Kosmos-Anker (siehe Spoiler-Notiz).
 
 ## Bezug zum Zirkel der Sieben
 
@@ -65,6 +65,9 @@ In Kairo wird ein Antiquitätenhändler ermordet, und Phileas Fogg wird in die E
 - **Frankenstein-Anschluss:** wichtiger Vorlauf für [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]].
 - **Dracula-Anschluss:** festigt Draculas frühe Kosmos-Präsenz innerhalb der Fogg-Reihe.
 - **Spielt nach:** [[wiki/folgen/phileas-fogg-20-wettlauf-mit-der-zeit|DNAPF 20 „Wettlauf mit der Zeit“]].
+
+> [!warning]- Spoiler: Chronologie-Notiz (aufklappen)
+> Aus der Löchel-Chronologie (Zauberspiegel-Online), Sekundärquelle, bis 13.10.2026 offen als Timeline-Notiz geführt: „Frankenstein kehrt zurück (von Dracula gerettet).“ Die offizielle Seite kündigt nur einen „alten Bekannten“ an.
 
 ## Quellen
 

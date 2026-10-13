@@ -130,7 +130,7 @@ Folgende Erstauftritte erzeugen Reihenfolge-Bedingungen:
 - **DNAPF 5** → vor Poe-und-Dupin-Serie (Edgar Allan Poe tritt dort auf)
 - **DNAPF 12** → vor Dracula-Serie (Dracula tritt dort auf)
 - **OWMH 16** → vor Irene-Adler-Hauptserie (Irene Adler tritt dort auf; erste Zusammenarbeit Wilde × Adler)
-- **OWMH 18** → Payton-Tod als Wendepunkt
+- **OWMH 18** → Wendepunkt der frühen Serienphase (Details im Spoiler-Hinweis auf [[wiki/figuren/benjamin-payton|Benjamin Payton]])
 - **OWMH 50** → Mycroft ermordet = Strukturbruch für alle Folgeserien
 
 ### Abgeleitete Anker (Lint 2026-08-17, `story_praezision: "geschaetzt"`)
@@ -139,8 +139,8 @@ Folgende Erstauftritte erzeugen Reihenfolge-Bedingungen:
 |---:|---|---|
 | 1895 | OWMH 3 | zwischen den datierten Folgen 2 und 4 |
 | 1895 | SHC 26/27 | erste Zusammenarbeit Holmes × Wilde; Wilde ist ab OWMH 1 (Frühjahr 1895) im Amt; bei Löchel zwischen OWMH 4 und 5 |
-| 1896 | SHC 48 | Zirkel-Schlag gegen Scotland Yard; bei Löchel zwischen OWMH 23 und 25 (beide 1896) |
-| 1896 | SHC 53 | Dracula als „Sapriel" in London, nach seiner Ankunft in England (OWMH 19/20, 1896) |
+| 1896 | SHC 48 | Zuordnung zum offenen Zirkel-Konflikt laut Löchel (Spoiler-Notiz der Folgenseite); bei Löchel zwischen OWMH 23 und 25 (beide 1896) |
+| 1896 | SHC 53 | Chronologie-Deutung des im Klappentext namenlosen Gegners (Spoiler-Notiz der Folgenseite); Untergrenze über OWMH 19/20 (1896) |
 | 1897 | DNAPF 14 | Klondike-Goldrausch mit ausdrücklicher Nennung von Dawson City (hist. 1896–1899) |
 | 1898 | Dracula 1 | Löchel-Chronologie „– 1898“; Rezension: Haupthandlung „fast 450 Jahre nach den Ereignissen des Jahres 1448“, „vermutlich im Jahr 1898“. Kein Verlagstext nennt ein Jahr (seit 13.10.2026) |
 

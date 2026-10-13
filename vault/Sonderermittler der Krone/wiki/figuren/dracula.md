@@ -46,9 +46,9 @@ Alle 48 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 
 | Folge | Rolle (laut Folgenseite) |
 |---|---|
-| [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst\|EAPAD 2 — Im Bann der Angst]] (17.08.2018) | als „Sapriel" |
+| [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst\|EAPAD 2 — Im Bann der Angst]] (17.08.2018) | Beteiligung nur laut Chronologie-Deutung (siehe Spoiler-Notiz der Folgenseite) |
 | [[wiki/folgen/phileas-fogg-16-gefahr-fuer-die-propellerinsel\|DNAPF 16 — Gefahr für die Propellerinsel]] (12.10.2018) | wird auf der offiziellen Seite als altbekannter Gegner direkt genannt |
-| [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis\|DNAPF 21 — Die sieben Seelen des Anubis]] (18.10.2019) | ist laut Chronologienotiz direkt mit Frankensteins Rückkehr verknüpft |
+| [[wiki/folgen/phileas-fogg-21-die-sieben-seelen-des-anubis\|DNAPF 21 — Die sieben Seelen des Anubis]] (18.10.2019) | laut Chronologienotiz mit dieser Folge verknüpft (siehe Spoiler-Notiz) |
 | [[wiki/folgen/phileas-fogg-24-die-geheimnisvolle-insel\|DNAPF 24 — Die geheimnisvolle Insel]] (08.05.2020) | bleibt über die Ankernotiz als Machtfaktor im Hintergrund relevant |
 | [[wiki/folgen/dracula-01-erbe-des-boesen\|DRAC 1 — Erbe des Bösen]] (02.10.2020) | der zurückgekehrte Fürst der Finsternis, auf der Suche nach medizinischen Forschungsergebnissen |
 | [[wiki/folgen/frankenstein-01-am-abgrund-der-nacht\|FRANK 1 — Am Abgrund der Nacht]] (09.10.2020) | Mitglied des Zirkels der Sieben |

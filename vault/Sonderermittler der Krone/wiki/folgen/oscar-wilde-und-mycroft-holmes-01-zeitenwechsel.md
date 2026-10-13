@@ -77,7 +77,7 @@ tags:
 - [[wiki/figuren/oscar-wilde|Oscar Wilde]] (Sascha Rothemund) — irischer Schriftsteller, wird in dieser Folge erstmals als Sonderermittler der Krone vereidigt.
 - [[wiki/figuren/mycroft-holmes|Mycroft Holmes]] — Auftraggeber der Krone, zieht im Hintergrund die Fäden.
 - [[wiki/figuren/henry-wheeler|Henry Wheeler]] (Holger Löwenberg) — **Erstauftritt** (Rolle in dieser Folge zu verifizieren).
-- [[wiki/figuren/benjamin-payton|Dr. Benjamin Payton]] (Leonhard Mahlich) — **Erstauftritt**, später als Verräter enttarnt (siehe spätere Folgen, hier noch nicht relevant).
+- [[wiki/figuren/benjamin-payton|Dr. Benjamin Payton]] (Leonhard Mahlich) — **Erstauftritt**; zur weiteren Entwicklung siehe die Spoiler-Hinweise auf der Figurenseite.
 
 ## Handlung (grob)
 

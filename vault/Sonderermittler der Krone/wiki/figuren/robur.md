@@ -27,7 +27,7 @@ tags:
 
 - **Erstauftritt im aktuellen Repo-Stand:** [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken|DNAPF 3 - Krieg in den Wolken]] am 26.02.2016.
 - **Rolle im Kosmos:** technischer Gegenspieler, später wiederkehrender Zirkel-Akteur.
-- **Auffälligkeit:** Laut Chronologie stirbt Robur früh in DNAPF 4, kehrt aber in [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette|DNAPF 26]] in einem neuen Körper zurück.
+- **Auffälligkeit:** Zwischen DNAPF 4 und [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette|DNAPF 26]] führt die Chronologie einen Bruch in Roburs Weg; Details im Spoiler-Hinweis unter der Auftrittstabelle.
 - **Sprecher:** Milton Welsh — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen OWMH 30, 31, 33, 34 und IADK 6, 9, 10, 12 sowie in der Rollenliste FRANK 1. **Sprecherwechsel:** In der ersten Staffel der Fogg-Reihe sprach laut Verlagsmitteilung zur Stammbesetzung (2015) **Hartmut Neugebauer** den Robur; [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken|DNAPF 3]] bleibt deshalb ohne Zuordnung (Neugebauer fehlt in der Sprecherliste). Die Poldi-Rezension nennt Neugebauer für DNAPF 3 ausdrücklich als Robur und deckt sich mit der Verlagsmitteilung — nicht eingetragen, weil Rezensionen keine Rollenquelle sind (Nachrecherche 13.10.2026, Entscheidung offen). Ab DNAPF 35/36 steht Milton Welsh in den Listen. Nicht zugeordnet wegen widersprüchlicher Listen: MOR 18 (DNB/Audible Welsh, Raute Media/Hörspieltalk an derselben Stelle Katja Keßler) und FRANK 10 (Welsh fehlt bei Raute Media). MOR 18 bleibt auch nach der Nachrecherche vom 13.10.2026 offen: Die Lesarten verteilen sich auf zwei Verlagskanäle (digital Welsh, CD Keßler), ein Beleg außerhalb beider fehlt; die Folgenübersicht der Fanseite führt Robur für MOR 18, Mata Hari nicht (Indiz, kein Beleg; [Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md)).
 
 ## Auftritte im aktuellen Repo-Stand
@@ -35,10 +35,13 @@ tags:
 | Folge / Reihe | Rolle | Notiz |
 |---|---|---|
 | [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken\|DNAPF 3 - Krieg in den Wolken]] | Erstauftritt | früher Kosmos-Anker |
-| [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl\|DNAPF 4 - Der Elefant aus Stahl]] | früher Konfliktpunkt | laut Chronologie stirbt Robur hier |
-| [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette\|DNAPF 26 - Die Küste der Skelette]] | Rückkehr | neuer Körper |
+| [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl\|DNAPF 4 - Der Elefant aus Stahl]] | früher Konfliktpunkt | Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
+| [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette\|DNAPF 26 - Die Küste der Skelette]] | Wiederauftritt | Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
 | [[wiki/serien/tesla\|Tesla]] | späterer Gegenspieler | wiederkehrend im Blitz-Block |
 | [[wiki/serien/sherlock-holmes\|Sherlock Holmes]] | späterer Gegenspieler | Hafen-/Lebensstein-Arc |
+
+> [!warning]- Spoiler: Chronologie-Notizen zu DNAPF 4 und DNAPF 26 (aufklappen)
+> Laut Löchel-Chronologie (Sekundärquelle) stirbt Robur früh in DNAPF 4, kehrt aber in DNAPF 26 in einem neuen Körper zurück.
 
 ### Vollständige Auftrittsliste
 
@@ -48,7 +51,7 @@ Alle 30 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 |---|---|
 | [[wiki/folgen/frankenstein-01-am-abgrund-der-nacht\|FRANK 1 — Am Abgrund der Nacht]] (09.10.2020) | Mitglied des Zirkels der Sieben |
 | [[wiki/folgen/irene-adler-06-licht-und-schatten\|IADK 6 — Licht und Schatten]] (30.10.2020) | gemeinsam mit [[wiki/figuren/dracula\|Dracula]]: binden die Folge direkt an die Gegenseite |
-| [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette\|DNAPF 26 — Die Küste der Skelette]] (20.11.2020) | kehrt hier laut Chronologie erneut in den Kosmos ein |
+| [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette\|DNAPF 26 — Die Küste der Skelette]] (20.11.2020) | laut Chronologie in dieser Folge beteiligt (siehe Spoiler-Notiz) |
 | [[wiki/folgen/frankenstein-02-verflucht-seid-ihr-alle\|FRANK 2 — Verflucht seid ihr alle]] (04.12.2020) | Mitglied des Zirkels der Sieben |
 | [[wiki/folgen/irene-adler-09-tunguska\|IADK 9 — Tunguska]] (23.04.2021) | gemeinsam mit [[wiki/figuren/theodora-sachs\|Theodora Sachs]], [[wiki/figuren/dracula\|Dracula]] und [[wiki/figuren/victor-frankenstein\|Victor Frankenstein]]: sind offiziell als Figuren gelistet |
 | [[wiki/folgen/irene-adler-10-falsches-spiel\|IADK 10 — Falsches Spiel]] (23.07.2021) | gemeinsam mit [[wiki/figuren/theodora-sachs\|Theodora Sachs]]: sind offiziell als Figuren aufgeführt |

@@ -46,7 +46,7 @@ tags:
 - **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Dietmar Wunder, Torsten Michaelis, Thomas Nero Wolff, Kerstin Draeger, Daniel Zillmann, Alexander Turrek, Timo Kinzel, Tommi Piper, Julian Deuster, Patrick Holtheuer (DNB-Katalog der Digitalausgabe, Audible). Erzähler (Jules Verne) – Christian Brückner nachgetragen am 12.10.2026 (Entscheidung Christian): Brückner steht in allen Sprecherlisten DNAPF 1–50 und ist laut DNB-Titelangabe der CDs DNAPF 1–7 und 9–18 sowie der Verlagsmitteilung zur Stammbesetzung (2015) Erzähler der Reihe; ebenfalls abgeleitet.
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge24-die-geheimnisvolle-insel/>
-- **Timeline-Notiz:** Zweikampf Frankenstein vs. Dracula.
+- **Timeline-Notiz:** Die Chronologie-Notiz zu dieser Folge steht im Spoiler-Hinweis vor den Quellen.
 
 ## Hauptfiguren
 
@@ -56,11 +56,14 @@ tags:
 
 ## Handlung (grob)
 
-Nach einer dramatischen Reise über die Weltmeere zwingt ein Unwetter Phileas Fogg und Maud Brewster, auf einer unbekannten Insel Schutz zu suchen. Dort stößt Fogg auf Spuren seiner verschwundenen Frau Aouda, was die Insel sofort zu mehr als nur einem Zufluchtsort macht. Auf der Suche nach ihr gerät er in eine Falle, während unter dem Einfluss eines Plantagenbesitzers und düsterer Vorgänge Voodoo-Trommeln den Ton angeben. Die offizielle Beschreibung deutet auf eine dramatische Auseinandersetzung in einem labyrinthartigen Tunnelsystem hin, während die Repo-Chronologie zusätzlich den Konflikt Frankenstein gegen Dracula als wichtigen Kosmos-Anker markiert.
+Nach einer dramatischen Reise über die Weltmeere zwingt ein Unwetter Phileas Fogg und Maud Brewster, auf einer unbekannten Insel Schutz zu suchen. Dort stößt Fogg auf Spuren seiner verschwundenen Frau Aouda, was die Insel sofort zu mehr als nur einem Zufluchtsort macht. Auf der Suche nach ihr gerät er in eine Falle, während unter dem Einfluss eines Plantagenbesitzers und düsterer Vorgänge Voodoo-Trommeln den Ton angeben. Die offizielle Beschreibung deutet auf eine dramatische Auseinandersetzung in einem labyrinthartigen Tunnelsystem hin, während die Repo-Chronologie die Folge zusätzlich als wichtigen Kosmos-Anker markiert (siehe Spoiler-Notiz).
 
 ## Bezug zum Zirkel der Sieben
 
 - **Direkt relevant** über die Frankenstein/Dracula-Achse.
+
+> [!warning]- Spoiler: Chronologie-Notiz (aufklappen)
+> Aus der Löchel-Chronologie (Zauberspiegel-Online), Sekundärquelle, bis 13.10.2026 offen als Timeline-Notiz geführt: „Zweikampf Frankenstein vs. Dracula.“ Der Klappentext nennt beide Figuren nicht.
 
 ## Quellen
 
