@@ -12,6 +12,7 @@ quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - hauptfigur
   - sonderermittler
@@ -25,7 +26,7 @@ tags:
 ## Eckdaten
 
 - **Voller Name:** Oscar Fingal O'Flahertie Wills Wilde
-- **Sprecher:** Sascha Rotermund
+- **Sprecher:** Sascha Rotermund — erster Auftritt in der Fogg-Reihe laut Ingo Löchels Rezension (Black Stone Magazine): „Erster Auftritt von Oscar Wilde (gesprochen von Sascha Rothemund)“ ([[wiki/folgen/phileas-fogg-10-der-herrscher-der-meere|DNAPF 10]], Schreibweise der Rezension). In DNAPF 10 nicht eingetragen: Die DNB/Audible-Liste der Folge (fünf Namen) führt Rotermund nicht; vermutlich ist sie unvollständig (Annahme), eingetragen wird erst mit einer zweiten Liste ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 - **Auftraggeber:** [[wiki/figuren/mycroft-holmes|Mycroft Holmes]]
 - **Erstauftritt:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-01-zeitenwechsel|OWMH 1 – Zeitenwechsel]] (11.03.2016)
 - **Hauptserie:** [[wiki/serien/oscar-wilde-und-mycroft-holmes|Oscar Wilde & Mycroft Holmes]]
@@ -182,3 +183,4 @@ Oscar Wilde ist die zentrale Heldenfigur des gesamten Maritim-Kosmos. Seine Seri
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md)
 - Offizielle Figurenseite: <https://www.sonderermittler-der-krone.de/figuren/oscar-wilde/>
 - [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

@@ -7,6 +7,7 @@ status: stub
 zirkel: unklar
 quellen:
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - nebenfigur
   - phileas-fogg
@@ -19,7 +20,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecher:** Manfred Lehmann — laut Rollentabelle von hoernews.de zu DNAPF 1 und Verlagsmitteilung von 2015. Nicht verwechseln: Im übrigen Kosmos ist Manfred Lehmann der Stammsprecher von [[wiki/figuren/auguste-dupin|Auguste Dupin]].
+- **Sprecher:** Manfred Lehmann — laut Rollentabelle von hoernews.de zu DNAPF 1 und Verlagsmitteilung von 2015. Nicht verwechseln: Im übrigen Kosmos ist Manfred Lehmann der Stammsprecher von [[wiki/figuren/auguste-dupin|Auguste Dupin]]. Zweite Rollenliste für DNAPF 1: Ingo Löchels Rezension (Black Stone Magazine) druckt „Ned Land: Manfred Lehmann“ ab ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 
 ## Auftritte
 
@@ -46,3 +47,4 @@ Belegt ist nur der Rollenname; eine Rollenbeschreibung gibt keine Rohquelle.
 
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Rollentabelle hoernews.de zu DNAPF 1, Verlagsmitteilung 2015.
 - Folgenseite DNAPF 1 im Vault.
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

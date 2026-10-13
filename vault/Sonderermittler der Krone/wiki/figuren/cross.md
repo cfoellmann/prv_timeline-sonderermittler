@@ -14,6 +14,7 @@ quellen:
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
   - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - nebenfigur
   - scotland-yard
@@ -27,7 +28,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecher:** Rainer Fritzsche — rollengenau in den Fandom-Besetzungstabellen SHC 48, 53 und SH 1/2 („Dunkle Kräfte“, „Inspektor Cross“); in SH 13 und 21 nach der Ableitungsregel eingetragen. **Offen:** In SH 1/2 steht Fritzsche in keiner Sprecherliste (Raute Media, Audible), die Rolle ist dort deshalb nicht eingetragen. Nachrecherche 13.10.2026: Fritzsche fehlt jetzt in vier Listen je Teil (zusätzlich BookBeat mit 22 bzw. 15 Namen und pop.de, das für Teil 2 die Liste von Teil 1 trägt); die Rezensionen (Poldi, Buchtips) erwähnen weder Cross noch Fritzsche. Die Fandom-Angabe bleibt unbestätigte Einzelquelle ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md)).
+- **Sprecher:** Rainer Fritzsche — rollengenau in den Fandom-Besetzungstabellen SHC 48, 53 und SH 1/2 („Dunkle Kräfte“, „Inspektor Cross“); in SH 13 und 21 nach der Ableitungsregel eingetragen. **Offen:** In SH 1/2 steht Fritzsche in keiner Sprecherliste (Raute Media, Audible), die Rolle ist dort deshalb nicht eingetragen. Nachrecherche 13.10.2026: Fritzsche fehlt jetzt in vier Listen je Teil (zusätzlich BookBeat mit 22 bzw. 15 Namen und pop.de, das für Teil 2 die Liste von Teil 1 trägt); die Rezensionen (Poldi, Buchtips) erwähnen weder Cross noch Fritzsche. Die Fandom-Angabe bleibt unbestätigte Einzelquelle ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md)). **Löchel-Rezensionen (13.10.2026):** Zu SHC 48 nennt Ingo Löchel „Inspektor Cross (Gesprochen von Rainer Fritzsche)“ (Black Stone Magazine), kennt Figur und Sprecher also. Zu SH 1 führt er fünf Nebenfiguren mit Sprecher (Mycroft, van Dusen, Hatch, Moriarty, Stafford), Cross nicht; auch zu SH 2 kein Cross — ein weiteres Indiz gegen einen Auftritt in SH 1/2 ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md)).
 
 ## Namensformen
 
@@ -72,3 +73,4 @@ Die SHC-Klappentexte und die DNB-Besetzungen schreiben **„Inspektor Cross“**
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
 - [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

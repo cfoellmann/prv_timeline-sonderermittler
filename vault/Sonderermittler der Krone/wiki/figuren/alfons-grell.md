@@ -8,6 +8,7 @@ quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - wissenschaftler
   - zirkel-umfeld
@@ -21,7 +22,7 @@ tags:
 ## Eckdaten
 
 - **Erstauftritt:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-04-tod-der-koenigin|OWMH 4 — Tod der Königin]] (15.07.2016).
-- **Sprecher:** K. Dieter Klebsch, rollengenau in allen acht Fandom-Besetzungstabellen unten (Schreibweise dort „K.Dieter Klebsch“).
+- **Sprecher:** K. Dieter Klebsch, rollengenau in allen acht Fandom-Besetzungstabellen unten (Schreibweise dort „K.Dieter Klebsch“). Folgengenau bestätigt beim Erstauftritt in OWMH 4: „Dr. Alfons Grell (Gesprochen von Dieter Klebsch) gibt sein Debüt“ (Rezension von Ingo Löchel, Black Stone Magazine; [Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 - **Rolle:** Wissenschaftler; tritt laut Löchel-Chronologie in die Dienste des Zirkels.
 - **Einordnung:** Verbündeter des Zirkels, nach aktuellem Vault-Stand aber kein Mitglied der „Sieben“ selbst.
 
@@ -60,3 +61,4 @@ In den Rollenlisten zu OWMH 45–60 taucht Grell nicht auf.
 - [raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md](../../raw/maritim/2026-04-27_owmh_folgen-02-bis-04.md) — offizieller Folgen-Kontext.
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — Folgennotizen OWMH 13 und 30.
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44.
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

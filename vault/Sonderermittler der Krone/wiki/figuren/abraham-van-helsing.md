@@ -12,6 +12,7 @@ quellen:
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - dracula-gegner
   - vampirjaeger
@@ -24,7 +25,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecher:** Douglas Welbat — rollengenau in den Fandom-Besetzungstabellen OWMH 32, 33, 35, 36 und in der Rollenliste [[wiki/folgen/wilde-mycroft-ungeloeste-03-das-fledermausamulett|WMU 3]] (Hörspieltalk 31082); Rezensionen (Traumwelt, Poldi) bestätigen ihn für DRAC. Nicht verwechseln mit Daniel Welbat ([[wiki/figuren/der-maharadscha|Maharadscha]]).
+- **Sprecher:** Douglas Welbat — rollengenau in den Fandom-Besetzungstabellen OWMH 32, 33, 35, 36 und in der Rollenliste [[wiki/folgen/wilde-mycroft-ungeloeste-03-das-fledermausamulett|WMU 3]] (Hörspieltalk 31082); Rezensionen (Traumwelt, Poldi) bestätigen ihn für DRAC. Nicht verwechseln mit Daniel Welbat ([[wiki/figuren/der-maharadscha|Maharadscha]]). **DRAC 1 folgengenau bestätigt (13.10.2026):** „Erster Auftritt von Abraham van Helsing (gesprochen von Douglas Welbat) …“ (Rezension von Ingo Löchel, Black Stone Magazine; bisher abgeleitet; [Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md)).
 
 ## Rolle im Kosmos
 
@@ -72,3 +73,4 @@ Van Helsing ist die wichtigste Figur der Anti-Dracula-Front. Er wird in [[wiki/f
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA: Verlagsmitteilung zur Stammbesetzung 2015, Rollenlisten, DNB 245 $c (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

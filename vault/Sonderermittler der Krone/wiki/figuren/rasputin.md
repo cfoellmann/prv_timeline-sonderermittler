@@ -12,6 +12,7 @@ quellen:
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
   - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - zirkel-mitglied
   - antagonist
@@ -28,7 +29,7 @@ tags:
 - **Erstauftritt:** [[wiki/folgen/irene-adler-04-sankt-petersburg-express|Irene Adler 4 – Sankt Petersburg Express]] (14.02.2020)
 - **Fraktion:** [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]]
 - **Rolle:** Okkultist, Intrigant gegen die Krone
-- **Sprecher:** Tetje Mierendorf — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen OWMH 29, 31–36, 41 und IADK 4; in den übrigen Reihen nach der Ableitungsregel eingetragen. Offen (Nachrecherche 13.10.2026): OWEP 3 — nur über die Box-Gesamtliste belegbar, kein Eintrag. OWMH 43 — ein Höreindruck (Hoergruselspiele-Forum) nennt einen Rasputin-Auftritt, Mierendorf steht in allen Listen; nicht eingetragen, weil die Figur weder im Klappentext noch in der Figurenliste steht ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md)).
+- **Sprecher:** Tetje Mierendorf — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen OWMH 29, 31–36, 41 und IADK 4; in den übrigen Reihen nach der Ableitungsregel eingetragen. Offen (Nachrecherche 13.10.2026): OWEP 3 — nur über die Box-Gesamtliste belegbar, kein Eintrag. OWMH 43 — ein Höreindruck (Hoergruselspiele-Forum) nennt einen Rasputin-Auftritt, Mierendorf steht in allen Listen; nicht eingetragen, weil die Figur weder im Klappentext noch in der Figurenliste steht ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md)). Folgengenau bestätigt beim Erstauftritt in IADK 4: „Erster Auftritt von Rasputin (gesprochen von Tetje Mierendorf)“ (Rezension von Ingo Löchel, Black Stone Magazine; [Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 
 ## Charakterisierung
 
@@ -83,3 +84,4 @@ Rasputin wird im Kosmos als mystische und politisch gefährliche Figur dargestel
 - [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK und EAPAD: Fandom-Rollentabellen IADK 0–15, Fanseite, Raute Media, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
 - [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

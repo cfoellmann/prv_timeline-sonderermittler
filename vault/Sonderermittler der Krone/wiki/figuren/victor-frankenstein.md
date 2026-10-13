@@ -14,6 +14,7 @@ quellen:
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - zirkel-mitglied
   - antagonist
@@ -28,7 +29,7 @@ tags:
 
 - **Erstauftritt im aktuellen Repo-Stand:** [[wiki/folgen/phileas-fogg-04-der-elefant-aus-stahl|DNAPF 4 - Der Elefant aus Stahl]] am 22.04.2016.
 - **Zentrale Reihe:** [[wiki/serien/frankenstein|Frankenstein und der Zirkel der Sieben]].
-- **Sprecher:** Dietmar Wunder — Stammsprecher laut Fanseiten-Figurenseite und Verlagsmitteilung zur Stammbesetzung der Fogg-Reihe (2015, „Viktor Frankenstein“); rollengenau in den Rollenlisten DNAPF 7, 8 und FRANK 1 sowie in den Fandom-Besetzungstabellen OWMH 31–36 und IADK 15. Kein Sprecherwechsel belegt.
+- **Sprecher:** Dietmar Wunder — Stammsprecher laut Fanseiten-Figurenseite und Verlagsmitteilung zur Stammbesetzung der Fogg-Reihe (2015, „Viktor Frankenstein“); rollengenau in den Rollenlisten DNAPF 7, 8 und FRANK 1 sowie in den Fandom-Besetzungstabellen OWMH 31–36 und IADK 15. Kein Sprecherwechsel belegt. Erstauftritt laut Ingo Löchels Rezension (Black Stone Magazine): „Erster Auftritt von Viktor Frankenstein (gesprochen von Dietmar Wunder)“ (DNAPF 4); dort nicht eingetragen, weil die Namensliste der Folge nur drei Namen hat ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 
 ## Auftritte im aktuellen Repo-Stand
 
@@ -132,3 +133,4 @@ Alle 64 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA: Verlagsmitteilung zur Stammbesetzung 2015, Rollenlisten, DNB 245 $c (12.10.2026)
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR und FRANK: DNB, Raute Media, Fandom MOR 0–8, Hörspieltalk (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

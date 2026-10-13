@@ -11,6 +11,7 @@ quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - dracula-gegner
   - historische-figur
@@ -23,7 +24,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecher:** Hans-Georg Panczak — rollengenau in den Fandom-Besetzungstabellen OWMH 19, 20, 25, 35, 36 (DNB und Audible schreiben „Panzcak“); die Poldi-Rezensionen zu DRAC 3 und 11 bestätigen ihn.
+- **Sprecher:** Hans-Georg Panczak — rollengenau in den Fandom-Besetzungstabellen OWMH 19, 20, 25, 35, 36 (DNB und Audible schreiben „Panzcak“); die Poldi-Rezensionen zu DRAC 3 und 11 bestätigen ihn. Folgengenau bestätigt beim Erstauftritt in OWMH 19: „Erster Auftritt von Bram Stoker (Gesprochen von Hans-Georg Panczak)“ (Rezension von Ingo Löchel, Black Stone Magazine; [Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 
 ## Rolle im Kosmos
 
@@ -64,3 +65,4 @@ In der Dracula-Reihe gehört er dann zur festen Gegenspieler-Gruppe um [[wiki/fi
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Datum und Anker für OWMH 19.
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

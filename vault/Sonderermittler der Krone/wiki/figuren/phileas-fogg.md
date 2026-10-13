@@ -17,6 +17,7 @@ quellen:
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - hauptfigur
   - abenteuer
@@ -30,7 +31,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecher:** Sascha Draeger — Stammsprecher laut Fanseiten-Figurenseite und Verlagsmitteilung zur Stammbesetzung (2015); rollengenau in den Rollenlisten DNAPF 1, 7, 8 und NEM 2, in den Fandom-Besetzungstabellen OWMH 19, 32, 33, 35, 36 und SHC 41/42 und in der DNB-Titelangabe (245 $c) der CDs DNAPF 51 und 52 („Phileas Fogg Sascha Draeger“).
+- **Sprecher:** Sascha Draeger — Stammsprecher laut Fanseiten-Figurenseite und Verlagsmitteilung zur Stammbesetzung (2015); rollengenau in den Rollenlisten DNAPF 1, 7, 8 und NEM 2, in den Fandom-Besetzungstabellen OWMH 19, 32, 33, 35, 36 und SHC 41/42 und in der DNB-Titelangabe (245 $c) der CDs DNAPF 51 und 52 („Phileas Fogg Sascha Draeger“). Zweite Rollenliste für DNAPF 1: Ingo Löchels Rezension (Black Stone Magazine) druckt eine Besetzungsliste mit „Phileas Fogg: Sascha Draeger“ ab ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 
 ## Rolle im Kosmos
 
@@ -168,3 +169,4 @@ Alle 59 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA: Verlagsmitteilung zur Stammbesetzung 2015, Rollenlisten, DNB 245 $c (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

@@ -13,6 +13,7 @@ quellen:
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
   - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - zirkel-mitglied
   - antagonist
@@ -28,7 +29,7 @@ tags:
 - **Erstauftritt im aktuellen Repo-Stand:** [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken|DNAPF 3 - Krieg in den Wolken]] am 26.02.2016.
 - **Rolle im Kosmos:** technischer Gegenspieler, später wiederkehrender Zirkel-Akteur.
 - **Auffälligkeit:** Zwischen DNAPF 4 und [[wiki/folgen/phileas-fogg-26-die-kueste-der-skelette|DNAPF 26]] führt die Chronologie einen Bruch in Roburs Weg; Details im Spoiler-Hinweis unter der Auftrittstabelle.
-- **Sprecher:** Milton Welsh — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen OWMH 30, 31, 33, 34 und IADK 6, 9, 10, 12 sowie in der Rollenliste FRANK 1. **Sprecherwechsel:** In der ersten Staffel der Fogg-Reihe sprach laut Verlagsmitteilung zur Stammbesetzung (2015) **Hartmut Neugebauer** den Robur; [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken|DNAPF 3]] bleibt deshalb ohne Zuordnung (Neugebauer fehlt in der Sprecherliste). Die Poldi-Rezension nennt Neugebauer für DNAPF 3 ausdrücklich als Robur und deckt sich mit der Verlagsmitteilung — nicht eingetragen, weil Rezensionen keine Rollenquelle sind (Nachrecherche 13.10.2026, Entscheidung offen). Ab DNAPF 35/36 steht Milton Welsh in den Listen. Nicht zugeordnet wegen widersprüchlicher Listen: MOR 18 (DNB/Audible Welsh, Raute Media/Hörspieltalk an derselben Stelle Katja Keßler) und FRANK 10 (Welsh fehlt bei Raute Media). MOR 18 bleibt auch nach der Nachrecherche vom 13.10.2026 offen: Die Lesarten verteilen sich auf zwei Verlagskanäle (digital Welsh, CD Keßler), ein Beleg außerhalb beider fehlt; die Folgenübersicht der Fanseite führt Robur für MOR 18, Mata Hari nicht (Indiz, kein Beleg; [Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md)).
+- **Sprecher:** Milton Welsh — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen OWMH 30, 31, 33, 34 und IADK 6, 9, 10, 12 sowie in der Rollenliste FRANK 1. **Sprecherwechsel:** In der ersten Staffel der Fogg-Reihe sprach laut Verlagsmitteilung zur Stammbesetzung (2015) **Hartmut Neugebauer** den Robur; [[wiki/folgen/phileas-fogg-03-krieg-in-den-wolken|DNAPF 3]] bleibt deshalb ohne Zuordnung (Neugebauer fehlt in der Sprecherliste). Die Poldi-Rezension nennt Neugebauer für DNAPF 3 ausdrücklich als Robur und deckt sich mit der Verlagsmitteilung — nicht eingetragen, weil Rezensionen keine Rollenquelle sind (Nachrecherche 13.10.2026, Entscheidung offen). Ab DNAPF 35/36 steht Milton Welsh in den Listen. Nicht zugeordnet wegen widersprüchlicher Listen: MOR 18 (DNB/Audible Welsh, Raute Media/Hörspieltalk an derselben Stelle Katja Keßler) und FRANK 10 (Welsh fehlt bei Raute Media). MOR 18 bleibt auch nach der Nachrecherche vom 13.10.2026 offen: Die Lesarten verteilen sich auf zwei Verlagskanäle (digital Welsh, CD Keßler), ein Beleg außerhalb beider fehlt; die Folgenübersicht der Fanseite führt Robur für MOR 18, Mata Hari nicht (Indiz, kein Beleg; [Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md)). **Löchel-Rezension (13.10.2026):** „Robur gibt sein Debüt (Gesprochen von Hartmut Neugebauer)“ (DNAPF 3) — dritte Rezensionsstimme für Neugebauer, weiter ohne vollständige Namensliste; nicht eingetragen (Entscheidung 2 aus [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 7]]). Löchels Angabe zum Sprecher in DNAPF 26 steht im Spoiler-Hinweis unter der Auftrittstabelle ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md)).
 
 ## Auftritte im aktuellen Repo-Stand
 
@@ -42,6 +43,7 @@ tags:
 
 > [!warning]- Spoiler: Chronologie-Notizen zu DNAPF 4 und DNAPF 26 (aufklappen)
 > Laut Löchel-Chronologie (Sekundärquelle) stirbt Robur früh in DNAPF 4, kehrt aber in DNAPF 26 in einem neuen Körper zurück.
+> Löchels Rezension zu DNAPF 26 nennt dazu den Sprecher: „Robur (gesprochen von Milton Welsh) kehrt von den Toten zurück …“ — nach Löchel die erste Folge mit Welsh als Robur, was den Sprecherwechsel von Hartmut Neugebauer erklärt. In DNAPF 26 nicht eingetragen, weil die Rolle an die Rückkehr gebunden ist ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 
 ### Vollständige Auftrittsliste
 
@@ -94,3 +96,4 @@ Alle 30 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK und EAPAD: Fandom-Rollentabellen IADK 0–15, Fanseite, Raute Media, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR und FRANK: DNB, Raute Media, Fandom MOR 0–8, Hörspieltalk (12.10.2026)
 - [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

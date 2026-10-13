@@ -13,6 +13,7 @@ quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - nebenfigur
   - sherlock-holmes
@@ -25,7 +26,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecher:** Martin Keßler — rollengenau in den Fandom-Besetzungstabellen SH 1/2 („Dunkle Kräfte“) und OWMH 35–37 („Prof. Van Dusen“ bzw. „Professor van Dusen“); in SH 1/2 steht er auch in den vollständigen Raute-Media-Listen.
+- **Sprecher:** Martin Keßler — rollengenau in den Fandom-Besetzungstabellen SH 1/2 („Dunkle Kräfte“) und OWMH 35–37 („Prof. Van Dusen“ bzw. „Professor van Dusen“); in SH 1/2 steht er auch in den vollständigen Raute-Media-Listen. Folgengenau außerdem für MOR 9: „Mit Professor van Dusen (gesprochen von Martin Keßler) …“ (Rezension von Ingo Löchel, Black Stone Magazine; Name in den Listen von DNB und Raute Media), seit 13.10.2026 dort eingetragen; dieselbe Angabe macht Löchel für SH 1 ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md)).
 
 ## Auftritte
 
@@ -33,8 +34,11 @@ tags:
 |---|---|
 | [[wiki/folgen/sherlock-holmes-01-dunkle-kraefte-teil-1\|SH 1 — Dunkle Kräfte, Teil 1]] (09.12.2022) | untersucht auf Bitten Mycroft Holmes' eine seltsame Vergiftungsserie bereits am Tatort, als Sherlock Holmes dazustößt (Klappentext) |
 | [[wiki/folgen/sherlock-holmes-02-dunkle-kraefte-teil-2\|SH 2 — Dunkle Kräfte, Teil 2]] (16.12.2022) | sucht mit Holmes mal gemeinsam, mal getrennt nach dem Täter; die Spur führt bis zu [[wiki/figuren/james-moriarty\|Moriarty]] (Klappentext) |
+| [[wiki/folgen/moriarty-09-boese-neue-welt\|MOR 9 — Böse neue Welt]] (16.06.2023) | laut Löchel-Rezension in der Folge, mit Sprecher Martin Keßler (Kopfangabe „Mit Professor van Dusen (gesprochen von Martin Keßler) …“); Rolle in der Handlung nicht beschrieben |
 
 In beiden Folgen nennt ihn **nur der Klappentext**; die offizielle Figurenliste der Folgenseiten führt Sherlock Holmes, John Watson, Mycroft Holmes und James Moriarty, nicht aber van Dusen (`raw/maritim/2026-04-28_sherlock-holmes_folgen-01-bis-21.md`). Deshalb steht er auf den Folgenseiten im Handlungstext, nicht unter „Hauptfiguren“.
+
+MOR 9 ist seit dem 13.10.2026 über Ingo Löchels Rezension belegt (Name in den Listen von DNB und Raute Media). Ohne Sprecher nennt Löchel ihn außerdem in MOR 10, 11 und 12 sowie in DNAPF 33, OWMH 35 und 36 („Mit Professor van Dusen“); das sind Anwesenheitsangaben einer Rezension, hier nicht als Auftritt übernommen ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), Abschnitt 4).
 
 ### Außerhalb des Kosmos: Van-Dusen-Folgen in „Sherlock Holmes & Co.“
 
@@ -65,3 +69,4 @@ Die Romantruhe-Anthologie [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes
 - Folgenseiten SH 1 und SH 2 im Vault.
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

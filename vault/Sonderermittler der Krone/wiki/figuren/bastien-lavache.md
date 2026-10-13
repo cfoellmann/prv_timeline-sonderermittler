@@ -11,6 +11,7 @@ quellen:
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - nebenfigur
   - sherlock-holmes
@@ -24,7 +25,7 @@ tags:
 
 - **Frühester belegter Auftritt:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-21-boleskine-house|OWMH 21 — Boleskine House]] (31.05.2019), laut Fandom-Besetzung. Bis 13.10.2026 stand hier SH 21 (19.06.2026) als Erstauftritt; das berücksichtigte die älteren OWMH-, Dracula- und Tesla-Folgen nicht.
 - **Funktion:** In den Dracula-Klappentexten heißt er „der von Zweifeln geplagte Sonderermittler“ (DRAC 11) und „der undurchsichtige Bastien Lavache“ (DRAC 14). In der Tesla-Reihe ist New Orleans sein Ort (TES 5), in FRANK 25 heißt er „Voodoo-Priester“.
-- **Sprecher:** Peter Lontzek, rollengenau in den Fandom-Besetzungstabellen OWMH 21, 29, 35, 36 und in der Rollenliste FRANK 28; er steht in den Sprecherlisten DRAC 11, 14, SH 21, 22, TES 5, 8 und FRANK 25–27. Eine Fanseiten-Figurenseite gibt es nicht.
+- **Sprecher:** Peter Lontzek, rollengenau in den Fandom-Besetzungstabellen OWMH 21, 29, 35, 36 und in der Rollenliste FRANK 28; er steht in den Sprecherlisten DRAC 11, 14, SH 21, 22, TES 5, 8 und FRANK 25–27. Eine Fanseiten-Figurenseite gibt es nicht. Folgengenau bestätigt beim Erstauftritt in OWMH 21: „Bastien Lavache (gesprochen von Peter Lontzek) gibt sein Debüt.“ (Rezension von Ingo Löchel, Black Stone Magazine; [Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 
 ## Auftritte
 
@@ -68,3 +69,4 @@ Alle Folgenseiten, die die Figur unter „Hauptfiguren“ oder in einem Klappent
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR und FRANK: DNB, Raute Media, Fandom MOR 0–8, Hörspieltalk (12.10.2026)
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

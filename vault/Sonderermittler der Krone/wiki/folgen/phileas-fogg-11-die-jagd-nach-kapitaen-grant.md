@@ -15,6 +15,10 @@ sprecher:
     name: Annina Braunmiller-Jest
   - rolle: Passepartout
     name: Marius Clarén
+  - rolle: Kapitän Grant
+    name: Douglas Welbat
+  - rolle: Robinson Crusoe
+    name: Wolf Frass
 spielzeit_min: 61
 zirkel: indirekt
 crossover_mit:
@@ -31,6 +35,8 @@ quellen:
   - raw/maritim/2026-10-13_blackstone-fandom-lovelybooks-fanseite_zirkel-dnapf-10-11.md
   - https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge11-die-jagd-nach-kapitaen-grant/
   - https://www.gratis-hoerspiele.de/jules-verne-11-die-jagd-nach-kapitaen-grant/
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
+  - https://blackbookmagazine.blogspot.com/2023/03/die-neuen-abenteuer-des-phileas-fogg-folge-11.html
 tags:
   - ankerfolge
   - crossover
@@ -48,7 +54,7 @@ tags:
 - **Autor:in:** Markus Topf & Dominik Ahrens (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt). Gratis-Hoerspiele.de nennt ebenfalls Dominik Ahrens und Markus Topf.
 - **Verlag:** Maritim.
 - **Timeline-Notiz:** Fortsetzung der ersten Zusammenarbeit Fogg × Wilde (Doppelfolge, Löchel-Chronologie).
-- **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Passepartout – Marius Clarén. *Erzähler (Jules Verne) laut DNB-Katalogeintrag der CD (Titelangabe, IDN 1166079694), keine weitere Rollenliste.* *Übrige Rollen abgeleitet:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Sascha Rotermund, Holger Mahlich, Thomas Karallus, Wolf Frass, Douglas Welbat, Torsten Sense, Jaron Löwenberg, Torsten Michaelis (DNB-Katalog der Digitalausgabe, Audible).
+- **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Passepartout – Marius Clarén, Kapitän Grant – Douglas Welbat, Robinson Crusoe – Wolf Frass. *Erzähler (Jules Verne) laut DNB-Katalogeintrag der CD (Titelangabe, IDN 1166079694), keine weitere Rollenliste.* *Übrige Rollen abgeleitet:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Sascha Rotermund, Holger Mahlich, Thomas Karallus, Wolf Frass, Douglas Welbat, Torsten Sense, Jaron Löwenberg, Torsten Michaelis (DNB-Katalog der Digitalausgabe, Audible). *Rolle laut Löchel-Rezension, Name in Liste bestätigt (13.10.2026):* Kapitän Grant – Douglas Welbat, Robinson Crusoe – Wolf Frass (Kopfangaben „Erster Auftritt von …“ in Ingo Löchels Rezension, Black Stone Magazine, 08.03.2023; beide Namen stehen in der DNB-Liste).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge11-die-jagd-nach-kapitaen-grant/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=ZWUgDui2aj8>
 
@@ -80,8 +86,11 @@ tags:
 
 ## Theorien & offene Fragen
 
-- **Tritt [[wiki/figuren/dracula|Dracula]] schon hier auf?** Fandom führt für DNAPF 11 einen „Gastauftritt“, Löchel setzt den ersten Auftritt erst auf DNAPF 12. Draculas Stammsprecher Torsten Michaelis steht in der Sprecherliste dieser Folge, aber ohne Rollenangabe. Nicht entschieden (Einzelquelle für die Rolle). Bestätigt sich der Auftritt, ist die Einstufung gegen [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|DNAPF 12]] (`direkt` über Dracula) neu abzugleichen.
+- **Tritt [[wiki/figuren/dracula|Dracula]] schon hier auf?** Fandom führt für DNAPF 11 einen „Gastauftritt“, Löchel setzt den ersten Auftritt erst auf DNAPF 12. Draculas Stammsprecher Torsten Michaelis steht in der Sprecherliste dieser Folge, aber ohne Rollenangabe. **Geklärt am 13.10.2026: kein echter Widerspruch** (Begründung mit Spoiler zu DNAPF 12 im aufklappbaren Hinweis unten). Die Rolle bleibt ohne Sprechereintrag (keine rollengenaue Quelle); `zirkel: indirekt` bleibt, der Zirkel wird auch im Hörspiel nicht genannt (automatisches Transkript der YouTube-Komplettfolge, [Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), Abschnitt 6).
 - Spielzeit am 13.10.2026 geklärt.
+
+> [!warning]- Spoiler zu DNAPF 12: Draculas „Gastauftritt“ (aufklappen)
+> Laut automatischem Transkript der YouTube-Komplettfolge zeigt die Schlussszene kurz den neuen Anführer der Organisation in seiner Burg in den Karpaten, ohne dass der Name Dracula fällt. Dass er Dracula ist, enthüllt erst DNAPF 12. Fandom zählt den Kurzauftritt als „Gastauftritt“, Löchel die Enthüllung als „ersten Auftritt“ — beide Angaben stimmen.
 
 ## Quellen
 
@@ -93,3 +102,5 @@ tags:
 - [raw/maritim/2026-10-13_blackstone-fandom-lovelybooks-fanseite_zirkel-dnapf-10-11.md](../../raw/maritim/2026-10-13_blackstone-fandom-lovelybooks-fanseite_zirkel-dnapf-10-11.md) — Zirkel-Prüfung DNAPF 10/11 (Löchel-Einzelrezensionen, Fandom, LovelyBooks, Fanseite; 13.10.2026).
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge11-die-jagd-nach-kapitaen-grant/>
 - Gratis-Hoerspiele.de (Inhaltsangabe, Quelle „Maritim Verlag / YouTube“): <https://www.gratis-hoerspiele.de/jules-verne-11-die-jagd-nach-kapitaen-grant/>
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen, Rollen-Sprecher-Angaben (Black Stone Magazine; 13.10.2026).
+- Ingo Löchel, Rezension vom 08.03.2023: <https://blackbookmagazine.blogspot.com/2023/03/die-neuen-abenteuer-des-phileas-fogg-folge-11.html>

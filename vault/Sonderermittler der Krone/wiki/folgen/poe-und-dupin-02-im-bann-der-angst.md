@@ -13,6 +13,8 @@ sprecher:
     name: Uve Teschner
   - rolle: Auguste Dupin
     name: Manfred Lehmann
+  - rolle: Monsieur G
+    name: Helmut Krauss
 spielzeit_min: 66
 zirkel: indirekt
 spoiler_level: grob
@@ -25,6 +27,8 @@ quellen:
   - raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md
   - https://www.sonderermittler-der-krone.de/serien/poe-und-dupin/folge02-im-bann-der-angst/
   - https://books.apple.com/de/audiobook/edgar-allan-poe-auguste-dupin-folge-2-im-bann-der-angst/id1515414359
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
+  - https://blackbookmagazine.blogspot.com/2023/04/edgar-allan-poe-und-auguste-dupin-folge-2-im-banne-der-angst.html
 tags:
   - dracula-als-sapriel
 ---
@@ -41,7 +45,7 @@ tags:
 - **Spielzeit:** 66 Minuten (Fanseite, Audible).
 - **Verlag:** Maritim
 - **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
-- **Sprecher (Auswahl):** Erzähler – Douglas Welbat, Edgar Allan Poe – Uve Teschner, Auguste Dupin – Manfred Lehmann. Erzähler laut Serienseite der Fanseite. *Übrige Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Douglas Welbat, Manfred Lehmann, Uve Teschner, Helmut Krauss, Torsten Michaelis, Annina Braunmiller-Jest (Audible, Liste ggf. gekürzt).
+- **Sprecher (Auswahl):** Erzähler – Douglas Welbat, Edgar Allan Poe – Uve Teschner, Auguste Dupin – Manfred Lehmann, Monsieur G – Helmut Krauss. Erzähler laut Serienseite der Fanseite. *Übrige Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Douglas Welbat, Manfred Lehmann, Uve Teschner, Helmut Krauss, Torsten Michaelis, Annina Braunmiller-Jest (Audible, Liste ggf. gekürzt). *Rolle laut Löchel-Rezension, Name in Liste bestätigt (13.10.2026):* Monsieur G – Helmut Krauss (Kopfangabe „Erster Auftritt von Monsieur G (Gesprochen von Helmut Krauss)“ in Ingo Löchels Rezension, Black Stone Magazine, 12.04.2023; Krauss steht in der Audible-Liste). Eine weitere Rollenangabe derselben Rezension ist wegen Spoilergefahr nur in der Rohdatei vermerkt.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/poe-und-dupin/folge02-im-bann-der-angst/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=J75yVToPkeo>
 
@@ -80,3 +84,5 @@ tags:
 - [raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md](../../raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md) — Klappentexte und Gegenprobe (Fanseite, Apple Books, Gratis-Hoerspiele.de, Fandom; 13.10.2026).
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/poe-und-dupin/folge02-im-bann-der-angst/>
 - Apple Books (Beschreibung): <https://books.apple.com/de/audiobook/edgar-allan-poe-auguste-dupin-folge-2-im-bann-der-angst/id1515414359>
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen, Rollen-Sprecher-Angaben (Black Stone Magazine; 13.10.2026).
+- Ingo Löchel, Rezension vom 12.04.2023: <https://blackbookmagazine.blogspot.com/2023/04/edgar-allan-poe-und-auguste-dupin-folge-2-im-banne-der-angst.html>

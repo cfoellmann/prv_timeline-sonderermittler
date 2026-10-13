@@ -7,6 +7,7 @@ quellen:
   - https://bastei-luebbe.de/Audio/Krimis-Thriller/Oscar-Wilde-Mycroft-Holmes-Folge-40/9783785784259
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - sonderermittler
 ---
@@ -17,7 +18,7 @@ tags:
 
 ## Kurzprofil
 
-- **Sprecherin:** Mia Diekow, rollengenau in allen elf Fandom-Besetzungstabellen unten.
+- **Sprecherin:** Mia Diekow, rollengenau in allen elf Fandom-Besetzungstabellen unten. Folgengenau bestätigt beim Erstauftritt in OWMH 5: „Violet Ishiguro (Gesprochen von Mia Diekow) gibt ihr Debüt“ (Rezension von Ingo Löchel, Black Stone Magazine; [Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 - **Erstauftritt:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-05-kalter-fels|OWMH 5 — Kalter Fels]] (09.09.2016), laut Löchel-Chronologie zusammen mit der [[wiki/konzepte/charles-darwin-gesellschaft|Charles Darwin Gesellschaft]]; auch in der Fandom-Besetzung.
 - **Bekanntester Einsatz:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-40-lockruf-des-untergangs|OWMH 40 „Lockruf des Untergangs“]]. Dort begleitet sie Wilde bei den Ermittlungen um eine Mordserie, Artefakte und Worte der Macht.
 
@@ -57,3 +58,4 @@ In den Rollenlisten zu OWMH 45–60 taucht sie nicht auf.
 - Bastei Lübbe / Lübbe Audio: <https://bastei-luebbe.de/Audio/Krimis-Thriller/Oscar-Wilde-Mycroft-Holmes-Folge-40/9783785784259>
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44.
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Erstauftritt OWMH 5.
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

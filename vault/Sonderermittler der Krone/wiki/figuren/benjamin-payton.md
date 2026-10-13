@@ -10,6 +10,7 @@ quellen:
   - raw/maritim/2026-04-27_owmh_serien-und-folge-01.md
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - nebenfigur
 ---
@@ -22,7 +23,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecher:** Leonhard Mahlich, rollengenau in allen sieben Fandom-Besetzungstabellen unten und in der Besetzungsliste der Pilotfolge.
+- **Sprecher:** Leonhard Mahlich, rollengenau in allen sieben Fandom-Besetzungstabellen unten und in der Besetzungsliste der Pilotfolge. Ingo Löchels Rezension (Black Stone Magazine) zu OWMH 2 bestätigt ihn: „… Dr. Benjamin Payton (gesprochen von Leonhard Mahlich) …“ ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 - **Status und Allianz-Verlauf:** siehe Spoiler-Hinweis unter der Auftrittstabelle.
 
 ## Auftritte
@@ -64,3 +65,4 @@ Sieben Folgen mit rollengenauer Besetzung im Fandom-Wiki (OWMH 1–44 ausgewerte
 - [raw/maritim/2026-04-27_owmh_serien-und-folge-01.md](../../raw/maritim/2026-04-27_owmh_serien-und-folge-01.md) — Besetzungsliste OWMH 1.
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — Folgennotiz OWMH 11.
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44.
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

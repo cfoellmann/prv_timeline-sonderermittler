@@ -10,6 +10,7 @@ quellen:
   - raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - dracula-gegner
   - wiederkehrende-figur
@@ -21,7 +22,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecher:** Martin Sabel — rollengenau in den Fandom-Besetzungstabellen OWMH 32, 33, 35, 36; die Traumwelt-Rezension zur DRAC-Box 1 bestätigt ihn.
+- **Sprecher:** Martin Sabel — rollengenau in den Fandom-Besetzungstabellen OWMH 32, 33, 35, 36; die Traumwelt-Rezension zur DRAC-Box 1 bestätigt ihn. **DRAC 1 folgengenau bestätigt (13.10.2026):** „… Jonathan Harker (gesprochen von Martin Sabel) …“ (Rezension von Ingo Löchel, Black Stone Magazine, Kopfangabe „Erster Auftritt“; bisher abgeleitet; [Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md)).
 
 ## Rolle im Kosmos
 
@@ -56,3 +57,4 @@ Harker ist die Figur, über die Dracula in [[wiki/folgen/dracula-01-erbe-des-boe
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Auftritt in SH 23.
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

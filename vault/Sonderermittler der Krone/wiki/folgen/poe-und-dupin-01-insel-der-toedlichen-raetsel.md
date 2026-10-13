@@ -13,6 +13,8 @@ sprecher:
     name: Uve Teschner
   - rolle: Auguste Dupin
     name: Manfred Lehmann
+  - rolle: Gaston Morel
+    name: Wolfgang Condrus
 spielzeit_min: 73
 zirkel: indirekt
 spoiler_level: grob
@@ -25,6 +27,8 @@ quellen:
   - raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md
   - https://www.sonderermittler-der-krone.de/serien/poe-und-dupin/folge01-insel-der-toedlichen-raetsel/
   - https://books.apple.com/de/audiobook/edgar-allan-poe-auguste-dupin-folge-1-insel-der-t%C3%B6dlichen/id1515383806
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
+  - https://blackbookmagazine.blogspot.com/2023/04/edgar-allan-poe-auguste-dupin-folge-1.html
 tags:
   - erstauftritt-gaston-morel
 ---
@@ -41,7 +45,7 @@ tags:
 - **Spielzeit:** 73 Minuten (Fanseite).
 - **Verlag:** Maritim
 - **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
-- **Sprecher:** Erzähler – Douglas Welbat, Edgar Allan Poe – Uve Teschner, Auguste Dupin – Manfred Lehmann. Rollen laut Rezension auf LovelyBooks und übereinstimmend laut Fanseite (Serienseite: Erzähler; Figurenseiten: Poe, Dupin). Vollständige Liste ohne Rollen: Douglas Welbat, Manfred Lehmann, Uve Teschner, Wolfgang Condrus, Michael Pan, Peter Weis (Audible, Liste ggf. gekürzt).
+- **Sprecher:** Erzähler – Douglas Welbat, Edgar Allan Poe – Uve Teschner, Auguste Dupin – Manfred Lehmann, Gaston Morel – Wolfgang Condrus. Rollen laut Rezension auf LovelyBooks und übereinstimmend laut Fanseite (Serienseite: Erzähler; Figurenseiten: Poe, Dupin). Vollständige Liste ohne Rollen: Douglas Welbat, Manfred Lehmann, Uve Teschner, Wolfgang Condrus, Michael Pan, Peter Weis (Audible, Liste ggf. gekürzt). *Rolle laut Löchel-Rezension, Name in Liste bestätigt (13.10.2026):* Gaston Morel – Wolfgang Condrus (Kopfangabe „Gaston Morel (gesprochen von Wolfgang Condrus) gibt sein Debüt“ in Ingo Löchels Rezension, Black Stone Magazine, 01.04.2023; Condrus steht in der Audible-Liste). Löchel bestätigt im Fließtext auch Erzähler, Poe und Dupin.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/poe-und-dupin/folge01-insel-der-toedlichen-raetsel/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=XlvE_bLf3N0>
 
@@ -74,3 +78,5 @@ tags:
 - [raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md](../../raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md) — Klappentexte und Gegenprobe (Fanseite, Apple Books, Gratis-Hoerspiele.de, Fandom; 13.10.2026).
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/poe-und-dupin/folge01-insel-der-toedlichen-raetsel/>
 - Apple Books (Beschreibung): <https://books.apple.com/de/audiobook/edgar-allan-poe-auguste-dupin-folge-1-insel-der-t%C3%B6dlichen/id1515383806>
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen, Rollen-Sprecher-Angaben (Black Stone Magazine; 13.10.2026).
+- Ingo Löchel, Rezension vom 01.04.2023: <https://blackbookmagazine.blogspot.com/2023/04/edgar-allan-poe-auguste-dupin-folge-1.html>

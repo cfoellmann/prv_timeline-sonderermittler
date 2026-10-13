@@ -7,6 +7,7 @@ quellen:
   - raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - zirkel-verbuendete
   - antagonist
@@ -19,7 +20,7 @@ tags:
 ## Eckdaten
 
 - **Fraktion:** [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] (Verbündeter, laut Chronologie).
-- **Sprecher:** Timo Kinzel, rollengenau in den Fandom-Besetzungstabellen OWMH 18 („Paul Hiller“) und OWMH 28 („Paul“).
+- **Sprecher:** Timo Kinzel, rollengenau in den Fandom-Besetzungstabellen OWMH 18 („Paul Hiller“) und OWMH 28 („Paul“). Folgengenau bestätigt beim Erstauftritt in OWMH 18: „Paul Hiller (Gesprochen von Timo Kinzel) gibt sein Debüt“ (Rezension von Ingo Löchel, Black Stone Magazine; [Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 - **Erstauftritt:** [[wiki/folgen/oscar-wilde-und-mycroft-holmes-18-feindberuehrung|OWMH 18 – Feindberührung]] (30.11.2018), laut Chronologie und Fandom.
 - **Verbleib:** siehe Spoiler-Hinweis unter der Auftrittstabelle.
 - **Rolle:** Auftragsmörder.
@@ -49,3 +50,4 @@ tags:
 - [raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md](../../raw/maritim/2026-04-28_owmh_folgen-05-bis-56.md) — Folgennotizen OWMH 18 und 28.
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 18 und 28.
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Erstauftritt, Einsatz gegen Mycrofts Bekannte, Verbleib.
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

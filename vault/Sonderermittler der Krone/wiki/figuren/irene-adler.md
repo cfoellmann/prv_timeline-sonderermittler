@@ -21,6 +21,7 @@ quellen:
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - hauptfigur
   - sonderermittler
@@ -149,7 +150,7 @@ Alle 57 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 
 ## Theorien & offene Fragen
 
-- **Sprecherin (geklärt 12.10.2026):** Yvonne Greitzke ist nicht mehr nur sekundär (Zauberspiegel-Chronologie zu OWMH 16) belegt, sondern durch die Fanseiten-Figurenseite, die Fandom-Besetzungstabellen OWMH 16, 32–36, SHC 45 und IADK 0–15 sowie alle Sprecherlisten der Reihe. Der frühere Vorbehalt ist erledigt.
+- **Sprecherin (geklärt 12.10.2026):** Yvonne Greitzke ist nicht mehr nur sekundär (Zauberspiegel-Chronologie zu OWMH 16) belegt, sondern durch die Fanseiten-Figurenseite, die Fandom-Besetzungstabellen OWMH 16, 32–36, SHC 45 und IADK 0–15 sowie alle Sprecherlisten der Reihe. Der frühere Vorbehalt ist erledigt. Zusätzlich Ingo Löchels Rezension (Black Stone Magazine): „Irene Adler (gesprochen von Yvonne Greitzke) gibt ihr Debüt in der Serie“ (OWMH 16) und „Mit Irene Adler (Gesprochen von Yvonne Greitzke)“ (SHC 45) ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 - **Chronologie-Spannung:** In [[wiki/folgen/oscar-wilde-und-mycroft-holmes-58-alleingang|OWMH 58]] (10.07.2026) gilt Adler als verschwunden, während sie in [[wiki/folgen/irene-adler-33-ein-altes-problem|IADK 33]] (12.06.2026) und [[wiki/folgen/irene-adler-34-kuenstlicher-feind|IADK 34]] (07.08.2026) parallel am Eva-Strang arbeitet — und Wilde in IADK 33 sogar mitgelistet ist. Dass die beiden Stränge ineinandergreifen, ist die naheliegende Lesart, **aber nicht belegt**.
 - **Eva und Frankenstein:** [[wiki/konzepte/menorium|Menorium]] wurde bereits in [[wiki/folgen/frankenstein-11-gefangene-der-finsternis|FRANK 11]] als Grundstoff für Frankensteins künstliche Menschen eingeführt — in derselben Folge, in der Adler und Wu erstmals im Frankenstein-Zweig auftreten. Ein Zusammenhang zwischen Eva und Frankensteins Programm liegt nahe, ist aber **Lesart, nicht belegt**. Woher Eva stammt und warum IADK 33 sie als „altes Problem" behandelt, ist im Repo nicht identifiziert.
 - **Verhältnis zur literarischen Vorlage offen:** Weder die Anbindung an Doyles Irene Adler noch etwaige Pseudonyme oder Beinamen sind im Repo belegt; das `aliase`-Feld bleibt deshalb leer.
@@ -173,3 +174,4 @@ Alle 57 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK und EAPAD: Fandom-Rollentabellen IADK 0–15, Fanseite, Raute Media, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
 - [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

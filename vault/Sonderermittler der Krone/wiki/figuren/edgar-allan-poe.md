@@ -15,6 +15,7 @@ quellen:
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - hauptfigur
   - crossover
@@ -28,7 +29,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecher:** Uve Teschner — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen OWMH 32, 33, 35, 36 und IADK 6; für EAPAD 1 zusätzlich durch eine LovelyBooks-Rezension belegt („Uve Teschner als Edgar Allan Poe“). **Erzähler** der Maritim-Reihe ist Douglas Welbat (Fanseiten-Serienseite).
+- **Sprecher:** Uve Teschner — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen OWMH 32, 33, 35, 36 und IADK 6; für EAPAD 1 zusätzlich durch eine LovelyBooks-Rezension belegt („Uve Teschner als Edgar Allan Poe“). **Erzähler** der Maritim-Reihe ist Douglas Welbat (Fanseiten-Serienseite). Ingo Löchels Rezension (Black Stone Magazine) bestätigt ihn für EAPAD 1 („UVE TESCHNER als Edgar Allan Poe“) und IADK 6 („Edgar Allan Poe (gesprochen von Uwe Teschner)“, Schreibweise der Rezension) ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 
 ## Rolle im Kosmos
 
@@ -145,3 +146,4 @@ Alle 41 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK und EAPAD: Fandom-Rollentabellen IADK 0–15, Fanseite, Raute Media, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-storytel-rautemedia-fanseite_tes9-owep-besetzung.md) — Besetzung TES 9 und OWEP 1–4 (DNB, Audible, Storytel, Raute Media, Fanseite; 12.10.2026)
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

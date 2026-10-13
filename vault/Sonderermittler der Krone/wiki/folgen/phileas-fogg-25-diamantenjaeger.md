@@ -15,6 +15,10 @@ sprecher:
     name: Annina Braunmiller-Jest
   - rolle: Passepartout
     name: Marius Clarén
+  - rolle: Daphne Pratchett
+    name: Florentine Draeger
+  - rolle: Kapitän Stanford Judd
+    name: Helmut Krauss
 spielzeit_min: 63
 zirkel: kein
 crossover_mit: []
@@ -27,6 +31,8 @@ quellen:
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
+  - https://blackbookmagazine.blogspot.com/2023/05/die-neuen-abenteuer-des-phileas-fogg-folge-25.html
 tags:
   - aouda
   - diamanten
@@ -43,7 +49,7 @@ tags:
 - **Erscheinungsdatum:** 14.08.2020 (Apple Music und Deezer, Abruf 2026-09-06).
 - **Spielzeit:** 63 Minuten.
 - **Autor:in:** Marc Freund (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
-- **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Passepartout – Marius Clarén. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Dietmar Wunder, Florentine Draeger, Matti Klemm, Peter Lontzek, Volker Brandt, Peter Kirchberger, Helmut Krauss, Alexander Turrek, Eckart Dux (DNB-Katalog der Digitalausgabe, Audible). Erzähler (Jules Verne) – Christian Brückner nachgetragen am 12.10.2026 (Entscheidung Christian): Brückner steht in allen Sprecherlisten DNAPF 1–50 und ist laut DNB-Titelangabe der CDs DNAPF 1–7 und 9–18 sowie der Verlagsmitteilung zur Stammbesetzung (2015) Erzähler der Reihe; ebenfalls abgeleitet.
+- **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Passepartout – Marius Clarén, Daphne Pratchett – Florentine Draeger, Kapitän Stanford Judd – Helmut Krauss. *Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Dietmar Wunder, Florentine Draeger, Matti Klemm, Peter Lontzek, Volker Brandt, Peter Kirchberger, Helmut Krauss, Alexander Turrek, Eckart Dux (DNB-Katalog der Digitalausgabe, Audible). Erzähler (Jules Verne) – Christian Brückner nachgetragen am 12.10.2026 (Entscheidung Christian): Brückner steht in allen Sprecherlisten DNAPF 1–50 und ist laut DNB-Titelangabe der CDs DNAPF 1–7 und 9–18 sowie der Verlagsmitteilung zur Stammbesetzung (2015) Erzähler der Reihe; ebenfalls abgeleitet. *Rolle laut Löchel-Rezension, Name in Liste bestätigt (13.10.2026):* Daphne Pratchett – Florentine Draeger, Kapitän Stanford Judd – Helmut Krauss (Kopfangaben „… gibt ihr/sein Debüt“ in Ingo Löchels Rezension, Black Stone Magazine, 21.05.2023; beide Namen stehen in der DNB-Liste).
 - **Verlag:** Maritim.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge25-diamantenjaeger/>
 
@@ -69,3 +75,5 @@ Während Phileas Fogg außer Haus ist, bittet Daphne Pratchett Aouda um Hilfe un
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-22-bis-32.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge25-diamantenjaeger/>
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen, Rollen-Sprecher-Angaben (Black Stone Magazine; 13.10.2026).
+- Ingo Löchel, Rezension vom 21.05.2023: <https://blackbookmagazine.blogspot.com/2023/05/die-neuen-abenteuer-des-phileas-fogg-folge-25.html>

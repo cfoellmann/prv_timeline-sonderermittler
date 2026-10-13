@@ -10,6 +10,7 @@ quellen:
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
   - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - held
   - phileas-fogg-begleiter
@@ -26,7 +27,7 @@ tags:
 - **Fraktion:** Helden
 - **Hauptserie:** [[wiki/serien/phileas-fogg|Jules Verne – Die neuen Abenteuer des Phileas Fogg]]
 - **Crossover:** [[wiki/serien/irene-adler|Irene Adler]]
-- **Sprecher:** Marius Clarén — Stammsprecher laut Fanseiten-Figurenseite und Verlagsmitteilung zur Stammbesetzung der Fogg-Reihe (2015); rollengenau in den Rollenlisten DNAPF 1, 7, 8. In DNAPF 2–5 und 33 nicht zugeordnet, weil er dort in keiner Sprecherliste steht. Nachrecherche 13.10.2026: Für DNAPF 2 nennt die Poldi-Rezension Clarén als Passepartout (deckt sich mit der Verlagsmitteilung 2015) — nicht eingetragen, weil Rezensionen keine Rollenquelle sind; Entscheidung offen. Für DNAPF 4, 5 und 33 weiter kein Beleg (in der 14-Namen-Liste von DNAPF 33 fehlt Clarén auch bei BookBeat). Die Folgenübersicht der Fanseiten-Figurenseite führt für Passepartout keine DNAPF-Folgen ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md)).
+- **Sprecher:** Marius Clarén — Stammsprecher laut Fanseiten-Figurenseite und Verlagsmitteilung zur Stammbesetzung der Fogg-Reihe (2015); rollengenau in den Rollenlisten DNAPF 1, 7, 8. In DNAPF 2–5 und 33 nicht zugeordnet, weil er dort in keiner Sprecherliste steht. Nachrecherche 13.10.2026: Für DNAPF 2 nennt die Poldi-Rezension Clarén als Passepartout (deckt sich mit der Verlagsmitteilung 2015) — nicht eingetragen, weil Rezensionen keine Rollenquelle sind; Entscheidung offen. Für DNAPF 4, 5 und 33 weiter kein Beleg (in der 14-Namen-Liste von DNAPF 33 fehlt Clarén auch bei BookBeat). Die Folgenübersicht der Fanseiten-Figurenseite führt für Passepartout keine DNAPF-Folgen ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md)). **Löchel-Rezensionen (13.10.2026):** zweite Rollenliste für DNAPF 1 („Passepartou: Marius Clarén“) und folgengenau IADK 6 („Passepartourt (gesprochen von Marius Clarén)“). In [[wiki/folgen/phileas-fogg-33-von-der-erde-zum-mond|DNAPF 33]] handelt Passepartout laut Rezensionstext („Unterdessen entdecken Aouda und Passepartout …“), ein Sprecher ist weiter nicht belegt — kein Eintrag ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md)).
 
 ## Charakterisierung
 
@@ -67,3 +68,4 @@ Passepartout ist eine wichtige Brückenfigur zwischen verschiedenen Serien des M
 - [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA: Verlagsmitteilung zur Stammbesetzung 2015, Rollenlisten, DNB 245 $c (12.10.2026)
 - [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

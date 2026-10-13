@@ -9,6 +9,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/figuren/theodora-sachs/
   - https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge23-der-wiedergaenger-von-soho/
   - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - hauptfigur
   - zirkel-umfeld
@@ -20,7 +21,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecherin:** Gabrielle Pietermann. Offen (Nachrecherche 13.10.2026): Für OWEP 3/4 steht sie nur in der Box-Gesamtliste, ein folgengenauer Beleg fehlt weiter — kein Sprechereintrag. In OWMH 43 steht Pietermann in allen Sprecherlisten, die Figur aber weder im Klappentext noch in der Figurenliste — ebenfalls nicht eingetragen ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md)).
+- **Sprecherin:** Gabrielle Pietermann. Offen (Nachrecherche 13.10.2026): Für OWEP 3/4 steht sie nur in der Box-Gesamtliste, ein folgengenauer Beleg fehlt weiter — kein Sprechereintrag. In OWMH 43 steht Pietermann in allen Sprecherlisten, die Figur aber weder im Klappentext noch in der Figurenliste — ebenfalls nicht eingetragen ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md)). Folgengenau bestätigt beim Erstauftritt in OWMH 10: „Theodora Sachs (gesprochen von Gabrielle Pietermann) gibt ihr Debüt“ (Rezension von Ingo Löchel, Black Stone Magazine; [Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 - **Wichtigste Reihe im aktuellen Repo-Stand:** [[wiki/serien/moriarty|Moriarty – Zwischen Genie und Verbrechen]].
 - **Rolle im Kosmos:** Vermittlerin, Helferin und gefährliche Gegenspielerin mit hypnotischen Fähigkeiten.
 
@@ -136,3 +137,4 @@ Alle 89 Folgenseiten, die die Figur unter „Hauptfiguren“ (WPO 3–4: „Anta
 - Offizielle Figuren-Seite: <https://www.sonderermittler-der-krone.de/figuren/theodora-sachs/>
 - Offizielle Folgenseite SH 23 (Figurenliste): <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge23-der-wiedergaenger-von-soho/>
 - [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

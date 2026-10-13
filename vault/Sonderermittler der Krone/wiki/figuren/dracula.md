@@ -15,6 +15,7 @@ quellen:
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
   - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - zirkel-mitglied
   - antagonist
@@ -29,16 +30,19 @@ tags:
 - **Zentrale Reihe:** [[wiki/serien/dracula|Dracula und der Zirkel der Sieben]].
 - **Rolle im Kosmos:** Anführer des Zirkels, Scharnierfigur zwischen frühen Abenteuerreihen und späteren Krimi- und Horrorlinien.
 - **Erstauftritt im aktuellen Repo-Stand:** [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|DNAPF 12 - Entscheidung in den Karpaten]] am 10.11.2017.
-- **Sprecher:** Torsten Michaelis — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen OWMH 20, 21, 25–27, 31–36, IADK 6–9, 12, 13, 15 und MOR 2 sowie in der Rollenliste FRANK 1; in DRAC 1–16, DNAPF 16, 27, 34 und weiteren Folgen nach der Ableitungsregel. **DRAC 1 (geklärt 13.10.2026):** Torsten Michaelis ist als Dracula folgengenau durch eine zweite Rezension bestätigt (Buchtips.net, 11.10.2020). Die Angabe der Poldi-Einzelrezension, Felix Strüven spreche Dracula, ist ein Fehler (Box-Rezension derselben Seite, Traumwelt und Fanseite: Michaelis). Offen bleibt nur, welche Rolle Strüven in DRAC 1 spricht — Heldenchaos nennt ihn unter den Nebensprechern ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md)). Michaelis steht außerdem in den Sprecherlisten EAPAD 2, 11, 14–18 und 20–24; als Dracula abgeleitet ist er dort nur in 21, 22 und 24 (Klappentext), ob er in den frühen EAPAD-Folgen eine andere Rolle spricht, ist offen.
+- **Sprecher:** Torsten Michaelis — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen OWMH 20, 21, 25–27, 31–36, IADK 6–9, 12, 13, 15 und MOR 2 sowie in der Rollenliste FRANK 1; in DRAC 1–16, DNAPF 16, 27, 34 und weiteren Folgen nach der Ableitungsregel. **DRAC 1 (geklärt 13.10.2026):** Torsten Michaelis ist als Dracula folgengenau durch eine zweite Rezension bestätigt (Buchtips.net, 11.10.2020). Die Angabe der Poldi-Einzelrezension, Felix Strüven spreche Dracula, ist ein Fehler (Box-Rezension derselben Seite, Traumwelt und Fanseite: Michaelis). Offen bleibt nur, welche Rolle Strüven in DRAC 1 spricht — Heldenchaos nennt ihn unter den Nebensprechern ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md)). Michaelis steht außerdem in den Sprecherlisten EAPAD 2, 11, 14–18 und 20–24; als Dracula abgeleitet ist er dort nur in 21, 22 und 24 (Klappentext), ob er in den frühen EAPAD-Folgen eine andere Rolle spricht, ist offen. **Löchel-Rezensionen (13.10.2026):** „Erster Auftritt von Dracula (gesprochen von Torsten Michaelis)“ zu [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten|DNAPF 12]] (Name in DNB/Audible, seit 13.10.2026 dort eingetragen) und „Erster Auftritt von Dracula (Gesprochen von Torsten Michaelis) in der Serie“ zu OWMH 20. Zu DNAPF 11 siehe den Spoiler-Hinweis unter der ersten Auftrittstabelle ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md)).
 
 ## Auftritte im aktuellen Repo-Stand
 
 | Folge / Reihe | Rolle | Notiz |
 |---|---|---|
-| [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten\|DNAPF 12 - Entscheidung in den Karpaten]] | früher Kosmos-Auftritt | laut Chronologie Erstauftritt |
+| [[wiki/folgen/phileas-fogg-12-entscheidung-in-den-karpaten\|DNAPF 12 - Entscheidung in den Karpaten]] | früher Kosmos-Auftritt | laut Chronologie Erstauftritt; Löchel-Rezension „Erster Auftritt von Dracula (gesprochen von Torsten Michaelis)“, Sprechereintrag seit 13.10.2026 |
 | [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]] | Titel- und Zentralfigur | eigene Maritim-Reihe seit 2020 |
 | [[wiki/serien/moriarty\|Moriarty]] | Gegenspieler / Machtfaktor | mehrfach direkt verlinkt |
 | [[wiki/serien/phileas-fogg\|Phileas Fogg]] | früher Vorlauf | DNAPF führt Dracula bereits vor der Eigenreihe ein |
+
+> [!warning]- Spoiler zu DNAPF 11/12: Kurzauftritt vor dem „ersten Auftritt“ (aufklappen)
+> Fandom führt für [[wiki/folgen/phileas-fogg-11-die-jagd-nach-kapitaen-grant|DNAPF 11]] einen „Gastauftritt“ Draculas, Löchel setzt den ersten Auftritt auf DNAPF 12. Laut automatischem Transkript der YouTube-Komplettfolge zeigt die Schlussszene von DNAPF 11 kurz den neuen Anführer der Organisation, ohne dass der Name Dracula fällt; benannt wird er erst in DNAPF 12. Beide Angaben stimmen also. Für DNAPF 11 gibt es keinen Sprechereintrag ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), Abschnitt 6).
 
 ### Vollständige Auftrittsliste
 
@@ -112,3 +116,4 @@ Alle 48 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA: Verlagsmitteilung zur Stammbesetzung 2015, Rollenlisten, DNB 245 $c (12.10.2026)
 - [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

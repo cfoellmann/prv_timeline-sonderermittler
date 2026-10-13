@@ -23,6 +23,10 @@ quellen:
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-13_blackstone-fandom-lovelybooks-fanseite_zirkel-dnapf-10-11.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
+  - https://blackbookmagazine.blogspot.com/2023/03/die-neuen-abenteuer-des-phileas-fogg-folge-13.html
+  - https://www.youtube.com/watch?v=tjekoOAd-Do
 tags:
   - meteor
   - frankreich
@@ -55,6 +59,7 @@ Ein amerikanischer Astronom entdeckt einen Meteor, der direkt auf die Erde zuras
 ## Bezug zum Zirkel der Sieben
 
 - **Derzeit kein ausdrücklich belegter Zirkel-Bezug** in der offiziellen Folgenbeschreibung.
+- **Befund 13.10.2026:** Im Hörspiel selbst wird der Zirkel der Sieben genannt — Mycroft Holmes begründet Oscar Wildes Abwesenheit damit, Wilde sei „auf den Zirkel der Sieben angesetzt“ (automatisches Transkript der YouTube-Komplettfolge, etwa Minute 10). Das deckt sich mit Fandom („In diesem Rahmen wird der Zirkel der Sieben in dieser Reihe das erste Mal erwähnt“). Ein Zirkel-Mitglied tritt nicht auf, Gegenspieler ist Aurelius Tonans (Löchel: „Mit Mycroft Holmes und Aurelius Tonans“). Die Einstufung `kein` ist damit widerlegt; ob die Nennung `indirekt` oder `direkt` trägt, ist offen und steht bis zur Entscheidung unverändert ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), Abschnitt 6).
 
 ## Crossover & Querverweise
 
@@ -66,3 +71,7 @@ Ein amerikanischer Astronom entdeckt einen Meteor, der direkt auf die Erde zuras
 - [raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md](../../raw/maritim/2026-04-29_phileas-fogg_folgen-06-07-09-13-bis-21.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge13-der-untergang-der-welt/>
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom-lovelybooks-fanseite_zirkel-dnapf-10-11.md](../../raw/maritim/2026-10-13_blackstone-fandom-lovelybooks-fanseite_zirkel-dnapf-10-11.md) — Zirkel-Prüfung DNAPF 10/11, darin die Fandom-Reihenseite zur ersten Zirkel-Nennung in DNAPF 13 (13.10.2026).
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen und Transkript der YouTube-Komplettfolge, Zirkel-Kalibrierung DNAPF 11–13 (13.10.2026).
+- Ingo Löchel, Rezension vom 18.03.2023: <https://blackbookmagazine.blogspot.com/2023/03/die-neuen-abenteuer-des-phileas-fogg-folge-13.html>
+- YouTube-Komplettfolge (Maritim): <https://www.youtube.com/watch?v=tjekoOAd-Do>

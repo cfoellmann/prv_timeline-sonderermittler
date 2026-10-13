@@ -20,6 +20,7 @@ quellen:
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - hauptfigur
   - abenteuer
@@ -33,7 +34,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecher:** K. Dieter Klebsch — Verlagsmitteilung zur Stammbesetzung der Fogg-Reihe (2015), Rollenliste DNAPF 1 (hoernews.de), Rollenlisten NEM 2 und 4 (Hörspieltalk), DNB 245 $c der CDs NEM 1 und 3 („Kapitän Nemo K. Dieter Klebsch“), Stammsprecher laut Fanseiten-Figurenseite. **Junger Nemo:** Peter Sura (Fanseiten-Figurenseite, Rollenlisten NEM 2–4).
+- **Sprecher:** K. Dieter Klebsch — Verlagsmitteilung zur Stammbesetzung der Fogg-Reihe (2015), Rollenliste DNAPF 1 (hoernews.de), Rollenlisten NEM 2 und 4 (Hörspieltalk), DNB 245 $c der CDs NEM 1 und 3 („Kapitän Nemo K. Dieter Klebsch“), Stammsprecher laut Fanseiten-Figurenseite. **Junger Nemo:** Peter Sura (Fanseiten-Figurenseite, Rollenlisten NEM 2–4). Zweite Rollenliste für DNAPF 1: Ingo Löchels Rezension (Black Stone Magazine) druckt „Kapitän Nemo: K. Dieter Klebsch“ ab; zu DNAPF 2, 4, 6, 10, 40 und 42 nur „Mit Kapitän Nemo“ ohne Sprecher ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 - **Schreibweise des Sprechers:** DNB und Audible schreiben „K. Dieter Klebsch“ (im Vault einheitlich so). Die Fanseite und das Fandom-Lemma schreiben „Klaus-Dieter Klebsch“, die Verlagsmitteilung 2015 und die Fandom-Tabellen „K.Dieter Klebsch“ — dieselbe Person. In OWMH spricht er laut Fandom außerdem Dr. Alfons Grell.
 
 ## Rolle im Kosmos
@@ -103,3 +104,4 @@ Die Liste ist beim aktuellen Repo-Stand **vollständig** — es sind alle Folgen
 - [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
 - [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

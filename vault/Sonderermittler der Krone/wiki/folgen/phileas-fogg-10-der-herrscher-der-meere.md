@@ -15,6 +15,8 @@ sprecher:
     name: Annina Braunmiller-Jest
   - rolle: Passepartout
     name: Marius Clarén
+  - rolle: Aurelius Tonans
+    name: Gudo Hoegel
 spielzeit_min: 62
 zirkel: indirekt
 crossover_mit:
@@ -30,6 +32,8 @@ quellen:
   - raw/maritim/2026-10-13_blackstone-fandom-lovelybooks-fanseite_zirkel-dnapf-10-11.md
   - https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge10-der-herrscher-der-meere/
   - https://www.gratis-hoerspiele.de/jules-verne-10-der-herrscher-der-meere/
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
+  - https://blackbookmagazine.blogspot.com/2023/03/die-neuen-abenteuer-des-phileas-fogg-folge-10.html
 tags:
   - ankerfolge
   - crossover
@@ -47,7 +51,7 @@ tags:
 - **Autor:in:** Markus Topf & Dominik Ahrens (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt). Gratis-Hoerspiele.de nennt ebenfalls Dominik Ahrens und Markus Topf.
 - **Verlag:** Maritim.
 - **Timeline-Notiz:** Erste Zusammenarbeit Fogg × Wilde (Doppelfolge mit DNAPF 11, Löchel-Chronologie; Wilde ist im Klappentext genannt).
-- **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Passepartout – Marius Clarén. *Erzähler (Jules Verne) laut DNB-Katalogeintrag der CD (Titelangabe, IDN 116607935X), keine weitere Rollenliste.* *Übrige Rollen abgeleitet:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Gudo Hoegel (DNB-Katalog der Digitalausgabe, Audible). Im Klappentext genannt, Stammsprecher:in aber nicht in der Liste, Rolle daher offen: Oscar Wilde (Sascha Rotermund), Mycroft Holmes (Reent Reins).
+- **Sprecher (Auswahl):** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Passepartout – Marius Clarén, Aurelius Tonans – Gudo Hoegel. *Erzähler (Jules Verne) laut DNB-Katalogeintrag der CD (Titelangabe, IDN 116607935X), keine weitere Rollenliste.* *Übrige Rollen abgeleitet:* Figur im offiziellen Klappentext bzw. in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge (Aouda: keine Fanseiten-Figurenseite, Stammsprecherin laut Verlagsmitteilung zur Stammbesetzung von 2015 und den Rollenlisten DNAPF 1, 7, 8). Vollständige Liste ohne Rollen: Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest, Marius Clarén, Gudo Hoegel (DNB-Katalog der Digitalausgabe, Audible). Im Klappentext genannt, Stammsprecher:in aber nicht in der Liste, Rolle daher offen: Oscar Wilde (Sascha Rotermund), Mycroft Holmes (Reent Reins). *Rolle laut Löchel-Rezension, Name in Liste bestätigt (13.10.2026):* Aurelius Tonans – Gudo Hoegel (Kopfangabe „Erster Auftritt von Aurelius Tonans (gesprochen von Gudo Hoegel)“ in Ingo Löchels Rezension, Black Stone Magazine, 07.03.2023; Hoegel steht in der Liste). Löchel nennt dort auch Oscar Wilde – Sascha Rotermund und Mycroft Holmes – Reent Reins; beide fehlen in der Liste, daher weiter nicht eingetragen (Widerspruch, siehe Rohdaten).
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge10-der-herrscher-der-meere/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=VWOUWjHZ264>
 
@@ -93,3 +97,5 @@ tags:
 - [raw/maritim/2026-10-13_blackstone-fandom-lovelybooks-fanseite_zirkel-dnapf-10-11.md](../../raw/maritim/2026-10-13_blackstone-fandom-lovelybooks-fanseite_zirkel-dnapf-10-11.md) — Zirkel-Prüfung DNAPF 10/11 (Löchel-Einzelrezensionen, Fandom, LovelyBooks, Fanseite; 13.10.2026).
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge10-der-herrscher-der-meere/>
 - Gratis-Hoerspiele.de (Inhaltsangabe, Quelle „Maritim Verlag / YouTube“): <https://www.gratis-hoerspiele.de/jules-verne-10-der-herrscher-der-meere/>
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen, Rollen-Sprecher-Angaben (Black Stone Magazine; 13.10.2026).
+- Ingo Löchel, Rezension vom 07.03.2023: <https://blackbookmagazine.blogspot.com/2023/03/die-neuen-abenteuer-des-phileas-fogg-folge-10.html>

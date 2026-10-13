@@ -10,6 +10,7 @@ quellen:
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - hauptfigur
   - antagonisten-fokus
@@ -21,7 +22,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecher:** Andreas Fröhlich — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen OWMH 40, SHC 55, SH 1/2, MOR 0–8 und IADK 13, 15. **Sprecherwechsel:** In der Vorgängerreihe [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes & Co.]] sprach ihn laut Fandom-Anmerkung zu SHC 55 zuvor **Till Hagen**; ab [[wiki/folgen/sherlock-holmes-und-co-55-perlen-des-todes|SHC 55]] Andreas Fröhlich.
+- **Sprecher:** Andreas Fröhlich — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen OWMH 40, SHC 55, SH 1/2, MOR 0–8 und IADK 13, 15. **Sprecherwechsel:** In der Vorgängerreihe [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes & Co.]] sprach ihn laut Fandom-Anmerkung zu SHC 55 zuvor **Till Hagen**; ab [[wiki/folgen/sherlock-holmes-und-co-55-perlen-des-todes|SHC 55]] Andreas Fröhlich. Ingo Löchels Rezension (Black Stone Magazine) führt SHC 55 als „Erster Auftritt von James Moriarty (gesprochen von Andreas Fröhlich)“ (deckt sich mit dem Sprecherwechsel ab SHC 55) und bestätigt Fröhlich folgengenau für SH 1 und MOR 9 („Moriarty wird gesprochen von Andreas Fröhlich.“; [Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 - **Zentrale Reihe:** [[wiki/serien/moriarty|Moriarty – Zwischen Genie und Verbrechen]].
 - **Rolle im Kosmos:** Gegenpol zu Sherlock Holmes, Strippenzieher eigener Pläne und wiederkehrender Machtfaktor im Zirkel-Umfeld.
 
@@ -101,3 +102,4 @@ Alle 53 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR und FRANK: DNB, Raute Media, Fandom MOR 0–8, Hörspieltalk (12.10.2026)
 - [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Fanseiten-Figurenseiten, Abschnitt „Sprecher“ (Stammsprecher:innen), Besetzung OWMH 45–60 (12.10.2026)
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

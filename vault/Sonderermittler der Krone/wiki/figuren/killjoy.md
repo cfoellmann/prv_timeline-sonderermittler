@@ -26,6 +26,7 @@ quellen:
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
   - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - antagonist
   - zirkel-umfeld
@@ -39,7 +40,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecher:** Matti Klemm — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen IADK 9–12 („Mister Killjoy“) sowie IADK 0–4 und [[wiki/folgen/sherlock-holmes-und-co-45-hinter-den-kulissen|SHC 45]], wo Fandom „Mister Killroy“ schreibt. Die Folgenseiten (IADK 0–4 und SHC 45) führen die Rolle einheitlich als „Mister Killjoy“, die Fandom-Schreibung steht als Hinweis in der Eckdaten-Zeile (Entscheidung Christian 12.10.2026, [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 6]]).
+- **Sprecher:** Matti Klemm — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen IADK 9–12 („Mister Killjoy“) sowie IADK 0–4 und [[wiki/folgen/sherlock-holmes-und-co-45-hinter-den-kulissen|SHC 45]], wo Fandom „Mister Killroy“ schreibt. Die Folgenseiten (IADK 0–4 und SHC 45) führen die Rolle einheitlich als „Mister Killjoy“, die Fandom-Schreibung steht als Hinweis in der Eckdaten-Zeile (Entscheidung Christian 12.10.2026, [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 6]]). Ingo Löchels Rezension (Black Stone Magazine) setzt das Debüt auf IADK 1: „Mister Killjoy (Gesprochen von Matti Klemm) gibt sein Debüt“ (zu IADK 0 gibt es keine Löchel-Rezension, zu SHC 45 nennt er ihn nicht; [Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 
 ## Rolle im Kosmos
 
@@ -143,3 +144,4 @@ Vollständig nach den offiziellen Figurenlisten im Repo-Stand. Wo der Klappentex
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
 - [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
 - [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft, Datum und Altfälle: DNB, Raute Media, Apple Books, Fanseite (13.10.2026).
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

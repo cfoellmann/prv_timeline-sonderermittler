@@ -11,6 +11,7 @@ quellen:
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - held
   - sonderermittler
@@ -28,7 +29,7 @@ tags:
 - **Fraktion:** Helden
 - **Hauptserie:** [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]]
 - **Erstauftritt:** EAPAD 1 – Insel der tödlichen Rätsel (13.07.2018)
-- **Sprecher:** Manfred Lehmann — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen OWMH 32, 33, 35, 36 und IADK 6; für EAPAD 1 zusätzlich durch eine LovelyBooks-Rezension belegt. Nicht verwechseln: In DNAPF 1 spricht Manfred Lehmann laut Rollenliste [[wiki/figuren/ned-land|Ned Land]].
+- **Sprecher:** Manfred Lehmann — Stammsprecher laut Fanseiten-Figurenseite; rollengenau in den Fandom-Besetzungstabellen OWMH 32, 33, 35, 36 und IADK 6; für EAPAD 1 zusätzlich durch eine LovelyBooks-Rezension belegt. Nicht verwechseln: In DNAPF 1 spricht Manfred Lehmann laut Rollenliste [[wiki/figuren/ned-land|Ned Land]]. Ingo Löchels Rezension (Black Stone Magazine) bestätigt ihn für EAPAD 1 („MANFRED LEHMAN … als Auguste Dupin“) und IADK 6 („Auguste Dupin (gesprochen von Manfred Lehmann)“) ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 
 ## Charakterisierung
 
@@ -125,3 +126,4 @@ Dupin ist als Titelfigur einer der drei frühen Hauptserien (neben Oscar Wilde/M
 - [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK und EAPAD: Fandom-Rollentabellen IADK 0–15, Fanseite, Raute Media, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA: Verlagsmitteilung zur Stammbesetzung 2015, Rollenlisten, DNB 245 $c (12.10.2026)
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

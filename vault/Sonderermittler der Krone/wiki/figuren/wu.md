@@ -24,6 +24,7 @@ quellen:
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - nebenfigur
   - irene-adler
@@ -37,7 +38,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecher:** Michael Pan — Stammsprecher laut Fanseiten-Figurenseite; rollengenau („Mister Wu“) in den Fandom-Besetzungstabellen zu [[wiki/folgen/sherlock-holmes-und-co-45-hinter-den-kulissen|SHC 45]], OWMH 35 und 36 sowie IADK 0–14 (außer 3 und 6); steht außerdem in allen Sprecherlisten von FRANK 11, 15, 16 und 20.
+- **Sprecher:** Michael Pan — Stammsprecher laut Fanseiten-Figurenseite; rollengenau („Mister Wu“) in den Fandom-Besetzungstabellen zu [[wiki/folgen/sherlock-holmes-und-co-45-hinter-den-kulissen|SHC 45]], OWMH 35 und 36 sowie IADK 0–14 (außer 3 und 6); steht außerdem in allen Sprecherlisten von FRANK 11, 15, 16 und 20. Folgengenau bestätigt beim Erstauftritt in SHC 45: „Mister Wu (Gesprochen von Michael Pan) gibt sein Debüt“ (Rezension von Ingo Löchel, Black Stone Magazine; [Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 
 ## Rolle im Kosmos
 
@@ -119,3 +120,4 @@ Besonders erwähnenswerte, bislang unverlinkte Stationen:
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK und EAPAD: Fandom-Rollentabellen IADK 0–15, Fanseite, Raute Media, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR und FRANK: DNB, Raute Media, Fandom MOR 0–8, Hörspieltalk (12.10.2026)
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

@@ -21,6 +21,8 @@ sprecher:
     name: Manfred Lehmann
   - rolle: Aronnax
     name: Michael Pan
+  - rolle: Louise Aronnax
+    name: Marie Bierstedt
 spielzeit_min: 62
 zirkel: kein
 crossover_mit: []
@@ -33,6 +35,8 @@ quellen:
   - raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md
   - https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge01-entfuehrung-auf-hoher-see/
   - https://www.gratis-hoerspiele.de/jules-verne-01-entfuehrung-auf-hoher-see/
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
+  - https://blackbookmagazine.blogspot.com/2023/01/phileas-fogg-folge-1-entfuehrung-auf-hoher-see.html
 tags:
   - ankerfolge
   - erstauftritt
@@ -51,7 +55,7 @@ tags:
 - **Verlag:** Maritim.
 - **Autor:in:** in keiner der eingesehenen Quellen genannt (Fanseite, Apple Books und Gratis-Hoerspiele.de führen keinen Namen; Apple nennt als `artistName` nur „Jules Verne“).
 - **Timeline-Notiz:** Erstauftritt Kapitän Nemo (Löchel-Chronologie).
-- **Sprecher:** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Passepartout – Marius Clarén, Kapitän Nemo – K. Dieter Klebsch, [[wiki/figuren/ned-land|Ned Land]] – Manfred Lehmann, Aronnax – Michael Pan. Rollen laut hoernews.de (Rezensionsseite, Besetzungstabelle mit „u. a.") — für die übrigen Rollen Einzelquelle; Erzähler, Phileas Fogg, Aouda und Passepartout sowie Kapitän Nemo und Ned Land decken sich mit der Verlagsmitteilung zur Stammbesetzung (2015), der Erzähler zusätzlich mit dem DNB-Katalogeintrag der CD. Die Handelslisten nennen nur Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest (DNB-Katalog der Digitalausgabe, Audible).
+- **Sprecher:** Erzähler (Jules Verne) – Christian Brückner, Phileas Fogg – Sascha Draeger, Aouda – Annina Braunmiller-Jest, Passepartout – Marius Clarén, Kapitän Nemo – K. Dieter Klebsch, [[wiki/figuren/ned-land|Ned Land]] – Manfred Lehmann, Aronnax – Michael Pan, Louise Aronnax – Marie Bierstedt. Rollen laut hoernews.de (Rezensionsseite, Besetzungstabelle mit „u. a.") — für die übrigen Rollen Einzelquelle; Erzähler, Phileas Fogg, Aouda und Passepartout sowie Kapitän Nemo und Ned Land decken sich mit der Verlagsmitteilung zur Stammbesetzung (2015), der Erzähler zusätzlich mit dem DNB-Katalogeintrag der CD. Die Handelslisten nennen nur Christian Brückner, Sascha Draeger, Annina Braunmiller-Jest (DNB-Katalog der Digitalausgabe, Audible). *Rolle laut abgedruckter Besetzungsliste (13.10.2026):* Louise Aronnax – Marie Bierstedt steht in der Liste „Sprecher“ am Ende von Ingo Löchels Rezension (Black Stone Magazine, 25.01.2023; acht Rollen, Herkunft vermutlich CD-Booklet oder -Rückseite, Annahme) und im Phantastiknews-Fließtext; die übrigen sieben Rollen dieser Liste decken sich mit hoernews.de, damit liegen für sie zwei Rollenlisten vor. Bierstedt fehlt in der Drei-Namen-Handelsliste.
 - **Offizielle Folgenseite:** <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge01-entfuehrung-auf-hoher-see/>
 - **YouTube (Komplettfolge):** <https://www.youtube.com/watch?v=AfG4jxwST6o>
 
@@ -87,3 +91,5 @@ tags:
 - [raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md](../../raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md) — Klappentexte und Gegenprobe (Fanseite, Apple Books, Gratis-Hoerspiele.de, Fandom; 13.10.2026).
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/phileas-fogg/folge01-entfuehrung-auf-hoher-see/>
 - Gratis-Hoerspiele.de (Inhaltsangabe, Quelle „Maritim Verlag / YouTube“): <https://www.gratis-hoerspiele.de/jules-verne-01-entfuehrung-auf-hoher-see/>
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen, Rollen-Sprecher-Angaben (Black Stone Magazine; 13.10.2026).
+- Ingo Löchel, Rezension vom 25.01.2023: <https://blackbookmagazine.blogspot.com/2023/01/phileas-fogg-folge-1-entfuehrung-auf-hoher-see.html>

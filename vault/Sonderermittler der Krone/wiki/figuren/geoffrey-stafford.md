@@ -14,6 +14,7 @@ quellen:
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
   - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - scotland-yard
   - wiederkehrende-figur
@@ -25,7 +26,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecher:** Björn Schalla — rollengenau in den Fandom-Besetzungstabellen OWMH 32, 34–36, 41, SHC 48, 53, 55, SH 1/2 („Dunkle Kräfte“) und MOR 2, 3; die DNB-Titelangabe (245 $c) der CDs SHC 48 und 53 nennt „Geoffrey Stafford – Björn Schalla“ als zweite, von Fandom unabhängige Rollenquelle. Eine Fanseiten-Figurenseite zu Stafford gibt es nicht. Seit dem 13.10.2026 außerdem „Inspector Stafford – Björn Schalla“ in der Rollenliste der CD-Ausgabe von [[wiki/folgen/wilde-mycroft-ungeloeste-01-der-riese-von-griffin|WMU 1]] (pop.de; vorher stand Schalla dort ohne belegte Rolle).
+- **Sprecher:** Björn Schalla — rollengenau in den Fandom-Besetzungstabellen OWMH 32, 34–36, 41, SHC 48, 53, 55, SH 1/2 („Dunkle Kräfte“) und MOR 2, 3; die DNB-Titelangabe (245 $c) der CDs SHC 48 und 53 nennt „Geoffrey Stafford – Björn Schalla“ als zweite, von Fandom unabhängige Rollenquelle. Eine Fanseiten-Figurenseite zu Stafford gibt es nicht. Seit dem 13.10.2026 außerdem „Inspector Stafford – Björn Schalla“ in der Rollenliste der CD-Ausgabe von [[wiki/folgen/wilde-mycroft-ungeloeste-01-der-riese-von-griffin|WMU 1]] (pop.de; vorher stand Schalla dort ohne belegte Rolle). Ingo Löchels Rezension (Black Stone Magazine) bestätigt ihn beim Erstauftritt in SHC 48 („Geoffrey Stafford von Scotland Yard (Gesprochen von Björn Schalla) gibt sein Debüt“) und in SH 1 („Inspektor Stafford (gesprochen von Björn Schalla)“) ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md), 13.10.2026).
 
 ## Rolle im Kosmos
 
@@ -68,3 +69,4 @@ Stafford ist die polizeiliche Konstante des Kosmos: Er steht für Scotland Yard,
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR und FRANK: DNB, Raute Media, Fandom MOR 0–8, Hörspieltalk (12.10.2026)
 - [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

@@ -9,6 +9,7 @@ quellen:
   - raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - dracula-gegner
   - wiederkehrende-figur
@@ -20,7 +21,7 @@ tags:
 
 ## Eckdaten
 
-- **Sprecherin:** Victoria Sturm — rollengenau in den Fandom-Besetzungstabellen OWMH 32, 34, 35, 36; Rezensionen bestätigen sie (Traumwelt DRAC-Box 1, Poldi DRAC 3 und 15).
+- **Sprecherin:** Victoria Sturm — rollengenau in den Fandom-Besetzungstabellen OWMH 32, 34, 35, 36; Rezensionen bestätigen sie (Traumwelt DRAC-Box 1, Poldi DRAC 3 und 15). **DRAC 1 folgengenau bestätigt (13.10.2026):** „… Mina Harker (gesprochen von Victoria Sturm)“ (Rezension von Ingo Löchel, Black Stone Magazine, Kopfangabe „Erster Auftritt“; bisher abgeleitet; [Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md)).
 
 ## Rolle im Kosmos
 
@@ -60,3 +61,4 @@ Der Grund für dieses Zweckbündnis ist ein „gemeinsames Schicksal": die Suche
 - [raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md](../../raw/maritim/2026-04-30_dracula_folgen-01-bis-16.md) — offizielle Folgen-Seiten der Dracula-Reihe.
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).

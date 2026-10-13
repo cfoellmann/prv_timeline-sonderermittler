@@ -11,6 +11,7 @@ quellen:
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
   - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
+  - raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md
 tags:
   - zirkel-mitglied
   - antagonist
@@ -27,7 +28,7 @@ tags:
 - **Aufnahme in den Zirkel:** EAPAD 13 "Aufnahmeprüfung"
 - **Fraktion:** [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]]
 - **Schreibweise:** Gaston **Morel** mit einem l, wie in den Verlagstexten und bei Fandom; „Morell“ (Löchel-Kommentar) ist Alias — Seite umbenannt am 13.10.2026 (siehe „Anmerkung zur Schreibweise“)
-- **Sprecher:** Wolfgang Condrus — rollengenau in den Fandom-Besetzungstabellen OWMH 31, 33–36 (dort „Gaston Morel“).
+- **Sprecher:** Wolfgang Condrus — rollengenau in den Fandom-Besetzungstabellen OWMH 31, 33–36 (dort „Gaston Morel“). Folgengenau außerdem für EAPAD 1 (Erstauftritt): „Gaston Morel (gesprochen von Wolfgang Condrus) gibt sein Debüt“ (Rezension von Ingo Löchel, Black Stone Magazine; Name in der Audible-Liste der Folge), seit 13.10.2026 dort als „Rolle laut Löchel-Rezension, Name in Liste bestätigt“ eingetragen ([Rohdaten](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md)).
 
 ## Charakterisierung
 
@@ -37,7 +38,7 @@ Gaston Morel ist das siebte und letzte Mitglied, das in den Zirkel aufgenommen w
 
 ### Edgar Allan Poe & Auguste Dupin
 
-- [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel|EAPAD 1 – Insel der tödlichen Rätsel]] (13.07.2018) — Erstauftritt
+- [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel|EAPAD 1 – Insel der tödlichen Rätsel]] (13.07.2018) — Erstauftritt (laut Löchel-Rezension mit Sprecher Wolfgang Condrus)
 - [[wiki/folgen/poe-und-dupin-13-die-aufnahmepruefung|EAPAD 13 – Die Aufnahmeprüfung]] (14.05.2021) — Aufnahme als 7. Mitglied in den Zirkel der Sieben
 - [[wiki/folgen/poe-und-dupin-14-nachts-auf-der-seine|EAPAD 14 – Nachts auf der Seine]] (13.08.2021) — erwähnt; eine neue Wunderdroge weckt sein Interesse und das seiner Verbündeten
 - [[wiki/folgen/poe-und-dupin-17-entfesselter-wahn|EAPAD 17 – Entfesselter Wahn]] (24.06.2022) — plant die Befreiung des wahnsinnigen Professor Deragon, um eine Massenvernichtungswaffe zu erschaffen
@@ -71,3 +72,4 @@ Die Nachrecherche vom 13.10.2026 ergab das Gegenteil: Die Verlagstexte zu EAPAD 
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Fandom-Besetzungstabellen OWMH 1–44 und SHC, DNB, Audible (12.10.2026)
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH, DRAC, TES, NEM: Stammsprecher, Fandom-Dauerbesetzungen, Hörspieltalk-Rollenlisten NEM (12.10.2026)
 - [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft, Datum und Altfälle: DNB, Raute Media, Apple Books, Fanseite (13.10.2026).
+- [raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md](../../raw/maritim/2026-10-13_blackstone_loechel-einzelrezensionen-rollen.md) — Löchel-Einzelrezensionen (Black Stone Magazine): Rollen-Sprecher-Angaben bei Erstauftritten (13.10.2026).
