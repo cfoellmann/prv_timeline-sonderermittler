@@ -54,7 +54,7 @@ tags: []
 | 10 | [[wiki/folgen/poe-und-dupin-10-die-strasse-der-drei-gesichter\|Die Straße der drei Gesichter]] | 15.05.2020 | indirekt |   | Konkurrent [[wiki/figuren/vidocq\|Vidocq]] |
 | 11 | [[wiki/folgen/poe-und-dupin-11-die-daemonen-des-auguste-dupin\|Die Dämonen des Auguste Dupin]] | 30.10.2020 | indirekt |   | Alpträume, Psychologie |
 | 12 | [[wiki/folgen/poe-und-dupin-12-in-den-katakomben-lauert-der-tod\|In den Katakomben lauert der Tod]] | 29.01.2021 | indirekt |   | Katakomben von Paris |
-| 13 | [[wiki/folgen/poe-und-dupin-13-die-aufnahmepruefung\|Die Aufnahmeprüfung]] | 14.05.2021 | **direkt** |   | **Zirkel-Einstieg:** Gaston Morel wird 7. Mitglied |
+| 13 | [[wiki/folgen/poe-und-dupin-13-die-aufnahmepruefung\|Die Aufnahmeprüfung]] | 14.05.2021 | direkt |   | **Zirkel-Einstieg:** Gaston Morel wird 7. Mitglied |
 | 14 | [[wiki/folgen/poe-und-dupin-14-nachts-auf-der-seine\|Nachts auf der Seine]] | 13.08.2021 | direkt |   | Wunderdroge, Gaston Morel |
 | 15 | [[wiki/folgen/poe-und-dupin-15-der-schrei-der-bestie\|Der Schrei der Bestie]] | 01.10.2021 | direkt |   | Zirkel interessiert sich für Experimente |
 | 16 | [[wiki/folgen/poe-und-dupin-16-schlagzeilen\|Schlagzeilen]] | 03.12.2021 | direkt | [[wiki/figuren/irene-adler\|Irene Adler]] | Fake-News-Verschwörung |
@@ -62,10 +62,10 @@ tags: []
 | 18 | [[wiki/folgen/poe-und-dupin-18-die-rache-der-raubritter\|Die Rache der Raubritter]] | 09.09.2022 | direkt |   | Bergdorf-Terror |
 | 19 | [[wiki/folgen/poe-und-dupin-19-hochverrat\|Hochverrat]] | 17.02.2023 | unklar |   | Locked-Room-Mystery |
 | 20 | [[wiki/folgen/poe-und-dupin-20-trojaner\|Trojaner]] | 05.05.2023 | direkt |   | Anschlag auf Eiffelturm |
-| 21 | [[wiki/folgen/poe-und-dupin-21-tod-eines-feindes\|Tod eines Feindes]] | 26.01.2024 | **direkt** |   | **Gaston Morel stirbt**, Zirkel-Kandidaten |
+| 21 | [[wiki/folgen/poe-und-dupin-21-tod-eines-feindes\|Tod eines Feindes]] | 26.01.2024 | direkt |   | **Gaston Morel stirbt**, Zirkel-Kandidaten |
 | 22 | [[wiki/folgen/poe-und-dupin-22-der-plan-des-meisterdiebs\|Der Plan des Meisterdiebs]] | 05.04.2024 | direkt |   | Arsène Lupin, Houdini |
 | 23 | [[wiki/folgen/poe-und-dupin-23-der-falsche-saphir\|Der falsche Saphir]] | 07.06.2024 | direkt |   | Mata Hari, Lupin, Houdini |
-| 24 | [[wiki/folgen/poe-und-dupin-24-draculas-urteil\|Draculas Urteil]] | 12.07.2024 | **direkt** |   | **Entscheidung** über neues Zirkel-Mitglied |
+| 24 | [[wiki/folgen/poe-und-dupin-24-draculas-urteil\|Draculas Urteil]] | 12.07.2024 | direkt |   | **Entscheidung** über neues Zirkel-Mitglied |
 | 25 | [[wiki/folgen/poe-und-dupin-25-das-goldene-kalb\|Das goldene Kalb]] | 04.10.2024 | unklar | [[wiki/figuren/irene-adler\|Irene Adler]] | Kult des goldenen Kalbs (Start) |
 | 26 | [[wiki/folgen/poe-und-dupin-26-babel\|Babel]] | 25.10.2024 | unklar | [[wiki/figuren/irene-adler\|Irene Adler]] | Verschlüsselte Botschaften |
 | 27 | [[wiki/folgen/poe-und-dupin-27-sodom-und-gomorrha\|Sodom und Gomorrha]] | 28.02.2025 | unklar |   | Kult eskaliert |

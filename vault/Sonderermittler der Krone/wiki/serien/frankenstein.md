@@ -55,36 +55,36 @@ tags:
 
 **Nur dem Titel nach angekündigt** (Hörspieltalk-Threads vom 15.07.2026, jeweils ohne Klappentext und Termin — Einzelquelle, daher keine eigenen Seiten und nicht in `watchlist_count`): 29 „Die Jahrtausendeibe“, 31 „Die Rache des Doktors“, 32 „Die Kraft der Natur“, 33 „Das Geheimnis des Präparators“, 34 „Im Bann der Unendlichkeit“, 35 „Der Herr der Schlangen“, 36 „Der Eingang zur Unterwelt“. Für **Folge 30** existiert kein Ankündigungsthread — Lücke in der Quelle, kein Beleg für eine ausgelassene Nummer.
 
-| # | Titel | Erscheinungsjahr | Spielzeit | Zirkel | Crossover |
+| # | Titel | Datum | Spielzeit | Zirkel | Crossover |
 |---|---|---|---|---|---|
-| 01 | [[wiki/folgen/frankenstein-01-am-abgrund-der-nacht\|Am Abgrund der Nacht]] | 2020 | 78 min | ✓ | — |
-| 02 | [[wiki/folgen/frankenstein-02-verflucht-seid-ihr-alle\|Verflucht seid ihr alle]] | 2020 | 63 min | ✓ | OWMH |
-| 03 | [[wiki/folgen/frankenstein-03-angst-in-den-gassen\|Angst in den Gassen]] | 2021 | 70 min | indirekt | — |
-| 04 | [[wiki/folgen/frankenstein-04-toedliches-wissen\|Tödliches Wissen]] | 2021 | 71 min | ✓ | OWMH |
-| 05 | [[wiki/folgen/frankenstein-05-aus-dem-reich-der-toten\|Aus dem Reich der Toten]] | 2022 | 63 min | ✓ | — |
-| 06 | [[wiki/folgen/frankenstein-06-moerderjagd\|Mörderjagd]] | 2022 | 62 min | ✓ | — |
-| 07 | [[wiki/folgen/frankenstein-07-die-stunde-der-wahrheit\|Die Stunde der Wahrheit]] | 2022 | 62 min | ✓ | OWMH |
-| 08 | [[wiki/folgen/frankenstein-08-das-verbotene-grab\|Das verbotene Grab]] | 2023 | 71 min | ✓ | — |
-| 09 | [[wiki/folgen/frankenstein-09-neuanfang\|Neuanfang]] | 2023 | 60 min | ✓ | OWMH |
-| 10 | [[wiki/folgen/frankenstein-10-auf-dunklen-pfaden\|Auf dunklen Pfaden]] | 2023 | 62 min | ✓ | — |
-| 11 | [[wiki/folgen/frankenstein-11-gefangene-der-finsternis\|Gefangene der Finsternis]] | 2023 | 61 min | ✓ | Irene Adler |
-| 12 | [[wiki/folgen/frankenstein-12-erweckung\|Erweckung]] | 2024 | 62 min | ✓ | OWMH, Irene Adler, Moriarty |
-| 13 | [[wiki/folgen/frankenstein-13-necropolis\|Necropolis]] | 2024 | 61 min | ✓ | Moriarty, Tesla |
-| 14 | [[wiki/folgen/frankenstein-14-wasser-und-tod\|Wasser und Tod]] | 2024 | 56 min | ✓ | Tesla |
-| 15 | [[wiki/folgen/frankenstein-15-strom-der-gedanken\|Strom der Gedanken]] | 2024 | 57 min | ✓ | Tesla, Moriarty, Irene Adler |
-| 16 | [[wiki/folgen/frankenstein-16-macht-und-manipulation\|Macht und Manipulation]] | 2024 | 58 min | ✓ | Tesla, Moriarty, Irene Adler |
-| 17 | [[wiki/folgen/frankenstein-17-sklave-der-wissenschaft\|Sklave der Wissenschaft]] | 2025 | 59 min | ✓ | Tesla, Moriarty |
-| 18 | [[wiki/folgen/frankenstein-18-gott-der-medizin\|Gott der Medizin]] | 2025 | 58 min | ✓ | Moriarty |
-| 19 | [[wiki/folgen/frankenstein-19-der-weg-der-schlange\|Der Weg der Schlange]] | 2025 | 57 min | ✓ | — |
-| 20 | [[wiki/folgen/frankenstein-20-ewiges-leid\|Ewiges Leid]] | 2025 | 54 min | ✓ | Irene Adler |
-| 21 | [[wiki/folgen/frankenstein-21-der-faden-des-lebens\|Der Faden des Lebens]] | 2025 | 56 min | ✓ | Moriarty |
-| 22 | [[wiki/folgen/frankenstein-22-falsches-versprechen\|Falsches Versprechen]] | 2025 | 55 min | ✓ | Moriarty |
-| 23 | [[wiki/folgen/frankenstein-23-jaeger-und-gejagter\|Jäger und Gejagter]] | 2026 | 50 min | ✓ | — |
-| 24 | [[wiki/folgen/frankenstein-24-toedliche-dosis\|Tödliche Dosis]] | 2026-03-27 | 52 min | ✓ | Moriarty, Sherlock Holmes |
-| 25 | [[wiki/folgen/frankenstein-25-truegerische-hoffnung\|Trügerische Hoffnung]] | 2026-05-22 | 56 min | ✓ | Moriarty, Sherlock Holmes |
-| 26 | [[wiki/folgen/frankenstein-26-doppelte-tarnung\|Doppelte Tarnung]] | 2026-07-17 | 52 min | ✓ | Dracula |
-| 27 | [[wiki/folgen/frankenstein-27-finsteres-erbe\|Finsteres Erbe]] | 2026-09-11 | 53 min | ✓ | Dracula, Moriarty |
-| 28 | [[wiki/folgen/frankenstein-28-gegen-jeden-widerstand\|Gegen jeden Widerstand]] | 2026-11-13 (geplant) | 54 min | ✓ | Dracula, Moriarty, Sherlock Holmes |
+| 01 | [[wiki/folgen/frankenstein-01-am-abgrund-der-nacht\|Am Abgrund der Nacht]] | 09.10.2020 | 78 min | direkt | — |
+| 02 | [[wiki/folgen/frankenstein-02-verflucht-seid-ihr-alle\|Verflucht seid ihr alle]] | 04.12.2020 | 63 min | direkt | OWMH |
+| 03 | [[wiki/folgen/frankenstein-03-angst-in-den-gassen\|Angst in den Gassen]] | 26.02.2021 | 70 min | indirekt | — |
+| 04 | [[wiki/folgen/frankenstein-04-toedliches-wissen\|Tödliches Wissen]] | 18.06.2021 | 71 min | direkt | OWMH |
+| 05 | [[wiki/folgen/frankenstein-05-aus-dem-reich-der-toten\|Aus dem Reich der Toten]] | 08.04.2022 | 63 min | direkt | — |
+| 06 | [[wiki/folgen/frankenstein-06-moerderjagd\|Mörderjagd]] | 03.06.2022 | 62 min | direkt | — |
+| 07 | [[wiki/folgen/frankenstein-07-die-stunde-der-wahrheit\|Die Stunde der Wahrheit]] | 12.08.2022 | 62 min | direkt | OWMH |
+| 08 | [[wiki/folgen/frankenstein-08-das-verbotene-grab\|Das verbotene Grab]] | 24.02.2023 | 71 min | direkt | — |
+| 09 | [[wiki/folgen/frankenstein-09-neuanfang\|Neuanfang]] | 09.06.2023 | 60 min | direkt | OWMH |
+| 10 | [[wiki/folgen/frankenstein-10-auf-dunklen-pfaden\|Auf dunklen Pfaden]] | 18.08.2023 | 62 min | direkt | — |
+| 11 | [[wiki/folgen/frankenstein-11-gefangene-der-finsternis\|Gefangene der Finsternis]] | 27.10.2023 | 61 min | direkt | Irene Adler |
+| 12 | [[wiki/folgen/frankenstein-12-erweckung\|Erweckung]] | 02.02.2024 | 62 min | direkt | OWMH, Irene Adler, Moriarty |
+| 13 | [[wiki/folgen/frankenstein-13-necropolis\|Necropolis]] | 19.04.2024 | 61 min | direkt | Moriarty, Tesla |
+| 14 | [[wiki/folgen/frankenstein-14-wasser-und-tod\|Wasser und Tod]] | 05.07.2024 | 56 min | direkt | Tesla |
+| 15 | [[wiki/folgen/frankenstein-15-strom-der-gedanken\|Strom der Gedanken]] | 27.09.2024 | 57 min | direkt | Tesla, Moriarty, Irene Adler |
+| 16 | [[wiki/folgen/frankenstein-16-macht-und-manipulation\|Macht und Manipulation]] | 18.10.2024 | 58 min | direkt | Tesla, Moriarty, Irene Adler |
+| 17 | [[wiki/folgen/frankenstein-17-sklave-der-wissenschaft\|Sklave der Wissenschaft]] | 24.01.2025 | 59 min | direkt | Tesla, Moriarty |
+| 18 | [[wiki/folgen/frankenstein-18-gott-der-medizin\|Gott der Medizin]] | 21.03.2025 | 58 min | direkt | Moriarty |
+| 19 | [[wiki/folgen/frankenstein-19-der-weg-der-schlange\|Der Weg der Schlange]] | 23.05.2025 | 57 min | direkt | — |
+| 20 | [[wiki/folgen/frankenstein-20-ewiges-leid\|Ewiges Leid]] | 25.07.2025 | 54 min | direkt | Irene Adler |
+| 21 | [[wiki/folgen/frankenstein-21-der-faden-des-lebens\|Der Faden des Lebens]] | 26.09.2025 | 56 min | direkt | Moriarty |
+| 22 | [[wiki/folgen/frankenstein-22-falsches-versprechen\|Falsches Versprechen]] | 28.11.2025 | 55 min | direkt | Moriarty |
+| 23 | [[wiki/folgen/frankenstein-23-jaeger-und-gejagter\|Jäger und Gejagter]] | 30.01.2026 | 50 min | direkt | — |
+| 24 | [[wiki/folgen/frankenstein-24-toedliche-dosis\|Tödliche Dosis]] | 27.03.2026 | 52 min | direkt | Moriarty, Sherlock Holmes |
+| 25 | [[wiki/folgen/frankenstein-25-truegerische-hoffnung\|Trügerische Hoffnung]] | 22.05.2026 | 56 min | direkt | Moriarty, Sherlock Holmes |
+| 26 | [[wiki/folgen/frankenstein-26-doppelte-tarnung\|Doppelte Tarnung]] | 17.07.2026 | 52 min | direkt | Dracula |
+| 27 | [[wiki/folgen/frankenstein-27-finsteres-erbe\|Finsteres Erbe]] | 11.09.2026 | 53 min | direkt | Dracula, Moriarty |
+| 28 | [[wiki/folgen/frankenstein-28-gegen-jeden-widerstand\|Gegen jeden Widerstand]] | 13.11.2026 | 54 min | direkt | Dracula, Moriarty, Sherlock Holmes |
 
 **Legende:**
 - **Zirkel:** ✓ = `direkt`, — = `kein`, sonst ausgeschrieben (seit dem Zirkel-Audit vom 13.10.2026)
