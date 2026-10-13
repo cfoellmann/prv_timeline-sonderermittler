@@ -41,7 +41,7 @@ sprecher:
     name: Helmut Krauss
   - rolle: Ansage
     name: Lutz Mackensy
-zirkel: unklar
+zirkel: kein
 crossover_mit:
   - phileas-fogg
 spoiler_level: grob
@@ -50,6 +50,7 @@ quellen:
   - raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md
   - raw/notes/2026-09-06_shc-ingest_klappentexte-und-kanonpruefung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md
 tags:
   - vorgaengerreihe
   - crossover
@@ -88,7 +89,7 @@ tags:
 
 ## Bezug zum Zirkel der Sieben
 
-- **Unklar** — der [[wiki/konzepte/zirkel-der-sieben|Zirkel]] wird im Klappentext nicht genannt, und keine Zirkel-Figur ist besetzt.
+- **Kein** (seit 13.10.2026, Fogg-Maßstab) — der Klappentext nennt den [[wiki/konzepte/zirkel-der-sieben|Zirkel]] nicht; Fandom-Rollentabelle und DNB-Sprecherliste (17 Namen) enthalten kein Mitglied und keinen Verbündeten. Douglas Welbat spricht hier Edmund Foster; er ist nicht Daniel Welbat, der Sprecher des Maharadschas. Bis dahin `unklar` ([Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md)).
 
 ## Crossover & Querverweise
 
@@ -111,3 +112,4 @@ Merkmal **(B) Kanon-Ereignis** des [Aufnahmekriteriums](../konzepte/sherlock-hol
 - [raw/notes/2026-09-06_shc-ingest_klappentexte-und-kanonpruefung.md](../../raw/notes/2026-09-06_shc-ingest_klappentexte-und-kanonpruefung.md) — Klappentext und Crossover-Beleg.
 - Händlerlistings mit Klappentext und Sprecherliste: BookBeat, Audiolibrix, HolyShop, Thalia, allscore.
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md) — Zirkel-Audit IADK, MOR und SHC nach dem Fogg-Maßstab (Löchel-Volltexte, Fandom, Namenslisten; 13.10.2026).

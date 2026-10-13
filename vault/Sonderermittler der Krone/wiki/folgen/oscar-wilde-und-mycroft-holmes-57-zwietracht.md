@@ -16,7 +16,7 @@ sprecher:
   - rolle: Inspector Stafford
     name: Björn Schalla
 spielzeit_min: 53
-zirkel: direkt
+zirkel: indirekt
 crossover_mit:
   - irene-adler
   - frankenstein
@@ -28,6 +28,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge57-zwietracht/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md
 tags:
   - hauptserie
   - sonderermittler
@@ -63,7 +64,7 @@ tags:
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — Wildes Verdacht richtet sich auf [[wiki/figuren/victor-frankenstein|Victor Frankenstein]], ein Mitglied des [[wiki/konzepte/zirkel-der-sieben|Zirkels der Sieben]]. Fehlende Körperteile passen zum Leichendiebstahl-/Züchtungs-Komplex der OWMH-Folgen 46–49.
+- **Indirekt** — Wildes Verdacht richtet sich auf [[wiki/figuren/victor-frankenstein|Victor Frankenstein]], ein Mitglied des [[wiki/konzepte/zirkel-der-sieben|Zirkels der Sieben]] (Verlagstext; Dietmar Wunder in der Namensliste). Der Zirkel selbst wird nicht genannt; nach dem Maßstab ist ein Mitglied, das ohne belegte Zirkel-Funktion handelt, `indirekt` — wie in [[wiki/folgen/oscar-wilde-und-mycroft-holmes-59-die-spur-der-echse|OWMH 59]] und [[wiki/folgen/oscar-wilde-und-mycroft-holmes-60-tiefe-reue|OWMH 60]]. Fehlende Körperteile passen zum Leichendiebstahl-/Züchtungs-Komplex der OWMH-Folgen 46–49. Bis 13.10.2026 `direkt` (Maßstab nach [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Phileas Fogg]], Abgleich 13.10.2026; [Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md)).
 
 ## Crossover & Querverweise
 
@@ -84,3 +85,4 @@ tags:
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche-Notiz.
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update (Titel-Listung).
 - [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Besetzung OWMH 45–60 (Audible, Hörspieltalk, Raute Media, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md) — Zirkel-Audit OWMH, WMU, OWIA, OWEP nach dem Fogg-Maßstab: Löchel-Fließtext, Fandom-Rollentabellen (13.10.2026).

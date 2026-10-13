@@ -86,7 +86,7 @@ Alle 53 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 | [[wiki/folgen/frankenstein-25-truegerische-hoffnung\|FRANK 25 — Trügerische Hoffnung]] (22.05.2026) | Auftraggeber |
 | [[wiki/folgen/moriarty-25-ein-hauch-von-ewigkeit\|MOR 25 — Ein Hauch von Ewigkeit]] (05.06.2026) | verfolgt weiter seine Obsession mit dem ewigen Leben |
 | [[wiki/folgen/moriarty-26-der-teufel-von-cat-rock\|MOR 26 — Der Teufel von Cat Rock]] (31.07.2026) | wird schwer mitgenommen gerettet |
-| [[wiki/folgen/tesla-09-traumgespinst\|TES 9 — Traumgespinst]] (14.08.2026) | Anführer des Zirkels; lehnt Teslas Idee ab und erteilt den Reiseauftrag |
+| [[wiki/folgen/tesla-09-traumgespinst\|TES 9 — Traumgespinst]] (14.08.2026) | lehnt Teslas Idee ab und erteilt den Reiseauftrag; seine Stellung siehe Spoiler-Hinweis unter „Bezug zum Zirkel der Sieben“ |
 | [[wiki/folgen/frankenstein-27-finsteres-erbe\|FRANK 27 — Finsteres Erbe]] (11.09.2026) | hat Männer angeheuert, das Labor zu bewachen |
 | [[wiki/folgen/moriarty-27-tiefe-wasser\|MOR 27 — Tiefe Wasser]] (25.09.2026) | scheinbar spurlos verschwunden, taucht auf North Bimini wieder auf |
 | [[wiki/folgen/frankenstein-28-gegen-jeden-widerstand\|FRANK 28 — Gegen jeden Widerstand]] (geplant, 13.11.2026) | in der Sprecherliste geführt |
@@ -94,6 +94,9 @@ Alle 53 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 ## Bezug zum Zirkel der Sieben
 
 - **Ambivalent, aber direkt relevant** — Moriarty arbeitet nicht einfach nur für den Zirkel. Das offizielle Profil beschreibt ihn vielmehr als Akteur, der zugleich gegen eigene Feinde und gegen den Zirkel intrigiert.
+
+> [!warning]- Spoiler: Moriartys Stellung ab MOR 17 (aufklappen)
+> Laut Löchels Rezension zu [[wiki/folgen/moriarty-17-dem-tod-entrissen|MOR 17]] schaltet Moriarty Dracula aus und übernimmt danach die Führung des Zirkels der Sieben; der Klappentext von [[wiki/folgen/tesla-09-traumgespinst|TES 9]] nennt ihn den „Anführer des Zirkels der Sieben“. Für die Einstufung `zirkel` heißt das (Zirkel-Audit 13.10.2026): Vor MOR 17 zählt er als späteres Mitglied (`indirekt`, wo er ohne Zirkelbezug handelt), MOR 17–26 tragen `direkt`. Offen ist, ob er als Anführer wie Dracula zählt — dann wäre auch [[wiki/folgen/moriarty-27-tiefe-wasser|MOR 27]] `direkt` — und ob er in SH 2 und SH 4 überhaupt als späteres Mitglied gelten soll ([Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md); [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]]).
 
 ## Quellen
 

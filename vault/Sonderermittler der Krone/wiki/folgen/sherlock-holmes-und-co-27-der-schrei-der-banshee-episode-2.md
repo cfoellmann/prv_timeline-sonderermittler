@@ -13,7 +13,7 @@ sprecher:
     name: Florian Halm
   - rolle: Oscar Wilde
     name: Sascha Rotermund
-zirkel: indirekt
+zirkel: kein
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
 spoiler_level: grob
@@ -24,6 +24,7 @@ quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
+  - raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md
 tags:
   - vorgaengerreihe
   - holmes-wilde-kontakt
@@ -61,7 +62,7 @@ tags:
 
 ## Bezug zum Zirkel der Sieben
 
-- **Indirekt** — wie Folge 26: kein Zirkel im Text, aber der Kontakt zweier späterer Hauptgegner des [[wiki/konzepte/zirkel-der-sieben|Zirkels]].
+- **Kein** (seit 13.10.2026, Fogg-Maßstab) — wie [[wiki/folgen/sherlock-holmes-und-co-26-der-schrei-der-banshee-episode-1|Folge 26]]: kein [[wiki/konzepte/zirkel-der-sieben|Zirkel]], kein Mitglied und kein Verbündeter in Klappentext und Fandom-Rollentabelle; der Kontakt zweier späterer Gegenspieler des Zirkels trägt nach dem Maßstab kein `indirekt` ([Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md)).
 
 ## Crossover & Querverweise
 
@@ -80,3 +81,4 @@ Merkmal **(B) Kanon-Ereignis** des [Aufnahmekriteriums](../konzepte/sherlock-hol
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 - [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorfrage Oliver Fleischer / Jonas Maas (13.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md) — Zirkel-Audit IADK, MOR und SHC nach dem Fogg-Maßstab (Löchel-Volltexte, Fandom, Namenslisten; 13.10.2026).

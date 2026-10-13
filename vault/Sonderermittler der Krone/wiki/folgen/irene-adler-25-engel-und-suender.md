@@ -12,7 +12,7 @@ sprecher:
   - rolle: Sherlock Holmes
     name: Charles Rettinghaus
 spielzeit_min: 56
-zirkel: unklar
+zirkel: kein
 crossover_mit:
   - sherlock-holmes
 spoiler_level: grob
@@ -23,6 +23,7 @@ quellen:
   - https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-25-engel-und-suender-4943/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
+  - raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md
 tags:
   - sonderermittler
   - maritim
@@ -56,7 +57,7 @@ Irene Adler befindet sich in Los Angeles und hat die Hauptrolle in einem moderne
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit unklar** — der offizielle Klappentext nennt für diese Folge keinen direkten Zirkel-Bezug.
+- **Kein** (seit 13.10.2026, Fogg-Maßstab) — der Klappentext nennt den [[wiki/konzepte/zirkel-der-sieben|Zirkel]] nicht; in der Digital- (Audible) und der CD-Sprecherliste (Raute Media, je 13 Namen) steht kein Stammsprecher eines Mitglieds oder Verbündeten, und die Rezension von Ingo Löchel nennt keine Zirkel-Figur. Die Zirkel-Figuren des Los-Angeles-Blocks sind erst ab [[wiki/folgen/irene-adler-26-schatten-des-ruhmes|IADK 26]] belegt. Bis dahin `unklar` ([Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md)).
 
 ## Crossover & Querverweise
 
@@ -71,3 +72,4 @@ Irene Adler befindet sich in Los Angeles und hat die Hauptrolle in einem moderne
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge25-engel-und-suender/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-25-engel-und-suender-4943/>
 - [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md) — Zirkel-Audit IADK, MOR und SHC nach dem Fogg-Maßstab (Löchel-Volltexte, Fandom, Namenslisten; 13.10.2026).

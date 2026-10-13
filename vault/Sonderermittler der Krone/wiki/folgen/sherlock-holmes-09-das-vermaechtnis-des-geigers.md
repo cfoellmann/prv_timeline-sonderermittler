@@ -12,7 +12,7 @@ sprecher:
   - rolle: Dr. John H. Watson
     name: Florian Halm
 spielzeit_min: 62
-zirkel: unklar
+zirkel: kein
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -22,6 +22,7 @@ quellen:
   - https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-9-das-vermaechtnis-des-geigers-4642/
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
   - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
+  - raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md
 tags:
   - sherlock-holmes
   - maritim
@@ -53,7 +54,7 @@ Der Geigenbauer Alessio Longo wird tot in seiner Werkstatt aufgefunden. Weil Hol
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — im verifizierten Klappentext wird der Zirkel noch nicht ausdrücklich genannt; die Folgeverbindung ist aber klar angelegt.
+- **Kein** — weder Klappentext noch Höreindruck (Poldi: „fehlende Bezüge … [zum] ‚Zirkel der Sieben‘“) zeigen einen Zirkelbezug, und in den Namenslisten (Raute Media, Audible) steht kein Mitglied oder Verbündeter. Die Kosmos-Verbindung entsteht erst in [[wiki/folgen/sherlock-holmes-10-teufelsmelodie|SH 10]]. Bis 13.10.2026 `unklar`, nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]] auf `kein` ([Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md)).
 
 ## Crossover & Querverweise
 
@@ -68,3 +69,4 @@ Der Geigenbauer Alessio Longo wird tot in seiner Werkstatt aufgefunden. Weil Hol
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-9-das-vermaechtnis-des-geigers-4642/>
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
 - [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).
+- [raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md) — Zirkel-Audit nach dem Fogg-Maßstab: YouTube-Transkripte, Löchel-Fließtext, Poldi, Couchfesseln, Namenslisten (13.10.2026).

@@ -48,7 +48,7 @@ sprecher:
   - rolle: Ansage
     name: Lutz Mackensy
 spielzeit_min: 64
-zirkel: direkt
+zirkel: kein
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -57,6 +57,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge16-der-austausch/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md
 tags:
   - sonderermittler
   - zirkel
@@ -91,7 +92,7 @@ Eine heikle Mission der britischen Krone gerät in Prag ins Wanken, als eine blu
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — der Fall ist im Repo klar im Zirkel-Konflikt verortet. Hinweis der offiziellen Seite: Kein direkter Zirkel-Hinweis im offiziellen Text.
+- **Kein Bezug** — Verlagstext, Fandom-Rollentabelle und Ingo Löchels Rezension nennen weder den [[wiki/konzepte/zirkel-der-sieben|Zirkel]] noch ein Mitglied oder einen Verbündeten. Bis 13.10.2026 `direkt` ohne Beleg („im Repo klar im Zirkel-Konflikt verortet“) (Maßstab nach [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Phileas Fogg]], Abgleich 13.10.2026; [Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md)).
 
 ## Crossover & Querverweise
 
@@ -104,6 +105,7 @@ Eine heikle Mission der britischen Krone gerät in Prag ins Wanken, als eine blu
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge16-der-austausch/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md) — Zirkel-Audit OWMH, WMU, OWIA, OWEP nach dem Fogg-Maßstab: Löchel-Fließtext, Fandom-Rollentabellen (13.10.2026).
 
 
 

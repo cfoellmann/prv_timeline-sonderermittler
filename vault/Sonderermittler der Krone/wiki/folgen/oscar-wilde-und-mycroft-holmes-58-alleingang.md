@@ -36,7 +36,7 @@ sprecher:
   - rolle: Rezeptionistin
     name: Christin Marquitan
 spielzeit_min: 52
-zirkel: direkt
+zirkel: indirekt
 crossover_mit:
   - irene-adler
   - sherlock-holmes
@@ -48,6 +48,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge58-alleingang/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md
 tags:
   - hauptserie
   - sonderermittler
@@ -82,7 +83,7 @@ tags:
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — der Block setzt den Themse-/Körperteile-Fall aus Folge 57 fort, in dem Wilde [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] verdächtigt. Für Folge 58 selbst nennt die offizielle Seite kein Zirkel-Mitglied namentlich.
+- **Indirekt** — der Block setzt den Themse-/Körperteile-Fall aus Folge 57 fort. [[wiki/figuren/victor-frankenstein|Victor Frankenstein]] und [[wiki/figuren/theodora-sachs|Theodora Sachs]] stehen in der Rollenliste (Hörspieltalk) und in der Audible-Liste; der Verlagstext nennt weder sie noch den [[wiki/konzepte/zirkel-der-sieben|Zirkel]]. Mitglied ohne belegte Zirkel-Funktion = `indirekt`, wie in OWMH 59 und 60. Bis 13.10.2026 `direkt` (Maßstab nach [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Phileas Fogg]], Abgleich 13.10.2026; [Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md)).
 
 ## Crossover & Querverweise
 
@@ -101,3 +102,4 @@ tags:
 - [raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md](../../raw/notes/2026-08-17_nachrecherche-luecken-und-metadaten.md) — Nachrecherche-Notiz.
 - [raw/Sonderermittler_Update_2026-08-17.md](../../raw/Sonderermittler_Update_2026-08-17.md) — Recherche-Update (Datum, Spielzeit).
 - [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Besetzung OWMH 45–60 (Audible, Hörspieltalk, Raute Media, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md) — Zirkel-Audit OWMH, WMU, OWIA, OWEP nach dem Fogg-Maßstab: Löchel-Fließtext, Fandom-Rollentabellen (13.10.2026).

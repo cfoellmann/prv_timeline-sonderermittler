@@ -44,7 +44,7 @@ sprecher:
   - rolle: Milo
     name: Patrick Holtheuer
 spielzeit_min: 77
-zirkel: unklar
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -53,6 +53,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-music-itunes-api_erscheinungsdaten.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md
 tags:
   - vatikan
   - rom
@@ -92,7 +93,7 @@ tags:
 
 ## Bezug zum Zirkel der Sieben
 
-- **Unklar** — in den aktuell vorliegenden Repo-Quellen gibt es keinen direkten Beleg, dass der Fall explizit an den [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] gebunden ist.
+- **Indirekt** — der CD-Klappentext, wie Ingo Löchel ihn zitiert, lässt Wilde in Rom „von einem Mitglied des Zirkels der Sieben in eine Falle“ locken (der Verlagstext der Fanseite und von Fandom endet vorher); in der Fandom-Rollentabelle steht Pasquale, laut Löchels Rezension zu [[wiki/folgen/oscar-wilde-und-mycroft-holmes-05-kalter-fels|OWMH 5]] ein Mann, „der für den Zirkel der Sieben gearbeitet hat“. Ein Verbündeter handelt also (zwei Quellen); dass der Zirkel selbst handelt, steht nur bei Löchel, daher nicht `direkt`. Bis 13.10.2026 `unklar` (Maßstab nach [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Phileas Fogg]], Abgleich 13.10.2026; [Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md)).
 - **Funktion der Folge:** erweitert die Serie früh über Großbritannien hinaus und betont Wildes Einsatz als verdeckt operierender Ermittler.
 
 ## Crossover & Querverweise
@@ -113,6 +114,7 @@ tags:
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge03-das-geheimnis-des-alchemisten/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md) — Zirkel-Audit OWMH, WMU, OWIA, OWEP nach dem Fogg-Maßstab: Löchel-Fließtext, Fandom-Rollentabellen (13.10.2026).
 
 
 

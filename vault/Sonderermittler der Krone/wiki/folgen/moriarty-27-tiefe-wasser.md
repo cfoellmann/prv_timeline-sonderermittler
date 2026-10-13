@@ -28,6 +28,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/moriarty/folge27-tiefe-wasser/
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
   - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
+  - raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md
 tags:
   - sonderermittler
   - maritim
@@ -66,7 +67,10 @@ tags:
 
 ## Bezug zum Zirkel der Sieben
 
-- **Indirekt** — der Anführer des [[wiki/konzepte/zirkel-der-sieben|Zirkels]] operiert hier ohne seine Zirkel-Begleiter und verfolgt eine eigene Spur. Der Zirkel als Organisation tritt nicht auf.
+- **Indirekt** — Moriarty verfolgt hier ohne seine bisherigen Begleiter eine eigene Spur. Der [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] als Organisation tritt nicht auf und wird im Klappentext nicht genannt. Beim Zirkel-Audit vom 13.10.2026 nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]] geprüft und belassen; eine Skalenfrage ist offen (Callout, [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]]).
+
+> [!warning]- Spoiler: Moriartys Stellung zum Zirkel und die offene Skalenfrage (aufklappen)
+> Seit [[wiki/folgen/moriarty-17-dem-tod-entrissen|MOR 17]] führt Moriarty den Zirkel an (Löchel-Rezension MOR 17; Klappentext [[wiki/folgen/tesla-09-traumgespinst|TES 9]]). In MOR 27 handelt er als Anführer, aber allein und ohne Zirkelbezug — deshalb `indirekt`. Offene Frage an Christian: Zählt der Anführer wie Dracula (Maßstab „Dracula handelt → `direkt`“)? Dann wäre MOR 27 `direkt` ([Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md)).
 
 ## Crossover & Querverweise
 
@@ -91,3 +95,4 @@ tags:
 - Ankündigung mit Klappentext und Besetzung: <https://www.xn--hrspieltalk-rfb.de/forum/thread/31576-moriarty-zwischen-genie-und-verbrechen-27-tiefe-wasser/>
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
 - [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md) — Zirkel-Audit IADK/MOR/SHC nach dem Fogg-Maßstab: Löchel-Volltexte, Fandom, Namenslisten (13.10.2026; enthält Spoiler).

@@ -16,7 +16,7 @@ sprecher:
   - rolle: Mr. Wu
     name: Michael Pan
 spielzeit_min: 58
-zirkel: unklar
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -26,6 +26,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
+  - raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md
 tags:
   - sonderermittler
 ---
@@ -56,7 +57,7 @@ Trotz der Folgen von Mycrofts Tod untersuchen Wilde und Sherlock eine rätselhaf
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — der offizielle Seitentext liefert keinen eindeutigen Zirkel-Bezug. Arbeitsnotiz: Kein expliziter Zirkel-Hinweis im offiziellen Text
+- **Indirekt** — [[wiki/figuren/theodora-sachs|Theodora Sachs]] und [[wiki/figuren/aleister-crowley|Aleister Crowley]] (Mitglied) sind laut Ingo Löchel „mit von der Partie“; Pietermann und Zillmann stehen in der Namensliste. Der Verlagstext nennt den [[wiki/konzepte/zirkel-der-sieben|Zirkel]] nicht. Bis 13.10.2026 `unklar` (Maßstab nach [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Phileas Fogg]], Abgleich 13.10.2026; [Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md)).
 
 ## Crossover & Querverweise
 
@@ -70,5 +71,6 @@ Trotz der Folgen von Mycrofts Tod untersuchen Wilde und Sherlock eine rätselhaf
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Serienseiten-Abgleich: Folge ist gelistet, aber nicht als eigene Fandom-Seite verlinkt.
 - [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Besetzung OWMH 45–60 (Audible, Hörspieltalk, Raute Media, Fanseiten-Figurenseiten; 12.10.2026).
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md) — Zirkel-Audit OWMH, WMU, OWIA, OWEP nach dem Fogg-Maßstab: Löchel-Fließtext, Fandom-Rollentabellen (13.10.2026).
 
 

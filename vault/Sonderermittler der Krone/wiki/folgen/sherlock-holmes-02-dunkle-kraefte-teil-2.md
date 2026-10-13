@@ -40,7 +40,7 @@ sprecher:
   - rolle: Ansage
     name: Lutz Mackensy
 spielzeit_min: 70
-zirkel: direkt
+zirkel: indirekt
 crossover_mit:
   - moriarty
 spoiler_level: grob
@@ -52,6 +52,7 @@ quellen:
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
   - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
   - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
+  - raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md
 tags:
   - sherlock-holmes
   - maritim
@@ -85,7 +86,10 @@ Weitere rätselhafte Verbrechen beunruhigen London und zwingen Sherlock Holmes u
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — als zweiter Teil des Auftaktfalls führt die Folge den nach dem Zirkel-Schlag begonnenen Konflikt fort.
+- **Indirekt** — der [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] wird in der Folge nicht genannt (Transkript der Komplettfolge, Couchfesseln-Besprechung), und kein Mitglied oder Verbündeter tritt auf (Rollenliste Fandom, Raute Media, Audible). Bis 13.10.2026 `direkt`; jetzt `indirekt` wie [[wiki/folgen/sherlock-holmes-04-unter-falschem-verdacht|SH 4]], weil James Moriarty handelt ([[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]], [Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md)).
+
+> [!warning]- Spoiler: Moriartys spätere Rolle (aufklappen)
+> Laut Klappentext von [[wiki/folgen/tesla-09-traumgespinst|TES 9]] ist Moriarty später der Anführer des Zirkels. Nach dem Maßstab zählt ein späteres Mitglied, das ohne Zirkelbezug handelt, als `indirekt`. Zählt Moriarty dafür nicht, wäre `kein` richtig — offene Frage.
 
 ## Crossover & Querverweise
 
@@ -101,3 +105,4 @@ Weitere rätselhafte Verbrechen beunruhigen London und zwingen Sherlock Holmes u
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
 - [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
 - [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).
+- [raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md) — Zirkel-Audit nach dem Fogg-Maßstab: YouTube-Transkripte, Löchel-Fließtext, Poldi, Couchfesseln, Namenslisten (13.10.2026).

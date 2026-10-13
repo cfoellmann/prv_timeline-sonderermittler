@@ -48,6 +48,10 @@ tags:
 | [[wiki/folgen/phileas-fogg-25-diamantenjaeger\|DNAPF 25 - Diamantenjäger]] | beteiligt | seit 13.10.2026 belegt (Löchel, Sprecherliste, Podcast „Die Couchfesseln“); siehe Spoiler-Hinweis |
 | [[wiki/folgen/phileas-fogg-28-herrscher-der-luefte\|DNAPF 28 - Herrscher der Lüfte]] | Auftritt | seit 13.10.2026 belegt (Löchel, Sprecherliste, Podcast „Die Couchfesseln“); siehe Spoiler-Hinweis |
 | [[wiki/folgen/phileas-fogg-33-von-der-erde-zum-mond\|DNAPF 33 - Von der Erde zum Mond]] | Auftritt | seit 13.10.2026 belegt (Löchel, Sprecherliste); siehe Spoiler-Hinweis |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-45-laune-der-natur\|OWMH 45 - Laune der Natur]] | eigener Handlungsstrang | seit 13.10.2026 belegt (Löchel, Dietmar Wunder in der Namensliste); Zirkel-Audit |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-47-ursprung-des-seins\|OWMH 47 - Ursprung des Seins]] | handelt | dto. (Verlagstext, Löchel, Namensliste) |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-48-quelle-des-leidens\|OWMH 48 - Quelle des Leidens]] | Handlungsstrang mit Theodora Sachs | dto. (Verlagstext, Löchel, Namensliste) |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-58-alleingang\|OWMH 58 - Alleingang]] | Auftritt | dto. (Hörspieltalk-Rollenliste, Audible) |
 | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Titel- und Zentralfigur | eigene Spin-off-Reihe |
 | [[wiki/serien/moriarty\|Moriarty]], [[wiki/serien/sherlock-holmes\|Sherlock Holmes]], [[wiki/serien/tesla\|Tesla]] | spätere Querverbindungen | mehrfach im aktuellen Repo-Stand belegt |
 
@@ -63,6 +67,8 @@ tags:
 > - **[[wiki/folgen/phileas-fogg-23-verschwoerung-auf-dem-atlantik|DNAPF 23]]:** Laut Löchel steckt er hinter Foggs Sturz über Bord; Aouda und Passepartout entdecken ihn später in San Francisco.
 > - **[[wiki/folgen/phileas-fogg-25-diamantenjaeger|DNAPF 25]]:** Er ist an Aoudas Entführung beteiligt und handelt für einen in der Folge ungenannten Auftraggeber (Couchfesseln); Löchel nennt Dracula und den Zirkel als Auftraggeber (Einzelquelle).
 > - **[[wiki/folgen/phileas-fogg-28-herrscher-der-luefte|DNAPF 28]]:** Er ist mit Dracula an Bord der „Medusa“ (Löchel, Couchfesseln).
+> - **[[wiki/folgen/poe-und-dupin-16-schlagzeilen|EAPAD 16]] (Zirkel-Audit 13.10.2026):** Laut Löchel ist er mit Dracula und Gaston Morel in den Fall verwickelt; Dietmar Wunder steht in den Listen von Audible und Raute Media.
+> - **[[wiki/folgen/sherlock-holmes-und-co-64-puppenspieler|SHC 64]] (Zirkel-Audit 13.10.2026):** Laut Löchel taucht er mit Dracula als „zwei Mitglieder des Zirkels“ in London auf — Einzelquelle.
 > - **[[wiki/folgen/phileas-fogg-33-von-der-erde-zum-mond|DNAPF 33]]:** Er gehört zu den Zirkel-Mitgliedern im Hotel in Florida und konfrontiert mit Theodora Sachs Aouda und Passepartout (Löchel).
 >
 > Dietmar Wunder steht in den Sprecherlisten von DNAPF 23, 25, 28 und 33; eingetragen ist er dort nicht, weil die Rolle nur über Rezensionen belegt ist. Rohdaten: [Zirkel-Maßstab](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md), [Fogg-Grenzfälle](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md).

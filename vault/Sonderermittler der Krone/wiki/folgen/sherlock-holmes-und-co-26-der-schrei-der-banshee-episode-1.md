@@ -13,7 +13,7 @@ sprecher:
     name: Florian Halm
   - rolle: Oscar Wilde
     name: Sascha Rotermund
-zirkel: indirekt
+zirkel: kein
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
 spoiler_level: grob
@@ -24,6 +24,7 @@ quellen:
   - raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
+  - raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md
 tags:
   - vorgaengerreihe
   - holmes-wilde-kontakt
@@ -61,7 +62,7 @@ tags:
 
 ## Bezug zum Zirkel der Sieben
 
-- **Indirekt** — die Folge nennt den [[wiki/konzepte/zirkel-der-sieben|Zirkel]] nicht, setzt aber den Kontakt zwischen zwei seiner späteren Hauptgegner.
+- **Kein** (seit 13.10.2026, Fogg-Maßstab) — weder der Klappentext noch die Fandom-Rollentabelle (12 Rollen) nennen den [[wiki/konzepte/zirkel-der-sieben|Zirkel]], ein Mitglied oder einen Verbündeten. Holmes und Wilde sind spätere Gegenspieler des Zirkels, keine Mitglieder; das trug die frühere Einstufung `indirekt` und zählt nach dem Maßstab nicht (wie [[wiki/folgen/phileas-fogg-47-der-schwarze-spiegel|DNAPF 47]]) ([Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md)).
 
 ## Crossover & Querverweise
 
@@ -80,3 +81,4 @@ Merkmal **(B) Kanon-Ereignis** des [Aufnahmekriteriums](../konzepte/sherlock-hol
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md)
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
 - [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorfrage Oliver Fleischer / Jonas Maas (13.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md) — Zirkel-Audit IADK, MOR und SHC nach dem Fogg-Maßstab (Löchel-Volltexte, Fandom, Namenslisten; 13.10.2026).

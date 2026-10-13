@@ -39,7 +39,13 @@ Aleister Crowley wird im Kosmos als einer der gefährlichsten Zirkel-Antagoniste
 ### Oscar Wilde & Mycroft Holmes
 
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-21-boleskine-house|OWMH 21 – Boleskine House]] (31.05.2019) — Erstauftritt
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-37-das-herz-der-see|OWMH 37 – Das Herz der See]] (01.04.2022) — mit Theodora Sachs; Auftritt belegt durch Fandom, DNB-Namensliste und Löchel (Zirkel-Audit 13.10.2026)
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-38-ausser-kontrolle|OWMH 38 – Außer Kontrolle]] (10.06.2022) — auf der Suche nach dem zweiten Teilstück der Worte der Macht (Löchel; Fandom, DNB)
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-40-lockruf-des-untergangs|OWMH 40 – Lockruf des Untergangs]] (30.09.2022) — In Rom mit Violet Ishiguro und den Worten der Macht
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-49-albtraum|OWMH 49 – Albtraum]] (07.06.2024) — mit Rasputin und Theodora Sachs (Löchel-Kopfangabe, Namensliste)
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis|OWMH 50 – Bittere Erkenntnis]] (27.09.2024) — mit Theodora Sachs und Rasputin (Löchel-Kopfangabe, Namensliste)
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-51-diadem-der-macht|OWMH 51 – Diadem der Macht]] (14.02.2025) — mit Theodora Sachs „mit von der Partie“ (Löchel, Namensliste)
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-52-kinder-des-feuers|OWMH 52 – Kinder des Feuers]] (18.04.2025) — eigener Handlungsstrang laut Löchel (Namensliste)
 
 ### Irene Adler
 

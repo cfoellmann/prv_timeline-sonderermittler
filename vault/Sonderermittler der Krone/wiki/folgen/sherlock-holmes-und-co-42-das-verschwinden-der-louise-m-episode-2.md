@@ -41,7 +41,7 @@ sprecher:
     name: Helmut Krauss
   - rolle: Ansage
     name: Lutz Mackensy
-zirkel: unklar
+zirkel: kein
 crossover_mit:
   - phileas-fogg
 spoiler_level: grob
@@ -50,6 +50,7 @@ quellen:
   - raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md
   - raw/notes/2026-09-06_shc-ingest_klappentexte-und-kanonpruefung.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md
 tags:
   - vorgaengerreihe
   - crossover
@@ -85,7 +86,7 @@ tags:
 
 ## Bezug zum Zirkel der Sieben
 
-- **Unklar** — kein Zirkel-Bezug im Text, keine Zirkel-Figur besetzt.
+- **Kein** (seit 13.10.2026, Fogg-Maßstab) — wie [[wiki/folgen/sherlock-holmes-und-co-41-das-verschwinden-der-louise-m-episode-1|Teil 1]]: kein [[wiki/konzepte/zirkel-der-sieben|Zirkel]] im Klappentext, kein Mitglied oder Verbündeter in Fandom-Rollentabelle und DNB-Liste (17 Namen). Bis dahin `unklar` ([Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md)).
 
 ## Crossover & Querverweise
 
@@ -108,3 +109,4 @@ Merkmal **(B) Kanon-Ereignis** — identisch zu Folge 41, weil der Fogg-Auftritt
 - [raw/notes/2026-09-06_shc-ingest_klappentexte-und-kanonpruefung.md](../../raw/notes/2026-09-06_shc-ingest_klappentexte-und-kanonpruefung.md)
 - Händlerlistings mit Klappentext und Sprecherliste: BookBeat, Audiolibrix, HolyShop, allscore, Amazon.
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md) — Zirkel-Audit IADK, MOR und SHC nach dem Fogg-Maßstab (Löchel-Volltexte, Fandom, Namenslisten; 13.10.2026).

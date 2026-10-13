@@ -40,7 +40,7 @@ sprecher:
   - rolle: Ansage
     name: Lutz Mackensy
 spielzeit_min: 58
-zirkel: unklar
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -51,6 +51,7 @@ quellen:
   - https://www.buchtips.net/rez11306-folge-41-auf-bewaehrung.htm
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md
 tags:
   - sonderermittler
 ---
@@ -84,7 +85,7 @@ Im Londoner East End werden in mehreren Nächten entstellte Leichen gefunden, wa
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — im verifizierten Klappentext kein ausdrücklicher Zirkel-Hinweis; Folge 42 setzt den Handlungsstrang aber direkt fort.
+- **Indirekt** — [[wiki/figuren/theodora-sachs|Theodora Sachs]] und [[wiki/figuren/rasputin|Rasputin]] (Mitglied) sind besetzt (Fandom-Rollentabelle; Gabrielle Pietermann und Tetje Mierendorf in der DNB-Namensliste). Der Verlagstext nennt den [[wiki/konzepte/zirkel-der-sieben|Zirkel]] nicht. Bis 13.10.2026 `unklar` (Maßstab nach [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Phileas Fogg]], Abgleich 13.10.2026; [Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md)).
 
 ## Crossover & Querverweise
 
@@ -100,6 +101,7 @@ Im Londoner East End werden in mehreren Nächten entstellte Leichen gefunden, wa
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md) — Zirkel-Audit OWMH, WMU, OWIA, OWEP nach dem Fogg-Maßstab: Löchel-Fließtext, Fandom-Rollentabellen (13.10.2026).
 
 
 

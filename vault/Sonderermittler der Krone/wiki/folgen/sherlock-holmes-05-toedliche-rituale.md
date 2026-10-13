@@ -12,7 +12,7 @@ sprecher:
   - rolle: Dr. John H. Watson
     name: Florian Halm
 spielzeit_min: 65
-zirkel: direkt
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -23,6 +23,7 @@ quellen:
   - https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-5-toedliche-rituale-4335/
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
   - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
+  - raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md
 tags:
   - sherlock-holmes
   - maritim
@@ -55,7 +56,10 @@ In Grail's Hollow häufen sich brutale und scheinbar ritualhafte Vorkommnisse, v
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — Holmes nennt im offiziellen Klappentext selbst den [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] als mögliche Erklärung für die Vorfälle.
+- **Indirekt** — Holmes vermutet den [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] hinter den Vorfällen (Klappentext, Transkript der Komplettfolge); Poldi spricht von „dezenten Referenzen“. Weder der Zirkel noch ein Mitglied oder Verbündeter tritt auf: Gabrielle Pietermann und Matti Klemm fehlen in beiden Namenslisten (Raute Media, Audible). Bis 13.10.2026 `direkt`, nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]] auf `indirekt` ([Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md)).
+
+> [!warning]- Spoiler: Drahtzieher (aufklappen)
+> Am Schluss des Transkripts heißt es, „dass Mr. Killjoy hier war“. Killjoy tritt selbst nicht auf; auch ein Verbündeter, der ohne Zirkelbezug handelt, trägt nur `indirekt`.
 
 ## Crossover & Querverweise
 
@@ -70,3 +74,4 @@ In Grail's Hollow häufen sich brutale und scheinbar ritualhafte Vorkommnisse, v
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-5-toedliche-rituale-4335/>
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
 - [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).
+- [raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md) — Zirkel-Audit nach dem Fogg-Maßstab: YouTube-Transkripte, Löchel-Fließtext, Poldi, Couchfesseln, Namenslisten (13.10.2026).

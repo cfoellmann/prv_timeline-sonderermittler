@@ -79,13 +79,13 @@ tags:
 | 2 | [[wiki/folgen/irene-adler-02-gefahr-im-prater\|Gefahr im Prater]] | 16.08.2019 | indirekt |
 | 3 | [[wiki/folgen/irene-adler-03-blutige-kanaele\|Blutige Kanäle]] | 15.11.2019 | indirekt |
 | 4 | [[wiki/folgen/irene-adler-04-sankt-petersburg-express\|Sankt Petersburg Express]] | 14.02.2020 | direkt |
-| 5 | [[wiki/folgen/irene-adler-05-schlag-auf-schlag\|Schlag auf Schlag]] | 28.08.2020 | indirekt |
+| 5 | [[wiki/folgen/irene-adler-05-schlag-auf-schlag\|Schlag auf Schlag]] | 28.08.2020 | kein |
 | 6 | [[wiki/folgen/irene-adler-06-licht-und-schatten\|Licht und Schatten]] | 30.10.2020 | direkt |
 | 7 | [[wiki/folgen/irene-adler-07-toedliche-riffe\|Tödliche Riffe]] | 27.11.2020 | direkt |
 | 8 | [[wiki/folgen/irene-adler-08-sog-des-verderbens\|Sog des Verderbens]] | 12.02.2021 | direkt |
 | 9 | [[wiki/folgen/irene-adler-09-tunguska\|Tunguska]] | 23.04.2021 | direkt |
 | 10 | [[wiki/folgen/irene-adler-10-falsches-spiel\|Falsches Spiel]] | 23.07.2021 | direkt |
-| 11 | [[wiki/folgen/irene-adler-11-samen-des-boesen\|Samen des Bösen]] | 10.12.2021 | unklar |
+| 11 | [[wiki/folgen/irene-adler-11-samen-des-boesen\|Samen des Bösen]] | 10.12.2021 | indirekt |
 | 12 | [[wiki/folgen/irene-adler-12-freund-oder-feind\|Freund oder Feind]] | 01.04.2022 | direkt |
 | 13 | [[wiki/folgen/irene-adler-13-feuer-und-eis\|Feuer und Eis]] | 06.05.2022 | direkt |
 | 14 | [[wiki/folgen/irene-adler-14-groenlands-grauen\|Grönlands Grauen]] | 29.07.2022 | unklar |
@@ -95,15 +95,15 @@ tags:
 | 18 | [[wiki/folgen/irene-adler-18-tausend-gesichter\|Tausend Gesichter]] | 08.09.2023 | direkt |
 | 19 | [[wiki/folgen/irene-adler-19-vier-elemente\|Vier Elemente]] | 19.01.2024 | direkt |
 | 20 | [[wiki/folgen/irene-adler-20-meister-der-alchemie\|Meister der Alchemie]] | 22.03.2024 | direkt |
-| 21 | [[wiki/folgen/irene-adler-21-goldene-zeiten\|Goldene Zeiten]] | 21.06.2024 | direkt |
+| 21 | [[wiki/folgen/irene-adler-21-goldene-zeiten\|Goldene Zeiten]] | 21.06.2024 | indirekt |
 | 22 | [[wiki/folgen/irene-adler-22-eine-frage-der-identitaet\|Eine Frage der Identität]] | 26.07.2024 | direkt |
 | 23 | [[wiki/folgen/irene-adler-23-taeuschungen\|Täuschungen]] | 20.09.2024 | direkt |
 | 24 | [[wiki/folgen/irene-adler-24-hinter-der-fassade\|Hinter der Fassade]] | 18.10.2024 | direkt |
-| 25 | [[wiki/folgen/irene-adler-25-engel-und-suender\|Engel und Sünder]] | 24.01.2025 | unklar |
+| 25 | [[wiki/folgen/irene-adler-25-engel-und-suender\|Engel und Sünder]] | 24.01.2025 | kein |
 | 26 | [[wiki/folgen/irene-adler-26-schatten-des-ruhmes\|Schatten des Ruhmes]] | 21.03.2025 | direkt |
 | 27 | [[wiki/folgen/irene-adler-27-im-feuer-des-zorns\|Im Feuer des Zorns]] | 23.05.2025 | direkt |
 | 28 | [[wiki/folgen/irene-adler-28-schall-und-rausch\|Schall und Rausch]] | 29.08.2025 | direkt |
-| 29 | [[wiki/folgen/irene-adler-29-der-mann-aus-dartmoor\|Der Mann aus Dartmoor]] | 17.10.2025 | unklar |
+| 29 | [[wiki/folgen/irene-adler-29-der-mann-aus-dartmoor\|Der Mann aus Dartmoor]] | 17.10.2025 | indirekt |
 | 30 | [[wiki/folgen/irene-adler-30-verdacht-und-zweifel\|Verdacht und Zweifel]] | 12.12.2025 | direkt |
 | 31 | [[wiki/folgen/irene-adler-31-in-den-tiefen-des-moores\|In den Tiefen des Moores]] | 13.02.2026 | direkt |
 | 32 | [[wiki/folgen/irene-adler-32-falsche-helden\|Falsche Helden]] | 24.04.2026 | direkt |

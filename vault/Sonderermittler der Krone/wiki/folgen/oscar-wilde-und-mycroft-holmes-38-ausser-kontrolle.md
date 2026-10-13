@@ -38,7 +38,7 @@ sprecher:
   - rolle: Ansage
     name: Lutz Mackensy
 spielzeit_min: 62
-zirkel: unklar
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -48,6 +48,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md
 tags:
   - sonderermittler
 ---
@@ -79,7 +80,7 @@ Nahe einer Goldgräbersiedlung eskalieren rätselhafte Vorfälle unter Mensch un
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — die offizielle Folgenseite nennt den Zirkel nicht beim Namen; die Rohdatei vermerkt nur „Worte der Macht als klarer Arc-Hinweis; kein direkter Zirkelname“. Bleibt `unklar`, Serientabelle am 12.10.2026 angeglichen (Lint 2026-10-12).
+- **Indirekt** — [[wiki/figuren/aleister-crowley|Aleister Crowley]], ein Mitglied des [[wiki/konzepte/zirkel-der-sieben|Zirkels]], tritt auf (Fandom-Rollentabelle, DNB-Namensliste, Ingo Löchel: „erneut mit Aleister Crowley zu tun bekommen, der sich dort auf der Suche nach dem zweiten Teilstück befindet“). Der Zirkel selbst wird nicht genannt. Bis 13.10.2026 `unklar` (Maßstab nach [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Phileas Fogg]], Abgleich 13.10.2026; [Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md)).
 
 ## Crossover & Querverweise
 
@@ -93,6 +94,7 @@ Nahe einer Goldgräbersiedlung eskalieren rätselhafte Vorfälle unter Mensch un
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Folgenseiten-Crawl (Folgen 1–44) mit Verfügbarkeits- und Statusabgleich.
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md) — Zirkel-Audit OWMH, WMU, OWIA, OWEP nach dem Fogg-Maßstab: Löchel-Fließtext, Fandom-Rollentabellen (13.10.2026).
 
 
 

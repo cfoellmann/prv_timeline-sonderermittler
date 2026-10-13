@@ -59,7 +59,7 @@ tags:
 |---|---|---|---|---|---|
 | 01 | [[wiki/folgen/frankenstein-01-am-abgrund-der-nacht\|Am Abgrund der Nacht]] | 2020 | 78 min | ✓ | — |
 | 02 | [[wiki/folgen/frankenstein-02-verflucht-seid-ihr-alle\|Verflucht seid ihr alle]] | 2020 | 63 min | ✓ | OWMH |
-| 03 | [[wiki/folgen/frankenstein-03-angst-in-den-gassen\|Angst in den Gassen]] | 2021 | 70 min | — | — |
+| 03 | [[wiki/folgen/frankenstein-03-angst-in-den-gassen\|Angst in den Gassen]] | 2021 | 70 min | indirekt | — |
 | 04 | [[wiki/folgen/frankenstein-04-toedliches-wissen\|Tödliches Wissen]] | 2021 | 71 min | ✓ | OWMH |
 | 05 | [[wiki/folgen/frankenstein-05-aus-dem-reich-der-toten\|Aus dem Reich der Toten]] | 2022 | 63 min | ✓ | — |
 | 06 | [[wiki/folgen/frankenstein-06-moerderjagd\|Mörderjagd]] | 2022 | 62 min | ✓ | — |
@@ -87,6 +87,7 @@ tags:
 | 28 | [[wiki/folgen/frankenstein-28-gegen-jeden-widerstand\|Gegen jeden Widerstand]] | 2026-11-13 (geplant) | 54 min | ✓ | Dracula, Moriarty, Sherlock Holmes |
 
 **Legende:**
+- **Zirkel:** ✓ = `direkt`, — = `kein`, sonst ausgeschrieben (seit dem Zirkel-Audit vom 13.10.2026)
 - **OWMH** = Oscar Wilde & Mycroft Holmes
 - **Irene Adler** = Irene Adler – Sonderermittlerin der Krone
 - **Tesla** = Tesla

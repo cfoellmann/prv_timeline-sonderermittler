@@ -14,7 +14,7 @@ sprecher:
   - rolle: Sherlock Holmes
     name: Charles Rettinghaus
 spielzeit_min: 59
-zirkel: unklar
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -23,6 +23,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge45-laune-der-natur/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
+  - raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md
 tags:
   - sonderermittler
 ---
@@ -54,7 +55,7 @@ Nach einem rätselhaften Todesfall in einem Wohnheim wird auch noch der Student 
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — der offizielle Seitentext liefert keinen eindeutigen Zirkel-Bezug. Arbeitsnotiz: Kein expliziter Zirkel-Hinweis im offiziellen Text
+- **Indirekt** — [[wiki/figuren/victor-frankenstein|Victor Frankenstein]], ein Mitglied des [[wiki/konzepte/zirkel-der-sieben|Zirkels]], hat laut Ingo Löchel einen eigenen Handlungsstrang; Dietmar Wunder steht in der Namensliste. Der Verlagstext nennt weder den Zirkel noch Frankenstein. Bis 13.10.2026 `unklar` (Maßstab nach [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Phileas Fogg]], Abgleich 13.10.2026; [Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md)).
 
 ## Crossover & Querverweise
 
@@ -67,5 +68,6 @@ Nach einem rätselhaften Todesfall in einem Wohnheim wird auch noch der Student 
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/wilde-und-holmes/folge45-laune-der-natur/>
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Serienseiten-Abgleich: Folge ist gelistet, aber nicht als eigene Fandom-Seite verlinkt.
 - [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Besetzung OWMH 45–60 (Audible, Hörspieltalk, Raute Media, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md) — Zirkel-Audit OWMH, WMU, OWIA, OWEP nach dem Fogg-Maßstab: Löchel-Fließtext, Fandom-Rollentabellen (13.10.2026).
 
 

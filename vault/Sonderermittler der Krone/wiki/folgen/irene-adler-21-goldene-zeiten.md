@@ -13,7 +13,7 @@ sprecher:
   - rolle: Mister Wu
     name: Michael Pan
 spielzeit_min: 57
-zirkel: direkt
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -23,6 +23,7 @@ quellen:
   - https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-21-goldene-zeiten-4579/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
+  - raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md
 tags:
   - irene-adler
   - maritim
@@ -56,7 +57,7 @@ Auf einer Feier des New Yorker Millionärs Ralph Drake erfährt Irene Adler von 
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — der sichtbare offizielle Klappentext nennt den Zirkel der Sieben ausdrücklich als vermuteten Urheber des Plans.
+- **Indirekt** (seit 13.10.2026, Fogg-Maßstab; **Entscheidung Hauptagent (im Auftrag)**) — der Klappentext nennt den [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] nur als vermuteten Urheber des Plans. In der Digital- und der CD-Sprecherliste (je 9 Namen) steht kein Stammsprecher eines Mitglieds oder Verbündeten, und Löchels Rezension nennt keine Zirkel-Figur. Dass der Zirkel in der Folge handelt, belegt keine Quelle. Die Beleglage gleicht der von [[wiki/folgen/irene-adler-29-der-mann-aus-dartmoor|IADK 29]], das seit dem Zirkel-Audit `indirekt` führt; aus Konsistenz deshalb ebenfalls `indirekt` (wie DNAPF 13). Bis dahin `direkt` ([Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md); [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]]).
 
 ## Crossover & Querverweise
 
@@ -70,3 +71,4 @@ Auf einer Feier des New Yorker Millionärs Ralph Drake erfährt Irene Adler von 
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge21-goldene-zeiten/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-21-goldene-zeiten-4579/>
 - [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md) — Zirkel-Audit IADK/MOR/SHC nach dem Fogg-Maßstab: Löchel-Volltexte, Fandom, Namenslisten (13.10.2026).

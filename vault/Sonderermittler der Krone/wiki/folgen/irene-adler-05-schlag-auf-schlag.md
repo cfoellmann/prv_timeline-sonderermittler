@@ -43,7 +43,7 @@ sprecher:
   - rolle: Ansage
     name: Lutz Mackensy
 spielzeit_min: 67
-zirkel: indirekt
+zirkel: kein
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -54,6 +54,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
   - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
+  - raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md
 tags:
   - sonderermittler
   - irene-adler
@@ -85,8 +86,7 @@ Im Covent Garden Theater kommt ein Bühnenarbeiter bei einem Stromschlag ums Leb
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit nicht direkt belegt** — auf der offiziellen Seite fehlen konkrete Zirkel-Figuren oder ein ausdrücklicher Zirkelverweis.
-- **Offen für spätere Nachschärfung:** Der übermenschliche Ton der offiziellen Beschreibung könnte für den Kosmos relevant sein, bleibt in dieser Arbeitsstufe aber bewusst vorsichtig markiert.
+- **Kein** (seit 13.10.2026, Fogg-Maßstab) — weder der Klappentext noch die Fandom-Rollentabelle, die CD-Sprecherliste (Raute Media) oder die Rezension von Ingo Löchel nennen den [[wiki/konzepte/zirkel-der-sieben|Zirkel]], ein Mitglied oder einen Verbündeten. Bis dahin `indirekt`, gestützt nur auf den übermenschlichen Ton der Verlagsbeschreibung ([Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md)).
 
 ## Crossover & Querverweise
 
@@ -100,3 +100,4 @@ Im Covent Garden Theater kommt ein Bühnenarbeiter bei einem Stromschlag ums Leb
 - Apple Books: <https://books.apple.com/de/audiobook/irene-adler-sonderermittlerin-der-krone-folge-5-schlag/id1525905418>
 - [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).
 - [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md) — Zirkel-Audit IADK, MOR und SHC nach dem Fogg-Maßstab (Löchel-Volltexte, Fandom, Namenslisten; 13.10.2026).

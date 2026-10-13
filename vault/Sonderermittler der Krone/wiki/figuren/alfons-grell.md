@@ -33,8 +33,8 @@ Acht Folgen mit rollengenauer Besetzung im Fandom-Wiki (OWMH 1–44 ausgewertet)
 | Folge | Rolle | Beleg |
 |---|---|---|
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-04-tod-der-koenigin\|OWMH 4 — Tod der Königin]] (15.07.2016) | Erstauftritt; mit ihm will der Zirkel das Königshaus vernichten | Klappentext, Fandom, Chronologie |
-| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-07-ritual-des-grauens\|OWMH 7 — Ritual des Grauens]] (13.01.2017) | besetzt | Fandom |
-| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-08-der-roentgen-zwischenfall\|OWMH 8 — Der Röntgen-Zwischenfall]] (17.03.2017) | besetzt | Fandom |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-07-ritual-des-grauens\|OWMH 7 — Ritual des Grauens]] (13.01.2017) | besetzt; Auftritt seit 13.10.2026 doppelt belegt (Zirkel-Audit), Rolle im Spoiler-Hinweis der Folgenseite | Fandom, Löchel-Kopfangabe |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-08-der-roentgen-zwischenfall\|OWMH 8 — Der Röntgen-Zwischenfall]] (17.03.2017) | besetzt; Auftritt seit 13.10.2026 doppelt belegt (Zirkel-Audit), Rolle im Spoiler-Hinweis der Folgenseite | Fandom, Löchel-Kopfangabe |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-09-das-erbe-des-doktors\|OWMH 9 — Das Erbe des Doktors]] (26.05.2017) | besetzt; Chronologie-Notiz in der Spoiler-Notiz der Folgenseite | Fandom, Chronologie |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-10-eine-nacht-am-brocken\|OWMH 10 — Eine Nacht am Brocken]] (21.07.2017) | besetzt | Fandom |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-13-die-auktion-der-diebe\|OWMH 13 — Die Auktion der Diebe]] (26.01.2018) | „zentraler Gegenspieler“ der Folge um die Versteigerung von Röntgens Arbeit in Marrakesch | Folgennotiz zur Fanseite, Fandom |

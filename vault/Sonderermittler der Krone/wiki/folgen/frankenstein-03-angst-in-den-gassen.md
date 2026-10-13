@@ -10,7 +10,7 @@ sprecher:
   - rolle: Victor Frankenstein
     name: Dietmar Wunder
 spielzeit_min: 70
-zirkel: kein
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: recherchiert
@@ -21,6 +21,7 @@ quellen:
   - raw/maritim/2026-09-06_deezer-api_erscheinungsdaten-und-upc.md
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md
+  - raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md
 tags:
   - horror
   - frankenstein
@@ -52,7 +53,7 @@ Victor Frankenstein erwacht in einer Gefängniszelle in Paris und erfährt, dass
 
 ## Bezug zum Zirkel der Sieben
 
-**Indirekt** — Die offizielle Seite listet keine direkten Zirkel-Figuren. Dies scheint ein eher eigenständiges Abenteuer Frankensteins zu sein, das ihn nach Paris führt.
+- **Indirekt** — [[wiki/figuren/victor-frankenstein|Victor Frankenstein]], Mitglied des [[wiki/konzepte/zirkel-der-sieben|Zirkels der Sieben]], handelt; der Zirkel selbst fällt nur in der Titelansage (Transkript der Komplettfolge), und kein weiteres Mitglied steht in den Namenslisten (DNB, Raute Media). Theodora Sachs und Aleister Crowley sind in der Couchfesseln-Besprechung nur eine Erwartung der Podcaster. Bis 13.10.2026 stand `kein` im Frontmatter (der Abschnitt nannte bereits „Indirekt“); nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]] `indirekt` ([Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md)).
 
 ## Crossover & Querverweise
 
@@ -64,3 +65,4 @@ Victor Frankenstein erwacht in einer Gefängniszelle in Paris und erfährt, dass
 - [raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md](../../raw/maritim/2026-04-30_frankenstein_folgen-01-bis-24.md)
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/frankenstein/folge03-angst-in-den-gassen/>
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md) — Zirkel-Audit nach dem Fogg-Maßstab: YouTube-Transkripte, Löchel-Fließtext, Poldi, Couchfesseln, Namenslisten (13.10.2026).

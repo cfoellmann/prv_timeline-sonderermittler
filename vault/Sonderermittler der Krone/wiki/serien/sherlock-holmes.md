@@ -60,7 +60,7 @@ tags:
 | Bogen | Folgen | Kosmos-Nutzen |
 |---|---|---|
 | Nachhall des Zirkel-Schlags | 1-2 | Holmes wird direkt in den bereits laufenden Sonderermittler-Konflikt eingeführt; Mycroft und Moriarty rahmen den Start. |
-| Grail's Hollow / Killjoy | 5-6 | Der Zirkel tritt offen in Erscheinung; Oscar Wilde und Irene Adler werden für die Holmes-Linie relevant. |
+| Grail's Hollow / Killjoy | 5-6 | Die Zirkel-Bezüge verdichten sich (SH 5: Holmes vermutet den Zirkel; SH 6: Killjoy handelt); Oscar Wilde und Irene Adler werden für die Holmes-Linie relevant. |
 | Carter Roth / Paganini / Venedig | 8-12 | Mehrere Artefakt- und Musik-Plots laufen offen auf Zirkel-Interessen und aktive Zirkel-Figuren zu. |
 | Hafen / Lebensstein / Robur | 13-16 | Die Reihe vernetzt sich stark mit Robur-, Frankenstein-, Mata-Hari- und Killjoy-Handlungsfäden. |
 | Molderton / Gordon Adrik | 18-21 | Theodora, Crowley und Rasputin suchen nach einem übergeordneten Machtmittel; Folge 21 öffnet zudem in Richtung [[wiki/serien/tesla\|Tesla]]. |
@@ -71,15 +71,15 @@ tags:
 
 | # | Titel | Datum | Zirkel | Crossover | Notizen |
 |---|---|---|---|---|---|
-| 01 | [[wiki/folgen/sherlock-holmes-01-dunkle-kraefte-teil-1\|Dunkle Kräfte, Teil 1]] | 09.12.2022 | direkt | [[wiki/serien/moriarty\|Moriarty]] | Mycroft Holmes und James Moriarty sind laut offizieller Seite beteiligt; Auftakt nach einem Zirkel-Schlag. |
-| 02 | [[wiki/folgen/sherlock-holmes-02-dunkle-kraefte-teil-2\|Dunkle Kräfte, Teil 2]] | 16.12.2022 | direkt | [[wiki/serien/moriarty\|Moriarty]] | Holmes und van Dusen jagen denselben Gegner weiter; Moriarty bleibt Teil des Falls. |
-| 03 | [[wiki/folgen/sherlock-holmes-03-verraeterische-lilien\|Verräterische Lilien]] | 17.03.2023 | unklar |   | Nach aktuellem Stand eher isolierter Forschungs-/Vertrauensfall ohne klaren Kosmos-Marker. |
+| 01 | [[wiki/folgen/sherlock-holmes-01-dunkle-kraefte-teil-1\|Dunkle Kräfte, Teil 1]] | 09.12.2022 | indirekt | [[wiki/serien/moriarty\|Moriarty]] | Mycroft Holmes und James Moriarty sind laut offizieller Seite beteiligt; Auftakt nach einem Zirkel-Schlag. |
+| 02 | [[wiki/folgen/sherlock-holmes-02-dunkle-kraefte-teil-2\|Dunkle Kräfte, Teil 2]] | 16.12.2022 | indirekt | [[wiki/serien/moriarty\|Moriarty]] | Holmes und van Dusen jagen denselben Gegner weiter; Moriarty bleibt Teil des Falls. |
+| 03 | [[wiki/folgen/sherlock-holmes-03-verraeterische-lilien\|Verräterische Lilien]] | 17.03.2023 | indirekt |   | Nach aktuellem Stand eher isolierter Forschungs-/Vertrauensfall ohne klaren Kosmos-Marker. |
 | 04 | [[wiki/folgen/sherlock-holmes-04-unter-falschem-verdacht\|Unter falschem Verdacht]] | 30.06.2023 | indirekt | [[wiki/serien/moriarty\|Moriarty]] | Moriarty steht im Zentrum eines Erpresser-Falls; Mycroft ist laut Figurenliste beteiligt. |
-| 05 | [[wiki/folgen/sherlock-holmes-05-toedliche-rituale\|Tödliche Rituale]] | 20.10.2023 | direkt |   | Holmes vermutet ausdrücklich den Zirkel hinter den Vorfällen in Grail's Hollow. |
+| 05 | [[wiki/folgen/sherlock-holmes-05-toedliche-rituale\|Tödliche Rituale]] | 20.10.2023 | indirekt |   | Holmes vermutet ausdrücklich den Zirkel hinter den Vorfällen in Grail's Hollow. |
 | 06 | [[wiki/folgen/sherlock-holmes-06-das-geheimnis-des-earls\|Das Geheimnis des Earls]] | 09.02.2024 | direkt | [[wiki/serien/oscar-wilde-und-mycroft-holmes\|Oscar Wilde & Mycroft Holmes]], [[wiki/serien/irene-adler\|Irene Adler]] | Oscar Wilde liefert die Ausgangsinformation, Irene Adler ist offiziell als Figur gelistet, Killjoy bleibt aktiv. |
 | 07 | [[wiki/folgen/sherlock-holmes-07-gefaehrliche-expeditionen\|Gefährliche Expeditionen]] | 17.05.2024 | direkt |   | Die offizielle Figurenliste verknüpft den Fall mit Theodora Sachs und Aleister Crowley. |
-| 08 | [[wiki/folgen/sherlock-holmes-08-die-sieben-leben-des-carter-roth\|Die sieben Leben des Carter Roth]] | 21.06.2024 | direkt |   | Ein für den Zirkel wichtiges Objekt lagert offenbar in Carter Roths Umfeld. Kein Crossover: Die Figurenliste der Fanseite (Wilde, Adler, Killjoy) ist sehr wahrscheinlich von SH 6 kopiert, am 13.10.2026 bereinigt ([[wiki/queries/lint-2026-10-12\|Lint 2026-10-12, Nachtrag 7]]). |
-| 09 | [[wiki/folgen/sherlock-holmes-09-das-vermaechtnis-des-geigers\|Das Vermächtnis des Geigers]] | 19.07.2024 | unklar |   | Auftakt eines Geigen-/Sammlerplots, dessen Kosmos-Relevanz erst im Folgefall sichtbar wird. |
+| 08 | [[wiki/folgen/sherlock-holmes-08-die-sieben-leben-des-carter-roth\|Die sieben Leben des Carter Roth]] | 21.06.2024 | direkt |   | Ein für den Zirkel wichtiges Objekt lagert offenbar in Carter Roths Umfeld. Kein Crossover: Die Figurenliste der Fanseite (Wilde, Adler, Killjoy) ist sehr wahrscheinlich von SH 6 kopiert, am 13.10.2026 bereinigt ([[wiki/queries/lint-2026-10-12\|Lint 2026-10-12, Nachtrag 7]]). `direkt` nach Entscheidung Christian; der Fogg-Maßstab ergäbe eher `indirekt` (offene Frage, [[wiki/queries/lint-2026-10-12\|Nachtrag 10]]). |
+| 09 | [[wiki/folgen/sherlock-holmes-09-das-vermaechtnis-des-geigers\|Das Vermächtnis des Geigers]] | 19.07.2024 | kein |   | Auftakt eines Geigen-/Sammlerplots, dessen Kosmos-Relevanz erst im Folgefall sichtbar wird. |
 | 10 | [[wiki/folgen/sherlock-holmes-10-teufelsmelodie\|Teufelsmelodie]] | 06.09.2024 | direkt |   | Crowley, Theodora Sachs und Rasputin werden als aktive Gegenseite geführt. |
 | 11 | [[wiki/folgen/sherlock-holmes-11-gesang-der-toten\|Gesang der Toten]] | 11.10.2024 | direkt |   | Holmes und Watson wollen verhindern, dass ein zentrales Objekt in Zirkel-Hände fällt. |
 | 12 | [[wiki/folgen/sherlock-holmes-12-takt-des-schicksals\|Takt des Schicksals]] | 01.11.2024 | direkt | [[wiki/serien/irene-adler\|Irene Adler]] | Venedig-Finale mit Irene Adler und mehreren Zirkel-Akteuren. |
@@ -87,7 +87,7 @@ tags:
 | 14 | [[wiki/folgen/sherlock-holmes-14-wut-und-verzweiflung\|Wut und Verzweiflung]] | 28.03.2025 | direkt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Holmes und Watson in Roburs Gewalt; Frankenstein verfolgt parallel eigene Durchbruchsforschung. |
 | 15 | [[wiki/folgen/sherlock-holmes-15-herz-aus-stein\|Herz aus Stein]] | 30.05.2025 | direkt |   | Ein Stein bedroht den Bestand des Königreichs; Theodora und Mata Hari bleiben an Bord. |
 | 16 | [[wiki/folgen/sherlock-holmes-16-polarlichter\|Polarlichter]] | 25.07.2025 | direkt | [[wiki/serien/frankenstein\|Frankenstein und der Zirkel der Sieben]] | Der Zirkel besitzt den Lebensstein; Holmes und Watson versuchen gegenzusteuern. |
-| 17 | [[wiki/folgen/sherlock-holmes-17-der-vermisste-von-molder-hall\|Der Vermisste von Molder Hall]] | 26.09.2025 | unklar |   | Vorstufe zum Molderton-/Geheimobjekt-Bogen, aber noch ohne offen benannten Zirkel-Bezug. |
+| 17 | [[wiki/folgen/sherlock-holmes-17-der-vermisste-von-molder-hall\|Der Vermisste von Molder Hall]] | 26.09.2025 | kein |   | Vorstufe zum Molderton-/Geheimobjekt-Bogen, aber noch ohne offen benannten Zirkel-Bezug. |
 | 18 | [[wiki/folgen/sherlock-holmes-18-gefaehrliche-geheimnisse\|Gefährliche Geheimnisse]] | 28.11.2025 | direkt |   | Theodora, Crowley und Rasputin suchen nach einem Mittel für die Herrschaft über das Königreich. |
 | 19 | [[wiki/folgen/sherlock-holmes-19-doppelter-verlust\|Doppelter Verlust]] | 06.02.2026 | direkt |   | Holmes und Watson jagen dasselbe alchemistische Ziel wie mehrere Zirkel-Figuren. |
 | 20 | [[wiki/folgen/sherlock-holmes-20-verhaengnisvolles-meisterwerk\|Verhängnisvolles Meisterwerk]] | 24.04.2026 | direkt |   | Während Holmes zu Gordon Adrik recherchiert, suchen Theodora, Crowley und Rasputin weiter nach dessen Buch. |

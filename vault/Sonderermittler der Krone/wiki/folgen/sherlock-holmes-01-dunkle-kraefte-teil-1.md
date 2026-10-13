@@ -52,7 +52,7 @@ sprecher:
   - rolle: Ansage
     name: Lutz Mackensy
 spielzeit_min: 72
-zirkel: direkt
+zirkel: indirekt
 crossover_mit:
   - moriarty
 spoiler_level: grob
@@ -64,6 +64,7 @@ quellen:
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
   - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
   - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
+  - raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md
 tags:
   - sherlock-holmes
   - maritim
@@ -97,7 +98,7 @@ England hat sich kaum von einem Schlag des Zirkels der Sieben erholt, als Mycrof
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — der offizielle Klappentext setzt die Handlung ausdrücklich nach einem Schlag des [[wiki/konzepte/zirkel-der-sieben|Zirkels der Sieben]] an.
+- **Indirekt** — der [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] ist Vorgeschichte und Gesprächsthema (Klappentext: Schlag des Zirkels; Transkript der Komplettfolge und Couchfesseln-Besprechung), handelt in der Folge aber nicht. Kein Mitglied oder Verbündeter steht in der Rollenliste (Fandom) oder in den Namenslisten (Raute Media, Audible). Bis 13.10.2026 `direkt`, nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]] auf `indirekt` ([Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md)).
 
 ## Crossover & Querverweise
 
@@ -113,3 +114,4 @@ England hat sich kaum von einem Schlag des Zirkels der Sieben erholt, als Mycrof
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
 - [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
 - [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).
+- [raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md) — Zirkel-Audit nach dem Fogg-Maßstab: YouTube-Transkripte, Löchel-Fließtext, Poldi, Couchfesseln, Namenslisten (13.10.2026).

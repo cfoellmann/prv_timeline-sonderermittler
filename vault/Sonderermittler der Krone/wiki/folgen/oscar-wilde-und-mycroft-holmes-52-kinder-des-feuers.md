@@ -20,7 +20,7 @@ sprecher:
   - rolle: Rasputin
     name: Tetje Mierendorf
 spielzeit_min: 57
-zirkel: unklar
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -30,6 +30,7 @@ quellen:
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
+  - raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md
 tags:
   - sonderermittler
 ---
@@ -60,7 +61,7 @@ Irene Adler und Mr. Wu entkommen knapp einem Mob und laufen direkt Theodora Sach
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — der offizielle Seitentext liefert keinen eindeutigen Zirkel-Bezug. Arbeitsnotiz: Indirekter Hinweis über Sekte und Rasputin; kein Zirkelname
+- **Indirekt** — der Verlagstext nennt [[wiki/figuren/theodora-sachs|Theodora Sachs]] und [[wiki/figuren/rasputin|Rasputin]] (Mitglied), Ingo Löchel bestätigt beide und einen Handlungsstrang mit [[wiki/figuren/aleister-crowley|Aleister Crowley]]; Pietermann, Mierendorf und Zillmann stehen in der Namensliste. Der [[wiki/konzepte/zirkel-der-sieben|Zirkel]] selbst wird nicht genannt. Bis 13.10.2026 `unklar` (Maßstab nach [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Phileas Fogg]], Abgleich 13.10.2026; [Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md)).
 
 ## Crossover & Querverweise
 
@@ -74,5 +75,6 @@ Irene Adler und Mr. Wu entkommen knapp einem Mob und laufen direkt Theodora Sach
 - [raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md](../../raw/maritim/2026-04-30_owmh_fandom-folgen-01-bis-44.md) — Fandom-Serienseiten-Abgleich: Folge ist gelistet, aber nicht als eigene Fandom-Seite verlinkt.
 - [raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md](../../raw/maritim/2026-10-12_audible-hoerspieltalk-rautemedia-fanseite_owmh-45-60-besetzung.md) — Besetzung OWMH 45–60 (Audible, Hörspieltalk, Raute Media, Fanseiten-Figurenseiten; 12.10.2026).
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md) — Zirkel-Audit OWMH, WMU, OWIA, OWEP nach dem Fogg-Maßstab: Löchel-Fließtext, Fandom-Rollentabellen (13.10.2026).
 
 

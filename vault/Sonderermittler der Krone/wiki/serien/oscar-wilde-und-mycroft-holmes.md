@@ -53,31 +53,31 @@ Quelle: [offizielle Serien-Übersicht](../../raw/maritim/2026-04-27_owmh_serien-
 |---|---|---|---|---|
 | 01 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-01-zeitenwechsel\|Zeitenwechsel]] | 11.03.2016 | indirekt | Erstauftritt Wilde/Wheeler/Payton; Wilde wird Sonderermittler |
 | 02 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-02-finsteres-hochland\|Finsteres Hochland]] | 11.03.2016 | indirekt | Erstauftritt Abel Hawthorn |
-| 03 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-03-das-geheimnis-des-alchemisten\|Das Geheimnis des Alchemisten]] | 13.05.2016 | unklar | Rom/Vatikan; tödliches Alchemisten-Tagebuch |
+| 03 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-03-das-geheimnis-des-alchemisten\|Das Geheimnis des Alchemisten]] | 13.05.2016 | indirekt | Rom/Vatikan; tödliches Alchemisten-Tagebuch |
 | 04 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-04-tod-der-koenigin\|Tod der Königin]] | 15.07.2016 | direkt | Erstauftritt Dr. Alfons Grell; Zirkel-Plot etabliert |
 | 05 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-05-kalter-fels\|Kalter Fels]] | 09.09.2016 | direkt | Charles-Darwin-Hintergrund, 1875-Abspaltung |
-| 06 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-06-hexenwald\|Hexenwald]] | 11.11.2016 | direkt | Adrian/Proband 3, Schwarzwald-Forschung |
-| 07 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-07-ritual-des-grauens\|Ritual des Grauens]] | 13.01.2017 |  | Mordserie an Wissenschaftlern |
-| 08 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-08-der-roentgen-zwischenfall\|Der Röntgen-Zwischenfall]] | 17.03.2017 |  | Röntgen-Entführung; Kriegsgefahr |
+| 06 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-06-hexenwald\|Hexenwald]] | 11.11.2016 | kein | Adrian/Proband 3, Schwarzwald-Forschung |
+| 07 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-07-ritual-des-grauens\|Ritual des Grauens]] | 13.01.2017 | indirekt | Mordserie an Wissenschaftlern |
+| 08 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-08-der-roentgen-zwischenfall\|Der Röntgen-Zwischenfall]] | 17.03.2017 | indirekt | Röntgen-Entführung; Kriegsgefahr |
 | 09 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-09-das-erbe-des-doktors\|Das Erbe des Doktors]] | 26.05.2017 | direkt | Jekyll-Elixier; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
 | 10 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-10-eine-nacht-am-brocken\|Eine Nacht am Brocken]] | 21.07.2017 | direkt | Erstauftritt Theodora Sachs |
 | 11 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-11-die-namenlose-aus-der-seine\|Die Namenlose aus der Seine]] | 29.09.2017 | direkt | Zirkel jagt geheimnisvolle Frau |
 | 12 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-12-der-geheimbund-der-masken\|Der Geheimbund der Masken]] | 24.11.2017 | direkt | Maskierte Gegner in Schottland |
-| 13 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-13-die-auktion-der-diebe\|Die Auktion der Diebe]] | 26.01.2018 |  | Marrakesch; Doktor Grell |
-| 14 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-14-labyrinth-der-angst\|Labyrinth der Angst]] | 30.03.2018 | direkt | Erstauftritt Archer (Charles Darwin) |
-| 15 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-15-goldrausch\|Goldrausch]] | 25.05.2018 |  | Klondike; Wyatt Earp |
-| 16 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-16-der-austausch\|Der Austausch]] | 27.07.2018 | direkt | Erstauftritt Irene Adler; erste Zusammenarbeit Wilde × Adler |
+| 13 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-13-die-auktion-der-diebe\|Die Auktion der Diebe]] | 26.01.2018 | indirekt | Marrakesch; Doktor Grell |
+| 14 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-14-labyrinth-der-angst\|Labyrinth der Angst]] | 30.03.2018 | kein | Erstauftritt Archer (Charles Darwin) |
+| 15 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-15-goldrausch\|Goldrausch]] | 25.05.2018 | kein | Klondike; Wyatt Earp |
+| 16 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-16-der-austausch\|Der Austausch]] | 27.07.2018 | kein | Erstauftritt Irene Adler; erste Zusammenarbeit Wilde × Adler |
 | 17 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-17-der-maharadscha-der-nacht\|Der Maharadscha der Nacht]] | 28.09.2018 | direkt | Erstauftritt Maharadscha als Zirkel-Mitglied |
 | 18 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-18-feindberuehrung\|Feindberührung]] | 30.11.2018 | direkt | Erstauftritt Paul Hiller; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
 | 19 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-19-blutdurst\|Blutdurst]] | 31.01.2019 | direkt | Erstauftritt Bram Stoker; Demeter-Strang |
 | 20 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-20-blutzoll\|Blutzoll]] | 29.03.2019 | direkt | Hintergrund Vampirblut-Forschung |
 | 21 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-21-boleskine-house\|Boleskine House]] | 31.05.2019 | direkt | Erstauftritt Aleister Crowley als Zirkel-Mitglied |
-| 22 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-22-die-vierte-macht\|Die vierte Macht]] | 31.07.2019 |  | Wilde selbst unter Mordverdacht |
-| 23 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-23-das-medusa-syndrom\|Das Medusa-Syndrom]] | 30.09.2019 | direkt | Spitzbergen, Dr. Cappelli |
-| 24 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-24-der-knochenhaendler\|Der Knochenhändler]] | 27.11.2019 |  | Leichenhandel im East End |
+| 22 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-22-die-vierte-macht\|Die vierte Macht]] | 31.07.2019 | kein | Wilde selbst unter Mordverdacht |
+| 23 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-23-das-medusa-syndrom\|Das Medusa-Syndrom]] | 30.09.2019 | kein | Spitzbergen, Dr. Cappelli |
+| 24 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-24-der-knochenhaendler\|Der Knochenhändler]] | 27.11.2019 | kein | Leichenhandel im East End |
 | 25 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-25-altes-blut\|Altes Blut]] | 31.01.2020 | direkt | Theodora × Dracula in Ägypten |
-| 26 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-26-dunkle-fluten\|Dunkle Fluten]] | 03.04.2020 |  | Neue Ripper-Angst an der Themse |
-| 27 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-27-dreissig-silberlinge\|Dreißig Silberlinge]] | 29.05.2020 |  | Uraltes Komplott und Fluch |
+| 26 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-26-dunkle-fluten\|Dunkle Fluten]] | 03.04.2020 | direkt | Neue Ripper-Angst an der Themse |
+| 27 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-27-dreissig-silberlinge\|Dreißig Silberlinge]] | 29.05.2020 | direkt | Uraltes Komplott und Fluch |
 | 28 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-28-der-laengste-tag\|Der längste Tag]] | 28.07.2020 | direkt | Anschläge auf Mycrofts Umfeld; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
 | 29 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-29-brennender-zorn\|Brennender Zorn]] | 25.09.2020 | direkt | Feuertod und russische Sekte; Chronologie-Notiz im Spoiler-Hinweis unter der Tabelle |
 | 30 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-30-die-stimme-des-verraeters\|Die Stimme des Verräters]] | 04.12.2020 | direkt | Grell offenbart Zirkel-Geheimnis; Island-Bedrohung |
@@ -87,28 +87,28 @@ Quelle: [offizielle Serien-Übersicht](../../raw/maritim/2026-04-27_owmh_serien-
 | 34 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-34-asche-und-rauch\|Asche und Rauch]] | 06.08.2021 | direkt | Zerstörtes London; Zirkel plant nächsten Angriff |
 | 35 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-35-zwielicht\|Zwielicht]] | 15.10.2021 | direkt | Zirkel übernimmt Regierung |
 | 36 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-36-am-ende-der-zeit\|Am Ende der Zeit]] | 26.11.2021 | direkt | **Phasen-Marker** Phase 4 → 5; Mycroft von Dracula entführt |
-| 37 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-37-das-herz-der-see\|Das Herz der See]] | 01.04.2022 |  | Gestohlenes Tagebuch; globale Jagd |
-| 38 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-38-ausser-kontrolle\|Außer Kontrolle]] | 10.06.2022 | unklar | Amazonas; Worte der Macht |
+| 37 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-37-das-herz-der-see\|Das Herz der See]] | 01.04.2022 | indirekt | Gestohlenes Tagebuch; globale Jagd |
+| 38 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-38-ausser-kontrolle\|Außer Kontrolle]] | 10.06.2022 | indirekt | Amazonas; Worte der Macht |
 | 39 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-39-der-pfad-der-toten\|Der Pfad der Toten]] | 29.07.2022 | direkt | Himalaya-Expedition um ein Artefakt der Worte der Macht |
-| 40 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-40-lockruf-des-untergangs\|Lockruf des Untergangs]] | 30.09.2022 |  | East-End-Mordserie |
-| 41 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung\|Auf Bewährung]] | 02.12.2022 |  | East-End-Mordserie; Sherlock unterstützt Wilde; Auftakt zu Folge 42 |
-| 42 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-42-angst-im-east-end\|Angst im East End]] | 07.04.2023 |  | „alter Feind im East End" |
+| 40 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-40-lockruf-des-untergangs\|Lockruf des Untergangs]] | 30.09.2022 | direkt | East-End-Mordserie |
+| 41 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung\|Auf Bewährung]] | 02.12.2022 | indirekt | East-End-Mordserie; Sherlock unterstützt Wilde; Auftakt zu Folge 42 |
+| 42 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-42-angst-im-east-end\|Angst im East End]] | 07.04.2023 | indirekt | „alter Feind im East End" |
 | 43 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-43-neue-wege\|Neue Wege]] | 26.05.2023 | direkt | Tod von Dr. Hoffman; Zirkel verschwört Vertrauten des Königshauses |
 | 44 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-44-dunkler-einfluss\|Dunkler Einfluss]] | 28.07.2023 | direkt | Zirkel will Königshaus unterwandern; Crowley-Substanz |
-| 45 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-45-laune-der-natur\|Laune der Natur]] | 29.09.2023 |  | Harold Snyder vermisst |
+| 45 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-45-laune-der-natur\|Laune der Natur]] | 29.09.2023 | indirekt | Harold Snyder vermisst |
 | 46 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-46-zelle-des-lebens\|Zelle des Lebens]] | 01.12.2023 | direkt | Leichendiebstahl; Zirkel als mögliche Urheber |
-| 47 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-47-ursprung-des-seins\|Ursprung des Seins]] | 26.01.2024 |  | Frankenstein als Schlüsselfigur |
-| 48 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-48-quelle-des-leidens\|Quelle des Leidens]] | 29.03.2024 |  | Frankensteins neues Experiment |
-| 49 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-49-albtraum\|Albtraum]] | 07.06.2024 |  | Grabschändungen in London |
-| 50 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis\|Bittere Erkenntnis]] | 27.09.2024 |  | **Mycroft Holmes ermordet** |
-| 51 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-51-diadem-der-macht\|Diadem der Macht]] | 14.02.2025 |  | Edinburgh und Irland; Hexendiadem |
-| 52 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-52-kinder-des-feuers\|Kinder des Feuers]] | 18.04.2025 |  | Rasputins Sekte |
-| 53 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-53-gefaehrliche-versuchung\|Gefährliche Versuchung]] | 18.07.2025 |  | Bombenanschlag; Moriarty und Tesla |
+| 47 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-47-ursprung-des-seins\|Ursprung des Seins]] | 26.01.2024 | indirekt | Frankenstein als Schlüsselfigur |
+| 48 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-48-quelle-des-leidens\|Quelle des Leidens]] | 29.03.2024 | indirekt | Frankensteins neues Experiment |
+| 49 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-49-albtraum\|Albtraum]] | 07.06.2024 | indirekt | Grabschändungen in London |
+| 50 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis\|Bittere Erkenntnis]] | 27.09.2024 | indirekt | **Mycroft Holmes ermordet** |
+| 51 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-51-diadem-der-macht\|Diadem der Macht]] | 14.02.2025 | indirekt | Edinburgh und Irland; Hexendiadem |
+| 52 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-52-kinder-des-feuers\|Kinder des Feuers]] | 18.04.2025 | indirekt | Rasputins Sekte |
+| 53 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-53-gefaehrliche-versuchung\|Gefährliche Versuchung]] | 18.07.2025 | unklar | Bombenanschlag; Moriarty und Tesla |
 | 54 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-54-stoerungen\|Störungen]] | 19.09.2025 | direkt | Zirkel sabotiert Kommunikationsnetz |
 | 55 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-55-blumen-des-verderbens\|Blumen des Verderbens]] | 28.11.2025 | direkt | Geiselnahme im Museum; Zirkel hinter Brandanschlag |
 | 56 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-56-toedliche-farben\|Tödliche Farben]] | 20.03.2026 | direkt | Moriarty markiert Sonderermittler; Zirkel-Brandanschläge |
-| 57 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-57-zwietracht\|Zwietracht]] | 15.05.2026 | direkt | Themse-Mordserie für Inspector Stafford; Wilde verdächtigt Frankenstein, Konflikt mit Irene Adler; 53 min |
-| 58 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-58-alleingang\|Alleingang]] | 10.07.2026 | direkt | Weitere Themse-Leiche; Wilde sucht mit Dr. Watson die verschwundene Irene Adler; 52 min |
+| 57 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-57-zwietracht\|Zwietracht]] | 15.05.2026 | indirekt | Themse-Mordserie für Inspector Stafford; Wilde verdächtigt Frankenstein, Konflikt mit Irene Adler; 53 min |
+| 58 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-58-alleingang\|Alleingang]] | 10.07.2026 | indirekt | Weitere Themse-Leiche; Wilde sucht mit Dr. Watson die verschwundene Irene Adler; 52 min |
 | 59 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-59-die-spur-der-echse\|Die Spur der Echse]] | 04.09.2026 | indirekt | Wilde reist allein auf eine irische Insel zu einer angeblich jahrhundertealten Echse; Sachs und Frankenstein auf seiner Fährte; 52 min; Autorin Silke Walter; aktueller Stand |
 | 60 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-60-tiefe-reue\|Tiefe Reue]] | 30.10.2026 (geplant) | indirekt | Sherlock Holmes zurück in London; Adler und Holmes suchen Wilde vergeblich; 53 min; Watchlist |
 

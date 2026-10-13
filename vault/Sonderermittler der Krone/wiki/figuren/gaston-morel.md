@@ -44,6 +44,14 @@ Gaston Morel ist das siebte und letzte Mitglied, das in den Zirkel aufgenommen w
 - [[wiki/folgen/poe-und-dupin-17-entfesselter-wahn|EAPAD 17 – Entfesselter Wahn]] (24.06.2022) — plant die Befreiung des wahnsinnigen Professor Deragon, um eine Massenvernichtungswaffe zu erschaffen
 - [[wiki/folgen/poe-und-dupin-21-tod-eines-feindes|EAPAD 21 – Tod eines Feindes]] (26.01.2024) — laut Folgenseite Tod der Figur; [[wiki/figuren/dracula|Dracula]] sucht danach einen Kandidaten für den freien Zirkel-Posten
 
+> [!warning]- Spoiler: weitere Auftritte laut Zirkel-Audit vom 13.10.2026 (aufklappen)
+> - **[[wiki/folgen/poe-und-dupin-04-ein-leben-im-jenseits|EAPAD 4]] und [[wiki/folgen/poe-und-dupin-06-im-kreise-der-roten-kutten|EAPAD 6]]:** tritt auf (automatisches Transkript der YouTube-Komplettfolge, in EAPAD 6 etwa Minute 52; Wolfgang Condrus in der Sprecherliste).
+> - **[[wiki/folgen/poe-und-dupin-11-die-daemonen-des-auguste-dupin|EAPAD 11]]:** Dupin muss laut Löchel „erneut gegen seinen Erzfeind und ehemaligen Freund Gaston Morel antreten“; Condrus in den Listen von Audible und Raute Media.
+> - **[[wiki/folgen/poe-und-dupin-16-schlagzeilen|EAPAD 16]], [[wiki/folgen/poe-und-dupin-18-die-rache-der-raubritter|18]], [[wiki/folgen/poe-und-dupin-20-trojaner|20]]:** laut Löchel beteiligt, jeweils mit Dracula (EAPAD 16 auch mit Frankenstein, EAPAD 18 und 20 mit Professor Deragon); Condrus in den Listen von Audible und Raute Media.
+> - **[[wiki/folgen/poe-und-dupin-19-hochverrat|EAPAD 19]]:** laut Löchel als verdeckter Drahtzieher beteiligt — Einzelquelle, Condrus nicht besetzt; deshalb kein Auftritt im engeren Sinn.
+>
+> Rohdaten: [Zirkel-Audit übrige Reihen](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md).
+
 ## Bedeutung für den Kosmos
 
 Die Aufnahme Morels ist ein wichtiger Wendepunkt in der Zirkel-Geschichte: Erst ab EAPAD 13 ist der "Zirkel der Sieben" tatsächlich komplett mit sieben Mitgliedern. Vorher agiert die Organisation mit nur sechs Mitgliedern.

@@ -12,7 +12,7 @@ sprecher:
   - rolle: Dr. John H. Watson
     name: Florian Halm
 spielzeit_min: 73
-zirkel: unklar
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -21,6 +21,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge03-verraeterische-lilien/
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
   - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
+  - raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md
 tags:
   - sherlock-holmes
   - maritim
@@ -52,7 +53,7 @@ Professor Arbogast misstraut plötzlich einem alten Freund und fürchtet, dass h
 
 ## Bezug zum Zirkel der Sieben
 
-- **Unklar** — weder Klappentext noch offizielle Figurenliste nennen einen ausdrücklichen Zirkel- oder Serienanschluss. Ein belegtes Nein liegt nicht vor; deshalb am 12.10.2026 von `kein` auf `unklar` gesetzt (Lint 2026-10-12).
+- **Indirekt** — der [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] fällt nur am Schluss als Vermutung (Transkript der Komplettfolge; Poldi: Bezüge „erst dezent und ganz am Ende“), kein Mitglied oder Verbündeter tritt auf (Namenslisten Raute Media, Audible). Bis 13.10.2026 `unklar`, nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]] auf `indirekt` ([Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md)).
 
 ## Crossover & Querverweise
 
@@ -66,3 +67,4 @@ Professor Arbogast misstraut plötzlich einem alten Freund und fürchtet, dass h
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/sherlock-holmes/folge03-verraeterische-lilien/>
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
 - [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).
+- [raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md) — Zirkel-Audit nach dem Fogg-Maßstab: YouTube-Transkripte, Löchel-Fließtext, Poldi, Couchfesseln, Namenslisten (13.10.2026).

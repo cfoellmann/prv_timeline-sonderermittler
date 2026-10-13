@@ -12,7 +12,7 @@ sprecher:
   - rolle: Dr. John H. Watson
     name: Florian Halm
 spielzeit_min: 61
-zirkel: unklar
+zirkel: kein
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -22,6 +22,7 @@ quellen:
   - https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-17-der-vermisste-von-molder-hall-5389/
   - raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md
   - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
+  - raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md
 tags:
   - sherlock-holmes
   - maritim
@@ -52,7 +53,7 @@ Imogen Molder bittet Holmes und Watson um Hilfe, weil ihr Vater Douglas Molder, 
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — der Klappentext nennt noch keinen ausdrücklichen Zirkel-Bezug; die Verbindung entfaltet sich erst im Folgebogen.
+- **Kein** — Klappentext ohne Zirkelbezug, kein Mitglied oder Verbündeter in den drei vollständigen Namenslisten (Raute Media, Audible, Hörspieltalk); ohne Höreindruck tragen Klappentext und Liste den niedrigeren Wert (Merksatz Höreindruck, [[wiki/queries/quellenlage-und-kanonkarte|Kanonkarte]]). Die Zirkel-Linie setzt erst in [[wiki/folgen/sherlock-holmes-18-gefaehrliche-geheimnisse|SH 18]] ein. Bis 13.10.2026 `unklar`, nach dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab]] auf `kein` ([Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md)).
 
 ## Crossover & Querverweise
 
@@ -67,3 +68,4 @@ Imogen Molder bittet Holmes und Watson um Hilfe, weil ihr Vater Douglas Molder, 
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/sherlock-holmes-sonderermittler-der-krone-17-der-vermisste-von-molder-hall-5389/>
 - [raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md](../../raw/maritim/2026-10-12_audible-rautemedia-dnb-hoerspieltalk_sh-drac-tes-nem-besetzung.md) — Besetzung SH 1–22, DRAC 1–16, TES 1–8, NEM 1–4 (Audible, Raute Media, DNB, Fandom, Hörspieltalk, Fanseite; 12.10.2026).
 - [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).
+- [raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md) — Zirkel-Audit nach dem Fogg-Maßstab: YouTube-Transkripte, Löchel-Fließtext, Poldi, Couchfesseln, Namenslisten (13.10.2026).

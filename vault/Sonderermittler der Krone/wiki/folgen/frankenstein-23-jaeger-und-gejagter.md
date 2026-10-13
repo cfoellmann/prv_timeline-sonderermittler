@@ -59,7 +59,7 @@ Victor Frankenstein kann seine Trauer über den Tod von Clarissa Morton nur schw
 
 ## Bezug zum Zirkel der Sieben
 
-**Indirekt** — Die Suche nach der Spinne dient weiterhin einem Zirkel-Projekt, doch die Handlung fokussiert sich auf die persönlichen Konsequenzen von Frankensteins Handeln.
+**Direkt** — Die Suche nach der Spinne dient weiterhin einem Zirkel-Projekt, doch die Handlung fokussiert sich auf die persönlichen Konsequenzen von Frankensteins Handeln. (Der Text lautete bis 13.10.2026 „Indirekt“, obwohl der Wert `direkt` war; beim Zirkel-Audit angeglichen, [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]].)
 
 ## Crossover & Querverweise
 

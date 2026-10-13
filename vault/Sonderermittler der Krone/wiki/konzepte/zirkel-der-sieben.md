@@ -52,8 +52,12 @@ Personen, die für den Zirkel arbeiten oder ihn unterstützen, aber nicht zu den
 |---|---|---|---|
 | Dr. Alfons Grell | Wissenschaftler, in Zirkel-Diensten | OWMH 4 „Tod der Königin" (15.07.2016) | [[wiki/figuren/alfons-grell]] |
 | Theodora Sachs | Hypnose-Begabte, Crowley-Umfeld | OWMH 10 „Eine Nacht am Brocken" (21.07.2017) | [[wiki/figuren/theodora-sachs]] |
+| Pasquale | arbeitet laut Löchel-Rezension zu OWMH 5 „für den Zirkel der Sieben“ (Einzelquelle); keine Figurenseite | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-03-das-geheimnis-des-alchemisten\|OWMH 3 „Das Geheimnis des Alchemisten"]] (Fandom-Rollentabelle); auch OWMH 5 | – |
 | Paul Hiller (& Bande) | Auftragsmörder | OWMH 18 „Feindberührung" (30.11.2018); Verbleib im Spoiler-Hinweis der Figurenseite | [[wiki/figuren/paul-hiller]] |
-| Killjoy | Dauergegner an der Seite Roburs, in fünf Reihen gelistet; ab FRANK 18 mit Racheplänen gegen Frankenstein, also kein verlässlicher Loyalist | IADK 1 „Tod im Oberhaus" (14.06.2019); ein früherer Auftritt in SHC 45 (07.06.2019) ist nur durch Fandom belegt | [[wiki/figuren/killjoy]] |
+| Killjoy | Dauergegner an der Seite Roburs, in fünf Reihen gelistet; ab FRANK 18 mit Racheplänen gegen Frankenstein, also kein verlässlicher Loyalist | IADK 1 „Tod im Oberhaus" (14.06.2019); ein früherer Auftritt in SHC 45 (07.06.2019) ist für die Rolle nur durch Fandom belegt — die DNB-Liste von SHC 45 führt Matti Klemm (zweite Quelle für den Namen, nicht für die Rolle; Zirkel-Audit 13.10.2026) | [[wiki/figuren/killjoy]] |
+
+> [!warning]- Spoiler: spätere Mitglieder laut Tesla-Klappentexten (aufklappen)
+> Die Klappentexte von [[wiki/folgen/tesla-05-zweite-haut|TES 5]] und [[wiki/folgen/tesla-07-ein-uraltes-raetsel|TES 7]] nennen Nikola Tesla, [[wiki/figuren/theodora-sachs|Theodora Sachs]] und [[wiki/figuren/aleister-crowley|Aleister Crowley]] „Zirkelmitglieder“; Theodora steht oben deshalb nur für die frühe Phase als Verbündete. Der Klappentext von [[wiki/folgen/tesla-09-traumgespinst|TES 9]] nennt [[wiki/figuren/james-moriarty|James Moriarty]] den „Anführer des Zirkels der Sieben“ — laut Löchels Rezension zu MOR 17 übernimmt er die Führung, nachdem er Dracula ausgeschaltet hat. Die Tabelle oben bildet den Stand bis dahin ab ([Rohdaten](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md); [Rohdaten IADK/MOR/SHC](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md)).
 
 ## Auftauchen in den Serien
 
@@ -62,6 +66,17 @@ Wird beim Folgen-Ingest gefüllt — Format wie in der Vorlage in [CLAUDE.md](..
 | Folge | Erwähnung | Bedeutung |
 |---|---|---|
 | – | – | – |
+
+## Einstufung `zirkel` in Folgen
+
+Der Wert `zirkel` auf Folgenseiten und in `app/data/folgen.json` folgt seit dem 13.10.2026 in **allen Reihen** dem [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Zirkel-Maßstab der Fogg-Serienseite]] (dort ausführlich mit Beispielen):
+
+- **`direkt`:** Dracula oder der Zirkel handelt in der Folge — auch ohne dass der Name „Zirkel der Sieben“ fällt.
+- **`indirekt`:** Der Zirkel wird nur erwähnt oder vermutet, ohne dass er oder ein Mitglied handelt; oder ein Mitglied, ein späteres Mitglied oder ein Verbündeter handelt, ohne dass der Zirkel genannt wird oder handelt; oder Roburs Vorläufer-Organisation handelt ohne Mitglied. Ein Kurzauftritt ohne Namen und ohne Handlungsanteil zählt nicht als Handeln.
+- **`kein`:** weder der Zirkel noch eines seiner Mitglieder oder Verbündeten ist beteiligt.
+- **`unklar`:** Beleglage reicht nicht (Default).
+
+Ein geänderter Wert braucht **zwei unabhängige Quellen** (Klappentext, Transkript, Rezension, Podcast, Fandom-Rollentabelle, Stammsprecher in einer vollständigen Namensliste als Hilfsindiz); Löchel-Chronologie und Löchel-Einzelrezensionen zählen zusammen als eine Quelle. Mit nur einer Quelle bleibt der bisherige Wert stehen. Ausdrückliche Entscheidungen Christians gehen vor (SH 8 bleibt `direkt`). Ergebnis des Audits aller Reihen: [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]]; Quellenbewertung: [[wiki/queries/quellenlage-und-kanonkarte|Quellenlage und Kanonkarte]].
 
 ## Bezug zu anderen Serien
 
@@ -73,7 +88,7 @@ Wird beim Folgen-Ingest gefüllt — Format wie in der Vorlage in [CLAUDE.md](..
 
 ## Theorien & offene Fragen
 
-- *Ist Moriarty Mitglied oder Gegenspieler des Zirkels?* — Moriarty hat eine eigene Serie, wird aber in den Sekundärquellen nicht als Zirkel-Mitglied geführt. In [[wiki/serien/irene-adler]] (Folge 15 „In den Krallen des Bösen", 24.02.2023) tritt Moriarty als eigener Antagonist neben Dracula auf — Indiz für **Konkurrenz** statt Mitgliedschaft.
+- *Ist Moriarty Mitglied oder Gegenspieler des Zirkels?* — Moriarty hat eine eigene Serie, wird aber in den Sekundärquellen nicht als Zirkel-Mitglied geführt. In [[wiki/serien/irene-adler]] (Folge 15 „In den Krallen des Bösen", 24.02.2023) tritt Moriarty als eigener Antagonist neben Dracula auf — Indiz für **Konkurrenz** statt Mitgliedschaft. Für die spätere Entwicklung siehe den Spoiler-Hinweis unter „Verbündete“.
 - *Welche Folge ist der „kanonische Einstieg" in den Zirkel-Plot?* — Sekundärquellen empfehlen [[wiki/serien/oscar-wilde-und-mycroft-holmes]] Folgen 1, 4, 5 als Zirkel-Setup.
 - *Genaue Hierarchie im Zirkel:* Dracula als Anführer ist gesetzt, die Rangfolge der übrigen sechs ist unklar.
 - *Wann genau wird Morel als 7. Mitglied aufgenommen?* — In EAPAD 13 „Aufnahmeprüfung", erst dort ist der Zirkel komplett.

@@ -15,7 +15,7 @@ sprecher:
     name: Reent Reins
   - rolle: Gwen Stafford
     name: Mia Diekow
-zirkel: unklar
+zirkel: indirekt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
 spoiler_level: grob
@@ -23,6 +23,7 @@ status: recherchiert
 quellen:
   - raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md
   - raw/notes/2026-09-06_shc-ingest_klappentexte-und-kanonpruefung.md
+  - raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md
 tags:
   - vorgaengerreihe
   - scotland-yard-strang
@@ -57,7 +58,7 @@ tags:
 
 ## Bezug zum Zirkel der Sieben
 
-- **Unklar** — der [[wiki/konzepte/zirkel-der-sieben|Zirkel]] wird im Klappentext **nicht** genannt, und keine Zirkel-Figur ist besetzt. Die Aufnahme stützt sich allein auf die Folgewirkung für eine Vault-Figur, nicht auf einen Zirkel-Bezug.
+- **Indirekt** (seit 13.10.2026, Fogg-Maßstab) — ein Mitglied des [[wiki/konzepte/zirkel-der-sieben|Zirkels]] tritt in der Folge auf und handelt, ohne dass der Zirkel genannt wird oder als Organisation handelt. Belegt durch die Einzelrezension von Ingo Löchel (Kopfangabe und Fließtext) und den Stammsprecher der Figur in der Sprecherliste der Händler; welche Figur, steht im Spoiler-Callout unter [[#Theorien & offene Fragen]]. Der Klappentext nennt den Zirkel **nicht**. Bis dahin `unklar` mit der Begründung, keine Zirkel-Figur sei besetzt ([Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md)).
 
 ## Crossover & Querverweise
 
@@ -71,8 +72,11 @@ Merkmal **(B) Kanon-Ereignis** des [Aufnahmekriteriums](../konzepte/sherlock-hol
 
 ## Theorien & offene Fragen
 
-- Wer hinter Gwens Tod steht, sagt der Klappentext nicht; die Spur ins russische Viertel bleibt ohne Namen. Ein Bezug zu [[wiki/figuren/rasputin|Rasputin]] oder zum russischen Strang der Adler-Reihe liegt motivisch nahe, ist aber **in keiner Quelle belegt** — reine Lesart.
-- Der „Gegner, dem Stafford weit unterlegen ist", wird nicht benannt.
+- Wer hinter Gwens Tod steht, sagt der Klappentext nicht; die Spur ins russische Viertel bleibt dort ohne Namen. Seit 13.10.2026 nennt eine Rezension den Gegner, siehe Spoiler-Callout.
+- Der „Gegner, dem Stafford weit unterlegen ist", wird im Klappentext nicht benannt.
+
+> [!warning]- Spoiler: Gegner und Täter der Folge (aufklappen)
+> Ingo Löchels Einzelrezension (Black Stone Magazine, Beitrag vom 03.08.2023) nennt in den Kopfangaben „Mit Inspektor Cross, Geoffrey Stafford, Mycroft Holmes und Rasputin“ und im Fließtext [[wiki/figuren/rasputin|Rasputin]] als Täter an Gwen Stafford; Stafford stellt ihn, Rasputin entkommt. **Tetje Mierendorf**, Rasputins Stammsprecher, steht in der 15-Namen-Sprecherliste der Händler. Damit handelt ein Zirkel-Mitglied; der Zirkel selbst fällt in Klappentext und Rezension nicht, deshalb `indirekt`. Ein Höreindruck fehlt.
 - Ob Gwens Tod in späteren Sonderermittler-Folgen aufgegriffen wird, ist im Repo nicht dokumentiert.
 
 ## Quellen
@@ -80,3 +84,4 @@ Merkmal **(B) Kanon-Ereignis** des [Aufnahmekriteriums](../konzepte/sherlock-hol
 - [raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md](../../raw/maritim/2026-09-06_sherlock-holmes-und-co_folgenliste-01-bis-97-und-kanonpruefung.md) — Folgenliste, DNB-Besetzung, Kanonprüfung.
 - [raw/notes/2026-09-06_shc-ingest_klappentexte-und-kanonpruefung.md](../../raw/notes/2026-09-06_shc-ingest_klappentexte-und-kanonpruefung.md) — Klappentext.
 - Händler-/Streaming-Listings: Audioteka, Nextory, Amazon (ISBN 3864738393), Audiolibrix, allscore, medimops.
+- [raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md) — Zirkel-Audit IADK, MOR und SHC nach dem Fogg-Maßstab (Löchel-Einzelrezension SHC 68; 13.10.2026).

@@ -14,7 +14,7 @@ sprecher:
   - rolle: Oscar Wilde
     name: Sascha Rotermund
 spielzeit_min: 54
-zirkel: unklar
+zirkel: indirekt
 crossover_mit:
   - oscar-wilde-und-mycroft-holmes
 spoiler_level: grob
@@ -25,6 +25,7 @@ quellen:
   - https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-29-der-mann-aus-dartmoor-5396/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
+  - raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md
 tags:
   - sonderermittler
   - maritim
@@ -59,7 +60,7 @@ Nach ihrer Rückkehr aus Los Angeles wartet Irene Adler gemeinsam mit Oscar Wild
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit unklar** — der offizielle Klappentext fragt nur, ob der Zirkel hinter dem Angriff steckt, bestätigt das aber noch nicht.
+- **Indirekt** (seit 13.10.2026, Fogg-Maßstab) — der Klappentext fragt, ob der [[wiki/konzepte/zirkel-der-sieben|Zirkel]] hinter dem Angriff steckt. In der Digital- und der CD-Sprecherliste (je 10 Namen) steht kein Stammsprecher eines Mitglieds oder Verbündeten, Löchels Kopfangaben nennen nur Wilde, Wu und Sir Henry Baskerville. Dass der Zirkel in der Folge handelt, belegt keine Quelle; deshalb nicht `direkt`. Bis dahin `unklar` ([Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md)).
 
 ## Crossover & Querverweise
 
@@ -74,3 +75,4 @@ Nach ihrer Rückkehr aus Los Angeles wartet Irene Adler gemeinsam mit Oscar Wild
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge29-der-mann-aus-dartmoor/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-29-der-mann-aus-dartmoor-5396/>
 - [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md) — Zirkel-Audit IADK, MOR und SHC nach dem Fogg-Maßstab (Löchel-Volltexte, Fandom, Namenslisten; 13.10.2026).

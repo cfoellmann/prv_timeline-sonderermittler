@@ -30,7 +30,7 @@ sprecher:
   - rolle: Ansage
     name: Lutz Mackensy
 spielzeit_min: 74
-zirkel: direkt
+zirkel: kein
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -41,6 +41,7 @@ quellen:
   - raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
+  - raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md
 tags:
   - sonderermittler
   - zirkel
@@ -76,7 +77,7 @@ Als im Schwarzwald mehrere junge Frauen verschwinden, greifen Angst und Aberglau
 
 ## Bezug zum Zirkel der Sieben
 
-- **Direkt** — der Fall ist im Repo klar im Zirkel-Konflikt verortet. Hinweis der offiziellen Seite: Kein direkter Zirkel-Hinweis im offiziellen Text.
+- **Kein Bezug** — weder der Verlagstext (Fanseite, Fandom) noch die Fandom-Rollentabelle noch Ingo Löchels Rezension nennen den [[wiki/konzepte/zirkel-der-sieben|Zirkel]], ein Mitglied oder einen Verbündeten; Löchel bespricht die Folge ohne jeden Zirkel-Bezug. Bis 13.10.2026 `direkt` ohne Beleg („im Repo klar im Zirkel-Konflikt verortet“) (Maßstab nach [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Phileas Fogg]], Abgleich 13.10.2026; [Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md)).
 
 ## Crossover & Querverweise
 
@@ -91,6 +92,7 @@ Als im Schwarzwald mehrere junge Frauen verschwinden, greifen Angst und Aberglau
 - [raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md](../../raw/maritim/2026-10-12_fanseite-fandom-audible_abel-hawthorn-auftritte-und-sprecher.md) — Abel-Hawthorn-Recherche 12.10.2026 (Fanseite-Volltextsuche, Fandom-Besetzung, Audible-Sprecherlisten).
 - [raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md](../../raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md) — HolyShop-Ersterscheinung, Apple, Audible, Raute Media (Datumsabgleich 12.10.2026).
 - [raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md](../../raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md) — Besetzung OWMH 1–44 und Sherlock Holmes & Co. (Fandom-Rollentabellen, DNB-Katalogsätze, Audible; 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md) — Zirkel-Audit OWMH, WMU, OWIA, OWEP nach dem Fogg-Maßstab: Löchel-Fließtext, Fandom-Rollentabellen (13.10.2026).
 
 
 

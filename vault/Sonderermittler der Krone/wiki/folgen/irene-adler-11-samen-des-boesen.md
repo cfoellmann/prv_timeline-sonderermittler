@@ -43,7 +43,7 @@ sprecher:
   - rolle: Ansage
     name: Lutz Mackensy
 spielzeit_min: 72
-zirkel: unklar
+zirkel: indirekt
 crossover_mit: []
 spoiler_level: grob
 status: entwurf
@@ -53,6 +53,7 @@ quellen:
   - https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-11-samen-des-boesen-2585/
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
+  - raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md
 tags:
   - irene-adler
   - maritim
@@ -87,7 +88,7 @@ Im Amazonasbecken ist ein Forscher der Royal Botanic Society verschwunden, der f
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit offen** — der sichtbare offizielle Text nennt keinen ausdrücklichen Zirkel-Akteur im Fallkern.
+- **Indirekt** (seit 13.10.2026, Fogg-Maßstab) — mit [[wiki/figuren/killjoy|Killjoy]] handelt ein Verbündeter des [[wiki/konzepte/zirkel-der-sieben|Zirkel]]s (Figurenliste der Fanseite, Fandom-Rolle, Kopfangabe Löchel, Matti Klemm in Digital- und CD-Sprecherliste). Der Zirkel selbst wird weder im Klappentext noch in der Rezension genannt. Bis dahin `unklar` ([Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md)).
 
 ## Crossover & Querverweise
 
@@ -100,3 +101,4 @@ Im Amazonasbecken ist ein Forscher der Royal Botanic Society verschwunden, der f
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/irene-adler/folge11-samen-des-boesen/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/irene-adler-sonderermittlerin-der-krone-11-samen-des-boesen-2585/>
 - [raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md](../../raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md) — Besetzung IADK/EAPAD (Fandom-Rollentabellen, Audible, Raute Media, Hörspieltalk, Fanseiten-Figuren- und Serienseiten; 12.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md) — Zirkel-Audit IADK, MOR und SHC nach dem Fogg-Maßstab (Löchel-Volltexte, Fandom, Namenslisten; 13.10.2026).

@@ -26,7 +26,7 @@ sprecher:
   - rolle: Mycroft Holmes
     name: Reent Reins
 spielzeit_min: 51
-zirkel: unklar
+zirkel: kein
 crossover_mit: []
 spoiler_level: grob
 status: recherchiert
@@ -37,6 +37,7 @@ quellen:
   - https://www.sonderermittler-der-krone.de/serien/wilde/folge04-das-buch-des-grauens/
   - raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md
   - raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md
+  - raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md
 tags:
   - sonderermittler
   - blitz
@@ -70,7 +71,7 @@ tags:
 
 ## Bezug zum Zirkel der Sieben
 
-- **Derzeit unklar** — anders als [[wiki/folgen/wilde-mycroft-ungeloeste-03-das-fledermausamulett|WMU 3 „Das Fledermausamulett“]], das mit Van Helsing und dem Fledermaus-Motiv in Zirkel-Nähe rückte, nennt das sichtbare Material hier weder den [[wiki/konzepte/zirkel-der-sieben|Zirkel]] noch eine seiner Figuren.
+- **Kein Bezug** — anders als [[wiki/folgen/wilde-mycroft-ungeloeste-03-das-fledermausamulett|WMU 3 „Das Fledermausamulett“]], das mit Van Helsing und dem Fledermaus-Motiv in Zirkel-Nähe rückte, nennen weder der Verlagstext noch die vollständige Rollenliste (Hörspieltalk, neun Rollen) den [[wiki/konzepte/zirkel-der-sieben|Zirkel]], ein Mitglied oder einen Verbündeten. Bis 13.10.2026 `unklar` (Maßstab nach [[wiki/serien/phileas-fogg#Zirkel-Maßstab|Phileas Fogg]], Abgleich 13.10.2026; [Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md)).
 
 ## Crossover & Querverweise
 
@@ -95,3 +96,4 @@ tags:
 - Hörspieltalk: <https://www.xn--hrspieltalk-rfb.de/forum/thread/30926-oscar-wilde-die-ungel%C3%B6sten-f%C3%A4lle-des-mycroft-holmes-04-das-buch-des-grauens/>
 - [raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md](../../raw/maritim/2026-10-12_dnb-audible-hoerspieltalk-fanseite_dnapf-wmu-owia-besetzung.md) — Besetzung DNAPF, WMU, OWIA (DNB, Audible, Hörspieltalk, Hoerspiel-Freunde, Fanseiten-Figurenseiten; 12.10.2026).
 - [raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md) — Nachrecherche offene Sprecherfragen (Poldi-Rezensionen, BookBeat, pop.de, Hoergruselspiele, DNB, Buchtips; 13.10.2026).
+- [raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md](../../raw/maritim/2026-10-13_blackstone-fandom_zirkel-audit-owmh.md) — Zirkel-Audit OWMH, WMU, OWIA, OWEP nach dem Fogg-Maßstab: Löchel-Fließtext, Fandom-Rollentabellen (13.10.2026).

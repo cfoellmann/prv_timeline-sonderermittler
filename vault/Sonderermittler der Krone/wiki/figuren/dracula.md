@@ -42,6 +42,8 @@ tags:
 | [[wiki/folgen/phileas-fogg-15-die-schwimmende-stadt\|DNAPF 15 - Die schwimmende Stadt]] | Auftritt | seit 13.10.2026 belegt (Transkript, Löchel, Fandom); Einzelheiten im Spoiler-Hinweis unter der Tabelle |
 | [[wiki/folgen/phileas-fogg-28-herrscher-der-luefte\|DNAPF 28 - Herrscher der Lüfte]] | Auftritt | seit 13.10.2026 belegt (Löchel, Podcast „Die Couchfesseln“); Einzelheiten im Spoiler-Hinweis unter der Tabelle |
 | [[wiki/folgen/phileas-fogg-32-abrechnung\|DNAPF 32 - Abrechnung]] | beteiligt | seit 13.10.2026 belegt (Löchel, Sprecherliste); Einzelheiten im Spoiler-Hinweis unter der Tabelle |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-26-dunkle-fluten\|OWMH 26 - Dunkle Fluten]] | Auftritt | seit 13.10.2026 belegt (Fandom-Rollentabelle, DNB-Namensliste, Löchel-Kopfangabe); Zirkel-Audit |
+| [[wiki/folgen/oscar-wilde-und-mycroft-holmes-27-dreissig-silberlinge\|OWMH 27 - Dreißig Silberlinge]] | Auftritt | dto. |
 | [[wiki/serien/dracula\|Dracula und der Zirkel der Sieben]] | Titel- und Zentralfigur | eigene Maritim-Reihe seit 2020 |
 | [[wiki/serien/moriarty\|Moriarty]] | Gegenspieler / Machtfaktor | mehrfach direkt verlinkt |
 | [[wiki/serien/phileas-fogg\|Phileas Fogg]] | früher Vorlauf | DNAPF führt Dracula bereits vor der Eigenreihe ein |
@@ -55,6 +57,14 @@ tags:
 > - **[[wiki/folgen/phileas-fogg-32-abrechnung|DNAPF 32]]:** Laut Löchel handelt ein Handlanger auf Draculas Befehl, und der Zirkel steckt hinter der Verschwörung gegen Fogg; Michaelis steht in der Sprecherliste.
 >
 > Rohdaten: [Zirkel-Maßstab](../../raw/maritim/2026-10-13_youtube-blackstone-fandom_zirkel-fogg-massstab.md), [Fogg-Grenzfälle](../../raw/maritim/2026-10-13_youtube-couchfesseln-blackstone-hoerspieltalk_fogg-grenzfaelle.md).
+
+> [!warning]- Spoiler: weitere Auftritte laut Zirkel-Audit vom 13.10.2026 — SHC 53, 58, 64 und EAPAD 16, 18, 20 (aufklappen)
+> - **[[wiki/folgen/sherlock-holmes-und-co-53-die-rueckkehr-der-angst|SHC 53]]:** tritt als Sapriel auf (Löchel-Einzelrezension, Kopfangabe „Dracula (als Sapriel)“; Torsten Michaelis in den Listen von DNB, Audible und Fandom). Seitdem `zirkel: direkt`.
+> - **[[wiki/folgen/sherlock-holmes-und-co-58-unheilvolle-beute|SHC 58]]:** laut Löchel-Kopfangabe beteiligt („… sowie Dracula und Theodora Sachs“) — Einzelquelle.
+> - **[[wiki/folgen/sherlock-holmes-und-co-64-puppenspieler|SHC 64]]:** laut Löchel taucht er mit Frankenstein als „zwei Mitglieder des Zirkels“ in London auf — Einzelquelle.
+> - **[[wiki/folgen/poe-und-dupin-16-schlagzeilen|EAPAD 16]], [[wiki/folgen/poe-und-dupin-18-die-rache-der-raubritter|18]], [[wiki/folgen/poe-und-dupin-20-trojaner|20]]:** laut Löchel beteiligt (EAPAD 16 mit Frankenstein und Morel, EAPAD 18 und 20 mit Morel und Professor Deragon); Michaelis steht in den Listen von Audible und Raute Media.
+>
+> Rohdaten: [Zirkel-Audit IADK/MOR/SHC](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md), [Zirkel-Audit übrige Reihen](../../raw/maritim/2026-10-13_youtube-blackstone-poldi-couchfesseln_zirkel-audit-rest.md); [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 10]].
 
 ### Vollständige Auftrittsliste
 

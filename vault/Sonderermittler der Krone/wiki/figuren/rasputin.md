@@ -54,7 +54,15 @@ Rasputin wird im Kosmos als mystische und politisch gefährliche Figur dargestel
 
 ### Oscar Wilde & Mycroft Holmes
 
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-41-auf-bewaehrung|OWMH 41 – Auf Bewährung]] (02.12.2022) — besetzt, mit Theodora Sachs (Fandom-Rollentabelle, DNB-Namensliste; Zirkel-Audit 13.10.2026)
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-42-angst-im-east-end|OWMH 42 – Angst im East End]] (07.04.2023) — tritt auf (Löchel; Namenslisten DNB, Audible, BookBeat)
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-49-albtraum|OWMH 49 – Albtraum]] (07.06.2024) — mit Crowley und Theodora Sachs (Löchel-Kopfangabe, Namensliste)
+- [[wiki/folgen/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis|OWMH 50 – Bittere Erkenntnis]] (27.09.2024) — mit Theodora Sachs und Crowley (Löchel-Kopfangabe, Namensliste)
 - [[wiki/folgen/oscar-wilde-und-mycroft-holmes-52-kinder-des-feuers|OWMH 52 – Kinder des Feuers]] (18.04.2025) — Rasputins Sekte bringt Ermittler unter Druck
+
+> [!warning]- Spoiler: Auftritt in SHC 68 (aufklappen)
+> Laut Löchels Einzelrezension (Kopfangabe „Mit … Rasputin“ und Fließtext) tritt Rasputin in [[wiki/folgen/sherlock-holmes-und-co-68-der-kalte-hauch-der-rache|SHC 68 „Der kalte Hauch der Rache“]] (22.07.2022) auf und ist dort der Täter; Tetje Mierendorf steht in der Händler-Sprecherliste. Seit 13.10.2026 `zirkel: indirekt` ([Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md)).
+> Offene Frage: Mierendorf und Zillmann stehen ohne Rolle schon in der Fandom-Liste von SHC 48 (11.10.2019), also vor dem bisher geführten Erstauftritt IADK 4 (14.02.2020).
 
 ### Frankenstein
 

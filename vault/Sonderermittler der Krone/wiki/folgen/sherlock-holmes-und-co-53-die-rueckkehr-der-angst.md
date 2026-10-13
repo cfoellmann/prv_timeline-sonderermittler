@@ -16,7 +16,7 @@ sprecher:
   - rolle: Ansage
     name: Lutz Mackensy
 spielzeit_min: 57
-zirkel: unklar
+zirkel: direkt
 spoiler_level: grob
 status: recherchiert
 quellen:
@@ -27,6 +27,7 @@ quellen:
   - raw/maritim/2026-10-12_fandom-dnb-audible_owmh-01-44-shc-besetzung.md
   - raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md
   - raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md
+  - raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md
   - https://books.apple.com/de/audiobook/sherlock-holmes-co-folge-53-die-r%C3%BCckkehr-der-angst/id1517115423
   - https://sherlockholmes.fandom.com/de/wiki/Die_R%C3%BCckkehr_der_Angst
 tags:
@@ -48,7 +49,7 @@ tags:
 - **Verlag:** Maritim. Laut Fandom im Auftrag von Romantruhe Audio produziert; Produktion HighScore Music, Regie Sebastian Pobot, Musik Alexander Schibor.
 - **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt). Fandom nennt als Buch ebenfalls Markus Duschek.
 - **Sprecher:** Geoffrey Stafford – Björn Schalla, Inspektor Cross – Rainer Fritzsche, Mycroft Holmes – Reent Reins, Ansage – Lutz Mackensy. Rollen laut Fandom-Besetzungstabelle (für die Rollen Einzelquelle; die Hauptrollen decken sich mit den Stammsprechern der Fanseiten-Figurenseiten), Geoffrey Stafford – Björn Schalla zusätzlich im DNB-Katalogsatz der CD. Alle 12 Namen stehen auch in der Sprecherliste der DNB (Digitalausgabe); Audible nennt die ersten 6 Namen in derselben Reihenfolge. Ohne Rollenangabe in der Fandom-Tabelle: Torsten Michaelis, Victoria Sturm, Wolfgang Bahro, Gordon Piedesack, Eckart Dux, Rüdiger Schulzki, Stefan Krause, Benjamin Oechsle. Rollennamen in der Schreibweise des Fandom-Wikis.
-- **Zirkel-Bezug:** `unklar`, siehe unten. Bis zum 06.09.2026 stand hier `direkt`; das stützte sich allein auf die Löchel-Chronologie.
+- **Zirkel-Bezug:** `direkt` seit 13.10.2026, siehe [[#Bezug zum Zirkel der Sieben]]. Bis zum 06.09.2026 stand hier `direkt` allein nach der Löchel-Chronologie, danach `unklar`.
 
 ## Hauptfiguren
 
@@ -64,6 +65,10 @@ tags:
 - **Bogen:** Stafford erinnert sich vage an einen Bericht über ähnliche Fälle in Frankreich. Er gerät damit auf die Spur eines gefährlichen Feindes, an dem schon andere Ermittler gescheitert sind, und Cross und Stafford versuchen, ihm das Handwerk zu legen.
 
 Der Klappentext nennt **weder den Gegner beim Namen noch den Zirkel der Sieben**.
+
+## Bezug zum Zirkel der Sieben
+
+- **Direkt** (seit 13.10.2026, Fogg-Maßstab) — ein Mitglied des [[wiki/konzepte/zirkel-der-sieben|Zirkels]] handelt in der Folge. Belegt durch die Einzelrezension von Ingo Löchel (Kopfangabe und Fließtext) und durch den Stammsprecher der Figur in den Sprecherlisten von DNB, Audible und Fandom; welche Figur, steht im Spoiler-Callout unter [[#Theorien & offene Fragen]]. Der Klappentext nennt den Zirkel nicht ([Rohdaten](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md)).
 
 ## Bezug zum Universum
 
@@ -84,8 +89,10 @@ Der Verweis des Klappentextes auf **frühere, gescheiterte Ermittlungen in Frank
 > - **Erstauftritt Digby Leech:** in **keiner der vier Quellen** belegt. Die Figur ist aus der Hauptfiguren-Liste entfernt worden, bis ein Beleg vorliegt. Woher die Angabe ursprünglich stammte, ist offen.
 >
 > Folge daraus: `zirkel` von `direkt` auf `unklar` zurückgesetzt (auch in `app/data/folgen.json`). Sollte die Sapriel-Deutung durch eine Primärquelle oder durch Hören bestätigt werden, ist `direkt` wieder gerechtfertigt.
+>
+> **Nachtrag 13.10.2026 — wieder `direkt`:** Löchels Einzelrezension zu dieser Folge (Black Stone Magazine, Beitrag vom 13.05.2023; nicht die Chronologie) führt in den Kopfangaben „Dracula (als Sapriel)“ und schreibt, die Folge sei „in die Handlung um den „Zirkel der Sieben“ eingebunden“. Unabhängig davon steht **Torsten Michaelis**, der Stammsprecher Draculas, in allen drei Sprecherlisten der Folge (DNB-Digitalausgabe, Audible, Fandom ohne Rolle) — die Aussage oben, die Besetzungsliste nenne Dracula nicht, gilt nur für die Rollen. Zwei voneinander unabhängige Quellen tragen damit den Dracula-Auftritt; Maßstab wie bei [[wiki/folgen/phileas-fogg-32-abrechnung|DNAPF 32]] (Löchel plus Stammsprecher in der Liste). Ein Höreindruck fehlt weiter. Dieselbe Rezension nennt auch „Digby Leech gibt sein Debüt“ — derselbe Autor wie die Chronologie, also keine zweite Quelle; die Figur bleibt aus der Hauptfiguren-Liste.
 
-- Wer ist der Gegner des „Magischen Zirkus"? Die Chronologie-Deutung steht in der Spoiler-Notiz; Klärung nur durch Hören oder eine Verlagsquelle.
+- Wer ist der Gegner des „Magischen Zirkus"? Seit 13.10.2026 durch Löchel-Rezension und Sprecherliste gestützt (Spoiler-Notiz); eine Bestätigung durch Hören steht aus.
 - Tritt Digby Leech in dieser Folge auf — und wenn ja, erstmals?
 
 ## Quellen
@@ -98,3 +105,4 @@ Der Verweis des Klappentextes auf **frühere, gescheiterte Ermittlungen in Frank
 - [raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md](../../raw/maritim/2026-10-13_fanseite-applebooks-gratishoerspiele-fandom-popde_stub-ausbau.md) — Klappentexte und Gegenprobe (Fanseite, Apple Books, Gratis-Hoerspiele.de, Fandom; 13.10.2026).
 - Apple Books (Beschreibung): <https://books.apple.com/de/audiobook/sherlock-holmes-co-folge-53-die-r%C3%BCckkehr-der-angst/id1517115423>
 - Sherlock-Holmes-Wiki (Fandom), Artikel mit Verlagstext: <https://sherlockholmes.fandom.com/de/wiki/Die_R%C3%BCckkehr_der_Angst>
+- [raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md](../../raw/maritim/2026-10-13_blackstone-fandom-dnb-audible-rautemedia_zirkel-audit-iadk.md) — Zirkel-Audit IADK, MOR und SHC nach dem Fogg-Maßstab (Löchel-Einzelrezension SHC 53, Namenslisten; 13.10.2026).
