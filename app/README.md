@@ -24,6 +24,11 @@ Standardmäßig startet es auf Port `8033` und öffnet `http://localhost:8033/` 
 > Oder dauerhaft im aktuellen User-Scope erlauben:
 > `Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned`.
 
+### Variante A2 — Batch-Dateien (Doppelklick)
+
+- `start-server.bat` startet `start-server.ps1` in einem eigenen Fenster (umgeht die Execution Policy). Argumente werden durchgereicht, z. B. `start-server.bat -Port 8080 -NoBrowser`.
+- `stop-server.bat` beendet den Server, der auf dem Port lauscht (Default `8033`, sonst `stop-server.bat 8080`).
+
 ### Variante B — Python direkt
 
 ```powershell
@@ -52,6 +57,8 @@ app/
 ├── styles.css         ← Tonalität (sepia, dunkel-warm, viktorianisch)
 ├── app.js             ← Lade-Logik, Sortierung, Filter, Rendering
 ├── start-server.ps1   ← Komfort-Start für PowerShell (Windows)
+├── start-server.bat   ← Doppelklick-Start (ruft start-server.ps1)
+├── stop-server.bat    ← Server auf dem Port beenden
 └── data/
     └── folgen.json    ← Single Source of Truth für die App
 ```
