@@ -30,7 +30,7 @@ Laut der Recherche (Stand 2026-04-27) spalteten sich **1875** einige Wissenschaf
 
 ## Mitglieder (Stand 2026-04-27)
 
-Laut Löchel-Kommentar (Februar 2023) ist der Zirkel mit der Aufnahme von [[wiki/figuren/gaston-morell|Gaston Morell]] in **EAPAD Folge 13 „Aufnahmeprüfung"** komplett. Vorher fehlt ihm das siebte Mitglied.
+Laut Löchel-Kommentar (Februar 2023) ist der Zirkel mit der Aufnahme von [[wiki/figuren/gaston-morel|Gaston Morel]] in **EAPAD Folge 13 „Aufnahmeprüfung"** komplett. Vorher fehlt ihm das siebte Mitglied.
 
 | # | Name | Rolle | Eigene Serie | Erstauftritt | Wiki |
 |---|---|---|---|---|---|
@@ -40,9 +40,9 @@ Laut Löchel-Kommentar (Februar 2023) ist der Zirkel mit der Aufnahme von [[wiki
 | 4 | Der Maharadscha | – | – | OWMH 17 „Der Maharadscha der Nacht" (28.09.2018) | [[wiki/figuren/der-maharadscha]] |
 | 5 | Rasputin | – | – | IADK 4 „Sankt Petersburg Express" (14.02.2020) | [[wiki/figuren/rasputin]] |
 | 6 | Aleister Crowley | Okkultist | – | OWMH 21 „Boleskine House" (31.05.2019) | [[wiki/figuren/aleister-crowley]] |
-| 7 | **Gaston Morell** | – | – | EAPAD 1 „Insel der tödlichen Rätsel" (13.07.2018), Aufnahme in EAPAD 13 „Aufnahmeprüfung" | [[wiki/figuren/gaston-morell]] |
+| 7 | **Gaston Morel** | – | – | EAPAD 1 „Insel der tödlichen Rätsel" (13.07.2018), Aufnahme in EAPAD 13 „Aufnahmeprüfung" | [[wiki/figuren/gaston-morel]] |
 
-> Schreibweise: **Gaston Morell** mit Doppel-l (laut Löchel-Kommentar; im Hauptartikel taucht „Morel" als Tippfehler auf).
+> Schreibweise: **Gaston Morel** mit einem l — so die Verlagstexte zu EAPAD 14 und 17 und Fandom. Der Löchel-Kommentar schreibt „Morell“ mit Doppel-l und hält „Morel“ für einen Tippfehler; „Morell“ steht aber in keiner Verlagsquelle und ist seit der Umbenennung am 13.10.2026 nur noch Alias ([Rohdaten](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md), Abschnitt 6; [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 7]]).
 
 ## Verbündete (nicht Mitglied)
 
@@ -76,11 +76,11 @@ Wird beim Folgen-Ingest gefüllt — Format wie in der Vorlage in [CLAUDE.md](..
 - *Ist Moriarty Mitglied oder Gegenspieler des Zirkels?* — Moriarty hat eine eigene Serie, wird aber in den Sekundärquellen nicht als Zirkel-Mitglied geführt. In [[wiki/serien/irene-adler]] (Folge 15 „In den Krallen des Bösen", 24.02.2023) tritt Moriarty als eigener Antagonist neben Dracula auf — Indiz für **Konkurrenz** statt Mitgliedschaft.
 - *Welche Folge ist der „kanonische Einstieg" in den Zirkel-Plot?* — Sekundärquellen empfehlen [[wiki/serien/oscar-wilde-und-mycroft-holmes]] Folgen 1, 4, 5 als Zirkel-Setup.
 - *Genaue Hierarchie im Zirkel:* Dracula als Anführer ist gesetzt, die Rangfolge der übrigen sechs ist unklar.
-- *Wann genau wird Morell als 7. Mitglied aufgenommen?* — In EAPAD 13 „Aufnahmeprüfung", erst dort ist der Zirkel komplett.
-- ⚠️ *Wer rückt nach Morells Tod auf den siebten Platz?* — **Ungeklärt.** [[wiki/folgen/poe-und-dupin-21-tod-eines-feindes|EAPAD 21 „Tod eines Feindes"]] belegt, dass [[wiki/figuren/gaston-morell|Gaston Morell]] in einer tödlichen Auseinandersetzung mit dem Zirkel stirbt und [[wiki/figuren/dracula|Dracula]] den Platz mit einem von drei Anwärtern füllen will: dem Gentleman-Dieb [[wiki/figuren/arsene-lupin|Arsène Lupin]], der Spionin [[wiki/figuren/mata-hari|Mata Hari]] und dem Entfesselungskünstler [[wiki/figuren/harry-houdini|Harry Houdini]]. Die Prüfung läuft über EAPAD 22 und 23 (Diebstahl des wertvollsten Saphirs der Welt). **Der Ausgang ist im Repo nicht dokumentiert.** Indizien aus dem späteren Verlauf: Mata Hari ist durchgängig als Zirkel-Operative etabliert (aber ausdrücklich *nicht* als Kernmitglied geführt), Houdini steht 2026 auf Ermittlerseite, Lupin taucht nach EAPAD 23 nicht mehr auf. Beim Hören von EAPAD 21–23 klären.
+- *Wann genau wird Morel als 7. Mitglied aufgenommen?* — In EAPAD 13 „Aufnahmeprüfung", erst dort ist der Zirkel komplett.
+- ⚠️ *Wer rückt nach Morels Tod auf den siebten Platz?* — **Ungeklärt.** [[wiki/folgen/poe-und-dupin-21-tod-eines-feindes|EAPAD 21 „Tod eines Feindes"]] belegt, dass [[wiki/figuren/gaston-morel|Gaston Morel]] in einer tödlichen Auseinandersetzung mit dem Zirkel stirbt und [[wiki/figuren/dracula|Dracula]] den Platz mit einem von drei Anwärtern füllen will: dem Gentleman-Dieb [[wiki/figuren/arsene-lupin|Arsène Lupin]], der Spionin [[wiki/figuren/mata-hari|Mata Hari]] und dem Entfesselungskünstler [[wiki/figuren/harry-houdini|Harry Houdini]]. Die Prüfung läuft über EAPAD 22 und 23 (Diebstahl des wertvollsten Saphirs der Welt). **Der Ausgang ist im Repo nicht dokumentiert.** Indizien aus dem späteren Verlauf: Mata Hari ist durchgängig als Zirkel-Operative etabliert (aber ausdrücklich *nicht* als Kernmitglied geführt), Houdini steht 2026 auf Ermittlerseite, Lupin taucht nach EAPAD 23 nicht mehr auf. Beim Hören von EAPAD 21–23 klären.
 
 ## Quellen
 
 - [raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md](../../raw/maritim/2026-04-27_sonderermittler-der-krone_de_serien.md) — Übersichtsseite mit Mitglieder-Aufzählung.
 - [raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md](../../raw/reviews/2026-04-27_zauberspiegel-online_chronologie-teil-1.md) — Chronologische Erstauftritte.
-- [raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md](../../raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md) — Mitgliederliste, Schreibweise „Morell", Aufnahme in EAPAD 13, Widerspruch zur Gründung.
+- [raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md](../../raw/reviews/2026-04-27_zauberspiegel-online_lets-talk-about.md) — Mitgliederliste, Schreibweise „Morell" (überholt, siehe oben), Aufnahme in EAPAD 13, Widerspruch zur Gründung.

@@ -99,7 +99,7 @@ Foren-Beobachtung (Hörgruselspiele/Hörspieltalk): Die Serien sind in **abgesch
 
 ## Variante 5 — In-Universe-chronologisch
 
-Anhand der In-Universe-Jahresangaben aus den Folgen sortiert. Stand 17.08.2026 sind **35 von 301 Folgen** mit einem `story_jahr` erfasst — davon nur **12 direkt belegt** (alle aus der Löchel-Chronologie, alle OWMH), die übrigen 23 sind Ableitungen mit `story_praezision: "geschaetzt"`.
+Anhand der In-Universe-Jahresangaben aus den Folgen sortiert. Stand 17.08.2026 sind **35 von 301 Folgen** mit einem `story_jahr` erfasst — davon nur **12 direkt belegt** (alle aus der Löchel-Chronologie, alle OWMH), die übrigen 23 sind Ableitungen mit `story_praezision: "geschaetzt"`. Am 13.10.2026 sind die Schätzungen für IADK 5 und IADK 6 zurückgenommen worden (siehe „Ungelöste Widersprüche“).
 
 > [!warning] Die Zeitachse ist nicht ungepflegt, sondern unbelegt.
 > Am 17.08.2026 wurden alle 301 Folgen systematisch gegen sämtliche `raw/`-Quellen geprüft. Ergebnis: In **keiner** Folge von Dracula, Frankenstein, Moriarty, Tesla, Sherlock Holmes (2022er Reihe), Kapitän Nemo und den drei Blitz-Reihen steht eine Jahreszahl — weder im Klappentext noch auf der Wiki-Seite. Ein Regex über alle Folgen-Seiten nach Jahreszahlen 1800–1999 liefert dort **null Treffer**. Die Löchel-Chronologie, die einzige echte In-Universe-Quelle im Repo, vergibt Jahresangaben **ausschließlich an OWMH-Folgen**; bei allen anderen Reihen ist ihre In-Universe-Spalte leer. Weitere Datierung ist ohne Hören oder zusätzliche Quellen nicht möglich.
@@ -109,8 +109,6 @@ Anhand der In-Universe-Jahresangaben aus den Folgen sortiert. Stand 17.08.2026 s
 | Jahr | Monat | Folge(n) | Anmerkung |
 |---:|---:|---|---|
 | 1875 | — | (Rückblende in OWMH 5) | Abspaltung / Gründung des Zirkels |
-| ~1889 | — | IADK 6 | Pariser Weltausstellung; Louis Le Prince (geschätzt) |
-| ~1890 | — | IADK 5 | Stromkrieg Edison/Westinghouse (geschätzt) |
 | 1895 | 4 | OWMH 1 | Wilde wird Sonderermittler (Frühjahr) |
 | 1895 | — | OWMH 2, 4, 5 | Erstauftritte Hawthorn, Grell, Charles-Darwin-Hintergrund |
 | 1895 | 11 | OWMH 6 | Schwarzwald-Proband-3-Fall |
@@ -156,8 +154,8 @@ Weitere Fallen, die beim Sweep aufgefallen sind:
 
 ### Ungelöste Widersprüche in den vorhandenen Daten
 
-- **IADK 5 (1890) und IADK 6 (1889) liegen vor dem Debüt ihrer Titelfigur.** Irene Adlers belegter Erstauftritt als Sonderermittlerin ist OWMH 16 = 1896 — laut der Anker-Constraints oben ausdrücklich „vor Irene-Adler-Hauptserie". Beide Werte können nicht gleichzeitig stimmen; zudem liegt Folge 6 vor Folge 5. Beide Schätzungen stammen aus historischen Ereignissen (Stromkrieg, Pariser Weltausstellung), von denen die Weltausstellung real 1889 **oder** 1900 sein kann. **Bewusst nicht verbogen — Entscheidung offen.** Solange das ungeklärt ist, ist jede Poe-&-Dupin-Datierung wackelig, weil deren Untergrenzen über Irene Adler laufen.
-- **IADK 9 „Tunguska"** verweist unverkennbar auf das Tunguska-Ereignis (hist. 30.06.1908). Das läge drei Jahre hinter `epoche_max_jahr: 1905` und zwölf Jahre nach dem Serien-Anker 1896. Da **keine Repo-Quelle** ein Jahr nennt, wurde bewusst **nichts** eingetragen. Zum Eintragen müsste die Epoche erweitert werden — Christians Entscheidung.
+- ✅ **IADK 5 (1890) und IADK 6 (1889) lagen vor dem Debüt ihrer Titelfigur — Schätzungen zurückgenommen 13.10.2026.** Irene Adlers belegter Erstauftritt als Sonderermittlerin ist OWMH 16 = 1896 — laut der Anker-Constraints oben ausdrücklich „vor Irene-Adler-Hauptserie". Beide Werte konnten nicht gleichzeitig stimmen; zudem lag Folge 6 vor Folge 5. Beide Schätzungen stammten aus historischen Ereignissen (Stromkrieg, Pariser Weltausstellung, real 1889 **oder** 1900) und widersprachen damit der Regel oben, dass reale Daten kein Datierungsmittel sind; kein Verlagstext nennt ein Jahr. Nach Entscheidung Christian stehen beide Folgen in `folgen.json` jetzt auf `story_jahr: null` und `story_praezision: "unbekannt"`, der historische Bezug bleibt in `story_anmerkung` ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 7]]). Damit hängen auch die Poe-&-Dupin-Untergrenzen nicht mehr an diesen beiden Schätzungen.
+- **IADK 9 „Tunguska"** verweist unverkennbar auf das Tunguska-Ereignis (hist. 30.06.1908). Das läge drei Jahre hinter `epoche_max_jahr: 1905` und zwölf Jahre nach dem Serien-Anker 1896. Da **keine Repo-Quelle** ein Jahr nennt, wurde bewusst **nichts** eingetragen. Zum Eintragen müsste die Epoche erweitert werden — Christians Entscheidung. ✅ **Geschlossen 13.10.2026 ohne Eintrag:** Auch der Verlagstext zu IADK 9 nennt nur die Region und eine „nahende Katastrophe“, kein Jahr; `epoche_max_jahr` bleibt bei 1905 (Entscheidung Christian, [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 7]]).
 - **OWMH 15 „Goldrausch"** steht auf 1896 (aus Löchels Klammer 14–29), spielt aber am Klondike und nennt Wyatt Earp: der Ansturm lief 1897–99, Earp zog ab 1897 nordwärts. Auf `"geschaetzt"` heruntergestuft und der Konflikt in `story_anmerkung` notiert.
 - **Epochen-Rahmen sind dreifach verschieden:** `folgen.json` sagt 1875–1905, `universum.md` „ca. 1895–1905", der Deep-Research-Report „um 1900". Alle belegten OWMH-Anker liegen in 1895/96.
 

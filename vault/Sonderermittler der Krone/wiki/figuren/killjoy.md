@@ -91,7 +91,6 @@ Vollständig nach den offiziellen Figurenlisten im Repo-Stand. Wo der Klappentex
 | [[wiki/folgen/frankenstein-25-truegerische-hoffnung\|FRANK 25 — Trügerische Hoffnung]] | offiziell gelistet im Tarnmantel-Auftrag um Bastien Lavache |
 | [[wiki/folgen/sherlock-holmes-05-toedliche-rituale\|SH 5 — Tödliche Rituale]] (2023) | Ermittlungsziel: der „Kampf gegen Killjoy" wird in Grail's Hollow explizit |
 | [[wiki/folgen/sherlock-holmes-06-das-geheimnis-des-earls\|SH 6 — Das Geheimnis des Earls]] (2024) | Holmes und Watson stoßen auf „einen weiteren Ort des Killjoy-Komplexes" |
-| [[wiki/folgen/sherlock-holmes-08-die-sieben-leben-des-carter-roth\|SH 8 — Die sieben Leben des Carter Roth]] (2024) | offiziell gelistet im Unterwassertechnik-Fall — ⚠️ **Auftritt zweifelhaft (13.10.2026):** Die Figurenliste der Fanseite ist sehr wahrscheinlich von SH 6 kopiert, Matti Klemm steht in keiner der vier Sprecherlisten, und laut Höreindruck tritt niemand aus dem Zirkel-Umfeld auf. Zeile bleibt bis zur Entscheidung stehen ([[wiki/queries/lint-2026-10-12\|Lint 2026-10-12, Nachtrag 7]]) |
 | [[wiki/folgen/sherlock-holmes-14-wut-und-verzweiflung\|SH 14 — Wut und Verzweiflung]] (2025) | offiziell gelistet, während Holmes und Watson in Roburs Gewalt sind |
 | [[wiki/folgen/sherlock-holmes-16-polarlichter\|SH 16 — Polarlichter]] (2025) | offiziell gelistet im Lebensstein-Arc |
 | [[wiki/folgen/tesla-04-im-spannungsfeld\|Tesla 4 — Im Spannungsfeld]] (2025) | rückt gemeinsam mit Robur und Barry Wood auf Cedric Manor vor |
@@ -101,6 +100,8 @@ Vollständig nach den offiziellen Figurenlisten im Repo-Stand. Wo der Klappentex
 | [[wiki/folgen/oscar-wilde-und-irene-adler-04-was-ihr-nicht-wollt\|W&A 4 — Was ihr nicht wollt]] (2024) | offiziell gelistet beim Anschlagsplan gegen Parlament und Buckingham Palace |
 | [[wiki/folgen/irene-adler-35-bilder-des-fortschritts\|IADK 35 — Bilder des Fortschritts]] (02.10.2026) | Roburs Partner in diesem Zug |
 | [[wiki/folgen/frankenstein-28-gegen-jeden-widerstand\|FRANK 28 — Gegen jeden Widerstand]] (geplant, 13.11.2026) | gemeinsam mit [[wiki/figuren/robur\|Robur]]: bereiten den Zirkelmitgliedern einen unerfreulichen Empfang |
+
+> **SH 8 „Die sieben Leben des Carter Roth“ — kein Auftritt, Figurenliste kopiert** (bereinigt 13.10.2026): Die Fanseite listet die Figur dort, die Liste ist aber sehr wahrscheinlich von [[wiki/folgen/sherlock-holmes-06-das-geheimnis-des-earls|SH 6]] kopiert; Matti Klemm steht in keiner der vier Sprecherlisten, und laut Höreindruck tritt niemand aus dem Zirkel-Umfeld auf. Die Folge ist deshalb nicht mehr als Auftritt geführt ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md); [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 7]]).
 
 ## Beziehungen
 

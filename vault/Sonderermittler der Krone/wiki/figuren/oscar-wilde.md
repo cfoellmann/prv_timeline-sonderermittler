@@ -50,7 +50,7 @@ Wilde wird in [[wiki/folgen/oscar-wilde-und-mycroft-holmes-01-zeitenwechsel|OWMH
 
 ## Auftritte
 
-Alle 100 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Erscheinungsdatum. Die Rollenangabe ist der jeweiligen Folgenseite entnommen; geplante Folgen sind markiert.
+Alle 99 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Erscheinungsdatum. Die Rollenangabe ist der jeweiligen Folgenseite entnommen; geplante Folgen sind markiert.
 
 | Folge | Rolle (laut Folgenseite) |
 |---|---|
@@ -120,7 +120,6 @@ Alle 100 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersc
 | [[wiki/folgen/irene-adler-20-meister-der-alchemie\|IADK 20 — Meister der Alchemie]] (22.03.2024) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-48-quelle-des-leidens\|OWMH 48 — Quelle des Leidens]] (29.03.2024) | Titelheld und operative Hauptfigur des Falls |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-49-albtraum\|OWMH 49 — Albtraum]] (07.06.2024) | Titelheld und operative Hauptfigur des Falls |
-| [[wiki/folgen/sherlock-holmes-08-die-sieben-leben-des-carter-roth\|SH 8 — Die sieben Leben des Carter Roth]] (21.06.2024) | ist auf der offiziellen Seite als Figur gelistet — ⚠️ **Auftritt zweifelhaft (13.10.2026):** Die Figurenliste der Fanseite ist sehr wahrscheinlich von SH 6 kopiert, Sascha Rotermund steht in keiner der vier Sprecherlisten, und laut Höreindruck tritt niemand aus dem Zirkel-Umfeld auf. Zeile bleibt bis zur Entscheidung stehen ([[wiki/queries/lint-2026-10-12\|Lint 2026-10-12, Nachtrag 7]]) |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-50-bittere-erkenntnis\|OWMH 50 — Bittere Erkenntnis]] (27.09.2024) | Titelheld und operative Hauptfigur des Falls |
 | [[wiki/folgen/phileas-fogg-42-gefaehrliche-suche\|DNAPF 42 — Gefährliche Suche]] (18.10.2024) | arbeitet hier direkt an Foggs Seite mit |
 | [[wiki/folgen/oscar-wilde-und-irene-adler-01-das-schottische-stueck\|WIA 1 — Das schottische Stück]] (25.10.2024) | begleitet Irene Adler nach Edinburgh und nimmt die Ermittlungen mit auf |
@@ -154,6 +153,8 @@ Alle 100 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersc
 | [[wiki/folgen/wilde-mycroft-ungeloeste-05-kalt-wie-eis\|WMU 5 — Kalt wie Eis]] (geplant, 16.10.2026) | stößt im Archiv auf den Fall und rollt ihn neu auf |
 | [[wiki/folgen/oscar-wilde-und-mycroft-holmes-60-tiefe-reue\|OWMH 60 — Tiefe Reue]] (geplant, 30.10.2026) | sucht weiter allein nach der Echse |
 | [[wiki/folgen/irene-adler-36-die-kraft-der-illusion\|IADK 36 — Die Kraft der Illusion]] (geplant, 27.11.2026) | sucht mit; setzt die Wilde/Adler-Achse aus [[wiki/folgen/irene-adler-29-der-mann-aus-dartmoor\|IADK 29]] fort |
+
+> **SH 8 „Die sieben Leben des Carter Roth“ — kein Auftritt, Figurenliste kopiert** (bereinigt 13.10.2026): Die Fanseite listet die Figur dort, die Liste ist aber sehr wahrscheinlich von [[wiki/folgen/sherlock-holmes-06-das-geheimnis-des-earls|SH 6]] kopiert; Sascha Rotermund steht in keiner der vier Sprecherlisten, und laut Höreindruck tritt niemand aus dem Zirkel-Umfeld auf. Die Folge ist deshalb nicht mehr als Auftritt geführt ([Rohdaten](../../raw/maritim/2026-10-13_poldi-bookbeat-popde-hoergruselspiele-dnb_offene-sprecherfragen.md); [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 7]]).
 
 ## Beziehungen
 

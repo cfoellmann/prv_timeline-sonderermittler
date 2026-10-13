@@ -29,7 +29,7 @@ quellen:
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - zirkel-der-sieben
-  - gaston-morell
+  - gaston-morel
   - dracula
   - arsene-lupin
   - mata-hari
@@ -38,7 +38,7 @@ tags:
 
 # Tod eines Feindes
 
-> **Folge 21** der Serie [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]]. **Wichtige Zirkel-Episode:** [[wiki/figuren/gaston-morell|Gaston Morell]] stirbt. [[wiki/figuren/dracula|Dracula]] sucht einen neuen Kandidaten für den freien Posten im [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]].
+> **Folge 21** der Serie [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]]. **Wichtige Zirkel-Episode:** [[wiki/figuren/gaston-morel|Gaston Morel]] stirbt. [[wiki/figuren/dracula|Dracula]] sucht einen neuen Kandidaten für den freien Posten im [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]].
 
 ## Übersicht
 
@@ -49,7 +49,7 @@ tags:
 - **Spielzeit:** 59 min
 - **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Sprecher (Auswahl):** Erzähler – Douglas Welbat, Edgar Allan Poe – Uve Teschner, Auguste Dupin – Manfred Lehmann, Dracula – Torsten Michaelis, Mata Hari – Katja Keßler. Erzähler laut Serienseite der Fanseite. *Übrige Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite bzw. im Klappentext, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Douglas Welbat, Manfred Lehmann, Uve Teschner, Markus Pfeiffer, Hans-Jürgen Dittberner, Torsten Michaelis, Wolfgang Condrus, Gabrielle Pietermann, Timo Weisschnur, Leonhard Mahlich, Katja Keßler, Michael Pan, Jean Coppong, Janis Zaurins, Patrick Holtheuer, Christian Dabeler, Robert Louis Griesbach, Lutz Mackensy (Raute Media, CD; Audible).
-- **Zirkel-Bezug:** Direkt – Gaston Morell stirbt, Zirkel sucht neues Mitglied
+- **Zirkel-Bezug:** Direkt – Gaston Morel stirbt, Zirkel sucht neues Mitglied
 
 ## Handlung
 
@@ -60,11 +60,11 @@ Dupins Intimfeind Gaston Morel hat eine tödliche Auseinandersetzung mit dem „
 - [[wiki/figuren/edgar-allan-poe|Edgar Allan Poe]]
 - [[wiki/figuren/auguste-dupin|Auguste Dupin]]
 - [[wiki/figuren/dracula|Dracula]]
-- [[wiki/figuren/gaston-morell|Gaston Morell]] (Tod)
+- [[wiki/figuren/gaston-morel|Gaston Morel]] (Tod)
 
 ## Bedeutung für den Kosmos
 
-Diese Episode markiert das Ende von Gaston Morell als Antagonist und leitet den Wettbewerb um seine Nachfolge im Zirkel der Sieben ein (Folgen 21-24).
+Diese Episode markiert das Ende von Gaston Morel als Antagonist und leitet den Wettbewerb um seine Nachfolge im Zirkel der Sieben ein (Folgen 21-24).
 
 ## Quellen
 

@@ -87,7 +87,7 @@ Mata Hari wird im Maritim-Kosmos als exotische Femme Fatale und geschickte Spion
 ## Offene Fragen
 
 - Unklar, ob Mata Hari im Kosmos als historische Person (1876–1917) oder als zeitlich verschobene Figur angelegt ist.
-- In EAPAD 21 als Kandidatin für den 7. Zirkel-Platz genannt, aber letztlich erhält Gaston Morell den Posten.
+- In EAPAD 21 als Kandidatin für den 7. Zirkel-Platz genannt, aber letztlich erhält Gaston Morel den Posten.
 
 ## Quellen
 

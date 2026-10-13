@@ -88,10 +88,10 @@ Alle 64 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 | [[wiki/folgen/moriarty-18-fluesterndes-eis\|MOR 18 — Flüsterndes Eis]] (11.04.2025) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/tesla-03-gefangen-in-cedric-manor\|TES 3 — Gefangen in Cedric Manor]] (25.04.2025) | wird mit Crowley auf ein Energiesystem angesetzt |
 | [[wiki/folgen/frankenstein-19-der-weg-der-schlange\|FRANK 19 — Der Weg der Schlange]] (23.05.2025) | folgt der Spur nach Griechenland |
-| [[wiki/folgen/moriarty-19-auf-blutiger-spur\|MOR 19 — Auf blutiger Spur]] (27.06.2025) | ist auf der offiziellen Seite als Figur gelistet |
+| [[wiki/folgen/moriarty-19-auf-blutiger-spur\|MOR 19 — Auf blutiger Spur]] (13.06.2025) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/frankenstein-20-ewiges-leid\|FRANK 20 — Ewiges Leid]] (25.07.2025) | entfesselt ungewollt einen Aufstand |
 | [[wiki/folgen/sherlock-holmes-16-polarlichter\|SH 16 — Polarlichter]] (25.07.2025) | ist auf der offiziellen Seite als Figur gelistet |
-| [[wiki/folgen/moriarty-20-doppelter-verrat\|MOR 20 — Doppelter Verrat]] (29.08.2025) | ist auf der offiziellen Seite als Figur gelistet |
+| [[wiki/folgen/moriarty-20-doppelter-verrat\|MOR 20 — Doppelter Verrat]] (15.08.2025) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/frankenstein-21-der-faden-des-lebens\|FRANK 21 — Der Faden des Lebens]] (26.09.2025) | verzweifelt und auf der Suche nach neuen Hinweisen |
 | [[wiki/folgen/frankenstein-22-falsches-versprechen\|FRANK 22 — Falsches Versprechen]] (28.11.2025) | auf der Suche nach einer seltenen Spinne |
 | [[wiki/folgen/moriarty-22-gruenes-feuer\|MOR 22 — Grünes Feuer]] (05.12.2025) | ist auf der offiziellen Seite als Figur gelistet |

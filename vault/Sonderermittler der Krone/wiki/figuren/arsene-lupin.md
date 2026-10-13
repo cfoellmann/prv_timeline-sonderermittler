@@ -19,7 +19,7 @@ tags:
 
 ## Rolle im Kosmos
 
-Lupin ist Teil des wichtigsten Nachbesetzungs-Blocks der Zirkel-Geschichte: Nach dem Tod von [[wiki/figuren/gaston-morell|Gaston Morell]] — Zirkel-Mitglied #7 — schreibt Dracula den Platz faktisch aus. Drei Kandidaten mit „besonderen Talenten" müssen sich beweisen: Lupin als Gentleman-Dieb, [[wiki/figuren/mata-hari|Mata Hari]] als Spionin und [[wiki/figuren/harry-houdini|Harry Houdini]] als Entfesselungskünstler.
+Lupin ist Teil des wichtigsten Nachbesetzungs-Blocks der Zirkel-Geschichte: Nach dem Tod von [[wiki/figuren/gaston-morel|Gaston Morel]] — Zirkel-Mitglied #7 — schreibt Dracula den Platz faktisch aus. Drei Kandidaten mit „besonderen Talenten" müssen sich beweisen: Lupin als Gentleman-Dieb, [[wiki/figuren/mata-hari|Mata Hari]] als Spionin und [[wiki/figuren/harry-houdini|Harry Houdini]] als Entfesselungskünstler.
 
 Lupin ist dabei derjenige, der **aktiv** wird: In [[wiki/folgen/poe-und-dupin-22-der-plan-des-meisterdiebs|EAPAD 22]] setzt er seinen „so riskanten wie dreisten Plan" in die Tat um; die Aufgabe entpuppt sich in [[wiki/folgen/poe-und-dupin-23-der-falsche-saphir|EAPAD 23]] als Diebstahl des wertvollsten Saphirs der Welt.
 
@@ -27,20 +27,20 @@ Lupin ist dabei derjenige, der **aktiv** wird: In [[wiki/folgen/poe-und-dupin-22
 
 | Folge | Rolle |
 |---|---|
-| [[wiki/folgen/poe-und-dupin-21-tod-eines-feindes\|EAPAD 21 — Tod eines Feindes]] | wird nach Morells Tod als Kandidat für den freien Zirkel-Posten vorgestellt |
+| [[wiki/folgen/poe-und-dupin-21-tod-eines-feindes\|EAPAD 21 — Tod eines Feindes]] | wird nach Morels Tod als Kandidat für den freien Zirkel-Posten vorgestellt |
 | [[wiki/folgen/poe-und-dupin-22-der-plan-des-meisterdiebs\|EAPAD 22 — Der Plan des Meisterdiebs]] | **titelgebend**: setzt seinen riskanten, dreisten Plan um |
 | [[wiki/folgen/poe-und-dupin-23-der-falsche-saphir\|EAPAD 23 — Der falsche Saphir]] | einer von drei Bewerbern beim Wettlauf um den wertvollsten Saphir der Welt |
 
 ## Beziehungen
 
 - [[wiki/figuren/dracula|Dracula]] — stellt ihn auf die Probe.
-- [[wiki/figuren/gaston-morell|Gaston Morell]] — dessen Tod den Platz freimacht.
+- [[wiki/figuren/gaston-morel|Gaston Morel]] — dessen Tod den Platz freimacht.
 - [[wiki/figuren/mata-hari|Mata Hari]] und [[wiki/figuren/harry-houdini|Harry Houdini]] — Mitbewerber.
 - [[wiki/figuren/auguste-dupin|Auguste Dupin]] und [[wiki/figuren/edgar-allan-poe|Edgar Allan Poe]] — Gegenspieler; sie wollen verhindern, dass der Saphir in Zirkel-Hände fällt.
 
 ## Bezug zum Zirkel der Sieben
 
-- **Anwärter** — im Repo **nicht** als aufgenommenes Mitglied belegt. Wer nach Morell tatsächlich nachrückte, ist eine der wichtigsten offenen Fragen der [[wiki/konzepte/zirkel-der-sieben|Zirkel-Konzeptseite]].
+- **Anwärter** — im Repo **nicht** als aufgenommenes Mitglied belegt. Wer nach Morel tatsächlich nachrückte, ist eine der wichtigsten offenen Fragen der [[wiki/konzepte/zirkel-der-sieben|Zirkel-Konzeptseite]].
 
 ## Theorien & offene Fragen
 

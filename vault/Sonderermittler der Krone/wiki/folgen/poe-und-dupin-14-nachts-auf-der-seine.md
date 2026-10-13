@@ -26,13 +26,13 @@ quellen:
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - zirkel-der-sieben
-  - gaston-morell
+  - gaston-morel
   - droge
 ---
 
 # Nachts auf der Seine
 
-> **Folge 14** der Serie [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]]. Eine neue Wunderdroge verursacht gewalttätige Übergriffe in Paris und weckt das Interesse von [[wiki/figuren/gaston-morell|Gaston Morell]] und seinen Verbündeten.
+> **Folge 14** der Serie [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]]. Eine neue Wunderdroge verursacht gewalttätige Übergriffe in Paris und weckt das Interesse von [[wiki/figuren/gaston-morel|Gaston Morel]] und seinen Verbündeten.
 
 ## Übersicht
 
@@ -55,7 +55,7 @@ Der neue Polizeipräfekt ist verzweifelt. In Paris kommt es zu einer Häufung ge
 
 - [[wiki/figuren/edgar-allan-poe|Edgar Allan Poe]]
 - [[wiki/figuren/auguste-dupin|Auguste Dupin]]
-- [[wiki/figuren/gaston-morell|Gaston Morell]] (erwähnt)
+- [[wiki/figuren/gaston-morel|Gaston Morel]] (erwähnt)
 
 ## Quellen
 

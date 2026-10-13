@@ -28,7 +28,7 @@ tags: []
 - **Erstveröffentlichung:** 13.07.2018 (HolyShop-Ersterscheinung und Apple; bis 12.10.2026 im Vault 17.08.2018 nach der Löchel-Chronologie).
 - **Folgenstand (Hauptlinie):** 36 (2026-08-17) — lückenlos im Vault dokumentiert.
 - **Crossover-Block 35–36:** In beiden Folgen stoßen die Sonderermittler der Krone zur Poe-Linie; in Folge 36 ermitteln [[wiki/figuren/irene-adler|Irene Adler]] und [[wiki/figuren/sherlock-holmes|Sherlock Holmes]] direkt mit. Damit ist die Reihe erstmals eng an die Krimi-Hauptlinien gekoppelt.
-- **Bezug zum Zirkel:** sekundär. **Erst ab Folge 13 „Aufnahmeprüfung"** spielt der [[wiki/konzepte/zirkel-der-sieben|Zirkel]] eine wichtige Rolle — dort wird [[wiki/figuren/gaston-morell|Gaston Morell]] als 7. Mitglied aufgenommen. Davor: vereinzelte Zirkel-Erscheinungen (Dracula als „Sapriel" ab Folge 2).
+- **Bezug zum Zirkel:** sekundär. **Erst ab Folge 13 „Aufnahmeprüfung"** spielt der [[wiki/konzepte/zirkel-der-sieben|Zirkel]] eine wichtige Rolle — dort wird [[wiki/figuren/gaston-morel|Gaston Morel]] als 7. Mitglied aufgenommen. Davor: vereinzelte Zirkel-Erscheinungen (Dracula als „Sapriel" ab Folge 2).
 - **Kosmos-Vorlauf:** [[wiki/figuren/edgar-allan-poe|Edgar Allan Poe]] ist im aktuellen Repo-Stand bereits in [[wiki/folgen/phileas-fogg-05-das-geheimnis-der-eissphinx|DNAPF 5 „Das Geheimnis der Eissphinx“]] verankert.
 
 ## Hauptfiguren
@@ -42,7 +42,7 @@ tags: []
 
 | # | Titel | Datum | Zirkel | Crossover | Notizen |
 |---|---|---|---|---|---|
-| 01 | [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel\|Insel der tödlichen Rätsel]] | 13.07.2018 | indirekt |   | Erstauftritt Gaston Morell |
+| 01 | [[wiki/folgen/poe-und-dupin-01-insel-der-toedlichen-raetsel\|Insel der tödlichen Rätsel]] | 13.07.2018 | indirekt |   | Erstauftritt Gaston Morel |
 | 02 | [[wiki/folgen/poe-und-dupin-02-im-bann-der-angst\|Im Bann der Angst]] | 17.08.2018 | indirekt |   | Dracula tritt als „Sapriel" auf |
 | 03 | [[wiki/folgen/poe-und-dupin-03-die-toten-augen-von-paris\|Die toten Augen von Paris]] | 14.09.2018 | indirekt |   | Mordserie |
 | 04 | [[wiki/folgen/poe-und-dupin-04-ein-leben-im-jenseits\|Ein Leben im Jenseits]] | 21.12.2018 | indirekt |   | Scheintod, lebendig begraben |
@@ -54,15 +54,15 @@ tags: []
 | 10 | [[wiki/folgen/poe-und-dupin-10-die-strasse-der-drei-gesichter\|Die Straße der drei Gesichter]] | 15.05.2020 | indirekt |   | Konkurrent [[wiki/figuren/vidocq\|Vidocq]] |
 | 11 | [[wiki/folgen/poe-und-dupin-11-die-daemonen-des-auguste-dupin\|Die Dämonen des Auguste Dupin]] | 30.10.2020 | indirekt |   | Alpträume, Psychologie |
 | 12 | [[wiki/folgen/poe-und-dupin-12-in-den-katakomben-lauert-der-tod\|In den Katakomben lauert der Tod]] | 29.01.2021 | indirekt |   | Katakomben von Paris |
-| 13 | [[wiki/folgen/poe-und-dupin-13-die-aufnahmepruefung\|Die Aufnahmeprüfung]] | 14.05.2021 | **direkt** |   | **Zirkel-Einstieg:** Gaston Morell wird 7. Mitglied |
-| 14 | [[wiki/folgen/poe-und-dupin-14-nachts-auf-der-seine\|Nachts auf der Seine]] | 13.08.2021 | direkt |   | Wunderdroge, Gaston Morell |
+| 13 | [[wiki/folgen/poe-und-dupin-13-die-aufnahmepruefung\|Die Aufnahmeprüfung]] | 14.05.2021 | **direkt** |   | **Zirkel-Einstieg:** Gaston Morel wird 7. Mitglied |
+| 14 | [[wiki/folgen/poe-und-dupin-14-nachts-auf-der-seine\|Nachts auf der Seine]] | 13.08.2021 | direkt |   | Wunderdroge, Gaston Morel |
 | 15 | [[wiki/folgen/poe-und-dupin-15-der-schrei-der-bestie\|Der Schrei der Bestie]] | 01.10.2021 | direkt |   | Zirkel interessiert sich für Experimente |
 | 16 | [[wiki/folgen/poe-und-dupin-16-schlagzeilen\|Schlagzeilen]] | 03.12.2021 | unklar | [[wiki/figuren/irene-adler\|Irene Adler]] | Fake-News-Verschwörung |
-| 17 | [[wiki/folgen/poe-und-dupin-17-entfesselter-wahn\|Entfesselter Wahn]] | 24.06.2022 | direkt |   | Gaston Morell, Prof. Deragon |
+| 17 | [[wiki/folgen/poe-und-dupin-17-entfesselter-wahn\|Entfesselter Wahn]] | 24.06.2022 | direkt |   | Gaston Morel, Prof. Deragon |
 | 18 | [[wiki/folgen/poe-und-dupin-18-die-rache-der-raubritter\|Die Rache der Raubritter]] | 09.09.2022 | unklar |   | Bergdorf-Terror |
 | 19 | [[wiki/folgen/poe-und-dupin-19-hochverrat\|Hochverrat]] | 17.02.2023 | unklar |   | Locked-Room-Mystery |
 | 20 | [[wiki/folgen/poe-und-dupin-20-trojaner\|Trojaner]] | 05.05.2023 | unklar |   | Anschlag auf Eiffelturm |
-| 21 | [[wiki/folgen/poe-und-dupin-21-tod-eines-feindes\|Tod eines Feindes]] | 26.01.2024 | **direkt** |   | **Gaston Morell stirbt**, Zirkel-Kandidaten |
+| 21 | [[wiki/folgen/poe-und-dupin-21-tod-eines-feindes\|Tod eines Feindes]] | 26.01.2024 | **direkt** |   | **Gaston Morel stirbt**, Zirkel-Kandidaten |
 | 22 | [[wiki/folgen/poe-und-dupin-22-der-plan-des-meisterdiebs\|Der Plan des Meisterdiebs]] | 05.04.2024 | direkt |   | Arsène Lupin, Houdini |
 | 23 | [[wiki/folgen/poe-und-dupin-23-der-falsche-saphir\|Der falsche Saphir]] | 07.06.2024 | direkt |   | Mata Hari, Lupin, Houdini |
 | 24 | [[wiki/folgen/poe-und-dupin-24-draculas-urteil\|Draculas Urteil]] | 12.07.2024 | **direkt** |   | **Entscheidung** über neues Zirkel-Mitglied |
@@ -82,8 +82,8 @@ tags: []
 ### Wichtige Storyline-Arcs
 
 - **Folgen 1–12:** Vor dem Zirkel-Einstieg (2018–2021)
-- **Folgen 13–20:** Zirkel-Integration, Gaston Morell als Antagonist (2021–2023)
-- **Folgen 21–24:** Tod von Gaston Morell, Wettbewerb um Zirkel-Nachfolge (2024)
+- **Folgen 13–20:** Zirkel-Integration, Gaston Morel als Antagonist (2021–2023)
+- **Folgen 21–24:** Tod von Gaston Morel, Wettbewerb um Zirkel-Nachfolge (2024)
 - **Folgen 25–28:** „Kult des goldenen Kalbs"-Arc (2024–2025)
 - **Folgen 29–34:** Diverse Einzelfälle (2025–2026)
 

@@ -5,7 +5,7 @@ nummer: 26
 titel: Der Schrei der Banshee, Episode 1
 erschienen: 2016-09-02
 verlag: Maritim
-autor: Oliver Fleischer
+autor: Jonas Maas
 sprecher:
   - rolle: Sherlock Holmes
     name: Charles Rettinghaus
@@ -41,7 +41,7 @@ tags:
 - **Reihe:** [[wiki/konzepte/sherlock-holmes-und-co|Sherlock Holmes & Co. — Aus den Geheimakten der Meisterdetektive]] (Vorgänger-Reihe, Label Romantruhe Audio).
 - **Nummer:** 26 (erster Teil eines Zweiteilers mit Folge 27).
 - **Erscheinungsdatum:** 02.09.2016 — beide Teile tragen dasselbe Datum.
-- **Autor:** Oliver Fleischer (DNB-Digitalausgabe, Apple Books). ⚠️ **Widerspruch, Entscheidung offen:** Die DNB-Sätze der CD-Ausgaben (Einzel-CD und Doppel-CD 2016, 3-CD-Box 2019) nennen „Dialogbuch: Jonas Maas“, das Fandom-Wiki „Buch: Jonas Maas“; keine Quelle trennt die beiden Namen nach Funktion. `autor` bleibt bis zur Entscheidung unverändert (geprüft 13.10.2026).
+- **Autor:** Jonas Maas — die DNB-Sätze der CD-Ausgaben (Einzel-CD und Doppel-CD 2016, 3-CD-Box 2019) nennen „Dialogbuch: Jonas Maas“, das Fandom-Wiki „Buch: Jonas Maas“. **Abweichende Angabe der Digitalausgabe:** Oliver Fleischer (DNB-Digitalausgabe, Apple Books); keine Quelle trennt die beiden Namen nach Funktion. Bis 13.10.2026 stand hier Oliver Fleischer; umgestellt nach Entscheidung Christian, weil der Vault bei OWMH und SHC die Booklet-Angabe „Dialogbuch“/„Buch“ als Autorschaft führt ([[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 7]]).
 - **Sprecher (Auswahl):** Sherlock Holmes – Charles Rettinghaus, Dr. John Watson – Florian Halm, Oscar Wilde – Sascha Rotermund. Rollen laut Fandom-Besetzungstabelle des Zweiteilers (für die Rollen Einzelquelle; deckt sich mit den Stammsprechern der Fanseiten-Figurenseiten); alle drei Namen auch im DNB-Katalogsatz dieser Episode (Digitalausgabe, nur drei Namen), Sherlock Holmes – Charles Rettinghaus zusätzlich im DNB-Satz der Doppel-CD. Fandom führt nur **eine** Tabelle für beide Teile; die übrigen Rollen sind deshalb keinem Teil sicher zuzuordnen und nicht ins Frontmatter übernommen: Noman Trent – Viktor Neumann; Josef Ullmann – Michael Pan; Lord Earing – Klaus Dittmann; Atkins, der Butler – Robin Brosch; Thaddeus Barrows – Gerald Paradies; Inspektor Masterson – Jaron Löwenberg; Arthur Wesrcott – Tim Knauer; Pandora – Djuwita Müller; Mann – Patrick Holtheuer. Rollennamen in der Schreibweise des Fandom-Wikis.
 - **Ermittler der Folge:** Sherlock Holmes.
 - **Wiederveröffentlichung:** als [[wiki/serien/sherlock-holmes|Aus den Archiven von Sherlock Holmes]] Folge **6**.

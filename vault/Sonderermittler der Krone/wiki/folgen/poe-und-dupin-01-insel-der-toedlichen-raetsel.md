@@ -23,12 +23,12 @@ quellen:
   - raw/maritim/2026-10-12_audible-holyshop-rautemedia_erscheinungsdaten-abgleich.md
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
-  - erstauftritt-gaston-morell
+  - erstauftritt-gaston-morel
 ---
 
 # Insel der tödlichen Rätsel
 
-> **Folge 1** der Serie [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]]. Erstauftritt von [[wiki/figuren/gaston-morell|Gaston Morell]].
+> **Folge 1** der Serie [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]]. Erstauftritt von [[wiki/figuren/gaston-morel|Gaston Morel]].
 
 ## Übersicht
 
@@ -45,7 +45,7 @@ tags:
 
 - [[wiki/figuren/edgar-allan-poe|Edgar Allan Poe]]
 - [[wiki/figuren/auguste-dupin|Auguste Dupin]]
-- [[wiki/figuren/gaston-morell|Gaston Morell]] (Erstauftritt)
+- [[wiki/figuren/gaston-morel|Gaston Morel]] (Erstauftritt)
 
 ## Quellen
 

@@ -121,7 +121,7 @@ tags:
 
 | Folge / Serie | Art des Anschlusses | Notiz |
 |---|---|---|
-| [[wiki/serien/sherlock-holmes\|Sherlock Holmes – Sonderermittler der Krone]] | direkte Figurenpräsenz | In [[wiki/folgen/sherlock-holmes-06-das-geheimnis-des-earls\|SH 6]], [[wiki/folgen/sherlock-holmes-08-die-sieben-leben-des-carter-roth\|SH 8]] und [[wiki/folgen/sherlock-holmes-12-takt-des-schicksals\|SH 12]] ist Irene Adler auf offizieller Figurenebene belegt. |
+| [[wiki/serien/sherlock-holmes\|Sherlock Holmes – Sonderermittler der Krone]] | direkte Figurenpräsenz | In [[wiki/folgen/sherlock-holmes-06-das-geheimnis-des-earls\|SH 6]] und [[wiki/folgen/sherlock-holmes-12-takt-des-schicksals\|SH 12]] ist Irene Adler auf offizieller Figurenebene belegt (SH 8 seit 13.10.2026 nicht mehr: Figurenliste von SH 6 kopiert). |
 | [[wiki/serien/oscar-wilde-und-irene-adler\|Oscar Wilde & Irene Adler]] | direkte Blitz-Fortführung | Die vierteilige Blitz-Mini-Serie verdichtet die bereits laufende Wilde/Adler-Achse zu einer eigenen Crossover-Linie. |
 | [[wiki/serien/tesla\|Tesla]] | später Serienanschluss | Die offizielle Tesla-Lage führt Irene Adler in mehreren Folgen als Figur und bindet sie damit auch an Moriarty-, Crowley- und Robur-Stränge. |
 | [[wiki/serien/wilde-mycroft-ungeloeste\|Wilde/Mycroft ungelöste Fälle]] | später Wilde-Nebenstrang | [[wiki/folgen/wilde-mycroft-ungeloeste-02-die-todesblume\|WMU 2]] listet Irene Adler offiziell als Figur. |

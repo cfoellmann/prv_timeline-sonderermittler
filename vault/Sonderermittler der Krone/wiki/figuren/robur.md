@@ -70,7 +70,7 @@ Alle 30 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 | [[wiki/folgen/moriarty-18-fluesterndes-eis\|MOR 18 — Flüsterndes Eis]] (11.04.2025) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/frankenstein-19-der-weg-der-schlange\|FRANK 19 — Der Weg der Schlange]] (23.05.2025) | auf der Suche nach Frankenstein |
 | [[wiki/folgen/frankenstein-20-ewiges-leid\|FRANK 20 — Ewiges Leid]] (25.07.2025) | will Frankensteins Pläne vereiteln |
-| [[wiki/folgen/moriarty-20-doppelter-verrat\|MOR 20 — Doppelter Verrat]] (29.08.2025) | ist auf der offiziellen Seite als Figur gelistet |
+| [[wiki/folgen/moriarty-20-doppelter-verrat\|MOR 20 — Doppelter Verrat]] (15.08.2025) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/tesla-07-ein-uraltes-raetsel\|TES 7 — Ein uraltes Rätsel]] (30.01.2026) | bereitet in London Teslas Rückkehr mit vor |
 | [[wiki/folgen/tesla-08-koenig-der-luefte\|TES 8 — König der Lüfte]] (27.03.2026) | bereitet mit Killjoy den großen Blackout vor |
 | [[wiki/folgen/frankenstein-25-truegerische-hoffnung\|FRANK 25 — Trügerische Hoffnung]] (22.05.2026) | offiziell gelistet |

@@ -71,8 +71,8 @@ Alle 53 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 | [[wiki/folgen/frankenstein-18-gott-der-medizin\|FRANK 18 — Gott der Medizin]] (21.03.2025) | Auftraggeber |
 | [[wiki/folgen/moriarty-18-fluesterndes-eis\|MOR 18 — Flüsterndes Eis]] (11.04.2025) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/tesla-03-gefangen-in-cedric-manor\|TES 3 — Gefangen in Cedric Manor]] (25.04.2025) | schickt Tesla auf die Mission und vergibt parallel einen zweiten Auftrag |
-| [[wiki/folgen/moriarty-19-auf-blutiger-spur\|MOR 19 — Auf blutiger Spur]] (27.06.2025) | ist auf der offiziellen Seite als Figur gelistet |
-| [[wiki/folgen/moriarty-20-doppelter-verrat\|MOR 20 — Doppelter Verrat]] (29.08.2025) | ist auf der offiziellen Seite als Figur gelistet |
+| [[wiki/folgen/moriarty-19-auf-blutiger-spur\|MOR 19 — Auf blutiger Spur]] (13.06.2025) | ist auf der offiziellen Seite als Figur gelistet |
+| [[wiki/folgen/moriarty-20-doppelter-verrat\|MOR 20 — Doppelter Verrat]] (15.08.2025) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/frankenstein-21-der-faden-des-lebens\|FRANK 21 — Der Faden des Lebens]] (26.09.2025) | im Hintergrund aktiv |
 | [[wiki/folgen/tesla-05-zweite-haut\|TES 5 — Zweite Haut]] (26.09.2025) | bleibt der Massstab, an dem Tesla seine Entscheidungen ausrichtet |
 | [[wiki/folgen/moriarty-21-unter-strom\|MOR 21 — Unter Strom]] (03.10.2025) | ist auf der offiziellen Seite als Figur gelistet |

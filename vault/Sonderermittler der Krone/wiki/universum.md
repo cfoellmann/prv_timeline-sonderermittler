@@ -96,7 +96,7 @@ Folgen-Seiten dokumentieren standardmäßig die **Spoiler-Stufe „grob"**: Eckd
 > Eigene Seiten folgen pro Figur. Diese Liste wird mit jedem Folgen-Ingest gepflegt.
 
 - **Helden:** [[wiki/figuren/oscar-wilde|Oscar Wilde]], [[wiki/figuren/mycroft-holmes|Mycroft Holmes]], [[wiki/figuren/sherlock-holmes|Sherlock Holmes]], [[wiki/figuren/irene-adler|Irene Adler]], Auguste Dupin, [[wiki/figuren/edgar-allan-poe|Edgar Allan Poe]], [[wiki/figuren/phileas-fogg|Phileas Fogg]], [[wiki/figuren/nikola-tesla|Nikola Tesla]], [[wiki/figuren/kapitaen-nemo|Kapitän Nemo]].
-- **Gegner / [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]]:** [[wiki/figuren/dracula|Dracula]] (Anführer), [[wiki/figuren/victor-frankenstein|Victor Frankenstein]], [[wiki/figuren/robur|Robur]], der Maharadscha, Rasputin, Aleister Crowley, Gaston Morell. Komplett ab EAPAD 13 „Aufnahmeprüfung".
+- **Gegner / [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]]:** [[wiki/figuren/dracula|Dracula]] (Anführer), [[wiki/figuren/victor-frankenstein|Victor Frankenstein]], [[wiki/figuren/robur|Robur]], der Maharadscha, Rasputin, Aleister Crowley, Gaston Morel. Komplett ab EAPAD 13 „Aufnahmeprüfung".
 - **Verbündete des Zirkels (nicht Mitglied):** Dr. Alfons Grell, Theodora Sachs, Paul Hiller.
 - **Wurzel-Organisation:** [[wiki/konzepte/charles-darwin-gesellschaft|Charles Darwin Gesellschaft]] — die Vorgänger-Organisation des Zirkels, weiter aktiv.
 

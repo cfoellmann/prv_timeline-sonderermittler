@@ -3,7 +3,7 @@ type: folge
 serie: moriarty
 nummer: 19
 titel: Auf blutiger Spur
-erschienen: 2025-06-27
+erschienen: 2025-06-13
 verlag: Maritim
 autor: "Marc Freund"
 sprecher:
@@ -36,7 +36,7 @@ tags:
 
 ## Eckdaten
 
-- **Erscheinungsdatum:** 27.06.2025.
+- **Erscheinungsdatum:** 13.06.2025 — Apple Books, Apple Music, Deezer, Audible und CD bei Raute Media übereinstimmend. HolyShop nennt 27.06.2025, den der Vault bis 13.10.2026 führte (korrigiert nach Entscheidung Christian, [[wiki/queries/lint-2026-10-12|Lint 2026-10-12, Nachtrag 7]]; gleiches Muster wie SH 16).
 - **Spielzeit:** 70 Minuten.
 - **Verlag:** Maritim.
 - **Autor:** Marc Freund (DNB-Digitalausgabe und Apple Books; unabhängig bestätigt durch Raute Media, CD-Feld „Künstler“; nachgetragen 13.10.2026).
@@ -70,4 +70,4 @@ Nur mit knapper Not entkommt James Moriarty einem sinkenden Schiff, nur um gleic
 - Offizielle Folgenseite: <https://www.sonderermittler-der-krone.de/serien/moriarty/folge19-auf-blutiger-spur/>
 - HolyShop-Produktseite (Datumsbeleg): <https://shop.holysoft.de/produkte/moriarty-19-auf-blutiger-spur-5195/>
 - [raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md](../../raw/maritim/2026-10-12_dnb-rautemedia-fandom-audible-hoerspieltalk_mor-frank-besetzung.md) — Besetzung MOR 0–27 und FRANK 1–27 (DNB, Raute Media, Fandom, Audible, Hörspieltalk, Fanseiten-Figurenseiten; 12.10.2026).
-- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix (13.10.2026).
+- [raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md](../../raw/maritim/2026-10-13_dnb-rautemedia-applebooks-fanseite_autor-datum-altfaelle.md) — Autorschaft: DNB, Raute Media, Apple Books, Audiolibrix; Erscheinungsdatum (Abschnitt 12: Raute-CD, Apple Books, Deezer gegen HolyShop) (13.10.2026).

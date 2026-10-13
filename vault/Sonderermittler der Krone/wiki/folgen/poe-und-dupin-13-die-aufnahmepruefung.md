@@ -26,13 +26,13 @@ quellen:
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
   - zirkel-der-sieben
-  - gaston-morell
+  - gaston-morel
   - attentat
 ---
 
 # Die Aufnahmeprüfung
 
-> **Folge 13** der Serie [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]]. **Wichtige Zirkel-Episode:** [[wiki/figuren/gaston-morell|Gaston Morell]] wird als 7. Mitglied in den [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] aufgenommen.
+> **Folge 13** der Serie [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]]. **Wichtige Zirkel-Episode:** [[wiki/figuren/gaston-morel|Gaston Morel]] wird als 7. Mitglied in den [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] aufgenommen.
 
 ## Übersicht
 
@@ -45,7 +45,7 @@ tags:
 - **Autor:in:** Markus Duschek (Einzelquelle Apple Books, Abruf 2026-09-06 — von der offiziellen Folgenseite nicht bestätigt).
 - **Sprecher (Auswahl):** Erzähler – Douglas Welbat, Edgar Allan Poe – Uve Teschner, Auguste Dupin – Manfred Lehmann. Erzähler laut Serienseite der Fanseite. *Übrige Rollenzuordnung abgeleitet, keine Rollenliste des Verlags:* Figur in der Figurenliste der Fanseite, Stammsprecher laut Fanseiten-Figurenseite, Sprecher:in in der Besetzungsliste der Folge. Vollständige Liste ohne Rollen: Douglas Welbat, Manfred Lehmann, Uve Teschner, Joachim Tennstedt, Helmut Gauß, Markus Pfeiffer, Torsten Michaelis, Wolfgang Condrus, Jens Wendland, Torsten Münchow, Lutz Mackensy (Raute Media, CD; Audible).
 - **Verlag:** Maritim
-- **Zirkel-Bezug:** Direkt – Gaston Morell wird 7. Mitglied des Zirkels der Sieben
+- **Zirkel-Bezug:** Direkt – Gaston Morel wird 7. Mitglied des Zirkels der Sieben
 
 ## Handlung
 
@@ -55,7 +55,7 @@ Edgar Allan Poe wird von düsteren Alpträumen heimgesucht, die drohendes Unheil
 
 - [[wiki/figuren/edgar-allan-poe|Edgar Allan Poe]]
 - [[wiki/figuren/auguste-dupin|Auguste Dupin]]
-- [[wiki/figuren/gaston-morell|Gaston Morell]] (Aufnahme in den Zirkel)
+- [[wiki/figuren/gaston-morel|Gaston Morel]] (Aufnahme in den Zirkel)
 
 ## Bedeutung für den Kosmos
 

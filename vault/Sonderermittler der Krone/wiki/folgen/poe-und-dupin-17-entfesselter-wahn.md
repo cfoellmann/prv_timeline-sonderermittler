@@ -24,13 +24,13 @@ quellen:
   - raw/maritim/2026-09-06_apple-books-itunes-api_autorinnen.md
   - raw/maritim/2026-10-12_fandom-audible-rautemedia-fanseite_iadk-eapad-besetzung.md
 tags:
-  - gaston-morell
+  - gaston-morel
   - massenvernichtungswaffe
 ---
 
 # Entfesselter Wahn
 
-> **Folge 17** der Serie [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]]. [[wiki/figuren/gaston-morell|Gaston Morel]] plant die Befreiung des wahnsinnigen Professor Deragon, um eine Massenvernichtungswaffe zu erschaffen.
+> **Folge 17** der Serie [[wiki/serien/poe-und-dupin|Edgar Allan Poe & Auguste Dupin]]. [[wiki/figuren/gaston-morel|Gaston Morel]] plant die Befreiung des wahnsinnigen Professor Deragon, um eine Massenvernichtungswaffe zu erschaffen.
 
 ## Übersicht
 
@@ -51,7 +51,7 @@ Noch ist der wahnsinnige Professor Deragon in einer abgelegenen Anstalt eingespe
 
 - [[wiki/figuren/edgar-allan-poe|Edgar Allan Poe]]
 - [[wiki/figuren/auguste-dupin|Auguste Dupin]]
-- [[wiki/figuren/gaston-morell|Gaston Morell]]
+- [[wiki/figuren/gaston-morel|Gaston Morel]]
 
 ## Quellen
 

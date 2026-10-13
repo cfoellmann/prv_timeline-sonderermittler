@@ -68,7 +68,7 @@ Drei neue Hauptserien, dazu drei Antagonisten-Spin-offs:
 | 2020 | „Aus den Archiven von Edgar Allan Poe & Auguste Dupin" (Re-Release) | Sub-Sektion von [[wiki/serien/poe-und-dupin]] |
 
 - **Schlüsselereignisse:**
-  - EAPAD 13 „Aufnahmeprüfung": Aufnahme von [[wiki/figuren/gaston-morell|Gaston Morell]] als 7. Zirkel-Mitglied — erst ab hier ist der Zirkel komplett.
+  - EAPAD 13 „Aufnahmeprüfung": Aufnahme von [[wiki/figuren/gaston-morel|Gaston Morel]] als 7. Zirkel-Mitglied — erst ab hier ist der Zirkel komplett.
   - Antagonisten erhalten eigene Serien, die ihre Werdegänge beleuchten.
 
 ## Phase 5 — ab 2021: Aktuelle Phase („nach dem Ende der Zeit")

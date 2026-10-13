@@ -41,7 +41,7 @@ Auguste Dupin ist eine literarische Figur aus Edgar Allan Poes Geschichten und g
 - **EAPAD 1 – Insel der tödlichen Rätsel** (13.07.2018) — Serienauftakt
 - **EAPAD 2 – Der Mann, der sich selbst entführte** — Zweite Folge
 - Weitere 32 Folgen der Hauptserie (derzeit im Repo nur teilweise dokumentiert)
-- **EAPAD 13 – Aufnahmeprüfung** — Wichtige Zirkel-Episode (Gaston Morell wird aufgenommen)
+- **EAPAD 13 – Aufnahmeprüfung** — Wichtige Zirkel-Episode (Gaston Morel wird aufgenommen)
 
 ### Re-Release: Aus den Archiven
 
@@ -96,7 +96,7 @@ Alle 36 Folgenseiten, die die Figur unter „Hauptfiguren“ führen, nach Ersch
 
 ## Bezug zum Zirkel der Sieben
 
-Laut Sekundärquellen spielt der [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] in der Poe & Dupin-Serie erst ab **Folge 13** eine wichtige Rolle. In dieser Episode wird [[wiki/figuren/gaston-morell|Gaston Morell]] als siebtes und letztes Mitglied in den Zirkel aufgenommen, womit die Organisation erst komplett wird.
+Laut Sekundärquellen spielt der [[wiki/konzepte/zirkel-der-sieben|Zirkel der Sieben]] in der Poe & Dupin-Serie erst ab **Folge 13** eine wichtige Rolle. In dieser Episode wird [[wiki/figuren/gaston-morel|Gaston Morel]] als siebtes und letztes Mitglied in den Zirkel aufgenommen, womit die Organisation erst komplett wird.
 
 ## Bedeutung im Kosmos
 
@@ -108,7 +108,7 @@ Dupin ist als Titelfigur einer der drei frühen Hauptserien (neben Oscar Wilde/M
 - **[[wiki/figuren/mycroft-holmes|Mycroft Holmes]]** — Auftraggeber der Krone
 - **[[wiki/figuren/irene-adler|Irene Adler]]** — Verbündete bei Crossover-Mission
 - **Passepartout** — Weitere Crossover-Verbindung in IADK 6
-- **[[wiki/figuren/gaston-morell|Gaston Morell]]** — Gegenspieler, Zirkel-Mitglied #7
+- **[[wiki/figuren/gaston-morel|Gaston Morel]]** — Gegenspieler, Zirkel-Mitglied #7
 
 ## Offene Fragen
 

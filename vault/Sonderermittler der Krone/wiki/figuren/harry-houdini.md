@@ -20,7 +20,7 @@ tags:
 
 ## Rolle im Kosmos
 
-Houdini ist eine Figur der [[wiki/serien/poe-und-dupin|Poe & Dupin]]-Linie mit ungewöhnlich zweideutiger Position. In [[wiki/folgen/poe-und-dupin-21-tod-eines-feindes|EAPAD 21]] gehört er zu den Kandidaten, mit denen [[wiki/figuren/dracula|Dracula]] den durch [[wiki/figuren/gaston-morell|Gaston Morells]] Tod frei gewordenen Zirkel-Posten füllen will — neben [[wiki/figuren/mata-hari|Mata Hari]] und Arsène Lupin. Im selben Block arbeitet er jedoch mit Dupin und Poe zusammen, um mehr über die Pläne des Zirkels zu erfahren.
+Houdini ist eine Figur der [[wiki/serien/poe-und-dupin|Poe & Dupin]]-Linie mit ungewöhnlich zweideutiger Position. In [[wiki/folgen/poe-und-dupin-21-tod-eines-feindes|EAPAD 21]] gehört er zu den Kandidaten, mit denen [[wiki/figuren/dracula|Dracula]] den durch [[wiki/figuren/gaston-morel|Gaston Morels]] Tod frei gewordenen Zirkel-Posten füllen will — neben [[wiki/figuren/mata-hari|Mata Hari]] und Arsène Lupin. Im selben Block arbeitet er jedoch mit Dupin und Poe zusammen, um mehr über die Pläne des Zirkels zu erfahren.
 
 **2026 steht er klar auf Ermittlerseite:** In [[wiki/folgen/poe-und-dupin-35-auf-der-jagd|EAPAD 35]] liefert er die entscheidende Spur.
 
@@ -43,7 +43,7 @@ Houdini ist eine Figur der [[wiki/serien/poe-und-dupin|Poe & Dupin]]-Linie mit u
 
 ## Bezug zum Zirkel der Sieben
 
-- **Ambivalent** — geprüfter Anwärter, aber im Repo nie als aufgenommenes Mitglied belegt. Der siebte Platz ging laut [[wiki/konzepte/zirkel-der-sieben|Zirkel-Konzeptseite]] ursprünglich an Gaston Morell; wer nach dessen Tod nachrückte, ist im Repo eine **offene Frage**.
+- **Ambivalent** — geprüfter Anwärter, aber im Repo nie als aufgenommenes Mitglied belegt. Der siebte Platz ging laut [[wiki/konzepte/zirkel-der-sieben|Zirkel-Konzeptseite]] ursprünglich an Gaston Morel; wer nach dessen Tod nachrückte, ist im Repo eine **offene Frage**.
 
 ## Offene Fragen
 

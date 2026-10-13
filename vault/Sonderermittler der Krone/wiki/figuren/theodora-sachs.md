@@ -89,12 +89,12 @@ Alle 89 Folgenseiten, die die Figur unter „Hauptfiguren“ (WPO 3–4: „Anta
 | [[wiki/folgen/frankenstein-19-der-weg-der-schlange\|FRANK 19 — Der Weg der Schlange]] (23.05.2025) | begleitet Frankenstein |
 | [[wiki/folgen/irene-adler-27-im-feuer-des-zorns\|IADK 27 — Im Feuer des Zorns]] (23.05.2025) | ist auf der offiziellen Folgen-Seite als Figur gelistet |
 | [[wiki/folgen/sherlock-holmes-15-herz-aus-stein\|SH 15 — Herz aus Stein]] (30.05.2025) | ist auf der offiziellen Seite als Figur gelistet |
-| [[wiki/folgen/moriarty-19-auf-blutiger-spur\|MOR 19 — Auf blutiger Spur]] (27.06.2025) | ist auf der offiziellen Seite als Figur gelistet |
+| [[wiki/folgen/moriarty-19-auf-blutiger-spur\|MOR 19 — Auf blutiger Spur]] (13.06.2025) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/tesla-04-im-spannungsfeld\|TES 4 — Im Spannungsfeld]] (27.06.2025) | flieht gemeinsam mit Tesla |
 | [[wiki/folgen/frankenstein-20-ewiges-leid\|FRANK 20 — Ewiges Leid]] (25.07.2025) | gefangen in der Geheimgesellschaft |
 | [[wiki/folgen/sherlock-holmes-16-polarlichter\|SH 16 — Polarlichter]] (25.07.2025) | ist auf der offiziellen Seite als Figur gelistet |
+| [[wiki/folgen/moriarty-20-doppelter-verrat\|MOR 20 — Doppelter Verrat]] (15.08.2025) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/irene-adler-28-schall-und-rausch\|IADK 28 — Schall und Rausch]] (29.08.2025) | ist auf der offiziellen Folgen-Seite als Figur gelistet |
-| [[wiki/folgen/moriarty-20-doppelter-verrat\|MOR 20 — Doppelter Verrat]] (29.08.2025) | ist auf der offiziellen Seite als Figur gelistet |
 | [[wiki/folgen/frankenstein-21-der-faden-des-lebens\|FRANK 21 — Der Faden des Lebens]] (26.09.2025) | Frankensteins Assistentin |
 | [[wiki/folgen/tesla-05-zweite-haut\|TES 5 — Zweite Haut]] (26.09.2025) | begleitet Tesla nach New Orleans |
 | [[wiki/folgen/moriarty-21-unter-strom\|MOR 21 — Unter Strom]] (03.10.2025) | ist auf der offiziellen Seite als Figur gelistet |
