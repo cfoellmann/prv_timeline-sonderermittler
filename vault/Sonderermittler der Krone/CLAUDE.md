@@ -122,7 +122,7 @@ Bis zum 17.08.2026 wurden auf Folgen-Seiten `true`/`false` **und** die vierstufi
 - `seite_ermittler` — für wen sie arbeitet, z. B. `krone`, `zirkel`, `ambivalent`.
 
 > [!caution] Die Wertelisten sind derzeit **nicht** normiert.
-> Im Bestand stehen für `fraktion` parallel `held`, `helden`, `heldin`, `held-umfeld`, `held-strippen`, `antagonist`, `antagonistisch`, `verraeter`, `ambivalent` und `zirkel-umfeld` — also Singular/Plural-Dubletten und mindestens ein Tippfehler (`held-strippen`). Solange das nicht vereinheitlicht ist, taugen die Felder nicht zum Filtern. Vereinheitlichung ist eine inhaltliche Entscheidung und steht offen (siehe Lint 2026-08-17).
+> Im Bestand stehen für `fraktion` parallel `held`, `helden`, `heldin`, `held-umfeld`, `held-strippen`, `antagonist`, `antagonistisch`, `ambivalent` und `zirkel-umfeld` (der frühere Wert `verraeter` ist seit dem 13.10.2026 entfernt, weil er als sichtbare Property spoilert) — also Singular/Plural-Dubletten und mindestens ein Tippfehler (`held-strippen`). Solange das nicht vereinheitlicht ist, taugen die Felder nicht zum Filtern. Vereinheitlichung ist eine inhaltliche Entscheidung und steht offen (siehe Lint 2026-08-17).
 
 ---
 
